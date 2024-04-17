@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<section class="list-page-container">
+    <h2 class="list-page-title">{{ .Title | singularize }}</h2>
+    {{ $paginator := .Paginate ( .Pages.ByPublishDate.Reverse ) }}
+
+    {{ range $paginator.Pages }}
+    <div class="list-item">
+        <time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ .Summary }}
+
+        {{ if .Params.tags }}
+        <ul class="tags">
+            {{ range .Params.tags }}
+                <li class="tag tag-{{ . }}"><a href="{{ "tags/" | absLangURL }}{{ . | urlize}}">#{{ . }}</a></li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </div>
+    {{ end }}
+
+    {{ template "_internal/pagination.html" . }}
+</section>
+{{ end }}

@@ -1,0 +1,332 @@
+@import "reset.scss";
+
+$dark-background-color: rgb(39, 41, 53);
+$dark-text-color: rgb(248, 248, 242);
+$dark-link-color: rgb(255, 184, 108);
+$dark-strong-color: rgb(212, 253, 176);
+$dark-sub-title-color: rgb(243, 216, 60);
+$dark-darker-bg-color: rgba(0, 0, 0, 0.123);
+$dark-link-text-shadow: 0 0 5px rgba(255, 184, 108, 0.7);
+$dark-strong-text-shadow: 0 0 5px rgba(174, 255, 108, 0.7);
+$dark-separator: 2px dotted rgb(76, 80, 103);
+$dark-photo-border: 3px solid rgb(76, 80, 103);
+
+$font-size-h1: 2.986rem;
+$font-size-h2: 2.488rem;
+$font-size-h3: 2.074rem;
+$font-size-h4: 1.728rem;
+$font-size-h5: 1.44rem;
+$font-size-h6: 1.26rem;
+$font-size-normal: 1rem;
+$font-size-small: 0.833rem;
+
+
+:root {
+    --background-color: #{$dark-background-color};
+    --text-color: #{$dark-text-color};
+    --link-color: #{$dark-link-color};
+    --sub-title-color: #{$dark-sub-title-color};
+    --strong-color: #{$dark-strong-color};
+    --darker-bg-color: #{$dark-darker-bg-color};
+    --link-text-shadow: #{$dark-link-text-shadow};
+    --strong-text-shadow: #{$dark-strong-text-shadow};
+    --separator: #{$dark-separator};
+    --photo-border: #{$dark-photo-border};
+    --font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --content-max-width: 1200px;
+}
+
+body {
+    font-family: var(--font-family);
+    background-color: var(--background-color);
+    color: var(--text-color);
+    display: flex;
+    justify-content: center;
+    line-height: 2rem;
+}
+
+a {
+    color: var(--link-color);
+}
+
+a:hover, a:focus {
+    text-shadow: var(--link-text-shadow);
+}
+
+h2 {
+    font-size: $font-size-h4;
+    padding-bottom: 1srem;
+    line-height: 3rem;
+
+    & + * {
+        padding-top: 1rem;
+    }
+}
+
+h3 {
+    display: inline-block;
+    font-size: $font-size-h4;
+    & + * {
+        padding-top: 1rem;
+    }
+
+    &:not(:has(> a)) {
+        color: var(--sub-title-color);
+    }
+}
+
+h4 {
+    font-size: $font-size-h5;
+}
+
+strong {
+    color: var(--strong-color);
+    text-shadow: var(--strong-text-shadow);
+}
+
+pre {
+    background-color: var(--darker-bg-color);
+    padding: 0.5rem;
+    border-radius: 10px;
+    
+    code {
+        white-space: pre;
+    }
+
+    & + * {
+        padding-top: 1rem;
+    }
+}
+
+sup {
+    vertical-align: super;
+    font-size: $font-size-small;
+    a {
+        text-decoration: none;
+    }
+}
+
+ol, ul {
+    list-style-type: square;
+    padding-left: 2rem;
+    padding-top: 1rem;
+
+    & + * {
+        padding-top: 1rem;
+    }
+
+    ul, ol {
+        padding-top: 0;
+    }
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 3rem;
+}
+
+.body-container {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    min-height: 100vh;
+    width: var(--content-max-width);
+}
+
+
+.page-header {
+    display: flex;
+    align-items: baseline;
+}
+
+.page-header-title {
+    flex: auto;
+    font-size: $font-size-h1;
+    align-items: center;
+    a {
+        display: flex;
+        gap: 1rem;
+        align-items: baseline;
+        text-decoration: none;
+        color: var(--text-color);
+    }
+}
+
+.page-header-logo {
+    height: $font-size-h1;
+    padding-right: 1rem;
+    border-right: 1px solid var(--text-color);
+}
+
+.top-navigation {
+    display: flex;
+    gap: 2rem;
+    a {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+
+    }
+}
+.top-navigation-icon {
+    width: 1rem;
+    height: 1rem;
+    vertical-align: middle;
+}
+
+.main-navigation {
+    display: flex;
+    gap: 2rem;
+    font-size: $font-size-h5;
+    padding-top: 2rem;
+    justify-content: center;
+    padding-bottom: 1rem;
+    border-bottom: var(--separator);
+}
+
+.content-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    p + p {
+        padding-top: 1rem;
+    }
+}
+
+.single-page-container, .list-page-container {
+    * + h2 {
+        padding-top: 2rem;
+    }
+    * + h3 {
+        padding-top: 1.5rem;
+    }
+}
+
+.single-page-title, .list-page-title {
+    text-align: center;
+    font-size: $font-size-h2;
+    font-weight: bold;
+}
+
+.page-type-blogi {
+    max-width: 900px;
+    
+    .post-image {
+        padding: 2rem;
+       
+        img {
+            border-radius: 10px;
+            max-width: 100%;
+        }
+        figcaption {
+            background: #0000003f;
+            padding: 1rem;
+            border-radius: 10px;
+        }
+    }
+
+    time {
+        display: block;
+        font-size: $font-size-h6;
+        text-align: center;
+        padding-bottom: 1rem;
+    }
+}
+
+.single-page-nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "prev next";
+    padding-top: 3rem;
+
+    .title {
+        font-weight: bold;
+    }
+
+    .prev {
+        grid-area: prev;
+    }
+
+    .next {
+        grid-area: next;
+        text-align: right;
+    }
+}
+
+.footnotes {
+    font-size: $font-size-small;
+}
+
+
+.list-item {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    border-bottom: var(--separator);
+
+    h3 {
+        padding-top: 0;
+    }
+
+    time {
+        display: block;
+    }
+
+    .tags {
+        display: flex;
+        gap: 1rem;
+        padding: 0;
+        padding-top: 1rem;
+    }
+    .tag {
+        display: block;
+        padding: 0rem 0.8rem;
+        background: var(--darker-bg-color);
+        border-radius: 10px;
+        font-size: $font-size-small
+    }
+
+    &:last-of-type {
+        border-bottom: none;
+    }
+}
+
+.pagination {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    padding-top: 2rem;
+
+    .page-item {
+        display: block;
+
+        &.active, &.disabled {
+            a {
+                color: var(--text-color);
+            }
+        }
+    }
+}
+
+.footer {
+    padding-top: 2rem;
+    border-top: var(--separator);
+    text-align: center;
+}
+
+@media only screen and (max-width: 640px) {
+    .top-navigation {
+        .link-text {
+            display: none;
+        }
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .page-header-title {
+        .page-header-logo {
+            height: $font-size-h3;
+        }
+        .link-text {
+            font-size: $font-size-h3;
+        }
+    }
+}

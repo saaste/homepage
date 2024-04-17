@@ -1,0 +1,34 @@
+{{ define "main" }}
+<section class="single-page-container page-type-{{ .Type }}">
+    
+    <h2 class="single-page-title">{{ .Title }}</h2>
+
+    {{ if eq .Type "blogi" }}
+    <time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
+    {{ end}}
+
+    {{ .Content }}
+
+
+    {{ if eq .Type "blogi" }}
+    {{ if (or .NextInSection .PrevInSection) }}
+    <div class="single-page-nav">
+        {{ with .PrevInSection }}
+        <a href="{{ .RelPermalink }}" class="prev">
+            <span class="title">« Edellinen</span><br>
+            {{ .Title }}
+        </a>
+        {{ end }}
+
+        {{ with .NextInSection }}
+        <a href="{{ .RelPermalink }}" class="next">
+            <span class="title">Seuraava »</span><br>
+            {{ .Title }}</a>
+        {{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+
+
+</section>
+{{ end }}

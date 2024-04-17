@@ -1,0 +1,35 @@
+<header>
+    <div class="page-header">
+        <h1 class="page-header-title">
+            <a href="{{ .Site.BaseURL }}">
+                <img src="{{ .Site.BaseURL }}/images/logo-128.png" alt="Vektorikuva kuolleesta puun silhuetista" class="page-header-logo">
+                <span class="link-text">{{ .Site.Title }}</span>
+            </a>
+        </h1>
+        <nav class="top-navigation">
+            {{ range .Site.Menus.top }}
+            {{ if strings.HasPrefix .URL "http" }}
+            <a href="{{ .URL }}" target="_blank" rel="noopener">
+            {{ else }}
+            <a href="{{ .URL }}">
+            {{ end }}
+                {{ with .Pre }}
+                {{ . }}
+                {{ end }}
+                <span class="link-text">{{ .Name | safeHTML }}</span>
+            </a>
+        {{ end }}
+        </nav>
+    </div>
+    <nav class="main-navigation">
+        {{ range .Site.Menus.main }}
+            {{ if strings.HasPrefix .URL "http" }}
+            <a href="{{ .URL }}" target="_blank" rel="noopener">
+            {{ else }}
+            <a href="{{ .URL }}">
+            {{ end }}
+                {{ .Name | safeHTML  }}
+            </a>
+        {{ end }}
+    </nav>
+</header>

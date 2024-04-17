@@ -1,0 +1,48 @@
+baseURL: "https://saaste.net/"
+defaultContentLanguage: fi
+title: "saaste.net"
+theme: "saaste"
+paginate: 10
+enableRobotsTXT: true
+pluralizelisttitles: false
+
+languages:
+  fi:
+    languageCode: fi
+    languageDirection: ltr
+
+menus:
+    main:
+      - name: "tietoa"
+        url: "/tietoa/"
+        weight: 1
+      - name: "blogi"
+        url: "/blogi/"
+        weight: 2
+      - name: "nyt"
+        url: "/nyt/"
+        weight: 3
+      - name: "muuta"
+        url: "/muuta/"
+        weight: 4
+
+    top:
+      - name: "Mastodon"
+        url: "https://mementomori.social/@saaste"
+        weight: 1
+        pre: '<img src="/images/mastodon.svg" class="top-navigation-icon" alt="Mastodon icon">'
+      - name: "Tilaa"
+        url: "/tilaa"
+        weight: 2
+        pre: '<img src="/images/feed.png" class="top-navigation-icon" alt="Feed icon">'
+
+taxonomies:
+    categories: "categories"
+    tags: "tags"
+    custom: "custom"
+
+caches:
+  getresource:
+    getresource:
+        dir: ":cacheDir/:project"
+        maxAge: "1m"
