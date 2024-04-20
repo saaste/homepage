@@ -15,7 +15,6 @@ title: "Juuri nyt"
 - [Tiina Raevaara - Uinuva solu](https://like.fi/kirjat/uinuva-solu/)
 
 ### Juokseminen
-- [Helsinki Night Trail](https://www.helsinkinighttrail.fi/)
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
 
 ### Matkat

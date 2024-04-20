@@ -7,6 +7,7 @@ title: "Kaikkea muuta"
 - [Linkit](https://links.saaste.net)
 - [Kokoelmat]({{< ref "/kokoelmat" >}})
 - [Mitä käytän]({{< ref "/mita-kaytan" >}})
+- [Juokseminen]({{< ref "/juokseminen" >}})
 - [Muutosloki]({{< ref "/muutosloki" >}})
 
 
