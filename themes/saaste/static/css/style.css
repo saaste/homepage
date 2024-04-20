@@ -252,7 +252,21 @@ ol {
   display: block;
   font-size: 1.26rem;
   text-align: center;
-  padding-bottom: 1rem;
+  padding-bottom: 0.5rem;
+}
+.page-type-blogi .tags {
+  display: flex;
+  gap: 1rem;
+  padding: 0;
+  padding-top: 1rem;
+  justify-content: center;
+}
+.page-type-blogi .tag {
+  display: block;
+  padding: 0rem 0.8rem;
+  background: var(--darker-bg-color);
+  border-radius: 10px;
+  font-size: 0.833rem;
 }
 
 .single-page-nav {

@@ -228,7 +228,22 @@ ol {
         display: block;
         font-size: $font-size-h6;
         text-align: center;
-        padding-bottom: 1rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .tags {
+        display: flex;
+        gap: 1rem;
+        padding: 0;
+        padding-top: 1rem;
+        justify-content: center;
+    }
+    .tag {
+        display: block;
+        padding: 0rem 0.8rem;
+        background: var(--darker-bg-color);
+        border-radius: 10px;
+        font-size: $font-size-small
     }
 }
 

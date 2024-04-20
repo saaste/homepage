@@ -11,6 +11,13 @@
 
 
     {{ if eq .Type "blogi" }}
+    {{ with .Params.tags }}
+    <ul class="tags">
+        {{ range . }}
+            <li class="tag tag-{{ . }}"><a href="{{ "tags/" | absLangURL }}{{ . | urlize}}">#{{ . }}</a></li>
+        {{ end }}
+    </ul>
+    {{ end }}
     {{ if (or .NextInSection .PrevInSection) }}
     <div class="single-page-nav">
         {{ with .PrevInSection }}
