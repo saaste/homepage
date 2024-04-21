@@ -8,8 +8,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
-images:
-    - kirjoitukset/aaniherkkyys/cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Otsalampun valaisema kapea metsäpolku. Polku on lumessa ja taivaalta sataa lisää lunta. Edessä juoksee juoksija mustassa juoksuasussa.
 ---
 
 Kaverini muutti jokin aika sitten kaupungista toiseen. Uutta kotia etsiessä, hän totesi jotenkin tähän tyyliin: "Pitää hommata auto ja löytää asunto." Pidin erikoisena, että auton hankkiminen oli jokinlainen lähtökohta muutolle.

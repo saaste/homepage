@@ -10,8 +10,10 @@ categories:
 tags:
     - hyvinvointi
     - matkustaminen
-images:
-    - ilmakuva.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Ilmakuva Nusa Lembonganin rannasta. Vasemmalla näkyy kirkas meri ja oikealla vehreyden ja palmujen keskelle rakennettua asutusta. Teitä näkyy hyvin vähän tai ne ovat kapeita polkuja.
 ---
 
 Melusaaste on siitä erikoinen saasteen muoto, että se vaikuttaa isoon osaan ihmisiä, lähes kaikki haluaisivat elää ilman sitä, mutta harva asettuu sitä vastaan - etenkään jos voi itse hyötyä meluamisen tuloksista. Jostain syystä melusaaste normalisoidaan todella nopeasti ja siihen koetetaan vaan tottua. Kuvitelkaa jos ilmansaasteisiin suhtauduttaisiin samalla tavalla. 
@@ -22,7 +24,7 @@ Noh, paikoitellenhan niihin suhtaudutaankin, etenkin jos niiden aiheuttaja on sa
 
 Olen ollut muutaman päivän Nusa Lembonganilla. Tämä on pieni saari, joka on alun perin elänyt merilevän kasvatuksesta, mutta nykyisin turismi ottaa koko ajan suurempaa roolia. Mielenkiintoisen saaresta tekee se, ettei täällä ole juuri minkäänlaista tavallisen asutun ympäristön perusinfraa. Täällä ei ole tietääkseni palokuntaa, poliisia, kouluja eikä täällä valmisteta juuri mitään. Käytännössä kaikki mitä täällä tarvitaan, tuodaan veneellä muualta, lähinnä Balilta. Sama toimii myös toisin päin. Koska täällä ei ole jätteiden käsittelyä, jätteet kuljetetaan veneellä täältä pois.
 
-![Ilmakuva Nusa Lembonganin rannasta. Vasemmalla näkyy kirkas meri ja oikealla vehreyden ja palmujen keskelle rakennettua asutusta. Teitä näkyy hyvin vähän tai ne ovat kapeita polkuja.](ilmakuva.jpg "Nusa Lembonganin asutus on vehreyden ja kirkkaan meriveren äärelle rakentunut. Talojen välissä kulkee kapeita polkuja, mutta leveitä teitä siellä on muutamaa pääkatua lukuun ottamatta todella vähän.")
+![Ilmakuva Nusa Lembonganin rannasta. Vasemmalla näkyy kirkas meri ja oikealla vehreyden ja palmujen keskelle rakennettua asutusta. Teitä näkyy hyvin vähän tai ne ovat kapeita polkuja.](cover.jpg "Nusa Lembonganin asutus on vehreyden ja kirkkaan meriveren äärelle rakentunut. Talojen välissä kulkee kapeita polkuja, mutta leveitä teitä siellä on muutamaa pääkatua lukuun ottamatta todella vähän.")
 
 Lähtökohdiltaan tämä saari voisi olla aistiherkän paratiisi, mutta todellisuudessa se ei ole sitä. Syy on sama kuin lähes aina: moottoriajoneuvot. Tänne on tuotu aivan järkyttävä määrä skoottereita sekä mopoja. Lisäksi täällä on jonkun verran autoja kulkemassa näitä kapeita, päällystämättömiä ja möykkyisiä teitä pitkin. Polttomoottorikulttuuriin liittyvä äänen voimakkuuden maksimointi on voimissaan myös täällä. Osa skoottereista on erikseen viritetty kovaäänisiksi erillisillä paukkuputkilla.
 

@@ -8,8 +8,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
-images:
-    - uima-allas.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Uima-allas ennen auringonnousua
 ---
 
 Kävin aamulla mielenkiintoisen keskustelun puolison kanssa unirytmeistä ja aamuvirkkuudesta. Aamu- ja iltavirkku ovat itselleni olleet vähän hämmentäviä termejä. Sanojen merkitys tuntuu riippuvan henkilöstä, joka niitä käyttää.
@@ -28,7 +30,7 @@ Toisaalta jouduin myös päättämään, että teen rauhoittavia asioita ennen s
 
 Halulla tarkoitan halua olla tietynlaisessa unirytmissä. Olen ollut eri elämäntilanteissa eri rytmeissä. Jos matkustan ulkomaille, haluan olla paikallisessa rytmissä. Edellisellä Indonesian matkalla se tarkoitti sitä, että jouduin siirtämään sekä nukahtamista että heräämistä noin kuudella tunnilla. Nykyisessä arjessa olen valinnut olla varhaisessa aamurytmissä. Pyrin menemään sänkyyn 21-22 ja heräämään 5:30. Syitä tähän on useita: haluan lopettaa työt valoisan aikaan, pyöräillä työmatkani tyhjillä teillä, käydä kuntosalilla kun se on tyhjä, tehdä töitä ennen palaverirumbaa ja käydä kaupoilla sekä muilla asioilla ennen ruuhkia. Minua motivoi oma rauha.
 
-![Uima-allas ennen auringonnousua](uima-allas.jpg "Lomalla kävin altaassa joka aamu ennen auringonnousua. Jos en ollut hereillä vielä sängystä noustessa, olin sitä yleensä hypätessäni altaaseen.")
+![Uima-allas ennen auringonnousua](cover.jpg "Lomalla kävin altaassa joka aamu ennen auringonnousua. Jos en ollut hereillä vielä sängystä noustessa, olin sitä yleensä hypätessäni altaaseen.")
 
 Puolisoni kadehtii minua välillä aamuvirkkuudestani, mutta sanon hänelle toistuvasti, etten minä ole luonnostani erityisen aamuvirkku. Olen herätessäni ihan yhtä tokkurassa, olipa kello mitä tahansa. Tokkuraisuuteen vaikuttaa ensisijaisesti unen määrä ja laatu, ei se mihin aikaan herääminen tapahtuu. Joka aamu tekisi mieli jäädä laiskottelemaan. Jos joudun heräämään pimeässä, olen aivan kuollut. Siksi hankin herätysvalon. Ei minua kiinnosta yhtään lähteä aamuisin polkemaan pimeään ja märkään ulkoilmaan. Teen niin silti, koska kiitän itseäni siitä myöhemmin.
 

@@ -1,14 +1,13 @@
 {{ define "main" }}
-<section class="single-page-container page-type-{{ .Type }}">
+<section class="single-page-container page-type-{{ .Type }}" data-pagefind-body>
     
-    <h2 class="single-page-title">{{ .Title }}</h2>
+    <h2 class="single-page-title" data-pagefind-meta="title">{{ .Title }}</h2>
 
     {{ if eq .Type "blogi" }}
     <time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
     {{ end}}
 
     {{ .Content }}
-
 
     {{ if eq .Type "blogi" }}
     {{ with .Params.tags }}
@@ -19,7 +18,7 @@
     </ul>
     {{ end }}
     {{ if (or .NextInSection .PrevInSection) }}
-    <div class="single-page-nav">
+    <div class="single-page-nav" data-pagefind-ignore>
         {{ with .PrevInSection }}
         <a href="{{ .RelPermalink }}" class="prev">
             <span class="title">« Edellinen</span><br>

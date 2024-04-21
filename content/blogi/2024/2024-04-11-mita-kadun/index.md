@@ -8,8 +8,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Mustavalkoinen muotokuva vanhasta kodittomasta miehestä, joka tuijottaa suoraan kameraan. Miehellä on pitkä vaalea parta ja hiukset.
 ---
 
 Kuuntelin eilen juoksulenkillä [Feel Better Live More](https://www.youtube.com/watch?v=QMdkgpCvZws) -podcastin jakson, jossa keskusteltiin Bronnie Waren kirjoittamasta [The Five Regrets of the Dying](https://bronnieware.com/regrets-of-the-dying/) -kirjasta. Jakso herätti paljon ajatuksia ja aloin miettiä, että mitä itse kadun elämässäni.

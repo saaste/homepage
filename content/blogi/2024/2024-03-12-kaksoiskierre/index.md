@@ -8,8 +8,10 @@ categories:
     - kirjat
 tags:
     - kirjat
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Kaksoiskierten kansi, jossa on silhuetti puiden edessä olevasta metalliaidasta. Niiden takana on abstrakti sinertävä kuvio, joka muistuttaa salamoita tai synapseja
 ---
 
 Lukemisen suomiteema jatkuu. Vuoden toinen suomalainen kirja on Tiina Raevaaran jännäri Kaksoiskierre. Tämäkin kirja päätyi luettavaksi Mastodon-suositusten kautta.

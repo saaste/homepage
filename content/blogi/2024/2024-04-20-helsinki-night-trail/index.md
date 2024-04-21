@@ -8,8 +8,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Otsalampun valaisema kapea metsäpolku. Polku on lumessa ja taivaalta sataa lisää lunta. Edessä juoksee juoksija mustassa juoksuasussa.
 ---
 
 Aivan liian pitkän tauon jälkeen olen saanut mukavalla tavalla kiinni juoksemisesta. Eilen osallistuin vuoden ensimmäiseen juoksutapahtumaan, Helsinki Night Trailiin.

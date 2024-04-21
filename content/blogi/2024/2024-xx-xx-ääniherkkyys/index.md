@@ -8,8 +8,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
-images:
-    - kirjoitukset/aaniherkkyys/cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Otsalampun valaisema kapea metsäpolku. Polku on lumessa ja taivaalta sataa lisää lunta. Edessä juoksee juoksija mustassa juoksuasussa.
 ---
 
 Olen pitänyt meteliä (eh...) ympäristöjen muuttumisesta yhä meluisammaksi. Olen kirjoitellut myös omasta ääniherkkyydestäni, mutta en ole koskaan avannut tarkemmin, että millaista elämä sen kanssa on ollut. Olen itsekin lähinnä reagoinut siihen, mutta nyt pysähdyin ihan ajatuksen kanssa miettimään, että mikä sen rooli on elämässäni.

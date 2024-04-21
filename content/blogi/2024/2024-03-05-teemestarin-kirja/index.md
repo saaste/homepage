@@ -8,8 +8,10 @@ categories:
     - kirjat
 tags:
     - kirjat
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Teemestarin kirjan kansi
 ---
 
 Tämän vuoden ensimmäiseksi oikeasti suomalaiseksi kirjaksi valikoitui Mastodon-suositusten perusteella Emmi Itärannan kirjoittama Teemestarin kirja.

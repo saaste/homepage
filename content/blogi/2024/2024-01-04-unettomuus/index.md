@@ -8,6 +8,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Sälekaihtimien läpi tulevan pihavalon valaisema sohva
 ---
 
 Kun on kokenut pahan unettomuuden, sitä oppii arvostamaan unta ihan uudella tavalla. Omalla kohdalla unettomuus jätti myös tosi ikäviä arpia, jotka eivät tunnu paranevan, vaikka vuodet vierivätkin eteenpäin.
@@ -31,6 +35,8 @@ Näin jälkeenpäin arvostan edelleen lääkärin tapaa hoitaa asia. Hän totesi
 Tämä naurettavan yksinkertaiselta tuntuva suunnitelma oli aluksi tosi kivulias, mutta se toimi. Kolmeen sääntöön liittyi tietysti myös muuta ohjeistusta, kuten se, että öisin ei saanut tehdä mitään virkistävää. Kun odottelin seuraavaa tasatuntia ja uutta yritystä, se tarkoitti käytännössä ikkunasta tuijottelua. Minun kuului olla tylsistynyt ja pitkästynyt.
 
 Alussa suunnitelman toteuttaminen tarkoitti sitä, että unen määrä tuntui vähenevän entisestään. Enää en voinut harrastaa pieniä torkkuja vaan minulle oli se tietty kellonaika kun nukkumista sai edes yrittää. Usein luovutin 2-3 yrityksen jälkeen.
+
+![Sälekaihtimien läpi tulevan pihavalon valaisema sohva](cover.jpg "Vietin useita öitä pimeässä kodissa, koska en halunnut piristää itseäni valolla. Omalla tavallaan siinä oli jotai kodikasta.")
 
 Pikkuhiljaa se kuitenkin alkoi tuottaa tulosta. Parin minuutin unet muuttuivat kymmeneksi minuutiksi, sitten puoleksi tunniksi ja kohta sain nukuttua kahden tunnin yhtäjaksoisia yöunia. Siitä ei mennyt pitkään kun nukuin täysiä yöunia ja olin päihittänyt mörköni.
 

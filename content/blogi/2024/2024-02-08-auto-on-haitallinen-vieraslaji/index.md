@@ -10,8 +10,10 @@ categories:
 tags:
     - ympäristö
     - matkustaminen
-images:
-    - auto.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Kapea katu, jossa kävelijä kulkee parkkeerattujen autojen ja suuren liikkuvan maasturin välissä
 ---
 
 Vietin pari päivää autossa kierrellen pientä saarta, jonka infrastruktuuria ei ole rakennettu autoille. Monesti matkan aikana huomasin, etten nauti kyydistä lainkaan. Aloin pohtia, että miksi niin oli.
@@ -46,7 +48,7 @@ Suomessa autojen näennäisestä kätevyydestä ja nopeudesta kuulee varsin usei
 
 Huomioimisen arvoista on myös se, että autojen vaatima infrastruktuuri ei usein ole yhteensopiva muiden kulkumuotojen kanssa. Autojen liikuttaminen ja seisottaminen vaatii hirvittävän määrän tilaa ja se tila on usein pois kaikilta muilta kulkumuodoilta. Autoille rakennettu infra on korvamerkitty vain niille sekä moottoripyörille. Kaikki muut kulkuväineet sysätään taistelemaan jäljelle jäävästä, kapeasta tilasta. Autokeskeinen suunnittelu ei ole pelkästään edistänyt autoilun kätevyyttä, vaan se on aktiivisesti tehnyt muiden kulkumuotojen käyttämisestä hankalampaa.
 
-![Kapea katu, jossa kävelijä kulkee parkkeerattujen autojen ja suuren liikkuvan maasturin välissä](auto.jpg "Autojen olemassaolo syö tilan kaikelta muulta liikenteeltä. Kävelijät puikkelehtivat pysäköityjen ja liikkuvien autojen välissä.")
+![Kapea katu, jossa kävelijä kulkee parkkeerattujen autojen ja suuren liikkuvan maasturin välissä](cover.jpg "Autojen olemassaolo syö tilan kaikelta muulta liikenteeltä. Kävelijät puikkelehtivat pysäköityjen ja liikkuvien autojen välissä.")
 
 
 Pienellä saarella infrastruktuuria ei ole lähdetty erinäisistä syistä johtuen rakentamaan autoille, mutta autot pilaavat olemassa olevan ympäristön kaikesta huolimatta. Suomessa infran tilanne on ihan toinen. Meillä autolähtöistä suunnittelua on toteutettu aktiivisesti usean vuosikymmenen ajan. Käytännössä yhdestä kulkumuodosta on rakennettu koko ajan kätevämpää samalla kun vaihtoehtojen käyttämistä on vaikeutettu.

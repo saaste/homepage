@@ -10,8 +10,10 @@ categories:
 tags:
     - ympäristö
     - hyvinvointi
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Vuoren rinteillä roihuava metsäpalo
 ---
 
 Olen löytänyt itseni viime viikkojen aikana miettimässä sitä, kuinka oma nuoruuteni erosi tämän päivän nuorten elämästä. Nuori minä pystyi haaveilemaan tulevaisuudesta tavalla, joka ei taida useimmille nykynuorille olla mahdollista.

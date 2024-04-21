@@ -8,8 +8,10 @@ categories:
     - pelit
 tags:
     - pelit
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Baldur's Gate 3:n näkymä, jossa pelaaja yrittää tiirikoida lukkoa. Keskellä on suuri 20-sivuinen noppa, jonka alla ovat erilaset bonukset, joita pelaaja voi saada
 ---
 Olen pelannut kohta 100 tuntia [Baldur's Gate 3](https://baldursgate3.game/):sta. En ole pelannut aikaisempia osia ja hankin pelin ensisijaisesti siksi, että kuulin siitä niin paljon hyvää.
 

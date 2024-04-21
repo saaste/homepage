@@ -7,6 +7,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Otsalampun valaisema kapea metsäpolku. Polku on lumessa ja taivaalta sataa lisää lunta. Edessä juoksee juoksija mustassa juoksuasussa.
 ---
 
 Mielenterveysongelmien kanssa taistelut ovat opettaneet, että me emme tiedä niitä taisteluja, joita toiset ihmiset käyvät elämässään. Tämä on muuttanut omalla kohdallani tapaa, jolla suhtaudun toisiin ihmisiin. Viime vuosina on tuntunut, että tämä ajatus on katomassa, etenkin Internetissä. Ihmisistä on tullut toisilleen kasvottomia.

@@ -8,8 +8,10 @@ categories:
     - teknologia
 tags:
     - teknologia
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Vanha mies istumassa vanhojen tietokoneiden, näppäistöjen, tulostimien ja monitorien keskellä
 ---
 
 Olen ammatiltani ohjelmoija ja silti olen alkanut inhota teknologiaa. Pysähdyin miettimään, että missä kohtaa nörtistä tuli tällainen ja mitkä tätä muutosta selittävät.

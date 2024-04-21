@@ -8,8 +8,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Avokeittiö, jonka seinät ovat tumman harmaat ja kaapistot kiiltävän valkoisia. Seinällä roikkuu kolme lastaa ja pyyhe.
 ---
 Minimalismi synnyttää helposti negatiivisia mielikuvia. Eikä ihan turhaan. Internetistä löytää mitä kummallisimpia otteita asiaan, eivätkä kaikki niistä ole järkeviä tai kestäviä.
 

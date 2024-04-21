@@ -8,8 +8,10 @@ categories:
     - kirjat
 tags:
     - kirjat
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Apollo-murhat -kirjan kansi
 ---
 
 Vuoden 2024 ensimmäiseksi suomenkieliseksi kirjaksi valikoitui puolisolta lahjaksi saatu Apollo-murhat. Suunnitelmani oli pyhittää vuosi 2024 suomalaiselle kirjallisuudelle. Käännöskirjana se ei istunut suunnitelmaan täydellisesti, mutta käännöskirjalla oli hyvä aloittaa!

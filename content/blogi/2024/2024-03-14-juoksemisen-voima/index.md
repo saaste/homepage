@@ -8,8 +8,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Jaloissa olevat juoksukengät. Juoksija seisoo märässä kurassa.
 ---
 
 En ole viime päivinä ollut paras mahdollinen itseni. Ulkona satoi ja ulkoilureitit olivat kurassa. Kävin juoksemassa ja tulin takaisin ihan eri ihmisenä. Lenkki muistutti minua siitä, mikä voima juoksemisella voi olla.

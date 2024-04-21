@@ -10,8 +10,10 @@ categories:
 tags:
     - tekniikka
     - esteettömyys
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Kuvaruutukaappaus Bookmark Managerista
 ---
 
 En pidä kauheasti siitä, että kirjanmerkit on sidottu yksittäiseen selaimeen tai selainvalmistajan tarjoamaan pilvipalveluun. Testasin joitakin itse hostattavia ratkaisuja, mutta kun mikään niistä ei puhutellut, päätin tehdä oman. Samalla tuli hyvä tilaisuus tutustua ruudunlukijoihin ja esteettömyyteen.

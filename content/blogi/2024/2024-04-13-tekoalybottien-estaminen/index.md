@@ -8,8 +8,10 @@ categories:
     - tekniikka
 tags:
     - tekniikka
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: 3D-mallinnettu robotti
 ---
 Olen läpensä kyllästynyt tekoälysekoiluun ja halusin varmistaa, etteivät omat sisältöni eivät päädy tekoälybottien ja -crawlereiden materiaaliksi.
 

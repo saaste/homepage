@@ -10,3 +10,5 @@ title: "Tietoa"
 
 ### Sivut
 Sivut sekä blogi on toteutettu [Hugolla](https://gohugo.io/). [Valokuvat](https://photography.saaste.net/) pyörii itse tehdyllä [Portfolio](https://github.com/saaste/portfolio)-sovelluksella. [Linkit](https://links.saaste.net/) puolestaan [Bookmark Managerilla](https://github.com/saaste/bookmark-manager), joka on myös itse tehty. Kaikki sovellukset on toteutettu [Go](https://go.dev/)-ohjelmointikielellä.
+
+Sivuilla oleva haku on toteutettu [Pagefind](https://pagefind.app/)-kirjaston avulla.

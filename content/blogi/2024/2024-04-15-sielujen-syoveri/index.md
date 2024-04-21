@@ -8,8 +8,10 @@ categories:
     - kirjat
 tags:
     - kirjat
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Sielujen syöverin kansi, jossa on tummahiuksisen naisen kasvot savukiehkuroiden ympäröimänä.
 ---
 
 Sielujen syöveri on kolmas osa Tiina Raevaaran Eerika-sarjaa. Pidin todella paljon kahdesta ensimmäisestä osasta, mutta tämän kohdalla askel ei osunut ihan lankulle.

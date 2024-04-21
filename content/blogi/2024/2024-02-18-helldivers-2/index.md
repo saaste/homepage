@@ -8,8 +8,10 @@ categories:
     - pelit
 tags:
     - pelit
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Neljä Helldivers-sotilasta poseeraa kallion päällä
 ---
 
 Helldivers 2 on jatkoa vuonna 2015 julkaistulle, suositulle co-op -pelille. Top-down -näkymä on muuttunut 3rd person -näkymäksi, mutta muuten pelin suosion rakentaneet elementit ovat yhä paikoillaan. Ongelmiakin on.

@@ -8,8 +8,10 @@ categories:
     - kirjat
 tags:
     - kirjat
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Polaaripyörteen graafinen kansi, jossa on vuoren silhuetti ja edessä jäälohkareita. Taivaalla näkyy kuvioita, jotka muistuttavat lumihiutaleita tai bakteereja
 ---
 
 Vuoden kolmas lukemani suomalainen kirja on Tiina Raevaaran Polaaripyörre. Kirja on jatko-osa aikaisemmin lukemalleni Kaksoiskierteelle. Eikä mitenkään huono sellainen, sillä pidin siitä vieläkin enemmän kuin ykkösosasta.

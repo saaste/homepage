@@ -8,8 +8,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Numerolaput rinnassa eteneviä juoksijoita kesäisessä Helsingissä. Katsojat kannustavat tien laidoilla.
 ---
 Aikaisemmassa [juoksukirjoituksessa]({{< ref "/blogi/2024/2024-03-14-juoksemisen-voima/index.md" >}}) kerroin, kuinka onnistuin muutamaan itseni polvikipuisesta juoksijasta ultrajuoksijaksi. En kuitenkaan kertonut, että kuinka se käytännössä tapahtui. Yritän korjata virheen.
 

@@ -25,6 +25,9 @@ menus:
       - name: "muuta"
         url: "/muuta/"
         weight: 4
+      - name: "haku"
+        url: "/haku/"
+        weight: 5
 
     top:
       - name: "Mastodon"

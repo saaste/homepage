@@ -14,4 +14,17 @@
   
     {{ partial "opengraph.html" . }}
     <script defer data-domain="saaste.net" src="https://webstats.saaste.net/js/plausible.js"></script>
+
+    <!-- <link href="/pagefind/pagefind-ui.css" rel="stylesheet"> -->
+    <script src="/pagefind/pagefind-ui.js"></script>
+
+    {{ $cover := .Resources.GetMatch "cover.*" }}
+    {{ if $cover }}
+        <meta data-pagefind-meta="image[content]" content="{{ $cover.RelPermalink }}">
+        <meta data-pagefind-meta="image_alt[content]" content="{{ $cover.Title }}">
+    {{ else }}
+        <meta data-pagefind-meta="image[content]" content="{{ .Site.BaseURL }}images/logo-128.png">
+        <meta data-pagefind-meta="image_alt[content]" content="Vektorikuva kuolleesta puun silhuetista">
+    {{ end }}
+
 </head>

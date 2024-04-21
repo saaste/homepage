@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -213,6 +214,9 @@ ol {
 }
 
 .content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
@@ -235,6 +239,7 @@ ol {
 
 .page-type-blogi {
   max-width: 900px;
+  align-self: center;
 }
 .page-type-blogi .post-image {
   padding: 2rem;
@@ -335,6 +340,90 @@ ol {
   padding-top: 2rem;
   border-top: var(--separator);
   text-align: center;
+}
+
+/* Pagefind Search */
+.pagefind-ui__form {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto min-content;
+  grid-template-rows: auto auto;
+  grid-template-areas: "input button" "results results";
+  column-gap: 0.5rem;
+  row-gap: 0.5rem;
+}
+.pagefind-ui__form .pagefind-ui__search-input {
+  padding: 0.5rem;
+  border-radius: 10px;
+  grid-area: input;
+}
+.pagefind-ui__form .pagefind-ui__search-clear {
+  padding: 0.5rem;
+  border-radius: 10px;
+  grid-area: button;
+}
+.pagefind-ui__form mark {
+  background: none;
+  color: var(--strong-color);
+  text-shadow: var(--strong-text-shadow);
+}
+.pagefind-ui__form .pagefind-ui__drawer {
+  grid-area: results;
+}
+.pagefind-ui__form .pagefind-ui__results-area {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  justify-content: center;
+}
+.pagefind-ui__form .pagefind-ui__message {
+  font-size: 1.26rem;
+  padding-top: 1rem;
+}
+.pagefind-ui__form .pagefind-ui__results {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+.pagefind-ui__form .pagefind-ui__result {
+  display: grid;
+  grid-template-columns: minmax(20%, 150px) auto;
+  grid-template-areas: "thumbnail text";
+  column-gap: 1rem;
+  border-top: var(--separator);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.pagefind-ui__form .pagefind-ui__result-thumb {
+  grid-area: thumbnail;
+}
+.pagefind-ui__form .pagefind-ui__result-thumb img {
+  width: 100%;
+  object-fit: cover;
+}
+.pagefind-ui__form .pagefind-ui__result-inner {
+  grid-area: text;
+}
+.pagefind-ui__form .pagefind-ui__result-title {
+  font-size: 1.44rem;
+}
+.pagefind-ui__form .pagefind-ui__result-nested {
+  padding-left: 1rem;
+  padding-top: 1rem;
+}
+.pagefind-ui__form .pagefind-ui__result-nested .pagefind-ui__result-title {
+  font-size: 1rem;
+}
+.pagefind-ui__form .pagefind-ui__result-nested .pagefind-ui__result-title::before {
+  content: "↳ ";
+}
+.pagefind-ui__form .pagefind-ui__button {
+  place-self: center;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+.pagefind-ui__form .pagefind-ui__hidden {
+  display: none;
 }
 
 @media only screen and (max-width: 640px) {

@@ -10,8 +10,10 @@ categories:
 tags:
     - hyvinvointi
     - ympäristö
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Kaksi iäkkäämpää kiinalaista miestä ja naista pelaamassa korttia
 ---
 
 Ole reipas. Ole ahkera. Ole tuottava. Käytä kalenteria ja suunnittele. Näillä ohjeilla koetin joskus epätoivoisesti elää. Näitähän yhteiskunta usein peräänkuuluttaa. Yhdessä kohtaa sain kuitenkin tarpeekseni ja päätin muuttaa tapaani elää. Se oli hyvä päätös, sillä voin nykyään paljon paremmin.

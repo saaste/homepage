@@ -7,6 +7,10 @@ categories:
     - hyvinvointi
 tags:
     - hyvinvointi
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Otsalampun valaisema kapea metsäpolku. Polku on lumessa ja taivaalta sataa lisää lunta. Edessä juoksee juoksija mustassa juoksuasussa.
 ---
 
 Kirjoitin [aikaisemmin](kirjoitukset/melusaastetta-saarella/) saarella olevasta melusaasteesta. Monesti on tullut äimisteltyä sitä, kuinka kovaääniset laitteet ovat ylipäätään saaneet alkunsa ja kuinka järjetöntä se on, että ne ovat levinneet kaikkialle.

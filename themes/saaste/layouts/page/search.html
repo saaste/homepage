@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="single-page-container page-type-{{ .Type }}" data-pagefind-body>
+    
+    <h2 class="single-page-title" data-pagefind-meta="title">{{ .Title }}</h2>
+
+    {{ if eq .Type "blogi" }}
+    <time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
+    {{ end}}
+
+    {{ .Content }}
+
+    <div id="search"></div>
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ element: "#search", showSubResults: true });
+        });
+    </script>
+
+
+</section>
+{{ end }}

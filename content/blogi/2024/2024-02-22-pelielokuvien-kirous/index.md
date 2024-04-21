@@ -10,8 +10,10 @@ categories:
 tags:
     - pelit
     - elokuvat
-images:
-    - cover.jpg
+resources:
+    - name: cover
+      src: cover.jpg
+      title: Borderlands-elokuvan päähenkilöt istuvat autossa
 ---
 
 Näin Borderlands-elokuvan trailerin ja mietin, ettei elokuvalla tunnu olevan juuri mitään tekemistä sen pelisarjan kanssa, joihin olen käyttänyt 15 vuotta elämästäni. Se sai miettimään, että miksi Hollywood haluaa kerta toisensa jälkeen tuhota faneille tärkeät maailmat.
