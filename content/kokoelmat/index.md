@@ -61,3 +61,4 @@ title: "Kokoelmat"
 - [Tiina Raevaara, Kaksoiskierre](https://kirja.elisa.fi/ekirja/teemestarin-kirja) ([Arvostelu]({{< ref "/blogi/2024/2024-03-12-kaksoiskierre/index.md" >}}))
 - [Tiina Raevaara, Polaaripyörre](https://kirja.elisa.fi/ekirja/polaaripyorre) ([Arvostelu]({{< ref "/blogi/2024/2024-03-25-polaaripyorre/index.md" >}}))
 - [Tiina Raevaara, Sielujen syöveri](https://kirja.elisa.fi/ekirja/sielujen-syoveri) ([Arvostelu]({{< ref "/blogi/2024/2024-04-15-sielujen-syoveri/index.md" >}}))
+- [Tiina Raevaara, Uinuva solu](https://kirja.elisa.fi/ekirja/uinuva-solu) ([Arvostelu]({{< ref "/blogi/2024/2024-04-24-uinuva-solu/index.md" >}}))

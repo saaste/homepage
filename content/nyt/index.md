@@ -5,6 +5,7 @@ title: "Juuri nyt"
 ### Ohjelmointi
 - Kotisivujen uusiminen
 - Henkilökohtaisen matkapäiväkirjan päivittäminen
+- Omaan matkailuun istuvan karttapalvelu
 - [Portfolio](https://github.com/saaste/portfolio)
 - [Bookmark Manager](https://github.com/saaste/bookmark-manager)
 
@@ -12,7 +13,7 @@ title: "Juuri nyt"
 - [Baldur's Gate 3](https://www.igdb.com/games/baldurs-gate-3)
 
 ### Kirjat
-- [Tiina Raevaara - Uinuva solu](https://like.fi/kirjat/uinuva-solu/)
+- Uusi kirja etsinnässä...
 
 ### Juokseminen
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
