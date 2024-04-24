@@ -1,13 +1,16 @@
 @import "reset.scss";
 
 $dark-background-color: rgb(39, 41, 53);
+$dark-block-color: hsl(231, 15%, 15%);
 $dark-text-color: rgb(248, 248, 242);
 $dark-link-color: rgb(255, 184, 108);
 $dark-strong-color: rgb(212, 253, 176);
+$dark-emphasis-color: rgb(176, 253, 243);
 $dark-sub-title-color: rgb(243, 216, 60);
 $dark-darker-bg-color: rgba(0, 0, 0, 0.123);
 $dark-link-text-shadow: 0 0 5px rgba(255, 184, 108, 0.7);
 $dark-strong-text-shadow: 0 0 5px rgba(174, 255, 108, 0.7);
+$dark-emphasis-text-shadow: 0 0 5px rgba(108, 255, 255, 0.7);
 $dark-separator: 2px dotted rgb(76, 80, 103);
 $dark-photo-border: 3px solid rgb(76, 80, 103);
 
@@ -23,13 +26,16 @@ $font-size-small: 0.833rem;
 
 :root {
     --background-color: #{$dark-background-color};
+    --block-color: #{$dark-block-color};
     --text-color: #{$dark-text-color};
     --link-color: #{$dark-link-color};
     --sub-title-color: #{$dark-sub-title-color};
     --strong-color: #{$dark-strong-color};
+    --emphasis-color: #{$dark-emphasis-color};
     --darker-bg-color: #{$dark-darker-bg-color};
     --link-text-shadow: #{$dark-link-text-shadow};
     --strong-text-shadow: #{$dark-strong-text-shadow};
+    --emphasis-text-shadow: #{$dark-emphasis-text-shadow};
     --separator: #{$dark-separator};
     --photo-border: #{$dark-photo-border};
     --font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -79,9 +85,16 @@ h4 {
     font-size: $font-size-h5;
 }
 
+em {
+    color: var(--emphasis-color);
+    text-shadow: var(--emphasis-text-shadow);
+    font-style: italic;
+}
+
 strong {
     color: var(--strong-color);
     text-shadow: var(--strong-text-shadow);
+    font-weight: bold;
 }
 
 pre {
@@ -123,6 +136,12 @@ ol, ul {
 ol {
     list-style-type: decimal;
     padding-left: 3rem;
+}
+
+blockquote {
+    background-color: var(--block-color);
+    padding: 1rem 2.5rem;
+    border-radius: 10px;
 }
 
 .body-container {
