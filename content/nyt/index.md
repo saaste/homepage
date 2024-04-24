@@ -13,7 +13,7 @@ title: "Juuri nyt"
 - [Baldur's Gate 3](https://www.igdb.com/games/baldurs-gate-3)
 
 ### Kirjat
-- Uusi kirja etsinnässä...
+- [Reetta Vuokko-Syrjänen: Syntykeho](https://kirja.elisa.fi/ekirja/syntykeho)
 
 ### Juokseminen
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
