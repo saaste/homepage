@@ -205,6 +205,7 @@ ol {
 
 .main-navigation {
   display: flex;
+  flex-wrap: wrap;
   gap: 2rem;
   font-size: 1.44rem;
   padding-top: 2rem;
@@ -426,6 +427,11 @@ ol {
   display: none;
 }
 
+@media only screen and (max-width: var(--content-max-width)) {
+  .body-container {
+    width: 100%;
+  }
+}
 @media only screen and (max-width: 640px) {
   .top-navigation .link-text {
     display: none;
@@ -437,6 +443,11 @@ ol {
   }
   .page-header-title .link-text {
     font-size: 2.074rem;
+  }
+}
+@media only screen and (max-width: 350px) {
+  .page-header-logo {
+    display: none;
   }
 }
 

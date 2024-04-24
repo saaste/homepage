@@ -176,6 +176,7 @@ ol {
 
 .main-navigation {
     display: flex;
+    flex-wrap: wrap;
     gap: 2rem;
     font-size: $font-size-h5;
     padding-top: 2rem;
@@ -429,6 +430,11 @@ ol {
     }
 }
 
+@media only screen and (max-width: var(--content-max-width)) {
+    .body-container {
+        width: 100%;
+    }
+}
 
 @media only screen and (max-width: 640px) {
     .top-navigation {
@@ -446,5 +452,11 @@ ol {
         .link-text {
             font-size: $font-size-h3;
         }
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .page-header-logo {
+        display: none;
     }
 }
