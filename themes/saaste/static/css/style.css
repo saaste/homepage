@@ -114,6 +114,10 @@ h3:not(:has(> a)) {
 
 h4 {
   font-size: 1.44rem;
+  padding-top: 1rem;
+}
+h4 + * {
+  padding-top: 1rem;
 }
 
 em {
