@@ -66,7 +66,7 @@ Tein vanhoista tableteista seinälle kiinnitettäviä dashboardeja, jotka kertoi
 
 Satunnaiset vieraat ihastelivat hienoa systeemiäni. Sitten tutustuin nykyiseen puolisooni ja pian kodissani oli pysyvämmin kaksi ihmistä.
 
-Kun hän tuli käymään, koko järjestelmä meni sekaisin. Valot eivät palaneet siellä missä piti. Televisiota ei saanut päälle kun halusi. Edes vedenkeitintä ei pystynyt käyttämään ilman, että minä ohitin automaatiot. Koko touhu ärsytti häntä, enkä ihmettele. Olin rakentanut automaation, joka palveli vain minua, mutta ei ketään muuta. Järjestelmä pysyi kasassa omassa ainoastaan kuplassani - tai niin luulin.
+Kun hän tuli käymään, koko järjestelmä meni sekaisin. Valot eivät palaneet siellä missä piti. Televisiota ei saanut päälle kun halusi. Edes vedenkeitintä ei pystynyt käyttämään ilman, että minä ohitin automaatiot. Koko touhu ärsytti häntä, enkä ihmettele. Olin rakentanut automaation, joka palveli vain minua, mutta ei ketään muuta. Järjestelmä pysyi kasassa ainoastaan omassa kuplassani - tai niin luulin.
 
 Eräänä päivänä Home Assistant -järjestelmään ja sen lukuisiin komponentteihin tuli päivityksiä, jotka rikkoivat kaiken. En saanut yhtäkään laitetta päälle, valoista puhumattakaan, ja istuin pimeässä kodissa ratkomassa ongelmaa.
 
