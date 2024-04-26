@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### perjantai 26.4.2024
+- [Nyt]({{< ref "/nyt" >}})-sivulle lisätty top-10 -artistit. Tiedot tulevat [ListenBrainzista](https://listenbrainz.org).
+
 ### sunnuntai 21.4.2024
 - [Hakusivu]({{< ref "/haku" >}}) lisätty
 - Blogikirjoituksiin lisätty sopivan kokoiset kuvat [OpenGraph](https://ogp.me/)-esikatselua varten.

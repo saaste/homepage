@@ -12,3 +12,5 @@ title: "Tietoa"
 Sivut sekä blogi on toteutettu [Hugolla](https://gohugo.io/). [Valokuvat](https://photography.saaste.net/) pyörii itse tehdyllä [Portfolio](https://github.com/saaste/portfolio)-sovelluksella. [Linkit](https://links.saaste.net/) puolestaan [Bookmark Managerilla](https://github.com/saaste/bookmark-manager), joka on myös itse tehty. Kaikki sovellukset on toteutettu [Go](https://go.dev/)-ohjelmointikielellä.
 
 Sivuilla oleva haku on toteutettu [Pagefind](https://pagefind.app/)-kirjaston avulla.
+
+[Nyt]({{< ref "/nyt" >}})-sivuilla oleva kuunnelluimpien artistien lista tulee [ListenBrainzista](https://listenbrainz.org). Tein scriptin, joka hakee ListenBrainzin API:sta tilastot ja kirjoittaa ne paikalliseen JSON-tiedostoon, josta Hugo lukee ne aina kun sivuja päivitetään.

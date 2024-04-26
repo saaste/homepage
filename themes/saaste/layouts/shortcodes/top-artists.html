@@ -1,0 +1,8 @@
+{{ $musicData := getJSON "listenbrainz.json" }}
+{{ $items := index $musicData "items" }}
+<ol>
+{{ range $items }}
+    <li><a href="{{ index . "url" }}" target="_blank">{{ index . "title" }}</a></li>
+{{ end }}
+</ol>
+
