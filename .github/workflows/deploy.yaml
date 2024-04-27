@@ -1,0 +1,49 @@
+name: Deploy
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0,6,12,18 * * *"
+
+jobs:
+  deploy:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Hugo
+        env:
+          HUGO_VERSION: 0.125.0
+        run: |
+          mkdir ~/hugo
+          cd ~/hugo
+          curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" --output hugo.tar.gz
+          tar -xvzf hugo.tar.gz
+          sudo mv hugo /usr/local/bin
+      - name: Get API-to-JSON
+        uses: robinraju/release-downloader@v1.10
+        with:
+          repository: "saaste/api-to-json"
+          latest: true
+          fileName: api-to-json
+      - name: Run API-to-JSON
+        run: |
+          sudo chmod u+x api-to-json
+          ./api-to-json -lb-user-token="${{ secrets.LISTEN_BRAINZ_USER_TOKEN }}"
+      - name: Build Hugo Site
+        run: hugo --minify
+      - name: Build Search Index
+        run: npx pagefind@latest --site public
+          
+      - name: Create Key File
+        run: install -m 600 -D /dev/null ~/.ssh/id_rsa
+      - name: Populate Key
+        run: echo "${{ secrets.PRIVATE_SSH_KEY }}" > ~/.ssh/id_rsa
+      - name: Load Host Keys
+        run: echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+      - name: Upload
+        run: rsync --archive --stats -e 'ssh -p 26022 -o StrictHostKeyChecking=no' public/ ${{ secrets.REMOTE_DESTINATION }}

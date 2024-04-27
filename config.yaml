@@ -1,4 +1,5 @@
 baseURL: "https://saaste.net/"
+languageCode: fi
 defaultContentLanguage: fi
 title: "saaste.net"
 theme: "saaste"
