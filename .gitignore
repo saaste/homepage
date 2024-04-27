@@ -2,3 +2,4 @@ public/
 deploy.sh
 .hugo_build.lock
 api-to-json
+listenbrainz.json
