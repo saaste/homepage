@@ -7,7 +7,6 @@ Kerään tänne netistä löydettyjä ja muiden suosittelemia kirjoja, jotka voi
 
 #### Suomalaiset
 - [Juhani Karila - Pienen hauen pyydystys](https://kirja.elisa.fi/ekirja/pienen-hauen-pyydystys)
-- [Maja Lunde - Mehiläisten historia ](https://kirja.elisa.fi/ekirja/mehilaisten-historia)
 - [Piia Leino - Taivas](https://kirja.elisa.fi/ekirja/taivas)
 - [Piia Leino - Yliaika](https://kirja.elisa.fi/ekirja/yliaika)
 - [Emmi Itäranta - Kuunpäivän kirjeet](https://kirja.elisa.fi/ekirja/kuunpaivan-kirjeet)
@@ -15,6 +14,7 @@ Kerään tänne netistä löydettyjä ja muiden suosittelemia kirjoja, jotka voi
 - [Tero Niemi ja Anne Salminen - Nimbus ja tähdet](https://www.kirjavinkit.fi/arvostelut/nimbus-ja-tahdet/) (ei Elisa Kirjassa)
 
 #### Ulkomaiset
-- [Andy Weird - Operaatio Ave Maria](https://kirja.elisa.fi/ekirja/operaatio-ave-maria)
+- [Maja Lunde - Mehiläisten historia ](https://kirja.elisa.fi/ekirja/mehilaisten-historia)
+- [Andy Weir - Operaatio Ave Maria](https://kirja.elisa.fi/ekirja/operaatio-ave-maria)
 - [Martha Wells - Murhabotin päiväkirjat](https://kirja.elisa.fi/ekirja/halytystila)
 
