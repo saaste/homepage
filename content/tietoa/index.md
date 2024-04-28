@@ -14,3 +14,5 @@ Sivut sekä blogi on toteutettu [Hugolla](https://gohugo.io/). [Valokuvat](https
 Sivuilla oleva haku on toteutettu [Pagefind](https://pagefind.app/)-kirjaston avulla.
 
 [Nyt]({{< ref "/nyt" >}})-sivuilla oleva kuunnelluimpien artistien lista tulee [ListenBrainzista](https://listenbrainz.org). Tein scriptin, joka hakee ListenBrainzin API:sta tilastot ja kirjoittaa ne paikalliseen JSON-tiedostoon, josta Hugo lukee ne aina kun sivuja päivitetään.
+
+Sivut on viimeksi generoitu {{< now >}} ja niiden lähdekoodi löytyy [Githubista](https://github.com/saaste/homepage)
