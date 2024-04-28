@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### sunnuntai 28.4.2024
+- [Matkat]({{< ref "/matkat" >}})-sivu lisätty.
+
 ### perjantai 26.4.2024
 - [Nyt]({{< ref "/nyt" >}})-sivulle lisätty top-10 -artistit. Tiedot tulevat [ListenBrainzista](https://listenbrainz.org).
 

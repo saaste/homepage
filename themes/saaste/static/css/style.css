@@ -175,6 +175,30 @@ blockquote {
   border-radius: 10px;
 }
 
+table {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+table tr:first-of-type {
+  border-top: var(--separator);
+}
+table tr {
+  border-bottom: var(--separator);
+}
+table td, table th {
+  padding: 0.3rem 1rem;
+  border-left: var(--separator);
+}
+table td:last-of-type, table tr:last-of-type {
+  border-right: var(--separator);
+}
+table th {
+  font-weight: bold;
+  text-align: left;
+  border-bottom: var(--separator);
+  background-color: var(--block-color);
+}
+
 .body-container {
   display: flex;
   flex-direction: column;

@@ -9,6 +9,7 @@ title: "Kaikkea muuta"
 - [Kokoelmat]({{< ref "/kokoelmat" >}})
 - [Mitä käytän]({{< ref "/mita-kaytan" >}})
 - [Juokseminen]({{< ref "/juokseminen" >}})
+- [Matkat]({{< ref "/matkat" >}})
 - [Muutosloki]({{< ref "/muutosloki" >}})
 
 
