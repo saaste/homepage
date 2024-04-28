@@ -4,6 +4,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/style.css">
 
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}images/favicon-16x16.png">
+    <link rel="manifest" href="{{ .Site.BaseURL }}files/site.webmanifest">
+
     {{ $title := print .Title " | " .Site.Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     <title>{{ $title }}</title>
@@ -15,7 +20,6 @@
     {{ partial "opengraph.html" . }}
     <script defer data-domain="saaste.net" src="https://webstats.saaste.net/js/plausible.js"></script>
 
-    <!-- <link href="/pagefind/pagefind-ui.css" rel="stylesheet"> -->
     <script src="/pagefind/pagefind-ui.js"></script>
 
     {{ $cover := .Resources.GetMatch "cover.*" }}
