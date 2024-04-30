@@ -2,7 +2,14 @@
 {{ $items := index $musicData "items" }}
 <ol>
 {{ range $items }}
-    <li><a href="{{ index . "url" }}" target="_blank">{{ index . "title" }}</a></li>
+    <li>
+        <a href="{{ index . "url" }}" target="_blank">{{ index . "title" }}</a>
+        {{ $allTags := first 2 (index . "tags") }}
+        {{ $tagString := delimit $allTags ", " }}
+        {{ with $tagString }}
+        ({{ . }})
+        {{ end }}
+    </li>
 {{ end }}
 </ol>
 
