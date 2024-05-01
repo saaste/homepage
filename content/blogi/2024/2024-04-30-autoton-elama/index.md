@@ -1,6 +1,6 @@
 ---
 title: "Autoton elämä"
-description: ""
+description: "En ole koskaan omistanut autoa. En ole edes halunnut omistaa, vaikka minulla onkin ollut ajokortti 18-vuotiaasta lähtien. Pysyminen autottomassa elämässä on ollut yksi parhaita päätöksiäni."
 date: 2024-04-30T19:35:00+03:00
 draft: false
 slug: autoton-elama
