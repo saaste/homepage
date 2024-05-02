@@ -5,7 +5,7 @@ title: "Juuri nyt"
 ### Ohjelmointi
 - Kotisivujen uusiminen
 - Henkilökohtaisen matkapäiväkirjan päivittäminen
-- Omaan matkailuun istuvan karttapalvelu
+- Omaan matkailuun istuvan karttapalvelu tekeminen
 - [Portfolio](https://github.com/saaste/portfolio)
 - [Bookmark Manager](https://github.com/saaste/bookmark-manager)
 
