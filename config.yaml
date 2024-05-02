@@ -11,6 +11,8 @@ languages:
   fi:
     languageCode: fi
     languageDirection: ltr
+    params:
+      reading_speed: 250
 
 menus:
     main:

@@ -279,11 +279,15 @@ table {
         }
     }
 
-    time {
+    .blog-meta {
         display: block;
         font-size: $font-size-h6;
         text-align: center;
-        padding-bottom: 0.5rem;
+        padding-bottom: 2rem;
+
+        .reading-time {
+            font-size: $font-size-normal;
+        }
     }
 
     .tags {

@@ -298,11 +298,14 @@ table th {
   padding: 1rem;
   border-radius: 10px;
 }
-.page-type-blogi time {
+.page-type-blogi .blog-meta {
   display: block;
   font-size: 1.26rem;
   text-align: center;
-  padding-bottom: 0.5rem;
+  padding-bottom: 2rem;
+}
+.page-type-blogi .blog-meta .reading-time {
+  font-size: 1rem;
 }
 .page-type-blogi .tags {
   display: flex;

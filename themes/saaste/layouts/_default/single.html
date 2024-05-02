@@ -4,7 +4,17 @@
     <h2 class="single-page-title" data-pagefind-meta="title">{{ .Title }}</h2>
 
     {{ if eq .Type "blogi" }}
-    <time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
+    <div class="blog-meta">
+        <time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
+
+        {{ $readingTime := div (float .WordCount) .Site.Params.reading_speed }}
+        {{ $readingTime = math.Ceil $readingTime }}
+        <p class="reading-time">Lukuaika noin {{ $readingTime }} minuuttia</p>
+    </div>
+    
+    
+    
+    
     {{ end}}
 
     {{ .Content }}
