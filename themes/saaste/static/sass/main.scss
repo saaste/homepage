@@ -280,29 +280,27 @@ table {
     }
 
     .blog-meta {
-        display: block;
-        font-size: $font-size-h6;
-        text-align: center;
+        font-size: $font-size-normal;
         padding-bottom: 2rem;
+        background-color: var(--block-color);
+        padding: 1rem;
+        margin: 1rem 0;
+        border-radius: 10px;
 
         .reading-time {
             font-size: $font-size-normal;
         }
-    }
 
-    .tags {
-        display: flex;
-        gap: 1rem;
-        padding: 0;
-        padding-top: 1rem;
-        justify-content: center;
-    }
-    .tag {
-        display: block;
-        padding: 0rem 0.8rem;
-        background: var(--darker-bg-color);
-        border-radius: 10px;
-        font-size: $font-size-small
+        .categories, .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            padding: 0;
+            max-width: 100%;
+        }
+        .category, .tag {
+            display: inline;
+        }
     }
 }
 

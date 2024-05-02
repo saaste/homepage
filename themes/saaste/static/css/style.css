@@ -299,27 +299,25 @@ table th {
   border-radius: 10px;
 }
 .page-type-blogi .blog-meta {
-  display: block;
-  font-size: 1.26rem;
-  text-align: center;
+  font-size: 1rem;
   padding-bottom: 2rem;
+  background-color: var(--block-color);
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 10px;
 }
 .page-type-blogi .blog-meta .reading-time {
   font-size: 1rem;
 }
-.page-type-blogi .tags {
+.page-type-blogi .blog-meta .categories, .page-type-blogi .blog-meta .tags {
   display: flex;
+  flex-wrap: wrap;
   gap: 1rem;
   padding: 0;
-  padding-top: 1rem;
-  justify-content: center;
+  max-width: 100%;
 }
-.page-type-blogi .tag {
-  display: block;
-  padding: 0rem 0.8rem;
-  background: var(--darker-bg-color);
-  border-radius: 10px;
-  font-size: 0.833rem;
+.page-type-blogi .blog-meta .category, .page-type-blogi .blog-meta .tag {
+  display: inline;
 }
 
 .single-page-nav {

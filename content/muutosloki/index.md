@@ -2,6 +2,11 @@
 title: "Muutosloki"
 ---
 
+### torstai 2.5.2024
+- Blogikirjoituksiin lisätty arvio lukuajasta
+- Blogikirjoitusten ulkoasua viilailtu
+- [Hakusivun]({{< ref "/haku" >}}) hakukenttään lisätty autofocus
+
 ### sunnuntai 28.4.2024
 - [Matkat]({{< ref "/matkat" >}})-sivu lisätty.
 
