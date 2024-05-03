@@ -1,11 +1,13 @@
 baseURL: "https://saaste.net/"
-languageCode: fi
 defaultContentLanguage: fi
-title: "saaste.net"
-theme: "saaste"
-paginate: 10
 enableRobotsTXT: true
+languageCode: fi
+theme: "saaste"
+timeZone: "Europe/Helsinki"
+title: "saaste.net"
+paginate: 10
 pluralizelisttitles: false
+
 
 languages:
   fi:
