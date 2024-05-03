@@ -51,3 +51,9 @@ jobs:
         run: echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
       - name: Upload
         run: rsync --archive --stats -e 'ssh -p 26022 -o StrictHostKeyChecking=no' public/ ${{ secrets.REMOTE_DESTINATION }}
+      - name: Purge Cloudflare Cache
+        uses: jakejarvis/cloudflare-purge-action@master
+        env:
+          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+          PURGE_URLS: '["https://saaste.net/css/style.css"]'
