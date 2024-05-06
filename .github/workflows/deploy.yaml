@@ -37,7 +37,7 @@ jobs:
       - name: Run API-to-JSON
         run: |
           sudo chmod u+x api-to-json
-          ./api-to-json -lb-user-token="${{ secrets.LISTEN_BRAINZ_USER_TOKEN }}"
+          ./api-to-json -lb-user-token="${{ secrets.LISTEN_BRAINZ_USER_TOKEN }}" -wm-token="${{ secrets.WEBMENTIONS_TOKEN }}"
       - name: Build Hugo Site
         run: hugo --minify
       - name: Build Search Index

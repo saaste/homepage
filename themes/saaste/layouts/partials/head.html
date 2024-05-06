@@ -8,6 +8,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}images/favicon-16x16.png">
     <link rel="manifest" href="{{ .Site.BaseURL }}files/site.webmanifest">
+    <link rel="webmention" href="https://webmentions.saaste.net/webmention" />
 
     {{ $title := print .Title " | " .Site.Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}

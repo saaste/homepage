@@ -1,0 +1,16 @@
+{{ $all := getJSON "webmentions.json" }}
+{{ $mentions := (where $all "target" (absURL .Page.Permalink)) }}
+{{ with $mentions }}
+<h4>Webmentions</h4>
+<ul>
+{{ range . }}
+    {{ $name := index . "name" }}
+    {{ $published := index . "published" }}
+    {{ $content := index . "content" }}
+    {{ $url := index . "url" }}
+    <li>
+        <a href="{{ $url }}" target="_blank">{{ $name }}</a>
+    </li>
+{{ end }}
+</ul>
+{{ end }}
