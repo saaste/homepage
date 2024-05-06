@@ -42,7 +42,9 @@ jobs:
         run: hugo --minify
       - name: Build Search Index
         run: npx pagefind@latest --site public
-          
+      - name: Send Webmentions
+        run: curl -X "PUT" "https://webmentions.saaste.net/webmention/saaste.net/${{ secrets.WEBMENTIONS_TOKEN }}"
+
       - name: Create Key File
         run: install -m 600 -D /dev/null ~/.ssh/id_rsa
       - name: Populate Key
