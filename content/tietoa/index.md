@@ -15,4 +15,6 @@ Sivuilla oleva haku on toteutettu [Pagefind](https://pagefind.app/)-kirjaston av
 
 [Nyt]({{< ref "/nyt" >}})-sivuilla oleva kuunnelluimpien artistien lista tulee [ListenBrainzista](https://listenbrainz.org). Tein scriptin, joka hakee ListenBrainzin API:sta tilastot ja kirjoittaa ne paikalliseen JSON-tiedostoon, josta Hugo lukee ne aina kun sivuja päivitetään.
 
+Webmention ja pingback on toteutettu itse hostatulla [Go-Jammin'](https://git.brainbaking.com/wgroeneveld/go-jamming)-sovelluksella.
+
 Sivut on viimeksi generoitu {{< now >}} ja niiden lähdekoodi löytyy [Githubista](https://github.com/saaste/homepage)
