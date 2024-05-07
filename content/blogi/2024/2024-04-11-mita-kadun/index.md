@@ -4,9 +4,7 @@ description: "Kuuntelin eilen juoksulenkillä Feel Better Live More -podcastin j
 date: 2024-04-11T09:00:00+03:00
 draft: false
 slug: mita-kadun
-categories:
-    - hyvinvointi
-tags:
+aiheet:
     - hyvinvointi
 resources:
     - name: cover

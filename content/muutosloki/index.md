@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### tiistai 7.5.2024
+- Blogikirjoitusten aiheet lisätty [kirjoituslistaan]({{< ref "/blogi" >}}) 
+
 ### maanantai 6.5.2024
 - RSS-syöte muutettu näyttämään koko kirjoituksen sisältö pelkän tiivistelmän sijaan
 - Lisätty tuki [webmentionille](https://indieweb.org/Webmention) ja [pingbackille](https://indieweb.org/pingback)

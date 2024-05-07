@@ -4,9 +4,7 @@ description: "Lukemisen suomiteema jatkuu. Vuoden toinen suomalainen kirja on Ti
 date: 2024-03-12T07:23:00+02:00
 draft: false
 slug: kaksoiskierre
-categories:
-    - kirjat
-tags:
+aiheet:
     - kirjat
 resources:
     - name: cover

@@ -4,10 +4,7 @@ description: "Ole reipas. Ole ahkera. Ole tuottava. Käytä kalenteria ja suunni
 date: 2024-03-20T20:30:00+02:00
 draft: false
 slug: tehokkuusajattelu-ja-suorittaminen
-categories:
-    - hyvinvointi
-    - ympäristö
-tags:
+aiheet:
     - hyvinvointi
     - ympäristö
 resources:
@@ -74,4 +71,3 @@ Ajattelen, että aikatauluttomuus ja tehokkuusajattelun vältteleminen on keskit
 En halua olla enää oravanpyörässä, jossa joka päivä paahdetaan suunnitelman mukaan, kello tikittää ja pienetkin yllätykset pilaavat päivän. Illalla mennään nukkumaan ja sama alkaa aamulla alusta. Yritetään olla taas vähän parempi. Vähän tehokkaampi.
 
 Ehkä se sopii joillekin, mutta itse voin paremmin ilman sitä. Minun ei ole pakko suorittaa tai olla tehokas. Eikä tarvitse sinunkaan jos et halua.
-

@@ -4,9 +4,7 @@ description: "Vuoden 2024 ensimmäiseksi suomenkieliseksi kirjaksi valikoitui pu
 date: 2024-02-27T05:54:00+02:00
 draft: false
 slug: apollo-murhat
-categories:
-    - kirjat
-tags:
+aiheet:
     - kirjat
 resources:
     - name: cover

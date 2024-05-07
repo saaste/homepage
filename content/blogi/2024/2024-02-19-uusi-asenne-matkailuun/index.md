@@ -4,9 +4,7 @@ description: "Olen ehtinyt olla reilun viikon Suomessa, mutta mielessä pyöriv�
 date: 2024-02-19T19:07:00+02:00
 draft: false
 slug: uusi-asenne-matkailuun
-categories:
-    - matkustaminen
-tags:
+aiheet:
     - matkustaminen
 resources:
     - name: cover
@@ -54,6 +52,3 @@ Suurkaupungit ja erilaiset autohelvetit saavat tulevaisuudessa väistyä pienemp
 Rehellisyyden nimissä on kuitenkin todettava, että vaikka pyrinkin vähentämään lentämistä tuntuvasti, se ei varmasti katoa elämästäni täysin. Ei ainakaan ihan vielä. Minulla on edelleen joitakin kohteita, kuten Japani, joissa haluaisin käydä. En halua myöskään täysin sivuuttaa sitä tosiasiaa, että matkailulla on iso positiivinen vaikutus hyvinvointiin. Joudun tasapainottelemaan näiden asioiden kanssa ja koitan hyväksyä sen, että iso muutos on parempi kuin ei muutosta ollenkaan.
 
 Minun ei tarvitse onnistua täydellisesti. Iso osa ihmisistä vähät välittää näistä asioista.
-
-
-

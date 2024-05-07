@@ -4,9 +4,7 @@ description: "Sielujen syöveri on kolmas osa Tiina Raevaaran Eerika-sarjaa. Pid
 date: 2024-04-15T08:00:00+03:00
 draft: false
 slug: sielujen-syoveri
-categories:
-    - kirjat
-tags:
+aiheet:
     - kirjat
 resources:
     - name: cover
@@ -59,4 +57,3 @@ Kuten kaksi edellistä kirjaa, tämäkään ei tunnu oikein tietävän, että mi
 Voi olla, että kirja tuntuu osaltaan pettymykseltä siksi, että pidin todella paljon kahdesta edellisestä osasta. Kuten kirjoitin, tämä ei ole huono kirja. Se on vain hyvin geneeristä jännärihömppää. Odotin edelliset osat lukeneena Raevaaralta aika paljon enemmän. Tarinassa on liian paljon puutteita ja epäloogisuuksia, mutta Raevaaran tyyli kirjoittaa luo silti jännitystä, kun ei vaan ajattele liikaa.
 
 Toivon, että kirjailija palaisi neljännessä osassa tiedevetoisien tarinoiden äärelle. Se on se juttu, joka teki kahdesta edellisestä osasta ainutlaatuisia. Ehkä se ei uppoa kaikkiin, mutta pidän sitä parempana kuin geneerinen ja jossain määrin aivoton mysteerihömppä, joka tuntuu lähinnä suuren yleisön kosiskelulta. Päähenkilö kaipaisi ryhtiä. Aivoton sekoilu alkaa käydä vanhaksi.
-

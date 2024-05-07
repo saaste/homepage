@@ -4,9 +4,7 @@ description: "Olen läpensä kyllästynyt tekoälysekoiluun ja halusin varmistaa
 date: 2024-04-13T00:45:00+03:00
 draft: false
 slug: tekoalybottien-estaminen
-categories:
-    - tekniikka
-tags:
+aiheet:
     - tekniikka
 resources:
     - name: cover

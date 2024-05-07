@@ -4,10 +4,7 @@ description: "En pidä kauheasti siitä, että kirjanmerkit on sidottu yksittäi
 date: 2024-03-11T08:30:00+02:00
 draft: false
 slug: bookmark-manager
-categories:
-    - tekniikka
-    - esteettömyys
-tags:
+aiheet:
     - tekniikka
     - esteettömyys
 resources:

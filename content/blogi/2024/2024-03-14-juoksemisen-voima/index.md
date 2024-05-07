@@ -4,10 +4,9 @@ description: "En ole viime päivinä ollut paras mahdollinen itseni. Ulkona sato
 date: 2024-03-14T16:50:00+02:00
 draft: false
 slug: juoksemisen-voima
-categories:
+aiheet:
     - hyvinvointi
-tags:
-    - hyvinvointi
+    - liikunta
 resources:
     - name: cover
       src: cover.jpg
@@ -65,9 +64,3 @@ Minulla oli pitkä tauko juoksemisesta henkisten haasteiden takia. Kärsin melus
 Kehoni kulkee edelleen sitä tietä, jonka valitsimme risteyksessä. Se muisti, kuinka kohtelin sitä. Nyt se kohtelee minua samalla tavalla. Vaikka laiminlöinkin kehoani jonkin aikaa, kaikki se aikaisemmin laitettu hyvä ei sieltä niin vain katoa. Mutta jos kehoaan kohtelee vuosikausia huonosti, se muuttaa suuntaa ja alkaa kohdella myös sinua huonosti. Se kostaa eikä lepy helposti.
 
 Juoskaa, ihmiset. Juoskaa vähän, juoskaa pitkälle, juoskaa hitaasti tai juoskaa kovaa. Juoskaa varovasti tai kokeilkaa rajojanne. Meidät on [tehty juoksemaan](https://www.chrismcdougall.com/born-to-run/).
-
-
-
-
-
-

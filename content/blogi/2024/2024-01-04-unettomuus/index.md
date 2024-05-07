@@ -4,9 +4,7 @@ description: "Kun on kokenut pahan unettomuuden, sitä oppii arvostamaan unta ih
 date: 2024-01-05T05:43:00+08:00
 draft: false
 slug: unettomuus
-categories:
-    - hyvinvointi
-tags:
+aiheet:
     - hyvinvointi
 resources:
     - name: cover

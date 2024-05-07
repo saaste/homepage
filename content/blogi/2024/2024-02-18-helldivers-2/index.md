@@ -4,9 +4,7 @@ description: "Helldivers 2 on jatkoa vuonna 2015 julkaistulle, suositulle co-op 
 date: 2024-02-18T10:48:00+02:00
 draft: false
 slug: helldivers-2
-categories:
-    - pelit
-tags:
+aiheet:
     - pelit
 resources:
     - name: cover

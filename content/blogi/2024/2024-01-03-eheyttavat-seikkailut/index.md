@@ -5,10 +5,7 @@ date: 2024-01-03T05:34:00+02:00
 publishDate: 2024-01-03T05:34:00+02:00
 draft: false
 slug: eheyttavat-seikkailut
-categories:
-    - matkustaminen
-    - hyvinvointi
-tags:
+aiheet:
     - matkustaminen
     - hyvinvointi
 resources:

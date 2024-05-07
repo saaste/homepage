@@ -4,9 +4,7 @@ description: "Kävin aamulla mielenkiintoisen keskustelun puolison kanssa uniryt
 date: 2024-02-16T17:15:00+02:00
 draft: false
 slug: mystinen-aamu-ja-iltavirkkuus
-categories:
-    - hyvinvointi
-tags:
+aiheet:
     - hyvinvointi
 resources:
     - name: cover

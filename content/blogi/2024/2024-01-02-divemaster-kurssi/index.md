@@ -5,9 +5,7 @@ date: 2024-01-02T04:18:00+02:00
 publishDate: 2024-01-02T04:18:00+02:00
 draft: false
 slug: divemaster-kurssi
-categories:
-    - matkustaminen
-tags:
+aiheet:
     - matkustaminen
 resources:
     - name: cover

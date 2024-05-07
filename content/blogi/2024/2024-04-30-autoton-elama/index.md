@@ -4,10 +4,7 @@ description: "En ole koskaan omistanut autoa. En ole edes halunnut omistaa, vaik
 date: 2024-04-30T19:35:00+03:00
 draft: false
 slug: autoton-elama
-categories:
-    - hyvinvointi
-    - ympäristö
-tags:
+aiheet:
     - hyvinvointi
     - ympäristö
 resources:

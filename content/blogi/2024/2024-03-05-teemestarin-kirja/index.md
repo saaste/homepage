@@ -4,9 +4,7 @@ description: "Vuoden 2024 ensimmäiseksi suomenkieliseksi kirjaksi valikoitui pu
 date: 2024-03-05T08:50:00+02:00
 draft: false
 slug: teemestarin-kirja
-categories:
-    - kirjat
-tags:
+aiheet:
     - kirjat
 resources:
     - name: cover

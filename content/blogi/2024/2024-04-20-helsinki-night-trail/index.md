@@ -4,10 +4,9 @@ description: "Aivan liian pitkän tauon jälkeen olen saanut mukavalla tavalla k
 date: 2024-04-20T09:00:00+03:00
 draft: false
 slug: helsinki-night-trail
-categories:
+aiheet:
     - hyvinvointi
-tags:
-    - hyvinvointi
+    - liikunta
 resources:
     - name: cover
       src: cover.jpg

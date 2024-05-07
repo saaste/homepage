@@ -4,9 +4,7 @@ description: "Luin eilen loppuun Eerika Hämeranta -sarjan neljännen ja samalla
 date: 2024-04-24T09:17:00+03:00
 draft: false
 slug: uinuva-solu
-categories:
-    - kirjat
-tags:
+aiheet:
     - kirjat
 resources:
     - name: cover

@@ -4,9 +4,7 @@ description: "Aurinkoisen päivän kunniaksi kävin juoksemassa puolimaratonin. 
 date: 2024-05-01T20:10:00+03:00
 draft: false
 slug: anna-anteeksi-ja-voit-paremmin
-categories:
-    - hyvinvointi
-tags:
+aiheet:
     - hyvinvointi
 resources:
     - name: cover

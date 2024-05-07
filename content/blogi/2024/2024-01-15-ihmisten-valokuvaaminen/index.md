@@ -4,9 +4,7 @@ description: "Ihmisten valokuvaaminen on aina ollut minulle vaikeaa. En voi tunn
 date: 2024-01-15T22:25:00+08:00
 draft: false
 slug: ihmisten-valokuvaaminen
-categories:
-    - valokuvaus
-tags:
+aiheet:
     - valokuvaus
 resources:
     - name: cover

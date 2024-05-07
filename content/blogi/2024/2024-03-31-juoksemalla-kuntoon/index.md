@@ -4,10 +4,9 @@ description: "Aikaisemmassa juoksukirjoituksessa kerroin, kuinka onnistuin muuta
 date: 2024-03-31T10:45:00+03:00
 draft: false
 slug: juoksemalla-juoksukuntoon
-categories:
+aiheet:
     - hyvinvointi
-tags:
-    - hyvinvointi
+    - liikunta
 resources:
     - name: cover
       src: cover.jpg

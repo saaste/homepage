@@ -20,7 +20,7 @@
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         {{ .Summary }}
 
-        {{ with .Params.categories }}
+        {{ with .Params.aiheet }}
         <ul class="categories">
             {{ range . }}
                 <li class="category category-{{ . }}"><a href="{{ "categories/" | absLangURL }}{{ . | urlize}}">{{ . }}</a></li>

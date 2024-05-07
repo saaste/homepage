@@ -4,9 +4,7 @@ description: "Tutustuin jokin aika sitten IndieWeb-termiin ja minulle tuli väli
 date: 2024-04-17T19:45:00+03:00
 draft: false
 slug: indie-web
-categories:
-    - tekniikka
-tags:
+aiheet:
     - tekniikka
 resources:
     - name: cover

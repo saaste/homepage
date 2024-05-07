@@ -4,9 +4,7 @@ description: "Vuoden kolmas lukemani suomalainen kirja on Tiina Raevaaran Polaar
 date: 2024-03-25T08:00:00+02:00
 draft: false
 slug: polaaripyorre
-categories:
-    - kirjat
-tags:
+aiheet:
     - kirjat
 resources:
     - name: cover

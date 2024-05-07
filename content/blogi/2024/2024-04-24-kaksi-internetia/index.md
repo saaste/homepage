@@ -4,9 +4,7 @@ description: "Kuuntelin The OverAnalyzers -podcastin jakson, joka käsitteli sos
 date: 2024-04-24T19:21:00+03:00
 draft: false
 slug: kaksi-internetia
-categories:
-    - tekniikka
-tags:
+aiheet:
     - tekniikka
 resources:
     - name: cover
@@ -108,4 +106,3 @@ Niitä riittää. Alati kasvava joukko ihmisiä alkaa kyllästyä moderniin Inte
 Minulle nämä ovat hyviä merkkejä.
 
 En tiedä millaiselta tulevaisuuden Internet näyttää, mutta nyt kun olen löytänyt tieni tähän pieneen kuplaan, koetan pysyä sen sisällä. Pidän puhelimen ilmoitukset poissa päältä, ylläpidän blogia, pyöritän itse tarvitsemiani palveluja, hyödynnän avoimen lähdekoodin ratkaisuja ja jaan omia tekeleitäni muiden käyttöön. Kun haluan olla osa sosiaalista mediaa, teen sen Fediversen kaltaisessa avoimessa ympäristössä. Suljetut ympäristöt ovat minulle isolta osin historiaa.
-

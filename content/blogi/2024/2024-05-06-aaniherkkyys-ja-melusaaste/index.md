@@ -4,10 +4,7 @@ description: "Olen useaan otteeseen yrittänyt kirjoittaa kokemuksiani ääniher
 date: 2024-05-06T09:15:00+03:00
 draft: false
 slug: aaniherkkyys-ja-melusaaste
-categories:
-    - hyvinvointi
-    - ympäristö
-tags:
+aiheet:
     - hyvinvointi
     - ympäristö
 resources:

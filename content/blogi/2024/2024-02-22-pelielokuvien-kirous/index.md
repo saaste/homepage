@@ -4,10 +4,7 @@ description: "Näin Borderlands-elokuvan trailerin ja mietin, ettei elokuvalla t
 date: 2024-02-22T12:50:00+02:00
 draft: false
 slug: pelielokuvien-kirous
-categories:
-    - pelit
-    - elokuvat
-tags:
+aiheet:
     - pelit
     - elokuvat
 resources:

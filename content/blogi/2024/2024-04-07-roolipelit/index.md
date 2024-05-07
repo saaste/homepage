@@ -4,9 +4,7 @@ description: "Olen pelannut kohta 100 tuntia Baldur's Gate 3:sta. En ole pelannu
 date: 2024-04-07T12:50:00+03:00
 draft: false
 slug: roolipelit-ja-baldurs-gate-3
-categories:
-    - pelit
-tags:
+aiheet:
     - pelit
 resources:
     - name: cover
@@ -87,11 +85,3 @@ Minulla ei ole edelleenkään ole minkäänlaista kokemusta pöytäroolipeleist�
 Omien pelikavereiden kanssa suurin ongelmana on aina se, kuinka kaikkien aikataulut saadaan mätsäämään ja jengi saman pöydän ääreen. Asiaan perehtyessä opin, että pelaajien ei tarvitse nykyään olla samassa paikassa. [Roll20](https://roll20.net/):n kaltaiset alustat mahdollistavat sen, että roolipelejä voi pelata myös etänä verkon yli.
 
 Tämän kirjoituksen piti alun perin olla Baldur's Gate 3:n arvostelu, mutta päätin, että teen sen vasta sitten, kun olen päässyt pelin tarinan läpi. Minulla ei ole aavistustakaan kuinka pitkään tarina vielä kestää, mutta en olisi yllättynyt, jos siinä menisi vielä toiset 100 tuntia. Arvostelu tulee siis joskus myöhemmin.
-
-
-
-
-
-
-
-

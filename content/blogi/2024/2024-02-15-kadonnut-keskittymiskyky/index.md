@@ -4,10 +4,7 @@ description: "Viimeaikoina on puhuttu paljon keskittymiskyvyn puutteesta sekä s
 date: 2024-02-15T15:45:00+02:00
 draft: false
 slug: kadonnut-keskittymiskyky
-categories:
-    - hyvinvointi
-    - matkailu
-tags:
+aiheet:
     - hyvinvointi
     - matkailu
 resources:

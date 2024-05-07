@@ -4,9 +4,7 @@ description: "Minimalismi synnyttää helposti negatiivisia mielikuvia. Eikä ih
 date: 2024-03-28T19:30:00+02:00
 draft: false
 slug: minimalismia-kohtuudella
-categories:
-    - hyvinvointi
-tags:
+aiheet:
     - hyvinvointi
 resources:
     - name: cover

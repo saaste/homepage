@@ -4,9 +4,7 @@ description: "Olen ammatiltani ohjelmoija ja silti olen alkanut inhota teknologi
 date: 2024-03-01T15:40:00+02:00
 draft: false
 slug: kun-nortti-oppi-inhoamaan-teknologiaa
-categories:
-    - teknologia
-tags:
+aiheet:
     - teknologia
 resources:
     - name: cover

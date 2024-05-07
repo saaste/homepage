@@ -4,10 +4,7 @@ description: "Olen löytänyt itseni viime viikkojen aikana miettimässä sitä,
 date: 2024-04-09T20:15:00+03:00
 draft: false
 slug: sukupolvet-ja-tulevaisuus-ilman-valoa
-categories:
-    - ympäristö
-    - hyvinvointi
-tags:
+aiheet:
     - ympäristö
     - hyvinvointi
 resources:
@@ -47,6 +44,3 @@ Onneksi kaikki millenniaalit eivät ole kuitenkaan pahoja ja toki minunkin sukup
 Jokaisella aikakaudella on ollut omat ongelmansa. Minusta tuntuu kuitenkin siltä, että maapalloa kohtaava muutos tulee päihittämään laajuudellaan ja vakavuudellaan kaikki aikaisemmat. Nuoret eivät aikuistu haaveillen valoisasta tulevaisuudesta. Heidän tulevaisuutensa voi koostua elämästä jatkuvasti pahenevien kriisien ja niistä seuraavien sotien keskellä.
 
 Toivon, että tällaiset synkät tulevaisuudenkuvat ovat vain minun negatiivisen ajattelun luoma kuvitelma. Ehkä todellisuus onkin paljon valoisampi ja onnistumme muuttamaan suunnan, johon olemme menossa. Jos emme, en kadehdi tämän hetken nuoria ja lapsia. Jätämme heille melkoisen perinnön ja ehdimme siinä samalla kärsiä siitä itse.
-
-
-

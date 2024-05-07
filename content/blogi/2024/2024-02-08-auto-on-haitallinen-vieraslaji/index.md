@@ -4,10 +4,7 @@ description: "Vietin pari päivää autossa kierrellen pientä saarta, jonka inf
 date: 2024-02-08T13:28:00+08:00
 draft: false
 slug: auto-on-haitallinen-vieraslaji
-categories:
-    - ympäristö
-    - matkustaminen
-tags:
+aiheet:
     - ympäristö
     - matkustaminen
 resources:
