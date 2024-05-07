@@ -4,9 +4,7 @@ description: "Olen pitänyt meteliä (eh...) ympäristöjen muuttumisesta yhä m
 date: 2024-03-11T15:30:00+02:00
 draft: true
 slug: en-pida-autoista
-categories:
-    - hyvinvointi
-tags:
+aiheet:
     - hyvinvointi
 resources:
     - name: cover
@@ -45,12 +43,3 @@ Jollain vinoutuneella tavalla olen iloinen siitä, että juuri käynnistynyt lak
 Nautin itse suunnattomasti autottomasta elämästä. Minun ei tarvitse maksella autolainan lyhennyksiä, järjettömiä huoltokustannuksia tai muitakaan juoksevia kuluja. Voin käyttää kaiken siitä vapautuvan rahan oikeasti kivoihin asioihin. En tuhlaa elämääni ruuhkassa istumiseen enkä myrkytä mieltäni rattiraivoon. Kun menen töihin, voin istua kaikessa rauhassa raitiovaunussa ja lukea kirjaa - voin rentoutua. Minun ei tarvitse koskaan katsoa aikatauluja, koska kulkuvälineitä kulkee niin tiheästi. Jos haluan, voin myös polkea töihin pyörällä ja saada samalla päivän liikunta-annoksen. Parasta tässä kaikessa on se, että minulla on vaihtoehtoja.
 
 ### Ajatu
-
-
-
-
-
-
-
-
-

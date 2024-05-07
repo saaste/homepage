@@ -3,9 +3,7 @@ title: "Epäinhimillinen syyllistäminen"
 date: 2024-01-15T22:25:00+08:00
 draft: true
 slug: epainhimillinen-syyllistaminen
-categories:
-    - hyvinvointi
-tags:
+aiheet:
     - hyvinvointi
 resources:
     - name: cover

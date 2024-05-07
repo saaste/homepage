@@ -23,7 +23,7 @@
         {{ with .Params.aiheet }}
         <ul class="categories">
             {{ range . }}
-                <li class="category category-{{ . }}"><a href="{{ "categories/" | absLangURL }}{{ . | urlize}}">{{ . }}</a></li>
+                <li class="category category-{{ . }}"><a href="{{ "aiheet/" | absLangURL }}{{ . | urlize}}">{{ . }}</a></li>
             {{ end }}
         </ul>
         {{ end }}
