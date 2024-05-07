@@ -47,7 +47,7 @@ menus:
 taxonomies:
     categories: "categories"
     tags: "tags"
-    custom: "custom"
+    aiheet: "aiheet"
 
 caches:
   getresource:

@@ -9,10 +9,10 @@
         {{ $readingTime = math.Ceil $readingTime }}
 
         Kirjoitus on julkaistu <strong><time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time></strong>, sen lukemiseen menee noin <strong>{{ $readingTime }} minuuttia</strong> ja
-        {{ with .Params.tags }} 
+        {{ with .Params.aiheet }} 
             se kuuluu seuraaviin aihealueisiin: 
             {{ range . }}
-            <a href="{{ "tags/" | absLangURL }}{{ . | urlize}}">{{ . }}</a>
+            <a href="{{ "aiheet/" | absLangURL }}{{ . | urlize}}">{{ . }}</a>
             {{ end }}
         {{ end }}
     </div>

@@ -1,8 +1,18 @@
 {{ define "main" }}
 
 <section class="list-page-container">
-    <h2 class="list-page-title">{{ .Title | singularize }}</h2>
+    <h2 class="list-page-title">{{ .Title }}</h2>
     {{ $paginator := .Paginate ( .Pages.ByPublishDate.Reverse ) }}
+
+    {{ with .Site.Taxonomies.aiheet }}
+    <div class="categories">
+        {{ range $key, $value := . }}
+        <div class="category">
+            <a href="{{ "aiheet/" | absLangURL }}{{ $key | urlize  }}">{{ $key }}</a> ({{ len $value }})
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
 
     {{ range $paginator.Pages }}
     <div class="list-item">
@@ -10,10 +20,10 @@
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         {{ .Summary }}
 
-        {{ if .Params.tags }}
-        <ul class="tags">
-            {{ range .Params.tags }}
-                <li class="tag tag-{{ . }}"><a href="{{ "tags/" | absLangURL }}{{ . | urlize}}">#{{ . }}</a></li>
+        {{ with .Params.categories }}
+        <ul class="categories">
+            {{ range . }}
+                <li class="category category-{{ . }}"><a href="{{ "categories/" | absLangURL }}{{ . | urlize}}">{{ . }}</a></li>
             {{ end }}
         </ul>
         {{ end }}

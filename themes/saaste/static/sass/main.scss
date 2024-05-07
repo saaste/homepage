@@ -324,6 +324,24 @@ table {
     }
 }
 
+.list-page-container {
+    .categories {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 1rem;
+        padding-bottom: 2rem;
+        padding-top: 2rem;
+        
+        .category {
+            display: inline-block;
+            background-color: var(--block-color);
+            padding: 0.5rem 1rem;
+            border-radius: 10px;
+        }
+    }
+}
+
 .footnotes {
     font-size: $font-size-small;
 }
@@ -342,7 +360,7 @@ table {
         display: block;
     }
 
-    .tags {
+    .tags, .categories {
         display: flex;
         gap: 1rem;
         padding: 0;

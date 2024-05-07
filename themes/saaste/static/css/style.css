@@ -337,6 +337,21 @@ table th {
   text-align: right;
 }
 
+.list-page-container .categories {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+.list-page-container .categories .category {
+  display: inline-block;
+  background-color: var(--block-color);
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+}
+
 .footnotes {
   font-size: 0.833rem;
 }
@@ -352,7 +367,7 @@ table th {
 .list-item time {
   display: block;
 }
-.list-item .tags {
+.list-item .tags, .list-item .categories {
   display: flex;
   gap: 1rem;
   padding: 0;
