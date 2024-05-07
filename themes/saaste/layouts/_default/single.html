@@ -1,7 +1,7 @@
 {{ define "main" }}
-<section class="single-page-container page-type-{{ .Type }}" data-pagefind-body>
+<section class="single-page-container page-type-{{ .Type }} h-entry" data-pagefind-body>
     
-    <h2 class="single-page-title" data-pagefind-meta="title">{{ .Title }}</h2>
+    <h2 class="single-page-title p-name" data-pagefind-meta="title">{{ .Title }}</h2>
 
     {{ if eq .Type "blogi" }}
     <div class="blog-meta">
@@ -12,13 +12,15 @@
         {{ with .Params.aiheet }} 
             se kuuluu seuraaviin aihealueisiin: 
             {{ range . }}
-            <a href="{{ "aiheet/" | absLangURL }}{{ . | urlize}}">{{ . }}</a>
+            <a href="{{ "aiheet/" | absLangURL }}{{ . | urlize}}" class="e-category">{{ . }}</a>
             {{ end }}
         {{ end }}
     </div>
     {{ end}}
 
-    {{ .Content }}
+    <div class="e-content">
+        {{ .Content }}
+    </div>
 
     {{ if eq .Type "blogi" }}
     {{ if (or .NextInSection .PrevInSection) }}
