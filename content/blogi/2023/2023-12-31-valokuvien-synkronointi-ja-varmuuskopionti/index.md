@@ -4,7 +4,7 @@ date: 2023-12-31T09:38:00+02:00
 draft: false
 slug: valokuvien-synkronointi-ja-varmuuskopiointi
 aiheet:
-    - teknologia
+    - tekniikka
     - valokuvaus
 resources:
     - name: cover

@@ -5,7 +5,7 @@ date: 2024-01-14T20:37:00+08:00
 draft: false
 slug: obsidian-ja-ajatusten-dokumentointi
 aiheet:
-    - teknologia
+    - tekniikka
     - hyvinvointi
 resources:
     - name: cover

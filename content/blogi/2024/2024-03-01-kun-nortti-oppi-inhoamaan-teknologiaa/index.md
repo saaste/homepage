@@ -5,7 +5,7 @@ date: 2024-03-01T15:40:00+02:00
 draft: false
 slug: kun-nortti-oppi-inhoamaan-teknologiaa
 aiheet:
-    - teknologia
+    - tekniikka
 resources:
     - name: cover
       src: cover.jpg
