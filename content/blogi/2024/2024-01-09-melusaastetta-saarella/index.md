@@ -6,7 +6,7 @@ draft: false
 slug: melusaastetta-saarella
 aiheet:
     - hyvinvointi
-    - matkustaminen
+    - matkailu
 resources:
     - name: cover
       src: cover.jpg

@@ -6,7 +6,7 @@ publishDate: 2024-01-02T04:18:00+02:00
 draft: false
 slug: divemaster-kurssi
 aiheet:
-    - matkustaminen
+    - matkailu
 resources:
     - name: cover
       src: cover.png

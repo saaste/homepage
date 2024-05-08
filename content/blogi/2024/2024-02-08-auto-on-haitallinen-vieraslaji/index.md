@@ -6,7 +6,7 @@ draft: false
 slug: auto-on-haitallinen-vieraslaji
 aiheet:
     - ympäristö
-    - matkustaminen
+    - matkailu
 resources:
     - name: cover
       src: cover.jpg

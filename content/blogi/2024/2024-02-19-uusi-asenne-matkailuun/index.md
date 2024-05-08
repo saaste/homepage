@@ -5,7 +5,7 @@ date: 2024-02-19T19:07:00+02:00
 draft: false
 slug: uusi-asenne-matkailuun
 aiheet:
-    - matkustaminen
+    - matkailu
 resources:
     - name: cover
       src: cover.jpg

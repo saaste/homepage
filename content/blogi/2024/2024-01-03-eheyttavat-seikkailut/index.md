@@ -6,7 +6,7 @@ publishDate: 2024-01-03T05:34:00+02:00
 draft: false
 slug: eheyttavat-seikkailut
 aiheet:
-    - matkustaminen
+    - matkailu
     - hyvinvointi
 resources:
     - name: cover
