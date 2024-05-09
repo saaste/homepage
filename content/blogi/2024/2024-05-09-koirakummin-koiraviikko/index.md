@@ -20,7 +20,7 @@ Olen äärimmäisen eläinrakas ihminen. Erityisesti koirat ovat lähellä sydä
 
 Koiran hankinta on käynyt usein mielessä, mutta se on jäänyt pelkäksi ajatukseksi kahdesta syystä: oma elämäntilanteeni tai kotini ei ole ollut sopia, ja sen lisäksi olen ylihuolehtivainen. Ensimmäinen on ratkaistavissa, mutta jälkimmäinen onkin aika paljon vaikeampaa.
 
-Koiran sijaan minulla oli [fretti](https://fi.wikipedia.org/wiki/Fretti) eli kesyhilleri. Leikkisä veijari toi paljon iloa elämääni, mutta samalla se toi myös paljon huolta. Huoli ei lähes koskaan ollut todellinen, vaan kumpusi minusta. Reagoin todella herkästi mitättömiin muutoksiin ja aloin heti miettiä, että lemmikilläni ei ole kaikki kunnossa. Tilanne oli vielä ikävämpi silloin, kun jotain oli oikeasti vialla. Se oli minulla aina hankalaa, kun en ymmärtänyt eläimen huolta, eikä se osannut sitä minulle kertoa.
+Koiran sijaan minulla oli [fretti](https://fi.wikipedia.org/wiki/Fretti) eli kesyhilleri. Leikkisä veijari toi paljon iloa elämääni, mutta samalla se toi myös paljon huolta. Huoli ei lähes koskaan ollut todellinen, vaan kumpusi minusta. Reagoin todella herkästi mitättömiin muutoksiin ja aloin heti miettiä, että lemmikilläni ei ole kaikki kunnossa. Tilanne oli vielä ikävämpi silloin, kun jotain oli oikeasti vialla. Se oli minulle aina hankalaa, kun en ymmärtänyt eläimen huolta, eikä se osannut sitä minulle kertoa.
 
 Lemmikkien menettäminen on ollut itselleni pienestä asti aivan kauheaa. Usein tuntuu, että niiden menettäminen sattuu enemmän kuin ihmisten menettäminen. Tämä lapsena usean otteeseen koettu, sydäntä repivä menettämisen tuska tuntuu vain kasvaneen iän myötä.
 
@@ -30,7 +30,7 @@ Nyt se on niin suuri, että pelkään sitä. Pelkkään ottaa lemmikkiä, koska 
 
 Elämässäni oli kuitenkin koiran mentävä aukko. Olin usein miettinyt, että ehkä voisin käydä lenkittämässä eläinsuojeluyhdistyksen koiria, mutta harmillisesti yhdistykset eivät sitä mahdollista. Syynä on nähtävästi sekä ihmisten, että koirien turvallisuus. Harkitsin sitäkin, että kävisin välillä viettämässä aikaa arkojen ja ihmisiin tottumattomien kissojen kanssa. Vaikka pidän kissoista ja toiminta olisi ollut hyödyksi myös niille, kaipasin silti koiraseuraa.
 
-Sitten Facebookista löytyi [Lemmikkikummit-ryhmä](https://www.facebook.com/groups/lemmikkikummit/). Ryhmän ajatuksena on saattaa yhteen uutta ihmisseuraa kaipaavat lemmikit sekä lemmikkiseuraa kaipaavat ihmiset. Ikävä kyllä etenkin lemmikkien omistajien puolella kaikki eivät tätä ymmärtäneet. Osa tuntui etsivän lähinnä ilmaista hoitajaa omien menojen mukaan, ja tämä ei ole ryhmän idea.
+Sitten Facebookista löytyi [Lemmikkikummit-ryhmä](https://www.facebook.com/groups/lemmikkikummit/). Ryhmän ajatuksena on saattaa yhteen uutta ihmisseuraa kaipaavat lemmikit sekä lemmikkiseuraa kaipaavat ihmiset. Ikävä kyllä etenkin lemmikkien omistajien puolella kaikki eivät tätä ymmärtäneet. Osa tuntui etsivän lähinnä ilmaista hoitajaa omien menojen mukaan. Tämä ei ole ryhmän idea.
 
 Olin yhteydessä kolmeen eri omistajaan. Ensimmäinen oli outo hiippari, jonka kanssa en onnistunut järjestämään tapaamista useasta yrityksestä huolimatta. Hänellä tuntui aina olevan kiire. Toisen kanssa se onnistui ja koirakin vaikutti varsin hauskalta. Kolmas päätyi olemaan oikea lottopotti, sillä omistajat asuivat naapuritalossa!
 
@@ -38,7 +38,7 @@ Pienen hetken elämässäni oli kaksi koiraa. Varsin pian minulle alkoi kuitenki
 
 Jatkoimme ainoastaan naapureiden kanssa ja aloimme rakentaa uutta koirakummisuhdetta uuteen ystäväämme, reilun vuoden ikäiseen [australiankelpieen](https://fi.wikipedia.org/wiki/Australiankelpie). Näistä hetkistä on nyt useampi vuosi. Matkan varrella on sattunut kaikenlaista, mutta ehkä suurin muutos on ollut se, että meidän kummikoira sai riesakseen "pikkusiskon". Nyt kummikoiria on siis kaksi!
 
-Koirakummeilun alkupuolella saatoin käydä useita kertoja viikossa koirien kanssa lenkillä. Välillä pyysin ne myös kylään ihan vaan illaksi. Ikävä kyllä elämä kulkee omia polkujaan. Sekä me, että koiran omistajat, olemme muuttaneet, emmekä ole enää naapureita. Näemme koiria nyt harvemmin eikä spontaaneja visiittejä voi niin helposti järjestää. Yhteys on silti pysynyt ja koirat ovat kaikesta huolimatta pyöräiltävän matkan päässä.
+Koirakummeilun alkupuolella saatoin käydä useita kertoja viikossa koirien kanssa lenkillä. Välillä pyysin ne myös kylään ihan vaan illaksi. Ikävä kyllä elämä kulkee omia polkujaan. Sekä me että koirien omistajat muutetimme, emmekä ole enää naapureita. Näemme koiria nyt harvemmin eikä spontaaneja visiittejä voi niin helposti järjestää. Yhteys on silti pysynyt ja koirat ovat kaikesta huolimatta pyöräiltävän matkan päässä.
 
 ![Kahden koiran muotokuvat vierekkäin. Kumpikin katsoo kameran ohi oikealle korvat pystyssä.](koirat.jpg 'Meidän kummikoirat. Vasemmalla on alkuperäinen ransu ja oikealla hänen riivattu "pikkusisko".')
 
