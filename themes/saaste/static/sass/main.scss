@@ -309,6 +309,7 @@ table {
     grid-template-columns: 1fr 1fr;
     grid-template-areas: "prev next";
     padding-top: 3rem;
+    border-top: var(--separator);
 
     .title {
         font-weight: bold;
@@ -322,6 +323,35 @@ table {
         grid-area: next;
         text-align: right;
     }
+}
+
+.webmentions {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-top: var(--separator);
+
+    h5 {
+        font-size: $font-size-h5;
+    }
+
+    .mentions {
+        padding-top: 1rem;
+    }
+
+    .mention {
+        p {
+            padding: 0;
+        }
+
+        .author-name {
+            font-weight: bold;
+        }
+
+        &+.mention {
+            padding-top: 1rem;
+        }
+    }
+    
 }
 
 .list-page-container {
@@ -344,6 +374,7 @@ table {
 
 .footnotes {
     font-size: $font-size-small;
+    padding-bottom: 1rem;
 }
 
 

@@ -23,6 +23,43 @@
     </div>
 
     {{ if eq .Type "blogi" }}
+
+    {{ $all := getJSON "webmentions.json" }}
+    {{ $allMatching := (where $all "target" (absURL .Page.Permalink)) }}
+    {{ $likes := ((where $allMatching "type" "like") | len) }}
+    {{ $mentions := (where $allMatching "type" "mention")}}
+    {{ $hasMentions := (or (gt $likes 0) (gt ($mentions | len) 0))}}
+   
+    {{ if $hasMentions }}
+    <div class="webmentions">
+        <h5>Kirjoitus muualla</h5>
+        {{ if (gt $likes 0) }}
+        <p class="likes">Tykkäykset <em>Mastodonissa</em> ❤️ {{ $likes }}</p>
+        {{ end }}
+
+        {{ with $mentions }}
+        <div class="mentions">
+            {{ range . }}
+                {{ $author := index . "author" }}
+                {{ $authorName := index $author "name" }}
+                {{ $name := index . "name" }}
+                {{ $content := index . "content" }}
+                {{ $published := time.AsTime (index . "published") }}
+                {{ $content := index . "content" }}
+                {{ $url := index . "url" }}
+                <div class="mention">
+                    <p class="author-name">{{ $authorName }}</p>
+                    <p class="content">{{ $content }}</p>
+                    <p class="published"><a href="{{ $url }}" target="_blank">{{ time.Format "02.01.2006 kello 15:04 -0700" $published }}</a></p>
+                </div>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+
+    
+   
     {{ if (or .NextInSection .PrevInSection) }}
     <div class="single-page-nav" data-pagefind-ignore>
         {{ with .PrevInSection }}
