@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### keskiviikko 8.5.2024
+- Lisätty Mastodon-liket blogikirjoituksiin
+
 ### tiistai 7.5.2024
 - Blogikirjoitusten aiheet lisätty [kirjoituslistaan]({{< ref "/blogi" >}}) 
 
