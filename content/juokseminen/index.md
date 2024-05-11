@@ -12,6 +12,11 @@ Alla on lista juoksemistani matkoista, jotka ovat puolimaratonin tai sitä pidem
 
 ### 2024
 
+#### 11.05.2024: 30 km
+- Matka: 30,06 km
+- Aika: 3:14:30
+- Tahti: 6:28/km
+
 #### 01.05.2024: Puolimaraton
 - Matka: 22,05 km
 - Aika: 2:11:20
