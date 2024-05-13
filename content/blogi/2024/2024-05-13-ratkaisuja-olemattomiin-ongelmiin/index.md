@@ -19,7 +19,7 @@ Olen oppinut työelämässä kysymään, että mikä on se todellinen ongelma, j
 
 ![Olohuoneen lattialla seisova pronssin värinen TukasEV. Kuntopyörässä on leveä, epämukavan näköinen penkki. Jalkojen välissä on suuri, kapea akku. Laiteessa on hyvin lelumainen vaikutelma.](cover.jpg)
 
-Haluan ajatella, että tällä liettualaisella yrityksellä on ainakin jossain kohtaa ollut ihan jalo ajatus taustalla. Tästä huolimatta mieleen tulee, että yrityksessä ei ole missään kohtaa pysähdytty kysymään sitä todellinen ongelma, jota se yrittää ratkaista.
+Haluan ajatella, että tällä liettualaisella yrityksellä on ainakin jossain kohtaa ollut ihan jalo ajatus taustalla. Tästä huolimatta mieleen tulee, että yrityksessä ei ole missään kohtaa pysähdytty kysymään sitä todellista ongelmaa, jota se yrittää ratkaista.
 
 Laitteessa on useita ongelmia, mutta ehkä suurin on kuitenkin se, että ihmiskeho on aivan surkea tuottamaan liike-energiaa. Polkupyörä valjastaa tämän energian loistavasti, mutta perinteisillä dynamoilla ajaneet tietävät, kuinka onnettomaan valoon energia riittää. LED-valot tietenkin paransivat tilannetta, mutta iso osa niistäkin toimii paristoilla ihan syystä.
 
