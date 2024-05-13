@@ -25,7 +25,7 @@ Laitteessa on useita ongelmia, mutta ehkä suurin on kuitenkin se, että ihmiske
 
 Ihmisen surkeus energian tuottajana näkyy hyvin [videossa](https://www.youtube.com/watch?v=S4O5voOCqAQ), jossa olympiatason ratapyöräilijä [Robert Förstemann](https://en.wikipedia.org/wiki/Robert_F%C3%B6rstemann) yrittää pyörittää 700 watin leivänpaahdinta polkupyörällä. Sarjakuvien supersankarin reisilihaksilla varustettu huippu-urheilija onnistuu siinä rimaa hipoen, ja polttaa samalla itsensä aivan loppuun. Suurin osa meistä ei kykene ylläpitämään tuollaisia tehoja kuin ehkä muutaman sekunnin, jos sitäkään.
 
-Robert tuotti suorituksen aikana **0,021 kWh**. Tässä kohtaa on hyvä huomioida, että TukasEV mainostaa polkupyöriään **2000 kWh** akuilla. Akkujen lataaminen lihasvoimin on käytännössä aivan järjetöntä hommaa.
+Robert tuotti suorituksen aikana **0,021 kWh**. Tässä kohtaa on hyvä huomioida, että TukasEV mainostaa polkupyöriään **2 kWh** akuilla. Akkujen lataaminen lihasvoimin on käytännössä aivan järjetöntä hommaa.
 
 Laitteen toinen ilmeinen ongelma on se, että sen valmistaminen vaatii energiaa sekä raaka-aineita. Kun lasketaan yhteen materiaalien louhimisen, tuottamisen, jalostamisen sekä kuljettamisen vaatima energia ja lisätään päälle tuotteen valmistuksen vaatima energia, niin luulen, että laitteen käyttäjät eivät tule koskaan tuottamaan pyörillä sitä energiaa, joka yksittäisen pyörän tekemiseen on mennyt. Sen päälle voidaan tietenkin lisätä tuotekehityksen ja testaamisen aikana käytetty energia. Kun muistetaan, että iso osa uudenvuoden lupausten huumassa ostetuista kuntopyöristä päätyy lähinnä vaatenaulakoksi, niin herää kysymys, että mikä tästä vekottimesta tekee erityisen vihreän?
 
