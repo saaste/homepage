@@ -21,7 +21,7 @@ Luin eilen loppuun Reetta Vuokko-Syrjäsen esikoisromaanin Syntykeho. Takakansit
 
 Tapahtumat sijoittuvat vuoteen 2466. Paikka voisi olla Suomi, mutta tässä kohtaa tulevaisuutta sillä ei ole juuri merkitystä. Maapallo ja ihmiskunta on muuttunut radikaalisti liikakansoittumisen myötä. Ratkaisuksi päätyi lopulta tekniikka, jolla ihmisten persoonallisuus, muistot ja koko olemus voidaan irrottaa kehosta ja siirtää servereille.
 
-Suuri osan ihmisistä elääkin nykyään sosiaaliserverillä ja saa kehoaikaa hyvin rajallisen määrän, jos sitäkään. Fyysisistä kehoista on tullut lähinnä rikkaiden ja parempiosaisten hupia. Jos joskus ongelma oli liikakansoittuminen, nyt yhteiskunta taistelee sen kanssa, ettei lisääntymiskykyisiä ihmisiä meinaa enää riittää. Ihmisten kyky tuntea fyysisestä ja seksuaalista vetovoimaa on kadonnut.
+Suuri osan ihmisistä elääkin nykyään sosiaaliserverillä ja saa kehoaikaa hyvin rajallisen määrän, jos sitäkään. Fyysisistä kehoista on tullut lähinnä rikkaiden ja parempiosaisten hupia. Jos joskus ongelma oli liikakansoittuminen, nyt yhteiskunta taistelee sen kanssa, ettei lisääntymiskykyisiä ihmisiä meinaa enää riittää. Ihmisten kyky tuntea fyysistä ja seksuaalista vetovoimaa on kadonnut.
 
 Kehojen käyttämistä valvoo Dorofy Oyj, globaali suuryritys, joka on saanut eräänlaisen yksinoikeuden säädellä kehopolitiikkaa. He toimivat myös ankarana poliisivoimana, joka valvoo, että kansalaiset noudattavat heidän sanelemaansa politiikkaa. Rangaistus kehorikoksesta on ankara, eikä aina ole selvää, mitä tuomituille lopulta tapahtuu.
 
@@ -87,7 +87,7 @@ Lisäksi haluan mainita sen, että jokainen luku alkaa kuvitelluilla lainauksill
 
 Ikävä kyllä tämä hienosti kirjoitettu vaihe ei jatku loppuun asti. Juoni muuttaa suuntaansa uuden satunnaisen käänteen seurauksena. Kehojen vaihtelu tulee takaisin osaksi tarinaa ja hahmot menettävät ison siivun siitä inhimillisyydestä, jota aikaisempi osa onnistui rakentamaan. Onneksi kaikkea ei kuitenkaan menetetä ja henkilöiden motiivit kantavat loppuun asti.
 
-Loppu tuntui muuhun tarinaan verrattuna hätäiseltä. Kirja tuhlasi ensimmäisen puolikkaan satunnaiseen hessuiluun, mutta lopun tapahtumat käytiin läpi parin luvun aikana. Taina saa kyllä ihan tyydyttävän loppuratkaisun, mutta se tuntui tyhjältä ja merkityksettömältä. Se ei herättänyt kysymyksiä eikä se saanut minua miettimään.
+Loppu tuntui muuhun tarinaan verrattuna hätäiseltä. Kirja tuhlasi ensimmäisen puolikkaan satunnaiseen hessuiluun, mutta lopun tapahtumat käytiin läpi parin luvun aikana. Tarina saa kyllä ihan tyydyttävän loppuratkaisun, mutta se tuntui tyhjältä ja merkityksettömältä. Se ei herättänyt kysymyksiä eikä se saanut minua miettimään.
 
 ### Yhteenveto
 
@@ -99,6 +99,6 @@ Takakansiteksti sanoo kirjan olevan rakkaustarina, jossa ei käytetä kertaakaan
 
 Lisäksi kirjailija onnistuu hienolla tavalla kuvaamaan ihmisten välistä välittämistä ja vetovoimaa, joka ei pohjaudu asioihin joihin olemme tottuneet. Se ei näyttäydy tavalla, johon olemme tottuneet. Silti siinä on jotain tuttua, johon pystyin samaistumaan.
 
-Kuten alussa totesin, halusin pitää tästä kirjasta. Ikävä kyllä se ei toteutunut. Voin jollain tasolla ymmärtää, tällainen tieteistarina uppoaa joihinkin ihmisiin. Ehkä Elisa Kirjan viisi tähteä ovat ansaittu. Minulle, joka sisäistää tarinat erityisesti ihmiskohtaloiden kautta, tämä ei tuntunut erityisen hyvin kirjoitetulta tarinalta.
+Kuten alussa totesin, halusin pitää tästä kirjasta. Ikävä kyllä se ei toteutunut. Voin jollain tasolla ymmärtää, miksi tällainen tieteistarina uppoaa joihinkin ihmisiin. Ehkä Elisa Kirjan viisi tähteä ovat ansaittu. Minulle, joka sisäistää tarinat erityisesti ihmiskohtaloiden kautta, tämä ei tuntunut erityisen hyvin kirjoitetulta tarinalta.
 
 Ehkä tämä ei vain ollut minua varten. Kaikkia ei tarvitse miellyttää!
