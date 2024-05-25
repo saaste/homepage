@@ -5,7 +5,8 @@
     {{ $paginator := .Paginate ( .Pages.ByPublishDate.Reverse ) }}
 
     {{ with .Site.Taxonomies.aiheet }}
-    <div class="categories">
+    <p><a href="" class="toggle" data-label-off="Näytä aihetunnisteet" data-label-on="Piilota aihetunnisteet" data-target="categories">Näytä aihetunnisteet</a></p>
+    <div class="categories hidden" id="categories">
         {{ range $key, $value := . }}
         <div class="category">
             <a href="{{ "aiheet/" | absLangURL }}{{ $key | urlize  }}">{{ $key }}</a> ({{ len $value }})
@@ -15,18 +16,30 @@
     {{ end }}
 
     {{ range $paginator.Pages }}
-    <div class="list-item">
-        <time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
-        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-        {{ .Summary }}
-
-        {{ with .Params.aiheet }}
-        <ul class="categories">
-            {{ range . }}
-                <li class="category category-{{ . }}"><a href="{{ "aiheet/" | absLangURL }}{{ . | urlize}}">{{ . }}</a></li>
+    <div class="list-item blog-posts">
+        <div class="cover-photo">
+            {{ $coverPhoto := .Resources.GetMatch "cover" }}
+            {{ if $coverPhoto }}
+            <picture>
+                <source srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" media="(max-width: 700px)">
+                <img src="{{ $coverPhoto.Permalink }}" alt="{{ $coverPhoto.Title }}" width="250" />
+            </picture>
+                
             {{ end }}
-        </ul>
-        {{ end }}
+        </div>
+        <div class="page-details">
+            <time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            {{ .Summary }}
+
+            {{ with .Params.aiheet }}
+            <ul class="categories">
+                {{ range . }}
+                    <li class="category category-{{ . }}"><a href="{{ "aiheet/" | absLangURL }}{{ . | urlize}}">{{ . }}</a></li>
+                {{ end }}
+            </ul>
+            {{ end }}
+        </div>
     </div>
     {{ end }}
 

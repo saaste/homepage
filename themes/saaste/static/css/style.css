@@ -290,6 +290,9 @@ table {
   .webmentions .mention + .mention {
     padding-top: 1rem; }
 
+.list-page-container .toggle {
+  display: none;
+  text-align: center; }
 .list-page-container .categories {
   display: flex;
   flex-direction: row;
@@ -303,6 +306,11 @@ table {
     padding: 0.5rem 1rem;
     border-radius: 10px; }
 
+@media only screen and (max-width: 700px) {
+  .list-page-container .categories.hidden {
+    display: none; }
+  .list-page-container .toggle {
+    display: block; } }
 .footnotes {
   font-size: 0.833rem;
   padding-bottom: 1rem; }
@@ -329,6 +337,18 @@ table {
   .list-item:last-of-type {
     border-bottom: none; }
 
+.blog-posts {
+  display: flex;
+  flex-direction: row; }
+  .blog-posts .cover-photo {
+    padding-right: 1rem;
+    padding-top: 1lh; }
+    .blog-posts .cover-photo picture {
+      width: 250px; }
+
+@media only screen and (max-width: 700px) {
+  .blog-posts .cover-photo {
+    display: none; } }
 .pagination {
   display: flex;
   gap: 1rem;

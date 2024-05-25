@@ -2,6 +2,11 @@
 title: "Muutosloki"
 ---
 
+### lauantai 25.5.2024
+- Parannuksia blogikirjoituslistaan
+  - Suuremmilla ruuduilla näytetään kuvat
+  - Pienemmillä ruuduilla aihetunnisteet piilotetaan oletuksena
+
 ### keskiviikko 8.5.2024
 - Lisätty Mastodon-liket blogikirjoituksiin
 
