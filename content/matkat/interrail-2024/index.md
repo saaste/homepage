@@ -26,3 +26,6 @@ Kustannukset ovat kahdelta henkilöltä yhteensä
 | Majoitus: Rüdesheim am Rhein (3 yötä)                                   | 294,00 €          |
 | Lautta: Tukholma - Helsinki + Inside Standard -hytti + Premium-aamupala | 113,50 €          |
 | **YHTEENSÄ**                                                            | **1935,06 €**     |
+
+### Matkatavarat
+Rinkka: [Osprey Farpoint 55L]({{< ref "/blogi/2024/2024-05-25-matkailurinkka-reilille" >}})
