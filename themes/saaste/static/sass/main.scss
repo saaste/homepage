@@ -101,17 +101,22 @@ strong {
     font-weight: bold;
 }
 
-pre {
+code {
     background-color: var(--darker-bg-color);
-    padding: 0.5rem;
-    border-radius: 10px;
-    
-    code {
-        white-space: pre;
+    padding: 0.2rem 0.5rem;
+}
+
+.highlight {
+    padding: 1rem 0;
+
+    pre {
+        overflow-x: auto;
+        padding: 0.5rem;
     }
 
-    & + * {
-        padding-top: 1rem;
+    code {
+        background-color: inherit;
+        padding: 0
     }
 }
 

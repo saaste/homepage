@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### maanantai 27.5.2024
+- Koodiesimerkkien syntax highlight otettu käyttöön
+
 ### lauantai 25.5.2024
 - Parannuksia blogikirjoituslistaan
   - Suuremmilla ruuduilla näytetään kuvat
