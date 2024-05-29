@@ -8,6 +8,7 @@ $dark-strong-color: rgb(212, 253, 176);
 $dark-emphasis-color: rgb(176, 253, 243);
 $dark-sub-title-color: rgb(243, 216, 60);
 $dark-darker-bg-color: rgba(0, 0, 0, 0.123);
+$dark-code-color: hsl(231, 15%, 25%);
 $dark-link-text-shadow: 0 0 5px rgba(255, 184, 108, 0.7);
 $dark-strong-text-shadow: 0 0 5px rgba(174, 255, 108, 0.7);
 $dark-emphasis-text-shadow: 0 0 5px rgba(108, 255, 255, 0.7);
@@ -33,6 +34,7 @@ $font-size-small: 0.833rem;
     --strong-color: #{$dark-strong-color};
     --emphasis-color: #{$dark-emphasis-color};
     --darker-bg-color: #{$dark-darker-bg-color};
+    --code-color: #{$dark-code-color};
     --link-text-shadow: #{$dark-link-text-shadow};
     --strong-text-shadow: #{$dark-strong-text-shadow};
     --emphasis-text-shadow: #{$dark-emphasis-text-shadow};
@@ -102,8 +104,9 @@ strong {
 }
 
 code {
-    background-color: var(--darker-bg-color);
-    padding: 0.2rem 0.5rem;
+    background-color: var(--code-color);
+    padding: 0.4rem 0.5rem;
+    border-radius: 5px;
 }
 
 .highlight {

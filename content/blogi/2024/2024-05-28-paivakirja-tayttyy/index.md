@@ -2,6 +2,7 @@
 title: Päiväkirja täyttyy
 description: "Havahduin toissa iltana siihen, että päiväkirjassani on enää 41 tyhjää sivua. Mihin ihmeeseen aika oikein menee? Vastahan minä ostin uuden päiväkirjan!"
 date: 2024-05-28T07:45:00+0300
+lastmod: 2024-05-29T17:30:00+0300
 draft: false
 slug: paivakirja-tayttyy
 aiheet:
@@ -30,8 +31,9 @@ Lopulta päätin unohtaa digitaalisen kikkailun ja ostin perinteisen paperisen m
 
 Tajusin, että kynän ja paperin käyttäminen tekee kirjoittamisesta paljon syvemmän kokemuksen. Koska kirjoittaminen on hitaampaa, mietin asioita paljon tarkemmin ja harkitummin. Käytän kirjoittamiseen aikaa, jolloin asiat jäävät paljon paremmin mieleeni. Toisaalta ajatukset, jotka haluan ennen nukahtamista päästäni pois, tarttuvat päiväkirjan sivuille paljon paremmin.
 
-Toistaiseksi olen pitänyt vanhat päiväkirjat tallessa, mutta en ole varma, että teen niin loputtomiin. Tästä syystä olen ensimmäisestä päivästä lähtien ottanut jokaisesta päiväkirjan sivusta kuvan. Tämä kuva päätyy osaksi minun digitaalista päiväkirjaa, jota ylläpidän [Obsidianissa](https://obsidian.md/). Minulla siis on myös digitaalinen päiväkirja, mutta en juuri koskaan kirjoita sinne mitään. Se on enemmän paperisen päiväkirjan varmuuskopio.
+Toistaiseksi olen pitänyt vanhat päiväkirjat tallessa, mutta en ole varma, että teen niin loputtomiin. Tästä syystä olen ensimmäisestä päivästä lähtien ottanut jokaisesta päiväkirjan sivusta kuvan. Tämä kuva päätyy osaksi minun digitaalista päiväkirjaa, jota ylläpidän [Obsidianissa](https://obsidian.md/). Minulla siis on myös digitaalinen päiväkirja, mutta en juuri koskaan kirjoita sinne mitään. Se on enemmän paperisen päiväkirjan varmuuskopio[^2].
 
 Nyt sivuja on jäljellä alle 40. Täytynee suunnistaa lähipäivinä kirjakauppaan ja ostaa uusi muistikirja. Leuchttrum1917:n pistesivuja sisältävistä [muistikirjoista](https://www.leuchtturm1917.com/notebook-medium-a5-hardcover-251-numbered-pages-black-dotted.html) on tullut oma suosikkini. Kirjoittamiseen käytän EnerGelin uudelleentäytettävää [geelikynää](https://www.pentel.com/products/energel-rtx-gel-pen). Lisäksi minulla on kirjan kanteen kiinnitettävä kynätasku, jonne mahtuu kynän lisäksi myös ylimääräinen mustepatruuna.
 
 [^1]: Päiväkirjan kirjoittamiseen ei ole yhtä oikeaa tapaa. Se on sinun päiväkirjasi. Kirjoita sinne mitä haluat. Ylläpidä sitä juuri niin kuin haluat.
+[^2]: Voit lukea tästä tarkemmin [uudemmasta kirjoituksesta]({{< ref "/blogi/2024/2024-05-29-paperinen-paivakirja-digitaaliseksi" >}})
