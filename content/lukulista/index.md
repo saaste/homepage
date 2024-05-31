@@ -7,7 +7,6 @@ Kerään tänne netistä löydettyjä ja muiden suosittelemia kirjoja, jotka voi
 
 #### Suomalaiset
 - [Juhani Karila - Pienen hauen pyydystys](https://kirja.elisa.fi/ekirja/pienen-hauen-pyydystys)
-- [Piia Leino - Yliaika](https://kirja.elisa.fi/ekirja/yliaika)
 - [Emmi Itäranta - Kuunpäivän kirjeet](https://kirja.elisa.fi/ekirja/kuunpaivan-kirjeet)
 - [J. Pekka Mäkelä - Karsta](https://www.risingshadow.fi/library/book/5737-karsta) (ei Elisa Kirjassa)
 - [Tero Niemi ja Anne Salminen - Nimbus ja tähdet](https://www.kirjavinkit.fi/arvostelut/nimbus-ja-tahdet/) (ei Elisa Kirjassa)

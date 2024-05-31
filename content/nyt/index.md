@@ -14,7 +14,7 @@ title: "Juuri nyt"
 - [Baldur's Gate 3](https://www.igdb.com/games/baldurs-gate-3)
 
 ### Kirjat
-- [Piia Leino - Taivas](https://kirja.elisa.fi/ekirja/taivas)
+- [Piia Leino - Yliaika](https://kirja.elisa.fi/ekirja/yliaika)
 
 ### Juokseminen
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
