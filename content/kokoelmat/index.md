@@ -18,7 +18,7 @@ title: "Kokoelmat"
 ### Pelatut PC- ja konsolipelit
 
 #### 2024
-- [Baldur's Gate 3](https://www.igdb.com/games/baldurs-gate-3)
+- [Baldur's Gate 3](https://www.igdb.com/games/baldurs-gate-3) ([Arvostelu]({{< ref "/blogi/2024/2024-06-02-baldurs-gate-3" >}}))
 - [Helldivers 2](https://www.igdb.com/games/helldivers-2) ([Arvostelu]({{< ref "/blogi/2024/2024-02-18-helldivers-2/index.md" >}}))
 - [Sifu](https://www.igdb.com/games/sifu)
 

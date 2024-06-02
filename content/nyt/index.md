@@ -11,7 +11,7 @@ title: "Juuri nyt"
 {{< top-artists >}}
 
 ### Pelit
-- [Baldur's Gate 3](https://www.igdb.com/games/baldurs-gate-3)
+- Uusi peli mietinnässä...
 
 ### Kirjat
 - [Piia Leino - Yliaika](https://kirja.elisa.fi/ekirja/yliaika)

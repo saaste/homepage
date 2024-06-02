@@ -11,10 +11,10 @@
         Kirjoitus on julkaistu <strong><time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time></strong>,
         
         {{ if not (eq .Page.PublishDate .Page.Lastmod) }}
-        sitä on päivitetty viimeksi <strong><time datetime="{{ .Lastmod | time.Format "2006-01-02" }}">{{ .Lastmod | time.Format "Monday 02.01.2006" }}</time></strong>
+        sitä on päivitetty viimeksi <strong><time datetime="{{ .Lastmod | time.Format "2006-01-02" }}">{{ .Lastmod | time.Format "Monday 02.01.2006" }}</time></strong>,
         {{ end  }}
 
-        sen lukemiseen menee noin <strong>{{ $readingTime }} minuuttia</strong> ja
+        sen lukemiseen menee noin <strong>{{ $readingTime }} minuuttia</strong>, ja
         {{ with .Params.aiheet }} 
             se kuuluu seuraaviin aihealueisiin: 
             {{ range . }}
