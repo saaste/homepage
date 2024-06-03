@@ -1,5 +1,5 @@
 ---
-title: Taivas
+title: "Kirja-arvostelu: Taivas"
 description: "Aloitin viikko sitten lukemaan Piia Leinon vuonna 2018 julkaistua kirjaa Taivas. Eilen luin sen loppuun. On harvinaista, että ahmin kirjan läpi viikossa. Se kertoo siitä, kuinka paljon pidin kirjasta."
 date: 2024-05-31T08:15:00+0300
 draft: false
