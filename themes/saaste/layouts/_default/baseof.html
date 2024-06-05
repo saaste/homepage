@@ -2,12 +2,20 @@
 <html lang="{{ site.LanguageCode }}">
     {{- partial "head.html" . -}}
     <body>
-        <div class="body-container">
-            {{- partial "header.html" . -}}
-            <main class="content-container">
-            {{- block "main" . }}{{- end }}
-            </main>
-            {{- partial "footer.html" . -}}
-        </div>
+        <header class="header">
+            <div class="width-limiter">
+                {{- partial "header.html" . -}}
+            </div>
+        </header>
+        <main class="content">
+            <div class="width-limiter">
+                {{- block "main" . }}{{- end }}
+            </div>
+        </main>
+        <footer class="footer">
+            <div class="width-limiter">
+                {{- partial "footer.html" . -}}
+            </div>
+        </footer>
     </body>
 </html>
