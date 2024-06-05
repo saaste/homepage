@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### keskiviikko 5.6.2024
+- Ulkoasua viilailtu. Mobiiliongelmia korjailtu.
+
 ### maanantai 27.5.2024
 - Koodiesimerkkien syntax highlight otettu käyttöön
 
