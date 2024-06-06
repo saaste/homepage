@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <section class="list-page-container">
-    <h2 class="list-page-title">{{ .Title }}</h2>
+    <h2 class="page-title">{{ .Title }}</h2>
     {{ $paginator := .Paginate ( .Pages.ByPublishDate.Reverse ) }}
 
     {{ with .Site.Taxonomies.aiheet }}
@@ -16,7 +16,7 @@
     {{ end }}
 
     {{ range $paginator.Pages }}
-    <div class="list-item blog-posts">
+    <div class="list-item blog-post">
         <div class="cover-photo">
             {{ $coverPhoto := .Resources.GetMatch "cover" }}
             {{ if $coverPhoto }}
@@ -28,8 +28,8 @@
             {{ end }}
         </div>
         <div class="page-details">
-            <time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
-            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <h3 class="list-item-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <time class="date" datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
             {{ .Summary }}
 
             {{ with .Params.aiheet }}

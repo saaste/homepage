@@ -15,9 +15,9 @@ Hulluutta on tehdä samaa asiaa uudelleen ja uudelleen, ja odottaa erilaista lop
 
 Olen seurannut useamman vuoden keskustelua kaupunkisuunnittelun ja erityisesti yksityisautoilun vähentämisen ympärillä ja usein tuntuu, tämä hulluus on monelle suorannainen elämäntapa.
 
-Moneen kertaan vääräksi osoitetut ajatukset toistuvat ja jokainen todellisen maailman esimerkki, joka osoittaa vaihtoehtojen olevan parempia, kumotaan yksinkertaisesti toteamalla: "Ei toimisi täällä." Olen muutaman viime päivän aikana lukenut lehdistä tätä samaa horinaa ja tunnustan, että turhautumisen taso on melkoinen.
-
 <!--more-->
+
+Moneen kertaan vääräksi osoitetut ajatukset toistuvat ja jokainen todellisen maailman esimerkki, joka osoittaa vaihtoehtojen olevan parempia, kumotaan yksinkertaisesti toteamalla: "Ei toimisi täällä." Olen muutaman viime päivän aikana lukenut lehdistä tätä samaa horinaa ja tunnustan, että turhautumisen taso on melkoinen.
 
 ![Kadunvarsipysäköinti, jossa yhdessä ruudussa on auton muotoinen pyöräparkki. Parkki on vihreä muuten mustavalkoisessa kuvassa. Yhden auton ruutuun mahtuu helposti 10 polkupyörää.](cover.jpg "Pidän näistä pyörätelineistä, sillä ne alleviivaavat hienosti sitä, millaisia tilarohmuja autot ovat. Kuva: Janne Räkköläinen")
 

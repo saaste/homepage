@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="single-page-container page-type-{{ .Type }} h-entry" data-pagefind-body>
     
-    <h2 class="single-page-title p-name" data-pagefind-meta="title" class="page-title">{{ .Title }}</h2>
+    <h2 class="page-title p-name" data-pagefind-meta="title" class="page-title">{{ .Title }}</h2>
 
     {{ if eq .Type "blogi" }}
     <div class="blog-meta">
@@ -38,7 +38,7 @@
    
     {{ if $hasMentions }}
     <div class="webmentions">
-        <h5>Kirjoitus muualla</h5>
+        <h5 class="title">Kirjoitus muualla</h5>
         {{ if (gt $likes 0) }}
         <p class="likes">Tykkäykset <em>Mastodonissa</em> ❤️ {{ $likes }}</p>
         {{ end }}
@@ -69,7 +69,7 @@
     
    
     {{ if (or .NextInSection .PrevInSection) }}
-    <div class="single-page-nav" data-pagefind-ignore>
+    <div class="next-prev-nav" data-pagefind-ignore>
         {{ with .PrevInSection }}
         <a href="{{ .RelPermalink }}" class="prev">
             <span class="title">« Edellinen</span><br>

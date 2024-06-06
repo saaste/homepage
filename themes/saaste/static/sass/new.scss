@@ -2,64 +2,66 @@
 
 @font-face {
     font-family: 'Roboto Mono';
-    src: url('../fonts/roboto-mono.woff2') format('woff2'),
-         url('../fonts/roboto-mono.woff') format('woff');
+    src: url('../fonts/roboto-mono.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
-$dark-background-color: rgb(39, 41, 53);
-$dark-block-color: hsl(231, 15%, 15%);
-$dark-text-color: rgb(248, 248, 242);
-$dark-navi-color: hsl(231, 10%, 80%);
-$dark-navi-bg-color: hsl(231, 5%, 12%);
-$dark-link-color: rgb(255, 184, 108);
-$dark-strong-color: rgb(212, 253, 176);
-$dark-emphasis-color: rgb(176, 253, 243);
-$dark-sub-title-color: rgb(243, 216, 60);
-$dark-darker-bg-color: rgba(0, 0, 0, 0.123);
-$dark-code-color: hsl(231, 15%, 25%);
-$dark-link-text-shadow: 0 0 5px rgba(255, 184, 108, 0.7);
-$dark-strong-text-shadow: 0 0 5px rgba(174, 255, 108, 0.7);
-$dark-emphasis-text-shadow: 0 0 5px rgba(108, 255, 255, 0.7);
-$dark-separator: 2px dotted rgb(76, 80, 103);
-$dark-photo-border: 3px solid rgb(76, 80, 103);
-
-$font-size-main-navi: 1.5rem;
-$font-size-page-title: 2rem;
-
-$font-size-h3: 1.6rem;
-$font-size-h4: 1.728rem;
-$font-size-h5: 1.44rem;
-$font-size-h6: 1.26rem;
-$font-size-normal: 1rem;
-$font-size-small: 0.833rem;
-
-$screen-large: 1200px;
+/*----------------------------------------------------------------------------
+*
+* Variables: Defaults
+*
+----------------------------------------------------------------------------*/
 $screen-medium: 768px;
 $screen-small: 576px;
 
 :root {
-    --background-color: #{$dark-background-color};
-    --block-color: #{$dark-block-color};
-    --text-color: #{$dark-text-color};
-    --navi-color: #{$dark-navi-color};
-    --navi-bg-color: #{$dark-navi-bg-color};
-    --link-color: #{$dark-link-color};
-    --sub-title-color: #{$dark-sub-title-color};
-    --strong-color: #{$dark-strong-color};
-    --emphasis-color: #{$dark-emphasis-color};
-    --darker-bg-color: #{$dark-darker-bg-color};
-    --code-color: #{$dark-code-color};
-    --link-text-shadow: #{$dark-link-text-shadow};
-    --strong-text-shadow: #{$dark-strong-text-shadow};
-    --emphasis-text-shadow: #{$dark-emphasis-text-shadow};
-    --separator: #{$dark-separator};
-    --photo-border: #{$dark-photo-border};
     --font-family: "Roboto Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    --content-max-width: 1200px;
+    --font-size-main-navi: 1.5rem;
+    --font-size-page-title: clamp(1.4rem, 1.4rem + 1.5vw, 2.5rem);
+    --font-size-h3: clamp(1.2rem, 1.2rem + 1.5vw, 1.8rem);
+    --font-size-h4: clamp(1.1rem, 1.1rem + 1.2vw, 1.7rem);
+    --font-size-h5: 1.44rem;
+    --font-size-h6: 1.25rem;
+    --font-size-normal: 1.1rem;
+    --font-size-small: 0.833rem;
+    --font-line-height: 2;
+    --width-content-max: 1200px;
 }
 
+/*----------------------------------------------------------------------------
+*
+* Variables: Dark theme
+*
+----------------------------------------------------------------------------*/
+:root {
+    --color-background: rgb(39, 41, 53);
+    --color-block: hsl(231, 15%, 15%);
+    --color-text: rgb(248, 248, 242);
+    --color-navi: hsl(39, 60%, 74%);
+    --color-navi-bg: hsl(231, 5%, 12%);
+    --color-navi-underline: hsl(231, 5%, 22%);
+    --color-navi-underline-hover: hsl(231, 5%, 52%);
+    --color-link: rgb(255, 184, 108);
+    --color-sub-title: rgb(243, 216, 60);
+    --color-strong: rgb(212, 253, 176);
+    --color-emphasis: rgb(176, 253, 243);
+    --color-darker-bg: rgba(0, 0, 0, 0.123);
+    --color-code: hsl(231, 15%, 25%);
+    --color-photo-caption-bg: rgb(32, 33, 41);
+    --color-post-meta-bg: rgb(32, 33, 41);
+    --link-text-shadow: 0 0 5px rgba(255, 184, 108, 0.7);
+    --strong-text-shadow: 0 0 5px rgba(174, 255, 108, 0.7);
+    --emphasis-text-shadow: 0 0 5px rgba(108, 255, 255, 0.7);
+    --separator: 2px dotted rgb(76, 80, 103);
+
+}
+
+/*----------------------------------------------------------------------------
+*
+* Layout
+*
+----------------------------------------------------------------------------*/
 body {
     display: grid;
     grid-template-rows: min-content 1fr min-content;
@@ -69,15 +71,14 @@ body {
       "footer";
     min-height: 100vh;
 
-    font-family: var(--font-family);
-    line-height: 200%;
-    background-color: var(--background-color);
-    color: var(--text-color);
+    background-color: var(--color-background);
+    color: var(--color-text);
+    font: var(--font-size-normal) var(--font-family);
 }
 
 .header {
     grid-area: header;
-    background-color: var(--navi-bg-color);
+    background-color: var(--color-navi-bg);
     display: grid;
     justify-items: center;
 }
@@ -97,13 +98,17 @@ body {
 
 .width-limiter {
     width: 100%;
-    max-width: var(--content-max-width);
+    max-width: var(--width-content-max);
     padding: 1rem;
 }
 
-
+/*----------------------------------------------------------------------------
+*
+* Element defaults
+*
+----------------------------------------------------------------------------*/
 a {
-    color: var(--link-color);
+    color: var(--color-link);
 
     &:hover, &:focus {
         text-shadow: var(--link-text-shadow);
@@ -111,80 +116,37 @@ a {
 }
 
 em {
-    color: var(--emphasis-color);
+    color: var(--color-emphasis);
     text-shadow: var(--emphasis-text-shadow);
-    font-style: italic;
 }
 
 strong {
-    color: var(--strong-color);
+    color: var(--color-strong);
     text-shadow: var(--strong-text-shadow);
     font-weight: bold;
 }
 
 h2 {
-    font-size: $font-size-page-title;
-    margin-bottom: 1.5rem;
+    font-size: var(--font-size-page-title);
 }
 
 h3 {
-    display: inline-block;
-    font-size: $font-size-h3;
-    line-height: 150%;
-    & + * {
-        padding-top: 1rem;
-    }
-
-    &:not(:has(> a)) {
-        color: var(--sub-title-color);
-    }
+    font-size: var(--font-size-h3);
 }
 
 h4 {
-    font-size: $font-size-h4;
-    padding-top: 1rem;
-    & + * {
-        padding-top: 1rem;
-    }
-}
-
-em {
-    color: var(--emphasis-color);
-    text-shadow: var(--emphasis-text-shadow);
-    font-style: italic;
-}
-
-strong {
-    color: var(--strong-color);
-    text-shadow: var(--strong-text-shadow);
-    font-weight: bold;
+    font-size: var(--font-size-h4);
 }
 
 code {
-    background-color: var(--code-color);
+    background-color: var(--color-code);
     padding: 0.4rem 0.5rem;
     border-radius: 5px;
 }
 
-.highlight {
-    padding: 1rem 0;
-    max-width: 90vw;
-
-    pre {
-        overflow-x: auto;
-        padding: 0.5rem;
-        text-wrap: nowrap;
-    }
-
-    code {
-        background-color: inherit;
-        padding: 0
-    }
-}
-
 sup {
     vertical-align: super;
-    font-size: $font-size-small;
+    font-size: var(--font-size-small);
     a {
         text-decoration: none;
     }
@@ -210,7 +172,7 @@ ol {
 }
 
 blockquote {
-    background-color: var(--block-color);
+    background-color: var(--color-block);
     padding: 1rem 2.5rem;
     border-radius: 10px;
 }
@@ -240,21 +202,43 @@ table {
         font-weight: bold;
         text-align: left;
         border-bottom: var(--separator);
-        background-color: var(--block-color);
+        background-color: var(--color-block);
     }
 }
 
-p + p {
-    padding-top: 1rem;
+/*----------------------------------------------------------------------------
+*
+* Code blocks
+*
+----------------------------------------------------------------------------*/
+.highlight {
+    padding: 1rem 0;
+    max-width: 90vw;
+
+    pre {
+        overflow-x: auto;
+        padding: 0.5rem;
+        text-wrap: nowrap;
+    }
+
+    code {
+        background-color: inherit;
+        padding: 0
+    }
 }
 
+/*----------------------------------------------------------------------------
+*
+* Header
+*
+----------------------------------------------------------------------------*/
 .header-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: "title navigation";
     align-items: center;
     width: 100%;
-    max-width: var(--content-max-width);
+    max-width: var(--width-content-max);
 }
 
 .header-title {
@@ -265,7 +249,7 @@ p + p {
     height: 2rem;
 }
 .header-title-link {
-    color: var(--text-color);
+    color: var(--color-text);
     text-decoration: none;
     font-size: 2rem;
 }
@@ -279,12 +263,14 @@ p + p {
 }
 
 .navi-link {
-    color: var(--navi-color);
+    color: var(--color-navi);
     text-decoration: none;
-    font-size: $font-size-main-navi;
+    font-size: var(--font-size-main-navi);
+    border-bottom: 1px solid var(--color-navi-underline);
 
     &:hover {
-        color: var(--text-color);
+        color: var(--color-text);
+        border-bottom: 1px solid var(--color-navi-underline-hover);
     }
 }
 
@@ -309,77 +295,87 @@ p + p {
     }
 }
 
-.footer {
-    text-align: center;
-    border-top: var(--separator)
-}
+/*----------------------------------------------------------------------------
+*
+* Content
+*
+----------------------------------------------------------------------------*/
+.content {
+    p {
+        line-height: var(--font-line-height);
 
-/* REST */
-
-.single-page-container, .list-page-container {
-    * + h2 {
-        padding-top: 2rem;
+        & + p {
+            padding-top: 1rem;
+        }
     }
-    * + h3 {
-        padding-top: 2rem;
+
+    li {
+        line-height: 1.5;
+    }
+
+    h3 {
+        color: var(--color-sub-title);
     }
 }
-
-.single-page-title, .list-page-title {
+.page-title {
     text-align: center;
-    font-size: $font-size-page-title;
+    font-size: var(--font-size-page-title);
     font-weight: bold;
     line-height: 150%;
+    margin-bottom: 2rem;
 }
 
-.page-type-blogi {
-    align-self: center;
-    .post-image {
-        text-align: center;
-        padding: 2rem;
-       
-        img {
-            border-radius: 10px;
-            max-width: 100%;
-        }
-        figcaption {
-            background: #0000003f;
-            padding: 1rem;
-            border-radius: 10px;
-        }
+/*----------------------------------------------------------------------------
+*
+* Blog posts
+*
+----------------------------------------------------------------------------*/
+.single-page-container {
+    h3 {
+        margin: 2.5rem 0 1rem 0;
     }
+}
+.post-image {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0;
 
-    .blog-meta {
-        font-size: $font-size-normal;
-        padding-bottom: 2rem;
-        background-color: var(--block-color);
+    img {
+        border-radius: 10px 10px 0 0;
+        max-width: 100%;
+    }
+    figcaption {
+        background: var(--color-post-meta-bg);
         padding: 1rem;
-        margin: 1rem 0;
-        border-radius: 10px;
-
-        .reading-time {
-            font-size: $font-size-normal;
-        }
-
-        .categories, .tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1rem;
-            padding: 0;
-            max-width: 100%;
-        }
-        .category, .tag {
-            display: inline;
-        }
+        border-radius: 0 0 10px 10px;
     }
 }
+.blog-meta {
+    background-color: var(--color-block);
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+.footnotes {
+    font-size: var(--font-size-small);
+}
+.webmentions {
+    border-top: var(--separator);
+    margin-top: 1rem;
+    padding: 1rem 0;
 
-.single-page-nav {
+    .title {
+        font-size: var(--font-size-h5);
+    }
+}
+.next-prev-nav {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: "prev next";
-    padding-top: 3rem;
     border-top: var(--separator);
+    margin-top: 1rem;
+    padding-top: 1rem;
+    line-height: 1.5;
 
     .title {
         font-weight: bold;
@@ -395,35 +391,11 @@ p + p {
     }
 }
 
-.webmentions {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    border-top: var(--separator);
-
-    h5 {
-        font-size: $font-size-h5;
-    }
-
-    .mentions {
-        padding-top: 1rem;
-    }
-
-    .mention {
-        p {
-            padding: 0;
-        }
-
-        .author-name {
-            font-weight: bold;
-        }
-
-        &+.mention {
-            padding-top: 1rem;
-        }
-    }
-    
-}
-
+/*----------------------------------------------------------------------------
+*
+* List page
+*
+----------------------------------------------------------------------------*/
 .list-page-container {
     .toggle {
         display: none;
@@ -440,7 +412,7 @@ p + p {
         
         .category {
             display: inline-block;
-            background-color: var(--block-color);
+            background-color: var(--color-block);
             padding: 0.5rem 1rem;
             border-radius: 10px;
         }
@@ -458,37 +430,24 @@ p + p {
     }
 }
 
-.footnotes {
-    font-size: $font-size-small;
-    padding-bottom: 1rem;
-}
-
-
 .list-item {
-    padding-bottom: 1rem;
-    padding-top: 1rem;
+    padding: 1rem 0;
     border-bottom: var(--separator);
 
-    h3 {
-        padding-top: 0;
+    .list-item-title {
+        margin-bottom: 0.8rem;
     }
 
-    time {
+    .date {
         display: block;
+        margin-bottom: 1.5rem;
     }
 
-    .tags, .categories {
+    .categories {
         display: flex;
         gap: 1rem;
         padding: 0;
         padding-top: 1rem;
-    }
-    .tag {
-        display: block;
-        padding: 0rem 0.8rem;
-        background: var(--darker-bg-color);
-        border-radius: 10px;
-        font-size: $font-size-small
     }
 
     &:last-of-type {
@@ -496,21 +455,19 @@ p + p {
     }
 }
 
-.blog-posts {
+.blog-post { /* TODO: No need to have this class I think */
     display: flex;
     flex-direction: row;
 
     .cover-photo {
-        padding-right: 1rem;
-        padding-top: 1lh;
+        padding: 0 1rem 0 0;
         picture {
             width: 250px;
         }
     }
 }
-
 @media only screen and (max-width: $screen-medium) {
-    .blog-posts .cover-photo {
+    .blog-post .cover-photo {
         display: none;
     }
 }
@@ -526,19 +483,31 @@ p + p {
 
         &.active, &.disabled {
             a {
-                color: var(--text-color);
+                color: var(--color-text);
             }
         }
     }
 }
 
+/*----------------------------------------------------------------------------
+*
+* Header
+*
+----------------------------------------------------------------------------*/
 .footer {
-    padding-top: 2rem;
-    border-top: var(--separator);
     text-align: center;
+    border-top: var(--separator);
+    line-height: var(--font-line-height);
 }
 
-/* Pagefind Search */
+/*----------------------------------------------------------------------------
+*
+* Search
+*
+----------------------------------------------------------------------------*/
+.pagefind-ui {
+    max-width: 100%;
+}
 .pagefind-ui__form {
     width: 100%;
     display: grid;
@@ -555,14 +524,12 @@ p + p {
     }
 
     .pagefind-ui__search-clear {
-        padding: 0.5rem;
-        border-radius: 10px;
-        grid-area: button;
+        display: none;
     }
 
     mark {
         background: none;
-        color: var(--strong-color);
+        color: var(--color-strong);
         text-shadow: var(--strong-text-shadow);
     }
 
@@ -578,7 +545,7 @@ p + p {
     }
 
     .pagefind-ui__message {
-        font-size: $font-size-h6;
+        font-size: var(--font-size-h6);
         padding-top: 1rem;
     }
 
@@ -604,6 +571,7 @@ p + p {
         img {
             width: 100%;
             object-fit: cover;
+            border-radius: 10px;
         }
     }
 
@@ -612,19 +580,8 @@ p + p {
     }
 
     .pagefind-ui__result-title {
-        font-size: $font-size-h5;
-    }
-    
-    .pagefind-ui__result-nested {
-        padding-left: 1rem;
-        padding-top: 1rem;
-
-        .pagefind-ui__result-title {
-            font-size: $font-size-normal;
-            &::before {
-                content: "↳ ";
-            }
-        }
+        font-size: var(--font-size-h5);
+        line-height: 1;
     }
 
     .pagefind-ui__button {
