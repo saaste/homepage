@@ -64,3 +64,4 @@ title: "Kokoelmat"
 - [Tiina Raevaara, Uinuva solu](https://kirja.elisa.fi/ekirja/uinuva-solu) ([Arvostelu]({{< ref "/blogi/2024/2024-04-24-uinuva-solu" >}}))
 - [Reetta Vuokko-Syrjänen, Syntykeho](https://kirja.elisa.fi/ekirja/syntykeho) ([Arvostelu]({{< ref "/blogi/2024/2024-05-22-syntykeho" >}}))
 - [Piia Leino, Taivas](https://kirja.elisa.fi/ekirja/taivas) ([Arvostelu]({{< ref "/blogi/2024/2024-05-31-taivas" >}}))
+- [Piia Leino, Yliaika](https://kirja.elisa.fi/ekirja/yliaika) ([Arvostelu]({{< ref "/blogi/2024/2024-06-11-yliaika" >}}))

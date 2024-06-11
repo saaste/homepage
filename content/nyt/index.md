@@ -5,16 +5,15 @@ title: "Juuri nyt"
 ### Ohjelmointi
 - Kotisivujen viilailu
 - Henkilökohtaisen matkapäiväkirjan päivittäminen
-- Omaan matkailuun istuvan karttapalvelu tekeminen
 
 ### Musiikki
 {{< top-artists >}}
 
 ### Pelit
-- Uusi peli mietinnässä...
+- Baldur's Gate 3 (aloitin pelin alusta, vaikkei pitänyt...)
 
 ### Kirjat
-- [Piia Leino - Yliaika](https://kirja.elisa.fi/ekirja/yliaika)
+- Uusi kirja etsinnässä...
 
 ### Juokseminen
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
