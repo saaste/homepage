@@ -56,12 +56,12 @@ title: "Kokoelmat"
 ### Luetut kirjat
 
 #### 2024
-- [Chris Hadfield, Apollo-murhat](https://kirja.elisa.fi/ekirja/apollo-murhat) ([Arvostelu]({{< ref "/blogi/2024/2024-02-27-apollo-murhat" >}}))
-- [Emmi Itäranta, Teemestarin kirja](https://kirja.elisa.fi/ekirja/teemestarin-kirja) ([Arvostelu]({{< ref "/blogi/2024/2024-03-05-teemestarin-kirja" >}}))
-- [Tiina Raevaara, Kaksoiskierre](https://kirja.elisa.fi/ekirja/teemestarin-kirja) ([Arvostelu]({{< ref "/blogi/2024/2024-03-12-kaksoiskierre" >}}))
-- [Tiina Raevaara, Polaaripyörre](https://kirja.elisa.fi/ekirja/polaaripyorre) ([Arvostelu]({{< ref "/blogi/2024/2024-03-25-polaaripyorre" >}}))
-- [Tiina Raevaara, Sielujen syöveri](https://kirja.elisa.fi/ekirja/sielujen-syoveri) ([Arvostelu]({{< ref "/blogi/2024/2024-04-15-sielujen-syoveri" >}}))
-- [Tiina Raevaara, Uinuva solu](https://kirja.elisa.fi/ekirja/uinuva-solu) ([Arvostelu]({{< ref "/blogi/2024/2024-04-24-uinuva-solu" >}}))
-- [Reetta Vuokko-Syrjänen, Syntykeho](https://kirja.elisa.fi/ekirja/syntykeho) ([Arvostelu]({{< ref "/blogi/2024/2024-05-22-syntykeho" >}}))
-- [Piia Leino, Taivas](https://kirja.elisa.fi/ekirja/taivas) ([Arvostelu]({{< ref "/blogi/2024/2024-05-31-taivas" >}}))
-- [Piia Leino, Yliaika](https://kirja.elisa.fi/ekirja/yliaika) ([Arvostelu]({{< ref "/blogi/2024/2024-06-11-yliaika" >}}))
+- [Chris Hadfield, Apollo-murhat](https://finna.fi/Record/anders.1920337?sid=4731209620) ([Arvostelu]({{< ref "/blogi/2024/2024-02-27-apollo-murhat" >}}))
+- [Emmi Itäranta, Teemestarin kirja](https://finna.fi/Record/3amk.290511?sid=4731209704) ([Arvostelu]({{< ref "/blogi/2024/2024-03-05-teemestarin-kirja" >}}))
+- [Tiina Raevaara, Kaksoiskierre](https://finna.fi/Record/anders.1794294?sid=4731209806) ([Arvostelu]({{< ref "/blogi/2024/2024-03-12-kaksoiskierre" >}}))
+- [Tiina Raevaara, Polaaripyörre](https://finna.fi/Record/anders.1835591?sid=4731209926) ([Arvostelu]({{< ref "/blogi/2024/2024-03-25-polaaripyorre" >}}))
+- [Tiina Raevaara, Sielujen syöveri](https://finna.fi/Record/anders.1900693?sid=4731209977) ([Arvostelu]({{< ref "/blogi/2024/2024-04-15-sielujen-syoveri" >}}))
+- [Tiina Raevaara, Uinuva solu](https://finna.fi/Record/anders.1929669?sid=4731210040) ([Arvostelu]({{< ref "/blogi/2024/2024-04-24-uinuva-solu" >}}))
+- [Reetta Vuokko-Syrjänen, Syntykeho](https://finna.fi/Record/anders.1884754?sid=4731210124) ([Arvostelu]({{< ref "/blogi/2024/2024-05-22-syntykeho" >}}))
+- [Piia Leino, Taivas](https://finna.fi/Record/anders.1684248?sid=4731210271) ([Arvostelu]({{< ref "/blogi/2024/2024-05-31-taivas" >}}))
+- [Piia Leino, Yliaika](https://finna.fi/Record/3amk.285783?sid=4731210358) ([Arvostelu]({{< ref "/blogi/2024/2024-06-11-yliaika" >}}))

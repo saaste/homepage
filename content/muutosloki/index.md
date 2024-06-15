@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### lauantai 15.6.2024
+- Kirjalinkit siirretty sulkeutuvasta Elisa Kirjasta [Finnaan](https://finna.fi/)
+
 ### keskiviikko 5.6.2024
 - Ulkoasua viilailtu. Mobiiliongelmia korjailtu.
 

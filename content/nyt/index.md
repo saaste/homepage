@@ -13,7 +13,7 @@ title: "Juuri nyt"
 - Baldur's Gate 3 (aloitin pelin alusta, vaikkei pitänyt...)
 
 ### Kirjat
-- Uusi kirja etsinnässä...
+- [Piia Leino - Lakipiste](https://finna.fi/Record/anders.1857971?sid=4731209284)
 
 ### Juokseminen
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
