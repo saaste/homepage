@@ -15,6 +15,10 @@ title: "Juuri nyt"
 ### Kirjat
 - [Piia Leino - Lakipiste](https://finna.fi/Record/anders.1857971?sid=4731209284)
 
+### Askartelu
+- [FreeCADin](https://www.freecad.org/) opettelua
+- Hack Lab -koulutukset
+
 ### Juokseminen
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
 
