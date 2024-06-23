@@ -1,15 +1,21 @@
 {{ $musicData := getJSON "listenbrainz.json" }}
 {{ $items := index $musicData "items" }}
-<ol>
-{{ range $items }}
-    <li>
-        <a href="{{ index . "url" }}" target="_blank">{{ index . "title" }}</a>
-        {{ $allTags := first 2 (index . "tags") }}
-        {{ $tagString := delimit $allTags ", " }}
-        {{ with $tagString }}
-        ({{ . }})
-        {{ end }}
-    </li>
+{{ if gt (len $items) 0 }}
+    <ol>
+    {{ range $items }}
+        <li>
+            <a href="{{ index . "url" }}" target="_blank">{{ index . "title" }}</a>
+            {{ $allTags := first 2 (index . "tags") }}
+            {{ $tagString := delimit $allTags ", " }}
+            {{ with $tagString }}
+            ({{ . }})
+            {{ end }}
+        </li>
+    {{ end }}
+    </ol>
+{{ else }}
+    <ul>
+        <li><a href="https://listenbrainz.org">Listenbrainz</a> ei ole vielä luonut tilastoja. Toivottavasti tilanne muuttuu pian.</li>
+    </ul>
 {{ end }}
-</ol>
 
