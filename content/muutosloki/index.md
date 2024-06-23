@@ -2,6 +2,10 @@
 title: "Muutosloki"
 ---
 
+### sunnuntai 23.6.2024
+- Korjattu top-10 artistilistaa, joka näkyi tyhjänä jos ListenBrainz ei ollut luonut tilastoja
+- Viilailuja tyyleihin
+
 ### lauantai 15.6.2024
 - Kirjalinkit siirretty sulkeutuvasta Elisa Kirjasta [Finnaan](https://finna.fi/)
 

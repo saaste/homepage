@@ -2,7 +2,7 @@
 title: "Lukulista"
 ---
 
-Kerään tänne netistä löydettyjä ja muiden suosittelemia kirjoja, jotka voisivat kiinnostaa myös itseäni. Luen kirjoja Kindlellä, joten pyrin priorisoimaan sellaisia kirjoja, jotka saa siihen helposti ladattua. Suomalaisista kirjakaupoista Elisa Kirja tekee sen todella helpoksi, joten siksi linkit ohjaavat sinne jos kirja sieltä vaan löytyy.
+Kerään tänne netistä löydettyjä ja muiden suosittelemia kirjoja, jotka voisivat kiinnostaa myös itseäni. Luen kirjoja Kindlellä, joten pyrin priorisoimaan sellaisia kirjoja, jotka saa siihen helposti ladattua.
 
 ### Suomalaiset
 - [Juhani Karila - Pienen hauen pyydystys](https://finna.fi/Record/3amk.289958?sid=4731210460)
