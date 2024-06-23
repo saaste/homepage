@@ -4,7 +4,6 @@ title: "Juuri nyt"
 
 ### Ohjelmointi
 - Kotisivujen viilailu
-- Henkilökohtaisen matkapäiväkirjan päivittäminen
 
 ### Musiikki
 {{< top-artists >}}
@@ -16,8 +15,8 @@ title: "Juuri nyt"
 - [Piia Leino - Lakipiste](https://finna.fi/Record/anders.1857971?sid=4731209284)
 
 ### Askartelu
-- [FreeCADin](https://www.freecad.org/) opettelua
-- Hack Lab -koulutukset
+- [FreeCADin](https://www.freecad.org/) ja [Inkscapen](https://inkscape.org/) opettelua
+- Kuluneiden pahvisten [StarCraft-lautapelin](https://boardgamegeek.com/boardgame/22827/starcraft-the-board-game) tokeneiden korvaaminen puisilla
 
 ### Juokseminen
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
