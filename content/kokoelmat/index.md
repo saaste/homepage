@@ -65,3 +65,4 @@ title: "Kokoelmat"
 - [Reetta Vuokko-Syrjänen, Syntykeho](https://finna.fi/Record/anders.1884754?sid=4731210124) ([Arvostelu]({{< ref "/blogi/2024/2024-05-22-syntykeho" >}}))
 - [Piia Leino, Taivas](https://finna.fi/Record/anders.1684248?sid=4731210271) ([Arvostelu]({{< ref "/blogi/2024/2024-05-31-taivas" >}}))
 - [Piia Leino, Yliaika](https://finna.fi/Record/3amk.285783?sid=4731210358) ([Arvostelu]({{< ref "/blogi/2024/2024-06-11-yliaika" >}}))
+- [Piia Leino, Lakipiste](https://finna.fi/Record/anders.1857971?sid=4740870475) ([Arvostelu]({{< ref "/blogi/2024/2024-06-27-lakipiste" >}}))

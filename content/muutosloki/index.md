@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### torstai 27.6.2024
+- Lisätty blogiin vuosilukuarkisto. Näitä ei kylläkään ole linkitetty mihinkään.
+
 ### sunnuntai 23.6.2024
 - Korjattu top-10 artistilistaa, joka näkyi tyhjänä jos ListenBrainz ei ollut luonut tilastoja
 - Viilailuja tyyleihin
