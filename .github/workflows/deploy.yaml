@@ -52,7 +52,7 @@ jobs:
       - name: Load Host Keys
         run: echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
       - name: Upload
-        run: rsync --archive --stats -e 'ssh -p 26022 -o StrictHostKeyChecking=no' public/ ${{ secrets.REMOTE_DESTINATION }}
+        run: rsync --archive --stats --delete -e 'ssh -p 26022 -o StrictHostKeyChecking=no' public/ ${{ secrets.REMOTE_DESTINATION }}
       - name: Purge Cloudflare Cache
         uses: jakejarvis/cloudflare-purge-action@master
         env:

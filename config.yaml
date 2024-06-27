@@ -45,8 +45,6 @@ menus:
         pre: '<img src="/images/feed.png" class="top-navigation-icon" alt="Feed icon">'
 
 taxonomies:
-    categories: "categories"
-    tags: "tags"
     aiheet: "aiheet"
 
 caches:
