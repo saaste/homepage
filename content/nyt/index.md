@@ -23,4 +23,5 @@ title: "Juuri nyt"
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
 
 ### Matkat
+- Pohjois-Karjalaan ja Pohjois-Savoon suuntautuva etätyöviikko
 - Tulevan [Interrail]({{< ref "/matkat/interrail-2024" >}})-matkan suunnittelu
