@@ -12,6 +12,12 @@ Alla on lista juoksemistani matkoista, jotka ovat puolimaratonin tai sitä pidem
 
 ### 2024
 
+#### 06.07.2024: Puolimaraton
+- Matka: 22,86 km
+- Aika: 2:09:49
+- Tahti: 5:41/km
+- Muuta: Juostu Rautavaaran metsäteitä pitkin
+
 #### 11.05.2024: 30 km
 - Matka: 30,06 km
 - Aika: 3:14:30
