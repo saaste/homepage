@@ -7,6 +7,7 @@ slug: mihin-muuttaisin-seuraavaksi
 aiheet:
     - arki
     - ympäristö
+    - matkailu
 resources:
     - name: cover
       src: cover.jpg
