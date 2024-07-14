@@ -4,7 +4,7 @@ title: "Tietoa"
 
 ### Ylläpitäjä
 * Ammatti: sovelluskehittäjä / konsultti
-* Harrastukset: video- ja lautapelit, juokseminen, kuntosali, lukeminen, matkailu, valokuvaus
+* Harrastukset: video- ja lautapelit, juokseminen, kuntosali, lukeminen, matkailu, valokuvaus, laitesukellus
 * Kiinnostaa: ohjelmointi, [uusi urbanismi](https://fi.wikipedia.org/wiki/Uusi_urbanismi), yksityisyys, ympäristö
 * Persoonallisuus: [ISFJ-T](https://www.16personalities.com/isfj-personality)
 
