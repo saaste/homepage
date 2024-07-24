@@ -3,7 +3,7 @@ title: "Juuri nyt"
 ---
 
 ### Ohjelmointi
-- Kotisivujen viilailu
+- Juuri nyt ei mitään
 
 ### Musiikki
 {{< top-artists >}}
@@ -16,7 +16,6 @@ title: "Juuri nyt"
 
 ### Askartelu
 - [FreeCADin](https://www.freecad.org/) ja [Inkscapen](https://inkscape.org/) opettelua
-- Laser-leikkurin opettelua
 - Kuluneiden pahvisten [StarCraft-lautapelin](https://boardgamegeek.com/boardgame/22827/starcraft-the-board-game) tokeneiden korvaaminen puisilla
 
 ### Juokseminen

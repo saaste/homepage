@@ -3,7 +3,14 @@ title: "Mitä käytän"
 ---
 
 ### Tietokoneet
-#### Pöytäkone
+
+#### Ensisijainen kone
+- MacBook Air M3 13"
+- Näyttö: Lenovo ThinkVision P32p-30
+- Näppäimistö ja hiiri: Logitech Mk950 Signature Slim
+- Kuulokkeet: HyperX Cloud II
+
+#### Vanha pöytäkone (ei käytössä)
 - Emolevy: MSI MS-7a63
 - Prosessori: Intel i5-7600K
 - Muistia: 40 GB
@@ -52,5 +59,7 @@ title: "Mitä käytän"
 - Salasanamanageri: [Bitwarden](https://bitwarden.com/)
 - 2FA: [Aegis](https://getaegis.app/)
 - 3D-mallinnus: [Blender](https://www.blender.org/)
-- Kuvankäsittely [GIMP](https://www.gimp.org/)
+- Valokuva-arkisto: [Adobe Lightroom Classic](https://www.adobe.com/fi/products/photoshop-lightroom-classic.html)
+- Kuvankäsittely [Adobe Photoshop](https://www.adobe.com/fi/products/photoshop.html)
 - Videoeditointi: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- Vektorigrafiikka: [Inkscape](https://inkscape.org/)
