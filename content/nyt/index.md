@@ -12,7 +12,7 @@ title: "Juuri nyt"
 - Baldur's Gate 3 (aloitin pelin alusta, vaikkei pitänyt...)
 
 ### Kirjat
-- [Piia Leino - Aarteidesi aikakirjat](https://finna.fi/Record/anders.1904885?sid=4740871132)
+- Uusi kirja etsinnässä...
 
 ### Askartelu
 - [FreeCADin](https://www.freecad.org/) ja [Inkscapen](https://inkscape.org/) opettelua
