@@ -47,9 +47,9 @@ Raphael on puolestaan nykyajan rikas, keski-iän ylittänyt seurapiiriherra, jok
 
 Itse koin Raphaelin kiinnostavaksi osin siksi, että hän on kuollut. Hän on pelkkä muisto. Oulan syntymän ja Raphaelin välillä on vuosikymmeniä, joten lukijalle käy heti alussa selväksi, että he eivät tule koskaan kohtaamaan samassa ajassa, eivätkä voi vaikuttaa toistensa tekemisiin.
 
-Kirja viettää ison osan ajasta pomppien Raphaelin muistoissa, joten lukija pääsee tutustumaan häneen elämän eri vaiheissa. Se hänestä ainakin itselleni kirjan kiinnostavimman hahmon. Välillä hän on nuori, välillä vanha. Lukijalle selviää heti alussa, millaisena ihmisenä Raphael kuolee. Kiinnostavaa onkin se, kuinka nuoresta Raphaelista tuli vanha Raphael. Jos Oulan muutos ihmisenä on lineaarinen, Raphaelin kohdalla näin ei ole.
+Kirja viettää ison osan ajasta pomppien Raphaelin muistoissa, joten lukija pääsee tutustumaan häneen elämän eri vaiheissa. Se tekee hänestä ainakin itselleni kirjan kiinnostavimman hahmon. Välillä hän on nuori, välillä vanha. Lukijalle selviää heti alussa, millaisena ihmisenä Raphael kuolee. Kiinnostavaa onkin se, kuinka nuoresta Raphaelista tuli vanha Raphael. Jos Oulan muutos ihmisenä on lineaarinen, Raphaelin kohdalla näin ei ole.
 
-Kiinnostavaa on myös se, kuinka näiden kahden eri ajassa elävän ihmiset sitoutuvat yhteen.
+Kiinnostavaa on myös se, kuinka näiden kahden eri ajassa elävän ihmisen maailmat sitoutuvat yhteen.
 
 ### Matka muistoihin on matka nykyajan ilmiöihin
 
