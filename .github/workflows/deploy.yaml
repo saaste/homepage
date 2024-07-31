@@ -58,4 +58,4 @@ jobs:
         env:
           CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
           CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
-          PURGE_URLS: '["https://saaste.net/css/style.css"]'
+          PURGE_URLS: '["https://saaste.net/css/style.css", "https://saaste.net/css/new.css"]'
