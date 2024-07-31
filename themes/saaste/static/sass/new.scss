@@ -20,7 +20,7 @@ $screen-small: 576px;
     --font-size-main-navi: 1.5rem;
     --font-size-page-title: clamp(1.4rem, 1.4rem + 1.5vw, 2.5rem);
     --font-size-h3: clamp(1.2rem, 1.2rem + 1.5vw, 1.8rem);
-    --font-size-h4: clamp(1.1rem, 1.1rem + 1.2vw, 1.7rem);
+    --font-size-h4: clamp(1.1rem, 1.1rem + 1.2vw, 1.6rem);
     --font-size-h5: 1.44rem;
     --font-size-h6: 1.25rem;
     --font-size-normal: 1.1rem;
@@ -341,6 +341,9 @@ table {
 .single-page-container {
     h3 {
         margin: 2.5rem 0 1rem 0;
+    }
+    h4 {
+        margin: 2rem 0 1rem 0;
     }
 }
 .post-image {
