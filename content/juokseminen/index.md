@@ -12,6 +12,12 @@ Alla on lista juoksemistani matkoista, jotka ovat puolimaratonin tai sitä pidem
 
 ### 2024
 
+#### 26.07.2024: 30 km
+- Matka: 30,65 km
+- Aika: 3:30:32
+- Tahti: 6:42/km
+- Muuta: Tavoitteena pysyä Z3-sykealueella tai sen alapuolella
+
 #### 06.07.2024: Puolimaraton
 - Matka: 22,86 km
 - Aika: 2:09:49
