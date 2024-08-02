@@ -21,7 +21,7 @@ title: "Kokoelmat"
 
 #### 2024
 - [Baldur's Gate 3](https://www.igdb.com/games/baldurs-gate-3) ([Arvostelu]({{< ref "/blogi/2024/2024-06-02-baldurs-gate-3" >}}))
-- [Helldivers 2](https://www.igdb.com/games/helldivers-2) ([Arvostelu]({{< ref "/blogi/2024/2024-02-18-helldivers-2/index.md" >}}))
+- [Helldivers 2](https://www.igdb.com/games/helldivers-2) ([Arvostelu]({{< ref "/blogi/2024/2024-02-18-helldivers-2" >}}))
 - [Sifu](https://www.igdb.com/games/sifu)
 
 
@@ -41,7 +41,7 @@ title: "Kokoelmat"
 - [Cities: Skylines](https://www.igdb.com/games/cities-skylines)
 - [Curse of the Dead Gods](https://www.igdb.com/games/curse-of-the-dead-gods)
 - [Elden Ring](https://www.igdb.com/games/elden-ring)
-- [Factorio](https://www.igdb.com/games/factorio)
+- [Factorio](https://www.igdb.com/games/factorio) ([Arvostelu]({{< ref "/blogi/2024/2024-08-02-factorio" >}}))
 - [Genshin Impact](https://www.igdb.com/games/genshin-impact)
 - [God of War](https://www.igdb.com/games/god-of-war--1)
 - [Hades](https://www.igdb.com/games/hades--1)
