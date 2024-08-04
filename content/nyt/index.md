@@ -9,10 +9,11 @@ title: "Juuri nyt"
 {{< top-artists >}}
 
 ### Pelit
-- Baldur's Gate 3 (aloitin pelin alusta, vaikkei pitänyt...)
+- Baldur's Gate 3
+- Factorio
 
 ### Kirjat
-- Uusi kirja etsinnässä...
+- [Emmi Itäranta - Kuunpäivän kirjeet](https://finna.fi/Record/anders.1819084?sid=4731210688)
 
 ### Askartelu
 - [FreeCADin](https://www.freecad.org/) ja [Inkscapen](https://inkscape.org/) opettelua

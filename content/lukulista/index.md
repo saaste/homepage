@@ -6,7 +6,6 @@ Kerään tänne netistä löydettyjä ja muiden suosittelemia kirjoja, jotka voi
 
 ### Suomalaiset
 - [Juhani Karila - Pienen hauen pyydystys](https://finna.fi/Record/3amk.289958?sid=4731210460)
-- [Emmi Itäranta - Kuunpäivän kirjeet](https://finna.fi/Record/anders.1819084?sid=4731210688)
 - [J. Pekka Mäkelä - Karsta](https://finna.fi/Record/anders.936923?sid=4731210757)
 - [Tero Niemi ja Anne Salminen - Nimbus ja tähdet](https://finna.fi/Record/anders.434340?sid=4731210901)
 
