@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### maanantai 5.8.2024
+- Lisätty [pelilista]({{< ref "/pelilista" >}})
+
 ### torstai 27.6.2024
 - Lisätty blogiin vuosilukuarkisto. Näitä ei kylläkään ole linkitetty mihinkään.
 

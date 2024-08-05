@@ -6,6 +6,7 @@ title: "Kaikkea muuta"
 - [Valokuvat](https://photography.saaste.net)
 - [Linkit](https://links.saaste.net)
 - [Lukulista]({{< ref "/lukulista" >}})
+- [Pelilista]({{< ref "/pelilista" >}})
 - [Kokoelmat]({{< ref "/kokoelmat" >}})
 - [Mitä käytän]({{< ref "/mita-kaytan" >}})
 - [Juokseminen]({{< ref "/juokseminen" >}})
