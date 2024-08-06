@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### tiistai 6.8.2024
+- Lisätty [nyt]({{< ref "/nyt" >}})-sivulle kuunneltujen artistien määrä
+
 ### maanantai 5.8.2024
 - Lisätty [pelilista]({{< ref "/pelilista" >}})
 
