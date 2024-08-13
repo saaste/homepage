@@ -21,7 +21,7 @@ jobs:
           timezoneLinux: "Europe/Helsinki"
       - name: Setup Hugo
         env:
-          HUGO_VERSION: 0.127.0
+          HUGO_VERSION: 0.132.1
         run: |
           mkdir ~/hugo
           cd ~/hugo
