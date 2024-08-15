@@ -12,6 +12,12 @@ Alla on lista juoksemistani matkoista, jotka ovat puolimaratonin tai sitä pidem
 
 ### 2024
 
+#### 14.08.2024: Maraton
+- Matka: 43,07 km
+- Aika: 5:01:44
+- Tahti: 7:00/km
+- Muuta: Tämä ei ollut juoksutapahtuma. Lähdin vaan juoksemaan töiden jälkeen.
+
 #### 26.07.2024: 30 km
 - Matka: 30,65 km
 - Aika: 3:30:32
