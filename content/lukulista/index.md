@@ -5,6 +5,13 @@ title: "Lukulista"
 Kerään tänne netistä löydettyjä ja muiden suosittelemia kirjoja, jotka voisivat kiinnostaa myös itseäni. Luen kirjoja Kindlellä, joten pyrin priorisoimaan sellaisia kirjoja, jotka saa siihen helposti ladattua.
 
 ### Suomalaiset
+- [Johanna Laitila - Kanin hetkellä](https://finna.fi/Record/helmet.2567955)
+- [Anu Holopainen - Salome](https://finna.fi/Record/helmet.2576955)
+- [Risto Isomäki - Pimeää jäätä](https://finna.fi/Record/helmet.2580600)
+- [Risto Isomäki - Pimeän pilven ritarit](https://finna.fi/Record/helmet.1312310)
+- [Antti Tuomainen - Parantaja](https://finna.fi/Record/helmet.1963543)
+- [Kimmo Tuominen - Pimeän verkon oraakkeli](https://finna.fi/Record/helmet.2350636)
+- [Jaana Kivi - Pimeä kaiku](https://finna.fi/Record/helmet.2546075)
 - [Juhani Karila - Pienen hauen pyydystys](https://finna.fi/Record/3amk.289958?sid=4731210460)
 - [J. Pekka Mäkelä - Karsta](https://finna.fi/Record/anders.936923?sid=4731210757)
 - [Tero Niemi ja Anne Salminen - Nimbus ja tähdet](https://finna.fi/Record/anders.434340?sid=4731210901)

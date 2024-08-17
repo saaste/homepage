@@ -13,7 +13,8 @@ title: "Juuri nyt"
 - [Factorio](https://factorio.com/) ([arvostelu]({{< ref "/blogi/2024/2024-08-02-factorio" >}}))
 
 ### Kirjat
-- [Emmi Itäranta - Kuunpäivän kirjeet](https://finna.fi/Record/anders.1819084?sid=4731210688)
+- [Vehka Kurjenmiekka - Kellopelisydän](https://finna.fi/Record/helmet.2553499)
+
 
 ### Askartelu
 - [FreeCADin](https://www.freecad.org/) ja [Inkscapen](https://inkscape.org/) opettelua
