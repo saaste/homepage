@@ -2,7 +2,7 @@
 title: "Interrail 2024"
 ---
 
-Päivitetty **11.8.2024** kello **17:58**.
+Päivitetty **17.8.2024** kello **19:42**.
 
 ### Reitti
 - Pasila - Turku (Kupittaa): VR-juna / 15:41 - 17:33
@@ -41,77 +41,12 @@ Kustannukset ovat kahdelta henkilöltä yhteensä
 | **YHTEENSÄ**                                                            | **2277,73 €**     |
 
 ### Matkatavarat
-Matkatavarat ovat minun henkilökohtaiset tavarat, joita kannan rinkassani.
+Matkatavarat ovat isolta osin minun henkilökohtaisia tavaroita, mutta mukana on myös joitakin, jotka jaamme puolison kanssa. Kaikki listan tavarat tulevat kuitenkin minun rinkkaan ja puolisolla on omansa.
+
+Matkalla haluan testata matkustamista pienemmällä rinkalla ja tavaramäärällä kuin yleensä. Listassa on kuitenkin asioita, joita mahdollistavat itselleni mieluisten asioiden tekemisen. Tavoitteena ei siis ole matkustaa pelkästään välttämättömillä tavaroilla.
+
+Koepunnituksessa painoa rinkalla, päivärepulla sekä matkatavaroilla on yhteensä reilut 9 kiloa.
 
 Rinkka: [Osprey Farpoint 55L]({{< ref "/blogi/2024/2024-05-25-matkailurinkka-reilille" >}})
 
-#### Vaatteet
-| Tavara | Määrä |
-| ------ | ----- |
-| Alushousut | 4 kpl |
-| T-paita | 4 kpl |
-| Shortsit | 2 kpl |
-| Sukat | 4 kpl |
-| Pitkät housut | 1 kpl |
-| Verkkarit | 1 kpl |
-| Huppari | 1 kpl |
-| Buffi | 1 kpl |
-| Juoksupaita | 1 kpl |
-| Juoksuhousut | 1 kpl |
-| Juoksupanta | 1 kpl |
-| Paljasjalkakengät | 1 kpl |
-| Sadetakki | 1 kpl |
-| Mikrokuitupyyhe | 1 kpl |
-
-#### Tekniikka
-| Tavara | Määrä |
-| ------ | ----- |
-| Puhelin + laturi | 1 kpl |
-| Läppäri + laturi | 1 kpl |
-| Hiiri + vastaanotin | 1 kpl |
-| SIM-korttiavain | 1 kpl |
-| Powerbank + johto | 1 kpl |
-| Kindle + johto | 1 kpl |
-| Irtokovalevy + johto | 1 kpl |
-| USB-hubi (sis. kortinlukija) | 1 kpl |
-| Järjestelmäkamera | 1 kpl |
-| Kameran objektiivi | 1 kpl |
-| Nappikuulokkeet | 1 kpl |
-| Urheilukellon johto | 1 kpl |
-| Sykevyö | 1 kpl |
-
-#### Hygienia
-| Tavara | Määrä |
-| ------ | ----- |
-| Hammasharja + suoja | 1 kpl |
-| Hammastahna | 1 kpl |
-| Hammastikut | 1 paketti |
-| Hammaslankain | 1 kpl |
-| Shampoo | 1 pieni pullo|
-| Hoitoaine | 1 pieni pullo |
-| Harja | 1 kpl |
-| Hiuslakka | 1 pieni pullo|
-| Hiusvaha | 1 pieni purkki|
-| Suolasuihke | 1 pieni pullo|
-| Partasakset | 1 kpl |
-| Partaöljy | 1 kpl |
-| Vanupuikkoja | 1 pieni pussi |
-
-#### Terveys
-| Tavara | Määrä |
-| ------ | ----- |
-| Laktoosinapit | 1 paketti |
-| Rennie | 1 paketti |
-| Kuumemittari | 1 kpl |
-
-#### Muut
-| Tavara | Määrä |
-| ------ | ----- |
-| Passi | 1 kpl |
-| Henkilökortti | 1 kpl |
-| Ajokortti | 1 kpl |
-| Luottokortti | 1 kpl |
-| Aurinkolasit | 1 kpl |
-| Lompakko | 1 kpl |
-| USB-tikku | 1 kpl |
-| Kännykkäteline pyörään | 1 kpl |
+{{<packing-list file="pakkauslista.json">}}

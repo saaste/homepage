@@ -1,0 +1,241 @@
+{
+    "categories": [
+        {
+            "name": "Vaatteet",
+            "items": [
+                {
+                    "name": "Alushousut",
+                    "amount": "4 kpl"
+                },
+                {
+                    "name": "T-paita",
+                    "amount": "4 kpl"
+                },
+                {
+                    "name": "Shortsit",
+                    "amount": "2 kpl"
+                },
+                {
+                    "name": "Sukat",
+                    "amount": "4 kpl"
+                },
+                {
+                    "name": "Pitkät housut",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Verkkarit",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Huppari",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Buffi",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Juoksupaita",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Juoksuhousut",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Juoksupanta",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Paljasjalkakengät",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Sadetakki",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Mikrokuitupyyhe",
+                    "amount": "1 kpl"
+                }
+            ]
+        },
+        {
+            "name": "Tekniikka",
+            "items": [
+                {
+                    "name": "Puhelin + laturi",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Läppäri + laturi",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Hiiri + vastaanotin",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "SIM-korttiavain",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Powerbank + johto",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Kindle + johto",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Irtokovalevy + johto",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "USB-hubi (sis. kortinlukija)",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Järjestelmäkamera + objektiivi",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Nappikuulokkeet",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Urheilukello + johto",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Sykevyö",
+                    "amount": "1 kpl"
+                }
+            ]
+        },
+        {
+            "name": "Hygienia",
+            "items": [
+                {
+                    "name": "Hammasharja + suoja",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Hammastahna",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Hammastikut",
+                    "amount": "1 paketti"
+                },
+                {
+                    "name": "Hammaslankain",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Shampoo",
+                    "amount": "1 pieni pullo"
+                },
+                {
+                    "name": "Hoitoaine",
+                    "amount": "1 pieni pullo"
+                },
+                {
+                    "name": "Harja",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Hiuslakka",
+                    "amount": "1 pieni pullo"
+                },
+                {
+                    "name": "Hiusvaha",
+                    "amount": "1 pieni purkki"
+                },
+                {
+                    "name": "Suolasuihke",
+                    "amount": "1 pieni pullo"
+                },
+                {
+                    "name": "Partasakset",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Partaöljy",
+                    "amount": "1 pieni pullo"
+                },
+                {
+                    "name": "Vanupuikkoja",
+                    "amount": "1 pieni pussi"
+                }
+            ]
+        },
+        {
+            "name": "Terveys ja lääkkeet",
+            "items": [
+                {
+                    "name": "Laktoosinapit",
+                    "amount": "1 paketti"
+                },
+                {
+                    "name": "Rennie",
+                    "amount": "1 paketti"
+                },
+                {
+                    "name": "Kuumemittari",
+                    "amount": "1 kpl"
+                }
+            ]
+        },
+        {
+            "name": "Muut",
+            "items": [
+                {
+                    "name": "Passi",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Henkilökortti",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Ajokortti",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Luottokortti",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Aurinkolasit",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Lompakko",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "USB-tikku",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Kännykkän pidike pyörään",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Spork",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Korvatulpat",
+                    "amount": "1 paketti"
+                },
+                {
+                    "name": "Pyykkipussi",
+                    "amount": "1 kpl"
+                }
+            ]
+        }
+    ]
+}

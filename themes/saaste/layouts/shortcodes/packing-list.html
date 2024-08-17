@@ -1,0 +1,32 @@
+
+{{ $fileName := .Get "file" }}
+
+<div class="packing-list">
+{{ with .Page.Resources.Get $fileName }}
+    {{ with . | transform.Unmarshal }}
+        {{ $data := . }}
+        {{ $categories := index $data "categories" }}
+        {{ range $categories }}
+            <div class="packing-list-category">
+                {{ $category := index . "name" }}
+                {{ $items := index . "items" }}
+                    <h4>{{ $category }}</h4>
+                    <table>
+                        <tr>
+                            <th>Tavara</th>
+                            <th>Määrä</th>
+                        </tr>
+                        {{ range $items }}
+                            {{ $item := index . "name" }}
+                            {{ $amount := index . "amount" }}
+                            <tr>
+                                <td>{{ $item }}</td>
+                                <td>{{ $amount }}</td>
+                            </tr>
+                        {{ end }}
+                    </table>
+            </div>
+        {{ end }}
+    {{ end }}
+{{ end }}
+</div>
