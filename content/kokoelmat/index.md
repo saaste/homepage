@@ -16,6 +16,7 @@ title: "Kokoelmat"
 - [Piia Leino, Yliaika](https://finna.fi/Record/3amk.285783?sid=4731210358) ([Arvostelu]({{< ref "/blogi/2024/2024-06-11-yliaika" >}}))
 - [Piia Leino, Lakipiste](https://finna.fi/Record/anders.1857971?sid=4740870475) ([Arvostelu]({{< ref "/blogi/2024/2024-06-27-lakipiste" >}}))
 - [Piia Leino, Aarteidesi aikakirjat](https://finna.fi/Record/anders.1904885?sid=4740871132) ([Arvostelu]({{< ref "/blogi/2024/2024-07-29-aarteidesi-aikakirjat" >}}))
+- [Emmi Itäranta, Kuunpäivän kirjeet](https://finna.fi/Record/helmet.2429871?sid=4773352847) ([Arvostelu]({{< ref "/blogi/2024/2024-08-16-kuunpaivan-kirjeet" >}}))
 
 ### Pelatut PC- ja konsolipelit
 
