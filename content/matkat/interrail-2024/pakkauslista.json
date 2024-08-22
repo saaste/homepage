@@ -21,11 +21,7 @@
                 },
                 {
                     "name": "Pitkät housut",
-                    "amount": "1 kpl"
-                },
-                {
-                    "name": "Verkkarit",
-                    "amount": "1 kpl"
+                    "amount": "2 kpl"
                 },
                 {
                     "name": "Huppari",
@@ -49,6 +45,10 @@
                 },
                 {
                     "name": "Paljasjalkakengät",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Juoksukengät",
                     "amount": "1 kpl"
                 },
                 {
@@ -131,6 +131,10 @@
                 },
                 {
                     "name": "Hammaslankain",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Deodorantti",
                     "amount": "1 kpl"
                 },
                 {
@@ -233,6 +237,10 @@
                 },
                 {
                     "name": "Pyykkipussi",
+                    "amount": "1 kpl"
+                },
+                {
+                    "name": "Kokoonmenevä juomapullo",
                     "amount": "1 kpl"
                 }
             ]
