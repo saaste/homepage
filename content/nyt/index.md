@@ -23,4 +23,4 @@ title: "Juuri nyt"
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
 
 ### Matkat
-- Tulevan [Interrail]({{< ref "/matkat/interrail-2024" >}})-matkan suunnittelu
+- [Interrail 2024]({{< ref "/matkat/interrail-2024" >}})
