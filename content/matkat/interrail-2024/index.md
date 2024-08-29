@@ -2,7 +2,7 @@
 title: "Interrail 2024"
 ---
 
-Päivitetty **17.8.2024** kello **19:42**.
+Päivitetty **29.8.2024** kello **18:56**.
 
 ### Reitti
 - Pasila - Turku (Kupittaa): VR-juna / 15:41 - 17:33
@@ -13,6 +13,10 @@ Päivitetty **17.8.2024** kello **19:42**.
 - Hampuri - Rüdesheim am Rhein: DB-juna / 09:24 - 14:35
 - Kolme yötä Rüdesheim am Rheinissä
 - Rüdesheim am Rhein - Basel: DB-juna / 08:23 - 14:47
+- Basel - Vevey: SBB-juna / 16:03 - 18:56
+- Kolme yötä Veveyssä
+- Vevey - Interlaken: GoldenPass Express / 09:34 - 12:50
+- Kaksi yötä Interlakenissa
 - ...
 - Hampuri - Kööpenhamina: DB-juna / 10:53 - 15:34
 - Kaksi yötä Tukholmassa
@@ -33,12 +37,17 @@ Kustannukset ovat kahdelta henkilöltä yhteensä
 | Juna: Hampuri - Rüdesheim am Rhein                                      | 13,00 €           |
 | Majoitus: Rüdesheim am Rhein (3 yötä)                                   | 294,00 €          |
 | Juna: Rüdesheim am Rhein - Basel                                        | 13,00 €           |
+| Juna: Basel - Vevey                                                     | 0,00 €            |
+| Majoitus: Vevey (2 yötä)                                                | 255,50 € (237,16 CHF) |
+| Majoitus: Vevey (1 yö)                                                  | 229,86 € (221,65 CHF) |
+| Juna: Vevey - Interlaken                                                | 43,55 € (40 CHF)  |
+| Majoitus: Interlaken (2 yötä)                                           | 613,53 € (554,00 CHF) |
 | ...                                                                     |                   |
 | Juna: Hampuri - Kööpenhamina                                            | 13,00 €           |
 | Majoitus: Kööpenhamina (2 yötä)                                         | 288 € (2150 DEK)  |
 | Juna: Kööpenhamina - Tukholma                                           | 27,47 € (300 SEK) |
 | Lautta: Tukholma - Helsinki + Inside Standard -hytti + Premium-aamupala | 113,50 €          |
-| **YHTEENSÄ**                                                            | **2277,73 €**     |
+| **YHTEENSÄ**                                                            | **3420,17 €**     |
 
 ### Matkatavarat
 Matkatavarat ovat isolta osin minun henkilökohtaisia tavaroita, mutta mukana on myös joitakin, jotka jaamme puolison kanssa. Kaikki listan tavarat tulevat kuitenkin minun rinkkaan ja puolisolla on omansa.
