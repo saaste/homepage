@@ -5,4 +5,4 @@ layout: single
 ---
 
 ### [Interrail 2024]({{< relref "interrail-2024" >}})
-Kolmen viikon Interrail-matka Ruotsin ja Saksan kautta Sveitsiin. Loppu on vielä epäselvää, sillä matka on suunnitteluvaiheessa ja toteutuu vasta loppukesästä.
+Kolmen viikon Interrail-matka 22.8. - 14.9.2024, jonka aikana kuljimme junilla Ruotsin, Tanskan, Saksan, Sveitsin, Liechesteinin, Itävallan ja Tšekin läpi.

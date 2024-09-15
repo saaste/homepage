@@ -1,0 +1,263 @@
+{
+    "route": [
+        {
+            "date": "22.08.2024",
+            "time": "15:41 - 17:33",
+            "name": "Pasila - Kupittaa",
+            "operator": "VR (IC 959)",
+            "notes": "Kävellen Kupittaan asemalta Turun keskustaan."
+        },
+        {
+            "date": "",
+            "time": "20:55 - 06:30",
+            "name": "Turku - Tukholma",
+            "operator": "Viking Line",
+            "notes": "M/S Viking Grace. Yölautta. Aamulla paikallisbussilla rautatieasemalle."
+        },
+        {
+            "date": "23.08.2024",
+            "time": "08:20 - 13:33",
+            "name": "Tukholma - Kööpenhamina",
+            "operator": "SJ (525)",
+            "notes": "Junan pääteasema oli Malmö, josta piti vaihtaa Öresundstågin junaan Kööpenhaminaan. Sama lippu kelpasi."
+        },
+        {
+            "date": "",
+            "time": "15:10 - 20:04",
+            "name": "Kööpenhamina - Hampuri",
+            "operator": "DB (EC 399)",
+            "notes": ""
+        },
+        {
+            "date": "24.08.2024",
+            "time": "09:24 - 13:00",
+            "name": "Hampuri - Frankfurt",
+            "operator": "DB (ICE 597)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "13:23 - 14:35",
+            "name": "Frankfurt - Rüdesheim am Rein",
+            "operator": "DB (VIA RB10)",
+            "notes": ""
+        },
+        {
+            "date": "27.08.2024",
+            "time": "08:23 - 08:55",
+            "name": "Rüdesheim am Rein - Weisbaden",
+            "operator": "DB (VIA RB10)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "09:26 - 10:58",
+            "name": "Weisbaden - Karlsruhe",
+            "operator": "DB (ICE 103)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "11:20 - 11:55",
+            "name": "Karlsruhe - Baden-Baden",
+            "operator": "BUS 12013",
+            "notes": "Junan korvaava bussi. Johtui ratatöistä."
+        },
+        {
+            "date": "",
+            "time": "13:12 - 14:47",
+            "name": "Baden-Baden - Basel",
+            "operator": "DB (ICE 73)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "16:03 - 17:10",
+            "name": "Basel - Biel/Bienne",
+            "operator": "SBB (IC 1628)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "17:16 - 18:16",
+            "name": "Biel/Bienne - Morges",
+            "operator": "SBB (IC 528)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "18:25 - 18:56",
+            "name": "Morges - Vevey",
+            "operator": "SBB (RE 18433)",
+            "notes": ""
+        },
+        {
+            "date": "30.8.2024",
+            "time": "09:05 - 09:10",
+            "name": "Vevey - Montreux",
+            "operator": "SBB (TRN 1811)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "09:34 - 12:50",
+            "name": "Montreux - Interlaken",
+            "operator": "SBB (PE 4068)",
+            "notes": "Junan vaihto Zweisimmenissä koska raideleveyttä vaihtava tekniikka oli rikki."
+        },
+        {
+            "date": "01.09.2024",
+            "time": "11:00 - 11:22",
+            "name": "Interlaken - Spiez",
+            "operator": "SBB (IC 817)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "11:36 - 12:11",
+            "name": "Spiez - Brig",
+            "operator": "SBB (IC 812)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "12:23 - 14:20",
+            "name": "Brig - Andermatt",
+            "operator": "SBB (RE 534)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "14:28 - 15:39",
+            "name": "Andermatt - Disentis/Mustér",
+            "operator": "SBB (RE 844)",
+            "notes": ""
+        },
+        {
+            "date": "03.09.2024",
+            "time": "08:44 - 10:02",
+            "name": "Disentis/Mustér - Chur",
+            "operator": "SBB (RE 1724)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "10:08 - 10:26",
+            "name": "Chur - Sargans",
+            "operator": "SBB (IC 566)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "11:00 - 12:05",
+            "name": "Sargans - Feldkirch",
+            "operator": "BUS SV401",
+            "notes": "Linja-autoyhteys Liechesteinin halki."
+        },
+        {
+            "date": "",
+            "time": "12:17 - 14:41",
+            "name": "Feldkirch - Wörgl",
+            "operator": "ÖBB (RJX 165 / RJX 565)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "14:51 - 16:14",
+            "name": "Wörgl - Zell am See",
+            "operator": "ÖBB (RE 1521)",
+            "notes": ""
+        },
+        {
+            "date": "06.09.2024",
+            "time": "09:45 - 11:09",
+            "name": "Zell am See - Wörgl",
+            "operator": "ÖBB (RE 1506)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "11:16 - 12:27",
+            "name": "Wörgl - München",
+            "operator": "ÖBB (RJ 286)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "13:04 - 13:31",
+            "name": "München - Pfaffenhofen",
+            "operator": "DB (RE 4020)",
+            "notes": ""
+        },
+        {
+            "date": "07.09.2024",
+            "time": "12:32 - 12:50",
+            "name": "Pfaffenhofen - Ingolstadt",
+            "operator": "DB (RE 39540)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "13:05 - 13:58",
+            "name": "Ingolstadt - Regensburg",
+            "operator": "DB (RE 84129)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "14:17 - 18:15",
+            "name": "Regensburg - Praha",
+            "operator": "CD (RE 359)",
+            "notes": ""
+        },
+        {
+            "date": "10.09.2024",
+            "time": "08:28 - 12:43",
+            "name": "Praha - Berlin",
+            "operator": "CD (EC 176)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "13:24 - 14:11",
+            "name": "Berlin - Stendal",
+            "operator": "DB (ICE 797)",
+            "notes": ""
+        },
+        {
+            "date": "11.09.2024",
+            "time": "08:30 - 10:10",
+            "name": "Stendal - Hampuri",
+            "operator": "DB (ICE 1606)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "10:53 - 15:34",
+            "name": "Hampuri - Kööpenhamina",
+            "operator": "DB (EC 396)",
+            "notes": ""
+        },
+        {
+            "date": "13.09.2024",
+            "time": "07:59 - 08:40",
+            "name": "Kööpenhamina - Malmö",
+            "operator": "Öresundståg (RE 1030)",
+            "notes": ""
+        },
+        {
+            "date": "",
+            "time": "09:07 - 13:34",
+            "name": "Malmö - Tukholma",
+            "operator": "SJ (HST 530)",
+            "notes": "Kävellen rautatieasemalta satamaan."
+        },
+        {
+            "date": "",
+            "time": "16:30 - 10:10",
+            "name": "Tukholma - Helsinki",
+            "operator": "Viking Line",
+            "notes": "M/S Viking Gabriella. Yölautta"
+        }
+    ]
+}

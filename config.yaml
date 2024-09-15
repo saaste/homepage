@@ -7,6 +7,7 @@ timeZone: "Europe/Helsinki"
 title: "saaste.net"
 paginate: 10
 pluralizelisttitles: false
+titleCaseStyle: firstupper
 
 
 languages:
@@ -46,6 +47,7 @@ menus:
 
 taxonomies:
     aiheet: "aiheet"
+    sarjat: "sarjat"
 
 caches:
   getresource:

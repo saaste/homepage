@@ -28,6 +28,29 @@
         {{ .Content }}
     </div>
 
+    {{- if .Params.sarjat -}}
+        <div class="sarja">
+            {{- with index (.GetTerms "sarjat") 0 -}}
+            <p>Kirjoitus on osa <strong>{{ .LinkTitle }}</strong> kirjoitussarjaa. Sarjaan kuuluu seuraavat kirjoitukset:</p>
+            {{- end -}}
+        
+            {{- $series := where .Site.RegularPages.ByDate ".Params.sarjat" "intersect" .Params.sarjat -}}
+            {{- with $series -}}
+            <ol>
+                {{- range . -}}
+                <li>
+                    {{- if eq .File.UniqueID $.File.UniqueID -}}
+                        <p>{{ .Title }}</p>
+                    {{- else -}}
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    {{- end -}}
+                </li>
+                {{- end -}}
+            </ol>
+            {{- end -}}
+        </div>
+    {{- end -}}
+
     {{ if eq .Type "blogi" }}
 
     {{ $all := getJSON "webmentions.json" }}

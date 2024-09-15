@@ -484,6 +484,17 @@ table {
     }
 }
 
+.sarja {
+    background-color: var(--color-block);
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top: 1rem;
+
+    h4 {
+        font-size: var(--font-size-normal);
+    }
+}
+
 .pagination {
     display: flex;
     gap: 1rem;
@@ -624,4 +635,10 @@ table {
     flex-direction: row;
     flex-wrap: wrap;
     gap: 2rem;
+}
+
+.travel-schedule {
+    td:nth-of-type(2), td:nth-of-type(3), td:nth-of-type(4) {
+        white-space: nowrap;
+    }
 }
