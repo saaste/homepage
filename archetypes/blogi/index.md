@@ -15,6 +15,6 @@ Summary
 
 <!--more-->
 
-![Alt text](cover.jpg "Caption")
+![Alt text](https://placehold.co/1200x630 "Caption")
 
 Content
