@@ -308,7 +308,7 @@ table {
     p {
         line-height: var(--font-line-height);
 
-        & + p {
+        & + p, figure + p {
             padding-top: 1rem;
         }
     }
@@ -640,5 +640,19 @@ table {
 .travel-schedule {
     td:nth-of-type(2), td:nth-of-type(3), td:nth-of-type(4) {
         white-space: nowrap;
+    }
+}
+
+/* Floats are used only with bigger screens */
+@media only screen and (min-width: $screen-medium) {
+    .post-image.float-left {
+        float: left;
+        width: 450px;
+        padding: 1rem 1.5rem 1rem 0;
+    }
+    .post-image.float-right {
+        float: right;
+        width: 450px;
+        padding: 1rem 0 1rem 1.5rem;
     }
 }
