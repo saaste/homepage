@@ -24,10 +24,6 @@
     </div>
     {{ end}}
 
-    <div class="e-content">
-        {{ .Content }}
-    </div>
-
     {{- if .Params.sarjat -}}
         <div class="sarja">
             {{- with index (.GetTerms "sarjat") 0 -}}
@@ -50,6 +46,10 @@
             {{- end -}}
         </div>
     {{- end -}}
+
+    <div class="e-content">
+        {{ .Content }}
+    </div>
 
     {{ if eq .Type "blogi" }}
 
