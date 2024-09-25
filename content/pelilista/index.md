@@ -9,5 +9,7 @@ Kerään tänne julkaistuja sekä tulevia pelejä, joita haluaisin pelata. Pelaa
 - [Hellblade: Senua's Sacrifice](https://www.hellblade.com/)
 - [Senua's Sage: Hellblade II](https://senuassaga.com/)
 - [Factorio: Space Age](https://factorio.com/) (Julkaisuaika: 21.10.2024)
-- [Civilization VII](https://civilization.2k.com/seven/) (Julkaisuaika: 2025)
+- [Civilization VII](https://civilization.2k.com/seven/) (Julkaisuaika: 11.2.2025)
+- [Monster Hunter Wilds](https://www.monsterhunter.com/wilds/) (Julkaisuaika: 28.2.2025)
 - [Grand Theft Auto VI](https://www.rockstargames.com/VI) (Julkaisuaika: 2025)
+- [Ghost of Yōtei](https://www.youtube.com/watch?v=7z7kqwuf0a8) (Julkaisuaika: ????)
