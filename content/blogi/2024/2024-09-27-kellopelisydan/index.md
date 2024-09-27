@@ -1,8 +1,8 @@
 ---
 title: "Kirja-arvostelu: Kellopelisydän"
-description: ""
-date: 2024-09-27T06:23:13+0300
-draft: true
+description: "Luin eilen loppuun Vehka Kurjenmiekan kirjoittaman Kellopelisydämen. Kutkuttavasta takakansitekstistä huolimatta minun on myönnettävä, että kirja ei ollut ihan minua varten."
+date: 2024-09-27T07:45:00+0300
+draft: false
 slug: kellopelisydan
 aiheet:
     - kirjat
