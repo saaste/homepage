@@ -12,7 +12,7 @@ title: "Juuri nyt"
 - [Black Myth: Wukong](https://www.heishenhua.com/)
 
 ### Kirjat
-- [Vehka Kurjenmiekka - Kellopelisydän](https://finna.fi/Record/helmet.2553499)
+- Uusi kirja etsinnässä
 
 ### Askartelu
 - [FreeCADin](https://www.freecad.org/) ja [Inkscapen](https://inkscape.org/) opettelua
