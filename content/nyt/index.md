@@ -3,6 +3,7 @@ title: "Juuri nyt"
 ---
 
 ### Ohjelmointi
+- Itse hostattava pastebin-sovellus
 - Kotisivujen virittely
 
 ### Musiikki
@@ -12,7 +13,7 @@ title: "Juuri nyt"
 - [Black Myth: Wukong](https://www.heishenhua.com/)
 
 ### Kirjat
-- Uusi kirja etsinnässä
+- [J. Pekka Mäkelä - Karsta](https://finna.fi/Record/helmet.1920453?sid=4731210757)
 
 ### Askartelu
 - [FreeCADin](https://www.freecad.org/) ja [Inkscapen](https://inkscape.org/) opettelua
