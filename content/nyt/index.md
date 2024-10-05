@@ -3,7 +3,6 @@ title: "Juuri nyt"
 ---
 
 ### Ohjelmointi
-- Itse hostattava pastebin-sovellus
 - Kotisivujen virittely
 
 ### Musiikki

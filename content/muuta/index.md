@@ -15,6 +15,7 @@ title: "Kaikkea muuta"
 
 
 ### Ohjelmointiprojektit
+- [Pastebin](https://github.com/saaste/pastebin)
 - [Bookmark Manager](https://github.com/saaste/bookmark-manager)
 - [Portfolio](https://github.com/saaste/portfolio)
 - [Memento Mori](https://github.com/saaste/memento-mori)
