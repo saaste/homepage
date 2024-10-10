@@ -12,13 +12,10 @@ title: "Juuri nyt"
 - [Black Myth: Wukong](https://www.heishenhua.com/)
 
 ### Kirjat
-- [J. Pekka Mäkelä - Karsta](https://finna.fi/Record/helmet.1920453?sid=4731210757)
+- [Markku Soikkeli - Läpinäkyvä kuolema](https://finna.fi/Record/helmet.2150897?sid=4838439496)
 
 ### Askartelu
 - [FreeCADin](https://www.freecad.org/) ja [Inkscapen](https://inkscape.org/) opettelua
 
 ### Juokseminen
 - Treenausta mahdolliseen maratoniin tai ultramaratoniin
-
-### Matkat
-- [Interrail 2024]({{< ref "/matkat/interrail-2024" >}}) -matkan dokumentointi

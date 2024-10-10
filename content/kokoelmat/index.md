@@ -18,6 +18,7 @@ title: "Kokoelmat"
 - [Piia Leino, Aarteidesi aikakirjat](https://finna.fi/Record/anders.1904885?sid=4740871132) ([Arvostelu]({{< ref "/blogi/2024/2024-07-29-aarteidesi-aikakirjat" >}}))
 - [Emmi Itäranta, Kuunpäivän kirjeet](https://finna.fi/Record/helmet.2429871?sid=4773352847) ([Arvostelu]({{< ref "/blogi/2024/2024-08-16-kuunpaivan-kirjeet" >}}))
 - [Vehka Kurjenmiekka - Kellopelisydän](https://finna.fi/Record/helmet.2553499) ([Arvostelu]({{< ref "/blogi/2024/2024-09-27-kellopelisydan" >}}))
+- [J. Pekka Mäkelä - Karsta](https://finna.fi/Record/helmet.1920453?sid=4731210757) ([Arvostelu]({{< ref "/blogi/2024/2024-10-10-karsta" >}}))
 
 ### Pelatut PC- ja konsolipelit
 
@@ -26,6 +27,7 @@ title: "Kokoelmat"
 - [Baldur's Gate 3](https://www.igdb.com/games/baldurs-gate-3) ([Arvostelu]({{< ref "/blogi/2024/2024-06-02-baldurs-gate-3" >}}))
 - [Helldivers 2](https://www.igdb.com/games/helldivers-2) ([Arvostelu]({{< ref "/blogi/2024/2024-02-18-helldivers-2" >}}))
 - [Sifu](https://www.igdb.com/games/sifu)
+- [Black Myth: Wukong](https://www.igdb.com/games/black-myth-wukong)
 
 
 #### 2023
