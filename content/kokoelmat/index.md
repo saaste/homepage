@@ -27,7 +27,6 @@ title: "Kokoelmat"
 - [Baldur's Gate 3](https://www.igdb.com/games/baldurs-gate-3) ([Arvostelu]({{< ref "/blogi/2024/2024-06-02-baldurs-gate-3" >}}))
 - [Helldivers 2](https://www.igdb.com/games/helldivers-2) ([Arvostelu]({{< ref "/blogi/2024/2024-02-18-helldivers-2" >}}))
 - [Sifu](https://www.igdb.com/games/sifu)
-- [Black Myth: Wukong](https://www.igdb.com/games/black-myth-wukong)
 
 
 #### 2023
