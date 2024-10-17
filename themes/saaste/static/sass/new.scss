@@ -502,6 +502,10 @@ table {
     justify-content: center;
     padding-top: 2rem;
 
+    li + li {
+        padding-top: 0;
+    }
+
     .page-item {
         display: block;
 
