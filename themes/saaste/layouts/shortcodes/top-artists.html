@@ -1,4 +1,13 @@
-{{ $musicData := getJSON "listenbrainz.json" }}
+{{ $musicData := dict }}
+{{ $path := "listenbrainz.json" }}
+{{ with resources.Get $path }}
+    {{ with . | transform.Unmarshal }}        
+        {{ $musicData = . }}
+    {{ end }}
+{{ else }}
+    {{ errorf "Unable to get %q" $path }}
+{{ end }}
+
 {{ $top_artists := index $musicData "top_artists" }}
 {{ $total_artist_count := index $musicData "total_artist_count" }}
 {{ if gt (len $top_artists) 0 }}
@@ -21,4 +30,3 @@
         <li><a href="https://listenbrainz.org">Listenbrainz</a> ei ole vielä luonut tilastoja. Toivottavasti tilanne muuttuu pian.</li>
     </ul>
 {{ end }}
-

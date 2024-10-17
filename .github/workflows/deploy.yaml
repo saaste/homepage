@@ -21,7 +21,7 @@ jobs:
           timezoneLinux: "Europe/Helsinki"
       - name: Setup Hugo
         env:
-          HUGO_VERSION: 0.132.1
+          HUGO_VERSION: 0.136.1
         run: |
           mkdir ~/hugo
           cd ~/hugo
@@ -38,6 +38,8 @@ jobs:
         run: |
           sudo chmod u+x api-to-json
           ./api-to-json -lb-user-token="${{ secrets.LISTEN_BRAINZ_USER_TOKEN }}" -wm-token="${{ secrets.WEBMENTIONS_TOKEN }}"
+          mkdir -p assets
+          mv listenbrainz.json webmentions.json assets
       - name: Build Hugo Site
         run: hugo --minify
       - name: Build Search Index

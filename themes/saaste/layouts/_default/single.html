@@ -53,7 +53,16 @@
 
     {{ if eq .Type "blogi" }}
 
-    {{ $all := getJSON "webmentions.json" }}
+    {{ $all := dict }}
+    {{ $path := "webmentions.json" }}
+    {{ with resources.Get $path }}
+        {{ with . | transform.Unmarshal }}        
+            {{ $all = . }}
+        {{ end }}
+    {{ else }}
+        {{ errorf "Unable to get %q" $path }}
+    {{ end }}
+
     {{ $allMatching := (where $all "target" (absURL .Page.Permalink)) }}
     {{ $likes := ((where $allMatching "type" "like") | len) }}
     {{ $mentions := (where $allMatching "type" "mention")}}
