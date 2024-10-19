@@ -9,7 +9,7 @@ title: "Juuri nyt"
 {{< top-artists >}}
 
 ### Pelit
-- [Black Myth: Wukong](https://www.heishenhua.com/)
+- Odottelen [Factorio: Space Agen](https://factorio.com/) julkaisua (20.10.2024) 
 
 ### Kirjat
 - [Markku Soikkeli - Läpinäkyvä kuolema](https://finna.fi/Record/helmet.2150897?sid=4838439496)
