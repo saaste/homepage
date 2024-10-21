@@ -8,7 +8,6 @@ Kerään tänne julkaistuja sekä tulevia pelejä, joita haluaisin pelata. Pelaa
 - [Marvel's Spider-Man 2](https://insomniac.games/game/marvels-spider-man-2/)
 - [Hellblade: Senua's Sacrifice](https://www.hellblade.com/)
 - [Senua's Sage: Hellblade II](https://senuassaga.com/)
-- [Factorio: Space Age](https://factorio.com/) (Julkaisuaika: 21.10.2024)
 - [Civilization VII](https://civilization.2k.com/seven/) (Julkaisuaika: 11.2.2025)
 - [Monster Hunter Wilds](https://www.monsterhunter.com/wilds/) (Julkaisuaika: 28.2.2025)
 - [Clair Obscur: Expedition 33](https://www.expedition33.com/) (Julkaisuaika kevät 2025)

@@ -12,6 +12,12 @@ Alla on lista juoksemistani matkoista, jotka ovat puolimaratonin tai sitä pidem
 
 ### 2024
 
+#### 12.10.2024: NUTS HEL
+- Matka: 27,39 km
+- Aika: 3:12:31
+- Tahti: 7:02/km
+- Muuta: [Polkujuoksutapahtuma](https://nutshel.fi/) Helsingin keskuspuistossa
+
 #### 14.08.2024: Maraton
 - Matka: 43,07 km
 - Aika: 5:01:44
