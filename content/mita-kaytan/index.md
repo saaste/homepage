@@ -10,13 +10,6 @@ title: "Mitä käytän"
 - Näppäimistö ja hiiri: Logitech Mk950 Signature Slim
 - Kuulokkeet: HyperX Cloud II
 
-#### Vanha pöytäkone (ei käytössä)
-- Emolevy: MSI MS-7a63
-- Prosessori: Intel i5-7600K
-- Muistia: 40 GB
-- Näytönohjain: Nvidia GeForce GTX 1060 3GB
-- Käyttöjärjestelmä: Pop!_OS Linux / Windows 10
-
 #### Palvelin
 - Emolevy: Asus A68HM-Plus
 - Prosessori: AMD A6-6400
@@ -50,16 +43,20 @@ title: "Mitä käytän"
 ### Puhelin
 - Google Pixel 6 Pro
 
-### Softat
-- Selain: [Firefox](https://firefox.com/)
-- Tiedostojen synkronointi: [SyncThing](https://syncthing.net/)
-- IDE: [Visual Studio Code](https://code.visualstudio.com/)
-- RSS-reader: [FreshRSS](https://www.freshrss.org/)
-- Muistiinpanot ja digitaalinen arkisto: [Obsidian](https://obsidian.md/)
-- Salasanamanageri: [Bitwarden](https://bitwarden.com/)
+### Sovellukset
 - 2FA: [Aegis](https://getaegis.app/)
 - 3D-mallinnus: [Blender](https://www.blender.org/)
-- Valokuva-arkisto: [Adobe Lightroom Classic](https://www.adobe.com/fi/products/photoshop-lightroom-classic.html)
+- IDE: [Visual Studio Code](https://code.visualstudio.com/)
 - Kuvankäsittely [Adobe Photoshop](https://www.adobe.com/fi/products/photoshop.html)
-- Videoeditointi: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- Muistiinpanot ja digitaalinen arkisto: [Obsidian](https://obsidian.md/)
+- Musiikkikokoelma: [Navidrome](https://www.navidrome.org/)
+- RSS-lukija: [FreshRSS](https://www.freshrss.org/)
+- Salasanamanageri: [Bitwarden](https://bitwarden.com/)
+- Selain: [Firefox](https://firefox.com/)
+- Tiedostojen synkronointi: [SyncThing](https://syncthing.net/)
+- Valokuva-arkisto: [Adobe Lightroom Classic](https://www.adobe.com/fi/products/photoshop-lightroom-classic.html)
 - Vektorigrafiikka: [Inkscape](https://inkscape.org/)
+- Videoeditointi: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+
+### Palvelut
+- Varmuuskopiointi: [rsync.net](https://rsync.net/)
