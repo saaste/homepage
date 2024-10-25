@@ -2,6 +2,9 @@
 title: "Muutosloki"
 ---
 
+### perjantai 25.10.2024
+- Lisätty [periaatteet tekoälyn käyttöön]({{< ref "/ai/index.md" >}}) -sivu.
+
 ### tiistai 6.8.2024
 - Lisätty [nyt]({{< ref "/nyt" >}})-sivulle kuunneltujen artistien määrä
 
