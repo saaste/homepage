@@ -19,6 +19,7 @@ title: "Kokoelmat"
 - [Emmi Itäranta, Kuunpäivän kirjeet](https://finna.fi/Record/helmet.2429871?sid=4773352847) ([Arvostelu]({{< ref "/blogi/2024/2024-08-16-kuunpaivan-kirjeet" >}}))
 - [Vehka Kurjenmiekka - Kellopelisydän](https://finna.fi/Record/helmet.2553499) ([Arvostelu]({{< ref "/blogi/2024/2024-09-27-kellopelisydan" >}}))
 - [J. Pekka Mäkelä - Karsta](https://finna.fi/Record/helmet.1920453?sid=4731210757) ([Arvostelu]({{< ref "/blogi/2024/2024-10-10-karsta" >}}))
+- [Markku Soikkeli - Läpinäkyvä kuolema](https://finna.fi/Record/helmet.2150897?sid=4838439496) ([Arvostelu]({{< ref "/blogi/2024/2024-11-10-lapinakyva-kuolema" >}}))
 
 ### Pelatut PC- ja konsolipelit
 
