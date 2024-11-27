@@ -11,7 +11,7 @@ title: "Juuri nyt"
 {{< top-artists >}}
 
 ### Pelit
-- Pelit tovin aikaa tauolla, sillä aika menee joulukuun alusta alkaen [Advent of Coden](https://adventofcode.com/2024) parissa.
+- [Stellar Blade](https://stellar-blade.com/)
 
 ### Kirjat
 - [Sami Parkkinen: Punainen pyörre](https://finna.fi/Record/helmet.1978283?sid=4866119961)
