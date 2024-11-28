@@ -17,9 +17,10 @@ title: "Kokoelmat"
 - [Piia Leino, Lakipiste](https://finna.fi/Record/anders.1857971?sid=4740870475) ([Arvostelu]({{< ref "/blogi/2024/2024-06-27-lakipiste" >}}))
 - [Piia Leino, Aarteidesi aikakirjat](https://finna.fi/Record/anders.1904885?sid=4740871132) ([Arvostelu]({{< ref "/blogi/2024/2024-07-29-aarteidesi-aikakirjat" >}}))
 - [Emmi Itäranta, Kuunpäivän kirjeet](https://finna.fi/Record/helmet.2429871?sid=4773352847) ([Arvostelu]({{< ref "/blogi/2024/2024-08-16-kuunpaivan-kirjeet" >}}))
-- [Vehka Kurjenmiekka - Kellopelisydän](https://finna.fi/Record/helmet.2553499) ([Arvostelu]({{< ref "/blogi/2024/2024-09-27-kellopelisydan" >}}))
-- [J. Pekka Mäkelä - Karsta](https://finna.fi/Record/helmet.1920453?sid=4731210757) ([Arvostelu]({{< ref "/blogi/2024/2024-10-10-karsta" >}}))
-- [Markku Soikkeli - Läpinäkyvä kuolema](https://finna.fi/Record/helmet.2150897?sid=4838439496) ([Arvostelu]({{< ref "/blogi/2024/2024-11-10-lapinakyva-kuolema" >}}))
+- [Vehka Kurjenmiekka, Kellopelisydän](https://finna.fi/Record/helmet.2553499) ([Arvostelu]({{< ref "/blogi/2024/2024-09-27-kellopelisydan" >}}))
+- [J. Pekka Mäkelä, Karsta](https://finna.fi/Record/helmet.1920453?sid=4731210757) ([Arvostelu]({{< ref "/blogi/2024/2024-10-10-karsta" >}}))
+- [Markku Soikkeli, Läpinäkyvä kuolema](https://finna.fi/Record/helmet.2150897?sid=4838439496) ([Arvostelu]({{< ref "/blogi/2024/2024-11-10-lapinakyva-kuolema" >}}))
+- [Sami Parkkinen, Punainen pyörre](https://finna.fi/Record/helmet.1978283?sid=4866119961) ([Arvostelu]({{< ref "/blogi/2024/2024-11-28-punainen-pyorre" >}}))
 
 ### Pelatut PC- ja konsolipelit
 

@@ -14,4 +14,4 @@ title: "Juuri nyt"
 - [Stellar Blade](https://stellar-blade.com/)
 
 ### Kirjat
-- [Sami Parkkinen: Punainen pyörre](https://finna.fi/Record/helmet.1978283?sid=4866119961)
+- Uusi kirja etsinnässä 
