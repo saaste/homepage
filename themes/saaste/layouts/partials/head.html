@@ -23,7 +23,7 @@
     {{ partial "opengraph.html" . }}
     <script defer data-domain="saaste.net" src="https://webstats.saaste.net/js/plausible.js"></script>
 
-    <script src="/pagefind/pagefind-ui.js"></script>
+    <script defer src="/pagefind/pagefind-ui.js"></script>
 
     {{ $cover := .Resources.GetMatch "cover.*" }}
     {{ if $cover }}
