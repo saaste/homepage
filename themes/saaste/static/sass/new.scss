@@ -1,10 +1,11 @@
-@import "reset.scss";
+@use "reset.scss";
 
 @font-face {
     font-family: 'Roboto Mono';
     src: url('../fonts/roboto-mono.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 /*----------------------------------------------------------------------------
