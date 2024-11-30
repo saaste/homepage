@@ -5,6 +5,8 @@ title: "Muutosloki"
 ### lauantai 30.11.2024
 - Kirjoitusten kansikuville generoidaan erilliset thumbnailit listanäkymää ja hakutuloksia varten
 - Hakunäkymä kirjoitettu kokonaan uusiksi
+- Lisätty erillinen [ohjelmointisivu]({{< ref "/ohjelmointi" >}}) ja siirretty ohjelmointiprojektit sen alle
+- Lisätty [Advent of Code 2024]({{< ref "/ohjelmointi/advent-of-code-2024" >}}) -sivu.
 
 ### perjantai 25.10.2024
 - Lisätty [periaatteet tekoälyn käyttöön]({{< ref "/ai/index.md" >}}) -sivu.

@@ -5,6 +5,7 @@ title: "Kaikkea muuta"
 ### Alasivut
 - [Valokuvat](https://photography.saaste.net)
 - [Linkit](https://links.saaste.net)
+- [Ohjelmointi]({{< ref "/ohjelmointi" >}})
 - [Lukulista]({{< ref "/lukulista" >}})
 - [Pelilista]({{< ref "/pelilista" >}})
 - [Kokoelmat]({{< ref "/kokoelmat" >}})
@@ -12,16 +13,6 @@ title: "Kaikkea muuta"
 - [Juokseminen]({{< ref "/juokseminen" >}})
 - [Matkat]({{< ref "/matkat" >}})
 - [Muutosloki]({{< ref "/muutosloki" >}})
-
-
-### Ohjelmointiprojektit
-- [Pastebin](https://github.com/saaste/pastebin)
-- [Bookmark Manager](https://github.com/saaste/bookmark-manager)
-- [Portfolio](https://github.com/saaste/portfolio)
-- [Memento Mori](https://github.com/saaste/memento-mori)
-- [Shopping List](https://github.com/saaste/shopping-list)
-- [Pomodoro CLI](https://github.com/saaste/pomodoro)
-- [FMI Weather Client](https://github.com/saaste/fmi-weather-client)
 
 ### PGP-avain
 - Julkinen [PGP-avain](/files/pgp-public-key.txt)
