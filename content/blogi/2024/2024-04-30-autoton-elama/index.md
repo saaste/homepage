@@ -6,7 +6,7 @@ draft: false
 slug: autoton-elama
 aiheet:
     - hyvinvointi
-    - ympäristö
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

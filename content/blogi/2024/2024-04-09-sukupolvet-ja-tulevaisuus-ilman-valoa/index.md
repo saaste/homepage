@@ -5,7 +5,6 @@ date: 2024-04-09T20:15:00+03:00
 draft: false
 slug: sukupolvet-ja-tulevaisuus-ilman-valoa
 aiheet:
-    - ympäristö
     - hyvinvointi
 resources:
     - name: cover

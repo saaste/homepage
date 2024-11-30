@@ -5,7 +5,7 @@ date: 2024-07-27T14:45:00+0300
 draft: false
 slug: miksi-urbanismi-on-valilla-turhauttavaa
 aiheet:
-    - ympäristö
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

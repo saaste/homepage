@@ -7,6 +7,7 @@ slug: melusaastetta-saarella
 aiheet:
     - hyvinvointi
     - matkailu
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

@@ -6,7 +6,7 @@ draft: false
 slug: freaky-bike-parade
 aiheet:
     - arki
-    - ympäristö
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

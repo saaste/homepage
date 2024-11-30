@@ -6,7 +6,7 @@ draft: false
 slug: paremman-ympariston-puolesta
 aiheet:
     - hyvinvointi
-    - ympäristö
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

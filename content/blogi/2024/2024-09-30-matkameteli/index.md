@@ -6,8 +6,8 @@ draft: false
 slug: matkameteli
 aiheet:
     - matkailu
-    - ympäristö
     - hyvinvointi
+    - urbanismi
 sarjat:
     - "Interrail-kokemuksia"
 resources:

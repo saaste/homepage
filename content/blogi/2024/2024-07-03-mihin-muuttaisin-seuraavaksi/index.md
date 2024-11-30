@@ -6,8 +6,8 @@ draft: false
 slug: mihin-muuttaisin-seuraavaksi
 aiheet:
     - arki
-    - ympäristö
     - matkailu
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

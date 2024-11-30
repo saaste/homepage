@@ -5,8 +5,8 @@ date: 2024-11-27T08:00:00+0200
 draft: false
 slug: talviagentti
 aiheet:
-    - ympäristö
     - esteettömyys
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

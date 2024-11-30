@@ -6,7 +6,7 @@ draft: false
 slug: aaniherkkyys-ja-melusaaste
 aiheet:
     - hyvinvointi
-    - ympäristö
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

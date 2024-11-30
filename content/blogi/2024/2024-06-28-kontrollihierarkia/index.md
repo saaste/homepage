@@ -5,7 +5,7 @@ date: 2024-06-28T09:00:00+0300
 draft: false
 slug: kontrollihierarkia
 aiheet:
-    - ympäristö
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

@@ -5,7 +5,7 @@ date: 2024-06-04T20:15:00+0300
 draft: false
 slug: samaa-toistamalla-eri-lopputulokseen
 aiheet:
-    - ympäristö
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

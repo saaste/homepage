@@ -6,6 +6,7 @@ draft: false
 slug: junamatkailu-sveitsissa
 aiheet:
     - matkailu
+    - urbanismi
 sarjat:
     - "Interrail-kokemuksia"
 resources:

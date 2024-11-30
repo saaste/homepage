@@ -5,8 +5,8 @@ date: 2024-07-21T12:30:00+0300
 draft: false
 slug: valahdyksia-autoilumaailmasta
 aiheet:
-    - ympäristö
     - hyvinvointi
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

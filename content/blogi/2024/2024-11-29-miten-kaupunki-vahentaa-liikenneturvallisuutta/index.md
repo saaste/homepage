@@ -5,7 +5,7 @@ date: 2024-11-29T08:45:00+0200
 draft: false
 slug: miten-kaupunki-vahentaa-liikenneturvallisuutta
 aiheet:
-    - ympäristö
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

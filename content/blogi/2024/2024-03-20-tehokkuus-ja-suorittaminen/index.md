@@ -6,7 +6,7 @@ draft: false
 slug: tehokkuusajattelu-ja-suorittaminen
 aiheet:
     - hyvinvointi
-    - ympäristö
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

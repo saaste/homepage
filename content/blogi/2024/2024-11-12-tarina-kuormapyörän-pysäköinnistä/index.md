@@ -6,6 +6,7 @@ draft: false
 slug: tarina-kuormapyoran-pysakoinnista
 aiheet:
     - arki
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

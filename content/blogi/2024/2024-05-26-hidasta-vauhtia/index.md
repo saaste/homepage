@@ -5,8 +5,8 @@ date: 2024-05-26T13:45:00+0300
 draft: false
 slug: hidasta-vauhtia
 aiheet:
-    - ympäristö
     - liikunta
+    - urbanismi
 resources:
     - name: cover
       src: cover.jpg

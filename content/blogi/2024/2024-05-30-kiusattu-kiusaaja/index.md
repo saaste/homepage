@@ -6,7 +6,6 @@ draft: false
 slug: kiusattu-kiusaaja
 aiheet:
     - hyvinvointi
-    - ympäristö
 resources:
     - name: cover
       src: cover.jpg

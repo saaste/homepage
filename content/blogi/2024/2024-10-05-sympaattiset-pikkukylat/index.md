@@ -6,6 +6,7 @@ draft: false
 slug: sympaattiset-pikkukylat
 aiheet:
     - matkailu
+    - urbanismi
 sarjat:
     - "Interrail-kokemuksia"
 resources:
