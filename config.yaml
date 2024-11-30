@@ -50,9 +50,3 @@ taxonomies:
 
 pagination:
   pageSize: 10
-
-caches:
-  getresource:
-    getresource:
-        dir: ":cacheDir/:project"
-        maxAge: "1m"
