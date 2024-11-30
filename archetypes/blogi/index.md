@@ -10,11 +10,13 @@ resources:
     - name: cover
       src: cover.jpg
       title: ""
+      params:
+        caption: ""
 ---
 Summary
 
 <!--more-->
 
-![Alt text](https://placehold.co/1200x630 "Caption")
+{{<cover>}}
 
 Content
