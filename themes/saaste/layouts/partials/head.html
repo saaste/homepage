@@ -23,16 +23,23 @@
     {{ partial "opengraph.html" . }}
     <script defer data-domain="saaste.net" src="https://webstats.saaste.net/js/plausible.js"></script>
 
-    <script defer src="/pagefind/pagefind-ui.js"></script>
-
-    {{ $cover := .Resources.GetMatch "cover.*" }}
+    {{ $cover := .Resources.GetMatch "cover" }}
     {{ if $cover }}
-        <meta data-pagefind-meta="image[content]" content="{{ $cover.RelPermalink }}" property="pagefind:image">
+        {{- $thumbnail := $cover.Resize "250x jpg q50" -}}
+        <meta data-pagefind-meta="image[content]" content="{{ $thumbnail.RelPermalink }}" property="pagefind:image">
         <meta data-pagefind-meta="image_alt[content]" content="{{ $cover.Title }}" property="pagefind:alt">
+        <meta data-pagefind-meta="image_width[content]" content="{{ $thumbnail.Width }}" property="pagefind:width">
+        <meta data-pagefind-meta="image_height[content]" content="{{ $thumbnail.Height }}" property="pagefind:height">
     {{ else }}
-        <meta data-pagefind-meta="image[content]" content="{{ .Site.BaseURL }}images/logo-128.png" property="pagefind:image">
-        <meta data-pagefind-meta="image_alt[content]" content="Vektorikuva kuolleesta puun silhuetista" property="pagefind:alt">
+        {{ $placeholder := resources.Get "thumbnail-placeholder.png" }}
+        <meta data-pagefind-meta="image[content]" content="{{ $placeholder.RelPermalink }}" property="pagefind:image">
+        <meta data-pagefind-meta="image_alt[content]" content="Sivuston teksti ja logo" property="pagefind:alt">
+        <meta data-pagefind-meta="image_width[content]" content="{{ $placeholder.Width }}" property="pagefind:width">
+        <meta data-pagefind-meta="image_height[content]" content="{{ $placeholder.Height }}" property="pagefind:height">
     {{ end }}
 
+    <meta data-pagefind-meta="page_type[content]" content="{{ .Type }}" property="pagefind:type">
+
+    <script src="{{ .Site.BaseURL }}js/search.js"></script>
     <script src="{{ .Site.BaseURL }}js/mobile.js"></script>
 </head>

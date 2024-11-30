@@ -475,8 +475,13 @@ table {
 
     .cover-photo {
         padding: 0 1rem 0 0;
+        
         picture {
             width: 250px;
+            border-radius: 10px;
+        }
+        img {
+            border-radius: 10px;
         }
     }
 }
@@ -534,97 +539,57 @@ table {
 * Search
 *
 ----------------------------------------------------------------------------*/
-.pagefind-ui {
-    max-width: 100%;
-}
-.pagefind-ui__form {
-    width: 100%;
-    display: grid;
-    grid-template-columns: auto min-content;
-    grid-template-rows: auto auto;
-    grid-template-areas: "input button" "results results";
-    column-gap: 0.5rem;
-    row-gap: 0.5rem;
-
-    .pagefind-ui__search-input {
+#search {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;;
+    
+    #query_input {
         padding: 0.5rem;
         border-radius: 10px;
-        grid-area: input;
     }
 
-    .pagefind-ui__search-clear {
-        display: none;
-    }
-
-    mark {
-        background: none;
-        color: var(--color-strong);
-        text-shadow: var(--strong-text-shadow);
-    }
-
-    .pagefind-ui__drawer {
-        grid-area: results;
-    }
-
-    .pagefind-ui__results-area {
-        display: flex;
-        gap: 1rem;
-        flex-direction: column;
-        justify-content: center;
-    }
-
-    .pagefind-ui__message {
-        font-size: var(--font-size-h6);
-        padding-top: 1rem;
-    }
-
-    .pagefind-ui__results {
-        display: flex;
-        flex-direction: column;
-        padding: 0;
-    }
-
-    .pagefind-ui__result {
-        display: grid;
-        grid-template-columns: minmax(20%, 150px) auto;
-        grid-template-areas: "thumbnail text";
-        column-gap: 1rem;
-        border-top: var(--separator);
-        padding-top: 1rem;
+    .result_count {
         padding-bottom: 1rem;
     }
 
-    .pagefind-ui__result-thumb {
-        grid-area: thumbnail;
-
-        img {
-            width: 100%;
-            object-fit: cover;
-            border-radius: 10px;
-        }
+    .result {
+        padding: 1rem 0;
+        border-top: var(--separator);
+        display: flex;
+        flex-direction: row;
     }
 
-    .pagefind-ui__result-inner {
-        grid-area: text;
-    }
-
-    .pagefind-ui__result-title {
-        font-size: var(--font-size-h5);
-        line-height: 1;
-    }
-
-    .pagefind-ui__button {
-        place-self: center;
-        padding: 0.5rem;
+    .thumbnail {
         border-radius: 10px;
     }
 
-    .pagefind-ui__hidden {
-        display: none;
+    .title {
+        margin-block-start: 0;
+    }
+
+    .result_text {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        align-content: flex-start;
+        padding-left: 1rem;
+        row-gap: 1rem;;
+    }
+
+    #more_results {
+        place-self: center;
+        padding: 0.5rem;
+        border-radius: 10px;
+        width: fit-content;
     }
 }
 
+
 @media only screen and (max-width: $screen-medium) {
+    .thumbnail {
+        display: none;
+    }
     .pagefind-ui__form {
         .pagefind-ui__result {
             grid-template-columns: min-content 1fr;
@@ -661,4 +626,8 @@ table {
         width: 450px;
         padding: 1rem 0 1rem 1.5rem;
     }
+}
+
+.hidden {
+    display: none;
 }

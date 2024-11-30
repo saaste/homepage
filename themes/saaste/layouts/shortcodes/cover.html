@@ -1,0 +1,17 @@
+{{ with .Page.Resources.GetMatch "cover"}}
+    {{- if not .Title -}}
+        {{- errorf "The %q shortcode requires an 'title' to be defined. See %s" $.Name $.Position -}}
+    {{- end -}}
+
+    {{- if .Params.Caption -}}
+    <figure class="post-image">
+        <img src="{{ .RelPermalink | safeURL }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+        <figcaption>{{ .Params.Caption }} {{ .Width }} {{ .Height }}</figcaption>
+    </figure>
+    {{- else -}}
+    <div class="post-image">
+        <img src="{{ .RelPermalink | safeURL }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+    </div>
+    {{- end -}}
+{{ end }}
+

@@ -9,37 +9,11 @@
 
     {{ .Content }}
 
-    <div id="search"></div>
-    <script>
-        const waitForElement = (selector) => {
-            return new Promise(resolve => {
-                if (document.querySelector(selector)) {
-                    return resolve(document.querySelector(selector));
-                }
-
-                const observer = new MutationObserver(mutations => {
-                    if (document.querySelector(selector)) {
-                        observer.disconnect();
-                        resolve(document.querySelector(selector));
-                    }
-                });
-
-                observer.observe(document.body, {
-                    childList: true,
-                    subtree: true
-                });
-            })
-        }
-
-        window.addEventListener('DOMContentLoaded', (event) => {
-            new PagefindUI({ element: "#search", showSubResults: false });
-        });
-
-        waitForElement(".pagefind-ui__search-input").then((element) => {
-            element.focus();
-        });
-    </script>
-
-
+    <div id="search">
+        <input type="text" name="query_input" id="query_input" />
+        <div id="search_results"></div>
+        <button type="button" id="more_results" class="hidden">Lataa lisää tuloksia</button>
+    </div>
+    
 </section>
 {{ end }}

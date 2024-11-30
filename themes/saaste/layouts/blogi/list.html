@@ -1,51 +1,50 @@
-{{ define "main" }}
+{{- define "main" -}}
 
 <section class="list-page-container">
     <h2 class="page-title">{{ .Title }}</h2>
 
-    {{ $paginator := .Paginate ( .RegularPagesRecursive.ByPublishDate.Reverse ) }}
+    {{- $paginator := .Paginate ( .RegularPagesRecursive.ByPublishDate.Reverse ) -}}
 
-    {{ with .Site.Taxonomies.aiheet }}
+    {{- with .Site.Taxonomies.aiheet -}}
     <p><a href="" class="toggle" data-label-off="Näytä aihetunnisteet" data-label-on="Piilota aihetunnisteet" data-target="categories">Näytä aihetunnisteet</a></p>
     <div class="categories hidden" id="categories">
-        {{ range $key, $value := . }}
+        {{- range $key, $value := . -}}
         <div class="category">
             <a href="{{ "aiheet/" | absLangURL }}{{ $key | urlize  }}">{{ $key }}</a> ({{ len $value }})
         </div>
-        {{ end }}
+        {{- end -}}
     </div>
-    {{ end }}
+    {{- end -}}
 
 
-    {{ range $paginator.Pages }}
+    {{- range $paginator.Pages -}}
     <div class="list-item blog-post">
         <div class="cover-photo">
-            {{ $coverPhoto := .Resources.GetMatch "cover" }}
-            {{ if $coverPhoto }}
+            {{- with .Resources.GetMatch "cover" -}}
+            {{- $thumbnail := .Resize "250x jpg q50" -}}
             <picture>
                 <source srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" media="(max-width: 700px)">
-                <img src="{{ $coverPhoto.Permalink }}" alt="{{ $coverPhoto.Title }}" width="250">
+                <img src="{{ $thumbnail.Permalink }}" alt="{{ .Title }}" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" class="thumbnail">
             </picture>
-                
-            {{ end }}
+            {{- end -}}
         </div>
         <div class="page-details">
             <h3 class="list-item-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             <time class="date" datetime="{{ .PublishDate | time.Format "2006-01-02" }}">{{ .PublishDate | time.Format "Monday 02.01.2006" }}</time>
             {{ .Summary }}
 
-            {{ with .Params.aiheet }}
+            {{- with .Params.aiheet -}}
             <ul class="categories">
-                {{ range . }}
+                {{- range . -}}
                     <li class="category category-{{ . }}"><a href="{{ "aiheet/" | absLangURL }}{{ . | urlize}}">{{ . }}</a></li>
-                {{ end }}
+                {{- end -}}
             </ul>
-            {{ end }}
+            {{- end -}}
         </div>
     </div>
-    {{ end }}
+    {{- end -}}
 
-    {{ template "_internal/pagination.html" . }}
+    {{- template "_internal/pagination.html" . -}}
 
 </section>
-{{ end }}
+{{- end -}}
