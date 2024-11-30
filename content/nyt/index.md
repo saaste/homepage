@@ -4,7 +4,7 @@ title: "Juuri nyt"
 
 ### Ohjelmointi
 - Kotisivujen virittely
-- Pienen oppaan kirjoittelua
+- [Advent of Code 2024]({{< ref "/ohjelmointi/advent-of-code-2024" >}})
 - [Portfolion](https://github.com/saaste/portfolio) jatkokehitys
 
 ### Musiikki
