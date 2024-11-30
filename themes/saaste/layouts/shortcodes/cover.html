@@ -6,7 +6,7 @@
     {{- if .Params.Caption -}}
     <figure class="post-image">
         <img src="{{ .RelPermalink | safeURL }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
-        <figcaption>{{ .Params.Caption }} {{ .Width }} {{ .Height }}</figcaption>
+        <figcaption>{{ .Params.Caption }}</figcaption>
     </figure>
     {{- else -}}
     <div class="post-image">
