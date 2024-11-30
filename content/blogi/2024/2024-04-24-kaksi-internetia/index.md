@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "BBS:n tekstipohjainen käyttöliittymä, jota on koristeltu ASCII-grafiikalla"
+      params:
+        caption: "Tyypillinen BBS-käyttöliittymä. Ne olivat tekstipohjaisia, mutta yksinkertaista grafiikkaa pystyi tekemään ASCII-merkeillä. Oman purkin kustomointi olikin iso osa sen viehätystä."
 ---
 
 Kuuntelin [The OverAnalyzers -podcastin jakson](https://www.youtube.com/watch?v=EA9EnRN6PfM), joka käsitteli sosiaalisen median jakautumista. Jakson aikana tajusin, että itselläni on kaksi hyvin erilaista kuvaa ja kokemusta, ei pelkästään sosiaalisesta mediasta, vaan koko Internetistä.
@@ -24,7 +26,7 @@ Kun sain ensikosketukseni online-elämään, Internet oli kyllä tekniikkana ole
 
 Ensin kuului nopea piipitys, sitten hälytysääni, ja lopulta modeemi alkoi huutaa kuin riivattu. Sitten tuli hiljaista ja hetken päästä kuvaputkimonitorin mustalle ruudulle alkoi tulla tekstiä: "Toimiiko tämä?"
 
-![BBS:n tekstipohjainen käyttöliittymä, jota on koristeltu ASCII-grafiikalla](cover.jpg "Tyypillinen BBS-käyttöliittymä. Ne olivat tekstipohjaisia, mutta yksinkertaista grafiikkaa pystyi tekemään ASCII-merkeillä. Oman purkin kustomointi olikin iso osa sen viehätystä.")
+{{<cover>}}
 
 Olin niin innoissani, että kutsuin äitini katsomaan. Muistan, kuinka uskomatonta minusta oli nähdä kaverini tekstin ilmestyvän ruudulle. Keskustelua ei käyty viesti kerrallaan, vaan näin hänen jokaisen näppäimen painalluksen kirjoitusvirheineen ja korjauksineen. Se tuntui maagiselta!
 

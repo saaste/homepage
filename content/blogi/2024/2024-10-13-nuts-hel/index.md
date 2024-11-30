@@ -10,12 +10,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Urheilukentällä oleva vihreä lähtöportti. Portin yläosassa on suuri hirven silhuetti. Portin alla on joitakin juoksijoita odottamassa lähtöä."
+      params:
+        caption: "NUTS HEL -tapahtuman lähtöportti muutamaa minuuttia ennen starttia. Tässä kohtaa sää oli vielä aurinkoinen."
 ---
 Osallistuin eilen NUTS HEL -polkujuoksutapahtumaan, joka tunnettiin aikaisemmin nimellä Helsinki City Trail. 24 km polkujuoksu Helsingin keskuspuistossa sateisessa säässä tarjosi tuttuja elämyksiä, joskin päädyin itse juoksemaan yli 27 kilometriä.
 
 <!--more-->
 
-![Urheilukentällä oleva vihreä lähtöportti. Portin yläosassa on suuri hirven silhuetti. Portin alla on joitakin juoksijoita odottamassa lähtöä. Taivas on sininen, mutta siellä näkyy joitakin pilviä.](cover.jpg "NUTS HEL -tapahtuman lähtöportti muutamaa minuuttia ennen starttia. Tässä kohtaa sää oli vielä aurinkoinen.")
+{{<cover>}}
 
 [NUTS HEL](https://nutshel.fi/fi/) on yksi lyhyimmistä [Northern Ultra Trail Service](https://nuts.fi/fi/) (NUTS) -organisaation tapahtumista. Tapahtuman kuvauksessa mainitaan reitin olevan 24 km, mutta [virallinen reittikarttakin](https://tracedetrail.fr/en/trace/255674) kertoo sen olevan hieman yli 25 km. Ei siis puhuta ultramatkasta, mutta kokemattomalle polkujuoksijalle tarjolla voi olla yllätyksiä, vaikka taustalla olisi useampi puolimaraton tai maraton.
 

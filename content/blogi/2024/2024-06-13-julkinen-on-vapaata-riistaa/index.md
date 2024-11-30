@@ -10,12 +10,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Amerikkalainen katu, jossa punaisista tiilistä rakennetun talon seinässä on mainoskyltti, joka muistuttaa moottoritieopastetta. Kyltissä lukee Internet Garage. Kyseessä lienee jonkinlaisen nettikahvilan kyltti."
+      params:
+        caption: "Kuva: Matilde Park"
 ---
 Millainen maailma olisi, jos kaikki julkinen ja julkisesti esiin laitettu, tai sellaiseksi päätynyt, olisi vapaata riistaa?
 
 <!--more-->
 
-![Amerikkalainen katu, jossa punaisista tiilistä rakennetun talon seinässä on mainoskyltti, joka muistuttaa moottoritieopastetta. Kyltissä lukee Internet Garage. Kyseessä lienee jonkinlaisen nettikahvilan kyltti.](cover.jpg "Kuva: Matilde Park")
+{{<cover>}}
 
 Kuljet julkisella kadulla ja istut julkiselle penkille. Hetken istuttuasi jatkat matkaasi etkä huomaa, että unohdit lompakkosi penkin reunalle. Lompakkosi on nyt julkista omaisuutta, jolla voi tehdä mitä vaan. Ehkä joku voi palauttaa sen, mutta rahat voi ottaa itselleen ja sisällä olleita kortteja käyttää huoletta. Ei olisi pitänyt jättää lompakkoa julkiseksi!
 

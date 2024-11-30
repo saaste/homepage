@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Viihtyisä, suljettu sisäpiha, jossa on useita korkeita viherpuita. Puiden alla on nurmialueita ja puiden välistä pilkistää myös lasten leikkipaikka."
+      params:
+        caption: "Sisäpihat voivat olla kauniita, vehreitä ja viihtyisiä. Ikävä kyllä ne päätyvät usein olemaan harmaita parkkipaikkoja."
 ---
 Eilisellä juoksulenkillä kuuntelin kiinnostavan jakson [Urbanist Agenda](https://open.spotify.com/episode/25CtieOU2JzdDmvhTitZhx?si=4b0e4f6e0b3b4040) -podcastista. En mene jakson varsinaiseen aiheeseen, mutta siinä käsiteltiin niitä syitä, jotka tekevät urbanismista ja kaupunkisuunnittelusta välillä todella turhauttavaa.
 
@@ -33,7 +35,7 @@ Suomessa ja maailmalla yksi erittäin etuoikeutettu ryhmä ovat omakotitaloaluei
 
 Vähemmistöjen menestys voi pohjatua myös siihen, että monet vaikutusvaltaiset ja varakkaat ihmiset kuuluvat juuri tähän etuoikeutettuun ryhmään. He ajattelevat ensisijaisesti omaa etuaan, ei yhteiskunnan, kaupungin tai sen asukkaiden etua. Heillä on rahaa ja vaikutusvaltaa murjoa tahtonsa läpi. Hinnan maksavat paikalliset asukkaat, jolla ei ole rahaa tai vaikutusvaltaa. Pahimmillaan hintana on ihmishenki.
 
-![Viihtyisä, suljettu sisäpiha, jossa on useita korkeita viherpuita. Puiden alla on nurmialueita ja puiden välistä pilkistää myös lasten leikkipaikka.](cover.jpg "Sisäpihat voivat olla kauniita, vehreitä ja viihtyisiä. Ikävä kyllä ne päätyvät usein olemaan harmaita parkkipaikkoja.")
+{{<cover>}}
 
 ### Ihmiset näkevät menetyksen, mutta eivät tulevia hyötyjä
 

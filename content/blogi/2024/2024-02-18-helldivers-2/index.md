@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Neljä Helldivers-sotilasta poseeraa kallion päällä
+      params:
+        caption: "Haluatko jakaa demokratiaa ja vapautta? Liity Helldiveriksi!"
 ---
 
 Helldivers 2 on jatkoa vuonna 2015 julkaistulle, suositulle co-op -pelille. Top-down -näkymä on muuttunut 3rd person -näkymäksi, mutta muuten pelin suosion rakentaneet elementit ovat yhä paikoillaan. Ongelmiakin on.
@@ -18,7 +20,7 @@ Helldivers 2 on jatkoa vuonna 2015 julkaistulle, suositulle co-op -pelille. Top-
 
 Jos pidät [Starship Troopers](https://www.youtube.com/watch?v=zPYuV_jGk7M) -elokuvan tyylistä ja huumorista, pidät luultavasti myös Helldiversista. Tarinaa ei juuri ole. Helldiversit ovat Super Earthin sotilaita, jotka lähetetään vieraille planeetoille jakaamaan demokratiaa aseet laulaen. Jotta oman kodin rauha säilyisi, muille vieraslajeille on jaettava vapautta lyijyn muodossa. Kieli poskessa vedetty sotahulluus ja sen ympärille rakennettu huumori uppoaa ainakin itseeni.
 
-![Neljä Helldivers-sotilasta poseeraa kallion päällä](cover.jpg "Haluatko jakaa demokratiaa ja vapautta? Liity Helldiveriksi!")
+{{<cover>}}
 
 En ole 3rd person -räiskintöjen ylin ystävä. Näin ennen julkaisua gameplay-videoita pelistä ja epäilin, että niinköhän ensimmäisen osan tunnelma ja hauskuus toimivat uudesta näkökulmasta. Epäilykseni olivat turhia. Monin tavoin 3rd person -näkymä toimii paremmin, koska nyt pääset keskelle taistelun kaaosta. Kehittäjät ovat tehneet todella hyvää työtä ja tehneet pelikokemuksesta mukaansa tempaavan.
 

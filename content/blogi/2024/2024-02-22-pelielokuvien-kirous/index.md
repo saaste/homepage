@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Borderlands-elokuvan päähenkilöt istuvat autossa
+      params:
+        caption: "Näyttelijät pukeutuvat kuin Borderlands-pelin hahmot, mutta ne eivät tunnu pelin hahmoilta, joiden kanssa olen viettänyt aikaa."
 ---
 
 Näin Borderlands-elokuvan trailerin ja mietin, ettei elokuvalla tunnu olevan juuri mitään tekemistä sen pelisarjan kanssa, joihin olen käyttänyt 15 vuotta elämästäni. Se sai miettimään, että miksi Hollywood haluaa kerta toisensa jälkeen tuhota faneille tärkeät maailmat.
@@ -21,7 +23,7 @@ Olen kasvanut pelien parissa. Peleissä, kuten kirjoissa, on se hieno puoli, ett
 
 Vahva tunneside on omiaan synnyttämään intohimoisia faneja. Fanit ovat usein ihmisiä, jotka ovat viettäneet satoja tai jopa tuhansia tunteja maailmoissa, joita pelien tekijät ovat rakentaneet. Kun pelistä julkaistaan jatko-osa, on ihan luonnollista, että fanit odottavat uuden pelin istuvan siihen maailmaan. Se maailma on heille tärkeä. He eivät ole sitä luoneet, mutta he ovat eläneet siinä. Se on heidän maailmansa! Jatko-osa saa laajentaa sitä ja tuoda siihen jotain uutta, mutta se ei saa rikkoa jotain minkä pelaajat tuntevat kodikseen.
 
-![Borderlands-elokuvan päähenkilöt istuvat autossa](cover.jpg "Näyttelijät pukeutuvat kuin Borderlands-pelin hahmot, mutta ne eivät tunnu pelin hahmoilta, joiden kanssa olen viettänyt aikaa.")
+{{<cover>}}
 
 Joistain peleistä on vaikea tehdä elokuvaa, koska peli ei yksinkertaisesti tarjoa sellaista maailmaa, jonka päälle voisi luontevasti kirjoittaa tarinan. Niiden pelien suosio ei pohjaudu hyvään tarinaan. 32 vuoden ikäinen **Mortal Kombat** -pelisarja on hyvä esimerkki tällaisesta.
 

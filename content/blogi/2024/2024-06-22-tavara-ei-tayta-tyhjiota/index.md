@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Näkymä Linnanmäeltä. Taustalla näkyy eri vuoristoratojen kiskoja. Vasemmalla kulkee ylikulkusilta, jossa kävelee ihmisiä. Alapuolella näkyy vettä sekä kelluvat pömpelit, joiden sisällä ihmiset kulkevat keinotekoista koskea pitkin. Taivas on puolipilvinen."
+      params:
+        caption: "Elämyksillä on taipumus tuottaa ainakin omassa elämässäni paljon pysyvämpää hyvinvointia. Siksi tykkään matkustaa, syödä ravintoloissa, nauttia luonnosta tai kuten tässä kuvassa, käydä Linnanmäellä."
 ---
 Olimme eilen kavereiden luona viettämästä juhannusta. Siinä pihalla grillin lämpenemistä odotellessa kaverini kertoi ajatuksiaan siitä, kuinka hän menettää nopeasti kiinnostuksensa hankkimiinsa tavaroihin.
 
@@ -31,7 +33,7 @@ Kun asian lopulta saa itselleen, innostus kestää viikon tai kaksi. Romu jää 
 
 Jos tavara jäisi vain passiiviseksi tilan täyttäjäksi, ongelma ei olisi välttämättä niin suuri. Usein tavara päätyy kuitenkin syyllistämään. Mainitsin tästä ongelmasta tarkemmin [aikaisemmassa kirjoituksessa]({{< ref "/blogi/2024/2024-03-28-minimalismia-kohtuudella" >}}). Se syyllistää siitä, etten käytä sitä, ja että menin tuhlaamaan rahani siihen. Se ei ole passiivista romua vaan tuottaa ihan aktiivisesti huono mieltä.
 
-![Näkymä Linnanmäeltä. Taustalla näkyy eri vuoristoratojen kiskoja. Vasemmalla kulkee ylikulkusilta, jossa kävelee ihmisiä. Alapuolella näkyy vettä sekä kelluvat pömpelit, joiden sisällä ihmiset kulkevat keinotekoista koskea pitkin. Taivas on puolipilvinen.](cover.jpg "Elämyksillä on taipumus tuottaa ainakin omassa elämässäni paljon pysyvämpää hyvinvointia. Siksi tykkään matkustaa, syödä ravintoloissa, nauttia luonnosta tai kuten tässä kuvassa, käydä Linnanmäellä.")
+{{<cover>}}
 
 Mitä pidempään olen harrastanut "kohtuullista minimalismia", sitä pienemmäksi materian merkitys on muuttunut. Olen huomannut, että arjen merkityksellisyys ja hyvinvointi tulee lähes täysin muualta kuin tavaroista ja materiasta. Hyvään arkeen kuuluu tietty määrä materiaa, mutta vaatii taitoa tunnistaa, että mikä tuo oikeasti merkitystä elämään ja milloin kyseessä on pelkkä impulssi. Koska kyse on taidosta, se on opeteltavissa.
 

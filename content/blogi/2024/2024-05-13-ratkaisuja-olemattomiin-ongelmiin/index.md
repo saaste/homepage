@@ -17,7 +17,7 @@ Olen oppinut työelämässä kysymään, että mikä on se todellinen ongelma, j
 
 [TukasEV](https://www.tukasev.com/en/) on kuntopyörä, joka muuttaa liike-energian sähköenergiaksi ja säilöö sen akkuun. Ei varsinaisesti mikään uusi idea. Myyntipuheena käytetään sitä, että hikoilusi vapauttama energia ei mene hukkaan, vaan voit käyttää sen itse myöhemmin. Luonnollisesti tuotetta myydään jonkinlaisena ekoratkaisuna, joka "tuottaa" puhdasta, uusiutuvaa energiaa.
 
-![Olohuoneen lattialla seisova pronssin värinen TukasEV. Kuntopyörässä on leveä, epämukavan näköinen penkki. Jalkojen välissä on suuri, kapea akku. Laiteessa on hyvin lelumainen vaikutelma.](cover.jpg)
+{{<cover>}}
 
 Haluan ajatella, että tällä liettualaisella yrityksellä on ainakin jossain kohtaa ollut ihan jalo ajatus taustalla. Tästä huolimatta mieleen tulee, että yrityksessä ei ole missään kohtaa pysähdytty kysymään sitä todellista ongelmaa, jota se yrittää ratkaista.
 

@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Avokeittiö, jonka seinät ovat tumman harmaat ja kaapistot kiiltävän valkoisia. Seinällä roikkuu kolme lastaa ja pyyhe.
+      params:
+        caption: "Tämä ei ole meidän keittiö, mutta siinä on samankaltaista yksinkertaisuutta, josta pidän. Viherkasveja se kyllä kaipaisi. Kuva: Rob Ellis"
 ---
 Minimalismi synnyttää helposti negatiivisia mielikuvia. Eikä ihan turhaan. Internetistä löytää mitä kummallisimpia otteita asiaan, eivätkä kaikki niistä ole järkeviä tai kestäviä.
 
@@ -17,7 +19,7 @@ Itse aloin miettiä tavaramäärän vähentämistä vuosia sitten. Silloin syyn�
 
 <!--more-->
 
-![Avokeittiö, jonka seinät ovat tumman harmaat ja kaapistot kiiltävän valkoisia. Seinällä roikkuu kolme lastaa ja pyyhe.](cover.jpg "Tämä ei ole meidän keittiö, mutta siinä on samankaltaista yksinkertaisuutta, josta pidän. Viherkasveja se kyllä kaipaisi. Kuva: Rob Ellis")
+{{<cover>}}
 
 ### Jos en käytä, en tarvitse
 Tutustuin tuolloin [Pareton periaatteeseen](https://fi.wikipedia.org/wiki/Pareton_periaate), joka tunnetaan myös 80/20 -sääntönä. Periaatteen voi yksinkertaistaa näin: 80 % seurauksista johtuu 20 %:sta syistä.

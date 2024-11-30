@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Hotellihuone, jossa on kaksi sänkyä ja niiden vastapäätä pieni pöytä. Huoneessa on kaksi tuolia ja päätyseinällä ikkuna, josta näkyy kerrostaloja. Huoneen sisustuksessä ei ole juurikaan käytetty värejä."
+      params:
+        caption: "Sosialisointia täynnä olevan illan jälkeen hiljainen ja väritön hotellihuone tuntui paratiisilta."
 ---
 Vietin viikonlopun Tampereella. Reissu oli hyvä muistutus siitä, kuinka pieni oma sosiaalisen energian tankkini on.
 
@@ -28,8 +30,7 @@ Cain kuvailee ihmisten energiatasoja tankkina. Kun tankki on tyhjä, olo muuttuu
 
 Viikonloppu oli hyvä muistutus tästä. Järjestimme kaverille yllätysjuhlat ja samaan paikkaan kokoontui meidän pieni peliporukka. Ilta oli kaikin puolin mukava ja kampesin takaisin hotellille vasta yhden jälkeen yöllä. Mukavasta illasta huolimatta olin onnellinen kun pääsin hotellin hiljaisuuteen ja rauhaan. Olin aivan poikki, mutta minun oli vaikeuksia saada unta. Tuntui kuin olisin jotenkin ylikuormittunut.
 
-![Hotellihuone, jossa on kaksi sänkyä ja niiden vastapäätä pieni pöytä. Huoneessa on kaksi tuolia ja päätyseinällä ikkuna, josta näkyy kerrostaloja. Huoneen sisustuksessä ei ole juurikaan käytetty värejä.](cover.jpg "Sosialisointia täynnä olevan illan jälkeen hiljainen ja väritön hotellihuone tuntui paratiisilta.")
-
+{{<cover>}}
 
 Saavuin Tampereelle junalla, mutta paluumatka tehtiin kaverin autolla. Ajatus parin tunnin automatkasta kavereiden kanssa tuntui lähinnä ahdistavalta. Ei siksi, että kaverit olisivat huonoa seuraa, vaan siksi, että joudun lähtemään matkaan täysin tyhjällä tankilla. Asiaa ei auttanut se, että kuljettaja huudatti musiikkia läpi matkan. Haaveilin koko matkan siitä, että olisin saanut matkustaa kotiin hiljaisessa junassa puhumatta kenellekään.
 

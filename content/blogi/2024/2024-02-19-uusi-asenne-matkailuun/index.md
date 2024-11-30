@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Aavikkomaisella alueella seisova bussi Perussa
+      params:
+        caption: "Busseissa on tullut vietettyä matkoilla pitkät tovit. Tämä bussi kuljetti minua Perussa. Voi olla, etteivät samanlaiset matka onnistu enää."
 ---
 
 Olen ehtinyt olla reilun viikon Suomessa, mutta mielessä pyörivät uudet seikkailut. Tällä kertaa tarkoitus olisi matkustaa aivan uudella tavalla, mutta muutos vaatii uuden opettelua ja asennemuutosta.
@@ -47,7 +49,7 @@ Viimeiset vuodet sekä edellinen matka korostivat itselleni sitä, että joudun 
 
 Suurkaupungit ja erilaiset autohelvetit saavat tulevaisuudessa väistyä pienempien, hiljaisempien ja inhimillisempien kohteiden tieltä. Luotokohteet ovat aina olleet tärkeä osa seikkailujani ja niistä pidän riemulla kiinni. Yleisen aistiherkkyyden takia en todennäköisesti pysty yhtä mukavasti tekemään tuntikausien täriseviä ja mutkittelevia bussimatkoja, joten senkin puolesta raidematkailuun panostaminen tuntuu oikealta vaihtoehdolta.
 
-![Aavikkomaisella alueella seisova bussi Perussa](cover.jpg "Busseissa on tullut vietettyä matkoilla pitkät tovit. Tämä bussi kuljetti minua Perussa. Voi olla, etteivät samanlaiset matka onnistu enää.")
+{{<cover>}}
 
 Rehellisyyden nimissä on kuitenkin todettava, että vaikka pyrinkin vähentämään lentämistä tuntuvasti, se ei varmasti katoa elämästäni täysin. Ei ainakaan ihan vielä. Minulla on edelleen joitakin kohteita, kuten Japani, joissa haluaisin käydä. En halua myöskään täysin sivuuttaa sitä tosiasiaa, että matkailulla on iso positiivinen vaikutus hyvinvointiin. Joudun tasapainottelemaan näiden asioiden kanssa ja koitan hyväksyä sen, että iso muutos on parempi kuin ei muutosta ollenkaan.
 

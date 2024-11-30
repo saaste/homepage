@@ -11,12 +11,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Työpiste 2000-luvun alusta. Keskellä on näppäimistö ja kuvaputkimonitori. Vasemalla on tasoskanneri, läjä mappeja sekä seinäkalenteri. Oikealla on lankapuhelin, kahvikuppi, teippirulla ja satunnaisi papereita. Koko komeus on omassa sermeistä rakennetussa kuutiossa."
+      params:
+        caption: "Softakehittäjän työpiste 2000-luvun alusta. Kuva: Kent Kanouse"
 ---
 Sami Määttä kirjoitti blogissaan [työelämänsä tärkeimmistä opeista](https://samimaatta.fi/kirjoitukset/tarkeimmat-oppini-tyoelamasta/). Niitä lukiessa nyökyttelin toistuvasti, sillä allekirjoitan kaikki hänen oivalluksensa. Kirjoitus sai miettimään sitä, että mitä olen itse oppinut työvuosien aikana.
 
 <!--more-->
 
-![Työpiste 2000-luvun alusta. Keskellä on näppäimistö ja kuvaputkimonitori. Vasemalla on tasoskanneri, läjä mappeja sekä seinäkalenteri. Oikealla on lankapuhelin, kahvikuppi, teippirulla ja satunnaisi papereita. Koko komeus on omassa sermeistä rakennetussa kuutiossa.](cover.jpg "Softakehittäjän työpiste 2000-luvun alusta. Kuva: Kent Kanouse")
+{{<cover>}}
 
 Allekirjoitin ensimmäisen kuukausipalkallisen työsopimuksen vuonna 2002. Kokemusta työelämästä on ehtinyt kertyä reilut 20 vuotta. Osa näistä vuosista meni opiskellessa, mutta opintojen aikana perustin oman toiminimen ja tein töitä sen kautta. Mitä näiden vuosien aikana on tullut opittua?
 

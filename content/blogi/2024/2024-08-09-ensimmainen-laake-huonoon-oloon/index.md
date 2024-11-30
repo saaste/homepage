@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Pöydän päällä olevia eri värisiä nappuloita, joita käytetään StarCraft-lautapelissä."
+      params:
+        caption: "Tällä viikolla olen askarrellut StarCraft-lautapeliin uusia nappuloita."
 ---
 Kulunut reilu viikko on mennyt henkisen hyvinvoinnin kanssa taistellessa. Tämä ei ole ensimmäinen kerta kun näin käy ja kokemus onkin opettanut, mitä näissä tilanteissa kannattaa tehdä.
 
@@ -25,7 +27,7 @@ Kun tajuan voivani huonosti, lähes aina parasta mitä voin tehdä, on keskitty�
 
 Sillä on iso positiivinen vaikutus, jos voin tehdä jotain, joka vaatii keskittymistä ja ohjaa minua olemaan läsnä juuri siinä hetkessä. Tällä viikolla olen edistänyt pientä askarteluprojektiani, jossa korvaan [StarCraft-lautapelin](https://boardgamegeek.com/boardgame/22827/starcraft-the-board-game) kuluneet pahvinappulat puisilla. Sen lisäksi olen suunnitellut tulevia käsityöprojekteja.
 
-![Pöydän päällä olevia eri värisiä nappuloita, joita käytetään StarCraft-lautapelissä.](cover.jpg "Tällä viikolla olen askarrellut StarCraft-lautapeliin uusia nappuloita.")
+{{<cover>}}
 
 Lopetin aktiivisen uutisten seuraamisen jo vuosia sitten. Tajusin, että uutisten seuraaminen tuotti minulle uskomattoman määrän ahdistusta antamatta mitään oikeasti hyödyllistä takaisin. En ole katunut päätöstäni enkä koe, että olisin koskaan ohittanut tärkeitä tapahtumia sen takia. 
 

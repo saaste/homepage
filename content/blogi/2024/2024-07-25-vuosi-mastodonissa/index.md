@@ -11,12 +11,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Pienoismalli, jossa kolme mastodonttia kohtaa norsun. Eläimet käyskentelevät vuoristo- ja järvimaiseman edessä. Yksi mastodonteista on poikanen."
+      params:
+        caption: "Kuva: Thomas Quine"
 ---
 Perustin nykyisen tilini *25.7.2023*, eli olen ollut nyt vuoden ajan Mastodonissa. En ole erityisemmin sosiaalisen median ystävä. Ehkä juuri tästä syystä Mastodon ja laajemmin Fediverse on ollut itselleni ristiriitainen kokemus. Se tekee joitakin asioita oikein, mutta siinä on myös omat ongelmansa.
 
 <!--more-->
 
-![Pienoismalli, jossa kolme mastodonttia kohtaa norsun. Eläimet käyskentelevät vuoristo- ja järvimaiseman edessä. Yksi mastodonteista on poikanen.](cover.jpg "Kuva: Thomas Quine")
+{{<cover>}}
 
 ### Mastodon on hyvä!
 

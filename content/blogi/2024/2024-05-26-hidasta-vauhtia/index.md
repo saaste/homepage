@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Valkoinen Urban Arrow -tavarapyörä pysäköity pienen puiston laidalle. Etulaatikon kyydissä on reppu."
+      params:
+        caption: "Nykyään poljen kaikkialle Urban Arrow -tavarapyörällä. Sillä hoituvat sekä työmatkat sekä kauppa- ja valokuvausreissut. Tämä kuva on retkeltä, jolloin yritin käydä valokuvamassa kyykäärmeitä. Harmillisesti käärmeet eivät olleet kotona."
 ---
 Mastodonissa [Sami Määttä](https://samimaatta.fi/) pohti lehdissä vellovaa keskustelua, joka maalaa sellaista kuvaa pyöräilijöiden vaarallisuudesta, joka ei tunnu olevan linjassa todellisuuden kanssa. [Postaus](https://mementomori.social/@SamiMaatta/112505737682841160) poiki kiinnostavia kommentteja ja itsekin osallistuin keskusteluun.
 
@@ -24,7 +26,7 @@ Urheilupyöräily ei kovinkaan usein tuntunut rentouttavalta. Joko sai pelätä 
 
 Pyörävarkauden jälkeen siirryin täysin arkipyöräilijäksi. Minun ensisijainen pyöräni on [Urban Arrow](https://urbanarrow.com/) -tavarapyörä. Pyöräilyyni ei enää liity liikuntaa, vaan se on tapa päästä paikasta toiseen. Olen huomannut, että pyöräilystä on tullut hyvin samanlainen rentouttava liikkumismuoto kuin kävelystä.
 
-![Valkoinen Urban Arrow -tavarapyörä pysäköity pienen puiston laidalle. Etulaatikon kyydissä on reppu.](cover.jpg "Nykyään poljen kaikkialle Urban Arrow -tavarapyörällä. Sillä hoituvat sekä työmatkat sekä kauppa- ja valokuvausreissut. Tämä kuva on retkeltä, jolloin yritin käydä valokuvamassa kyykäärmeitä. Harmillisesti käärmeet eivät olleet kotona.")
+{{<cover>}}
 
 Minua korpeaa edelleen jalkakäytäville ja pyöräteille pysäköidyt autot, huonosti toteutetut työmaajärjestelyt, sekä autoinfran päälle liimatut surkeat jalankulku- ja pyöräilytoteutukset, mutta tämä on enemmän seurausta siitä, että olen jo usean vuoden ajan uppoutunut kaupunkisuunnitteluun ja ollut (varsin hiljainen) kestävän kaupunkikehityksen puolestapuhuja. Sen sijaan minua ei enää samalla tavalla ärsytä hortoilevat jalankulkijat.
 

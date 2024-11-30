@@ -9,6 +9,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Matalalla puiden yläpuolella lentävä lentokone
+      params:
+        caption: "Vuosi 2023 koostui taistelusta auto- ja lentomelun aiheuttamia oireita vastaan."
 ---
 Se on taas se aika vuodesta, kun ihmiset tekevät lupauksia, jotka unohdetaan viimeistään helmikuun puolessa välissä. Tämä on se maaginen vuosi, jolloin
 uusi minä kuoriutuu esiin ja mennyt jää taakse. Ja sitten vuoden päästä sama tapahtuu uudelleen.
@@ -22,7 +24,7 @@ Vuoden 2023 hienoin uusi juttu oli säännöllinen päiväkirjan kirjoittaminen.
 
 Vuoden surkein juttu oli se, kuinka pahaksi melusaasteen aiheuttamat oireet muuttuivat. Pohjamutiin mennyt tilanne päätyi kuitenkin olemaan myös liikkeelle paneva voima. Muutimme joulukuussa uuteen, tuntuvasti hiljaisempaan asuntoon. Vaikka olemme asuneet uudessa kodissa vain hetken, tämä saattaa silti olla vuoden suurimmista positiivista muutoksista.
 
-![Matalalla puiden yläpuolella lentävä lentokone](cover.jpg "Vuosi 2023 koostui taistelusta auto- ja lentomelun aiheuttamia oireita vastaan.")
+{{<cover>}}
 
 Vuoteen mahtui myös joitakin isoja henkisiä muutoksia. Ensimmäisenä mieleen tulee ajatukset kasvisruoan lisäämisestä ja lentomatkailun vähentämisestä. En tarkoita näillä mitään erityistä päätöstä vaan enemmän sellaista sisäistä kasvua, jonka seurauksena ne alkoivat tuntumaan oikeasti tärkeiltä.
 

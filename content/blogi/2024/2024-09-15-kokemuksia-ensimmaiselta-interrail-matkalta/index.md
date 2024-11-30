@@ -12,12 +12,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Näkymä sveitsiläien junan vaunuun. Vasemmalla on yksittäisiä penkkejä, oikealla tuplapenkit. Vaunussa on muutamia matkustajia. Vaunun ikkunat ovat suuret ja ikkunoita on myös katossa, jotta matkustajat voivat ihastella korkeita vuoria."
+      params:
+        caption: "Tältä näytti yksi Sveitsin junista. Tilavat istuimet sekä suuret ikkunat tekivät vuoristomaisemissa matkustamisesta nautinnollista."
 ---
 Kotiuduin juuri elämäni ensimmäiseltä interrail-matkalta. Kuljin matkan aikana 4793 kilometriä 38:lla eri junalla. Matka opetti kaikenlaista ja samalla se muutti käsitystäni junamatkailusta. Tämä on kirjoitussarjan ensimmäinen osa, jossa käyn läpi omia havaintoja yleisellä tasolla.
 
 <!--more-->
 
-![Näkymä sveitsiläien junan vaunuun. Vasemmalla on yksittäisiä penkkejä, oikealla tuplapenkit. Vaunussa on muutamia matkustajia. Vaunun ikkunat ovat suuret ja ikkunoita on myös katossa, jotta matkustajat voivat ihastella korkeita vuoria.](cover.jpg "Tältä näytti yksi Sveitsin junista. Tilavat istuimet sekä suuret ikkunat tekivät vuoristomaisemissa matkustamisesta nautinnollista.")
+{{<cover>}}
 
 Kirjoitin matkan suunnitteluvaiheessa [ensimmäisistä vastoinkäymisistä]({{< ref "/blogi/2024/2024-04-28-interrail-vastoinkaymiset" >}}). Samaan aikaan puolisoni luki minulle toistuvasti ääneen somessa kirjoitetuista kauhutarinoista. Mielikuvani tulevasta matkasta eivät olleet välttämättä kovin positiivisia, vaikka odotinkin matkaa suurella innolla.
 

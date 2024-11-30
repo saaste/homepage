@@ -10,12 +10,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Suojatien edessä kuljellään oleva henkilöauto. Suojatien päälle on pysäköity kaksi ambulanssia. Niiden vieressä kävelee henkilö."
+      params:
+        caption: "Kuva: Guto Araki"
 ---
 Helsingin jalankulkijat ry julkaisi mainion [blogikirjoituksen](https://jalankulkijat.fi/ajankohtaista/miten-kaupunki-lisaa-liikenneturvallisuutta/) Mellunkylän liikenneturvallisuusselvityksestä ja siitä, kuinka kaupunki voisi lisätä liikenneturvallisuutta. Kirjoituksesta inspiroituneena päätin kääntää kysymyksen päälaelleen.
 
 <!--more-->
 
-![Suojatien edessä kuljellään oleva henkilöauto. Suojatien päälle on pysäköity kaksi ambulanssia. Niiden vieressä kävelee henkilö.](cover.jpg "Kuva: Guto Araki")
+{{<cover>}}
 
 Liikenneturvallisuuskeskustelua seuranneena olen kiinnittänyt huomiota siihen, että se pyörii usein erilaisten ulkoisten temppujen ympärillä. Keskustelussa pureudutaan yllättävän harvoin juurisyihin, jotka heikentävät turvallisuutta. Juuri tästä syystä ajattelin, että voisi olla hyvä miettiä, kuinka liikenneturvallisuutta vähennetään.
 

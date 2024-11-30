@@ -11,7 +11,7 @@ sarjat:
 resources:
     - name: cover
       src: cover.jpg
-      title: ""
+      title: "Kaksi rinkkaa ja päiväremppua lattialla nojaamassa seinään. Toinen yhdistelmä on harmaa ja toinen tumma punainen."
 ---
 Interrail-matka oli itselleni samalla pieni kokeilu. Halusin testata, miltä pienemmällä matkatavaramäärällä matkustaminen tuntuu. Kokeilu oli menestys!
 

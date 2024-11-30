@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Otsalampun valaisema kapea metsäpolku. Polku on lumessa ja taivaalta sataa lisää lunta. Edessä juoksee juoksija mustassa juoksuasussa.
+      params:
+        caption: "Helsinki Night Trail juostiin lumen liukastamilla poluilla, oman ja kanssakilpailijoiden otsalamppujen valossa."
 ---
 
 Aivan liian pitkän tauon jälkeen olen saanut mukavalla tavalla kiinni juoksemisesta. Eilen osallistuin vuoden ensimmäiseen juoksutapahtumaan, Helsinki Night Trailiin.
@@ -25,7 +27,7 @@ Helsinki Night Runissa kaikkea tätä hankaloittaa se, että se juostaan nimens�
 
 Jotta touhu ei olisi ollut liian helppoa, luonto päätti tuoda oman haasteensa viskaamalla niskaan takatalven. Ennestään tarkkuutta reitti muuttui aivan painajaismaiseksi liukasteluksi, ja näinkin useamman juoksijan kaatuvan matkan aikana. Nilkat olivat tapahtumassa kovilla. Onneksi en nähnyt yhtään nyrjähtämistä, mutta ihmeenä pidän, jos ensiapuhenkilökunta ei olisi joutunut hoitamaan yhtäkään vääntynyttä nilkkaa. Jopa kokeneemmat polkujuoksijat puhuivat, että reitti oli varsin haastava.
 
-![Otsalampun valaisema kapea metsäpolku. Polku on lumessa ja taivaalta sataa lisää lunta. Edessä juoksee juoksija mustassa juoksuasussa.](cover.jpg "Helsinki Night Trail juostiin lumen liukastamilla poluilla, oman ja kanssakilpailijoiden otsalamppujen valossa.")
+{{<cover>}}
 
 Itse osallistuin tapahtumaan lähinnä siksi, etten ole koskaan juossut maastossa otsalampun valossa. Halusin saada sen kokemuksen. Pidemmät ultrajuoksukisat tapahtuvat lähes aina osittain yöaikaan. Valokeilassa juokseminen olikin mukavaa ja toimi hyvänä keskittymisharjoituksena, sillä polkuja navigoidessa ei todellakaan pystynyt keskittymään muuhun kuin seuraavaan askeleeseen. Pää oli aivan tyhjä ajatuksista.
 

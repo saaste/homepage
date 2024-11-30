@@ -18,7 +18,7 @@ Kirjan tarinasta ja henkilöistä on lähes mahdotonta kirjoittaa paljastamatta 
 
 <!--more-->
 
-![Sielujen syöverin kansi, jossa on tummahiuksisen naisen kasvot savukiehkuroiden ympäröimänä.](cover.jpg)
+{{<cover>}}
 
 Kirja jatkuu siitä, mihin edellinen osa päättyi. **Eerika** ja hänen tyttärensä **Tuulikki** ovat kotiutuneet takaisin Suomeen. Myös Huippuvuorten tapahtumista selvinnyt **Panu** on mukana. Eerikan ja Panun välillä on syntynyt suhde. 
 

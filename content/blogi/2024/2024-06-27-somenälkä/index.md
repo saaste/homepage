@@ -11,12 +11,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Tietokoneella tehty kuva, jossa on vierekkäin kuusi eri värisestä nesteestä tehtyä puolikaarta tai pystyyn nousevaa kapeaa aaltoa. Jokaisessa on valkoisella eri someen liittyvä logo: snapchat, pinterest, instagram, facebook, rss-syötä sekä twitter. Värikkäät aallot heijastuvat osittain mattapintaisesta lattiasta."
+      params:
+        caption: "Kuva: Lewis Ogden"
 ---
 [Otto Ojala](https://mastodontti.fi/@oivoi) julkaisi eilen Mastodonissa lyhyen [töötin](https://mastodontti.fi/@oivoi/112683675260037924), jossa hän pohti suomenkielisen Mastodonin soveltuvuutta omaan somenälkään. Napakka töötti sai minut miettimään tismalleen samaa kysymystä.
 
 <!--more-->
 
-![Tietokoneella tehty kuva, jossa on vierekkäin kuusi eri värisestä nesteestä tehtyä puolikaarta tai pystyyn nousevaa kapeaa aaltoa. Jokaisessa on valkoisella eri someen liittyvä logo: snapchat, pinterest, instagram, facebook, rss-syötä sekä twitter. Värikkäät aallot heijastuvat osittain mattapintaisesta lattiasta.](cover.jpg "Kuva: Lewis Ogden")
+{{<cover>}}
 
 ### Miltä some nykyään tuntuu
 

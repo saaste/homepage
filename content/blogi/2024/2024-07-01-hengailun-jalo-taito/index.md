@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Korealainen mies ja nainen istuvat hiihtohissiä muistuttavalla penkillä. Nainen nojaa mieheen. Molemmilla on oma puhelin kädessä ja he keskittyvät katsomaan niitä. Kuva on mustavalkoinen."
+      params:
+        caption: "Tämä on nykyään varsin tyypillinen näky. Vaikka ihmiset ovat fyysisesti yhdessä, he vaikuttavat olevan henkisesti muualla. Ikään kuin he olisivat yksin samassa paikassa. Kuva: Dickson P"
 ---
 Tapasin viikonloppuna Tuskassa vierailemassa olleen kaverini. Höpisimme niitä näitä yli kahden tunnin ajan. Oli mukava vaan istua ja hengailla. Hengailla ihan kunnolla ilman häiriötekijöitä.
 
@@ -24,7 +26,7 @@ Kun katson elokuvia 70- ja 80-luvulta, ne ovat täynnä ihmisiä, jotka hengaile
 
 Samanlaista hengailua näkee nykyään varsin harvoin. Älypuhelin kuumottaa aina taskussa. Olemme niin kiinni siinä, että se muistuttaa äänettömänäkin, että jossain muualla saattaa olla jotain jännittävää. Olemme fyysisesti yhdessä paikassa, mutta henkisesti jossain muualla.
 
-![Korealainen mies ja nainen istuvat hiihtohissiä muistuttavalla penkillä. Nainen nojaa mieheen. Molemmilla on oma puhelin kädessä ja he keskittyvät katsomaan niitä. Kuva on mustavalkoinen.](cover.jpg "Tämä on nykyään varsin tyypillinen näky. Vaikka ihmiset ovat fyysisesti yhdessä, he vaikuttavat olevan henkisesti muualla. Ikään kuin he olisivat yksin samassa paikassa. Kuva: Dickson P")
+{{<cover>}}
 
 Tein yli vuosi sitten testin ja elin viikon ilman kännykkää. Puhelin oli koko viikon laturissa eteisen pöydällä. Se oli ainut paikka, jossa sain sitä käyttää. Testi teki itselleni erittäin selväksi sen, millainen häiriötekijä puhelin on silloinkin kun se on äänettömällä.
 

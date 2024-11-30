@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Oman kuulonsa suojannut mies puhaltaa lehtiä lehtipuhaltimella. Lehdet lentelevät valtoimenaan miehen edessä."
+      params:
+        caption: "Lehtipuhallin on laite, jota kaikki tuntuvat inhoavan tasapuolisesti sen aiheuttaman melusaasteen takia - paitsi silloin kun sillä saa siivota omaa pihaa. Kuva: Dean Hochman"
 ---
 
 Olen useaan otteeseen yrittänyt kirjoittaa kokemuksiani ääniherkkyyden pahenemisesta sekä melusaasteesta, mutta jostain syystä niiden muuttaminen sanoiksi on osoittautunut todella vaikeaksi. Tämä on jälleen yksi uusi yritys.
@@ -74,7 +76,7 @@ Melu on saastetta.
 
 Omista kokemuksista johtuen olen alkanut ihmetellä sitä, kuinka melu on monien laitteiden suunniteltu ominaisuus. Tuntuu järjenvastaiselta, että joku kehitti lehtipuhaltimen ja mietti vakavissaan, että tämä laite sopii loistavasti asutuilla alueilla käytettäväksi. Tai kaikki moottoripyörät, jotka nimenomaan suunnitellaan järkyttävän kovaäänisiksi - ja sitten niistä viritetään vieläkin kovaäänisempiä. Jossain ovat myös kaikki ne suunnittelijat, joiden mielestä lentokenttien rakentaminen kaupunkien kylkeen oli hyvä idea, samoin kuin läpiajoteiden rakentaminen asuinalueiden halki.
 
-![Oman kuulonsa suojannut mies puhaltaa lehtiä lehtipuhaltimella. Lehdet lentelevät valtoimenaan miehen edessä.](cover.jpg "Lehtipuhallin on laite, jota kaikki tuntuvat inhoavan tasapuolisesti sen aiheuttaman melusaasteen takia - paitsi silloin kun sillä saa siivota omaa pihaa. Kuva: Dean Hochman")
+{{<cover>}}
 
 Miksi ja miten melusaasteen tuottamisesta ja meluavista laitteista on tullut niin arkipäivää? Miksi kaikista kovaäänisimmät laitteet ja ihmiset saavat dominoida ympäristöä siitäkin huolimatta, että melun haittavaikutukset ihmisille ja ympäristölle on tiedetty vuosikymmenten ajan?
 

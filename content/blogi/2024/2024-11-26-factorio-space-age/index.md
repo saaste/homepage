@@ -17,7 +17,7 @@ Mikäli Factorio ei ole sinulle tuttu, voit lukea pohjalle [peruspelin arvostelu
 
 <!--more-->
 
-![Factorio: Space Age -logo, jonka alla näkyy pelin grafiikoilla rakennettu avaruusasema.](cover.jpg)
+{{<cover>}}
 
 ### Space Age vai 2.0?
 

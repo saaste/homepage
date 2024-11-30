@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Kuvaruutukaappaus Bookmark Managerista
+      params:
+        caption: "Bookmark Manager noudattaa tuttua minimalistista linjaa ja nojaa lähes yksinomaan tekstiin."
 ---
 
 En pidä kauheasti siitä, että kirjanmerkit on sidottu yksittäiseen selaimeen tai selainvalmistajan tarjoamaan pilvipalveluun. Testasin joitakin itse hostattavia ratkaisuja, mutta kun mikään niistä ei puhutellut, päätin tehdä oman. Samalla tuli hyvä tilaisuus tutustua ruudunlukijoihin ja esteettömyyteen.
@@ -47,7 +49,7 @@ Halusin pitää käyttöliittymän hyvin minimalistisena. Monet kutsuisivat sit�
 
 Oletuksena sivulla on näkyvissä viimeisimmät kirjanmerkit. Tagia klikkaamalla näkee kyseisen tagin kirjanmerkit. Sovelluksessa on haku, joka kohdistuu nimeen sekä kuvaukseen. Kirjanmerkit voi tilata myös RSS-syötteenä. Nämä ovat ne yksinkertaiset palaset joita kaipasin ja lopputulos on nähtävissä [omalta linkkisivultani](https://links.saaste.net).
 
-![Kuvaruutukaappaus Bookmark Managerista](cover.jpg "Bookmark Manager noudattaa tuttua minimalistista linjaa ja nojaa lähes yksinomaan tekstiin.")
+{{<cover>}}
 
 Ylläpitonäkymät ovat yksinkertaisia muutaman kentän lomakkeita. Tein kuitenkin pari käyttöä helpottavaa toiminnallisuutta. Sovellus osaa hakea osoitteen perusteella sivun nimen sekä kuvauksen, jos ne vaan ovat tarjolla. Lisäksi tagien lisäämisessä auttaa ominaisuus, joka osaa ehdottaa aikaisemmin käytettyjä tageja ja vähentää näin kirjoittamisen tarvetta.
 

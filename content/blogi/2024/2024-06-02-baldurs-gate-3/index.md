@@ -19,7 +19,7 @@ Baldur's Gate 3 pohjautuu [Dungeons & Dragons](https://dnd.wizards.com/) pöytä
 
 Oliko peli sitten kaiken sen hypen arvoinen? Minusta oli!
 
-![Pelin päähahmot poseeraavat kuvasemmassa laidassa. Muotokuvat sekoittuvat taustalla olevaan vuoristomaiseen sekä pilviin. Pilvien seassa näkyy lonkeroita.](cover.jpg)
+{{<cover>}}
 
 ### Tarina
 

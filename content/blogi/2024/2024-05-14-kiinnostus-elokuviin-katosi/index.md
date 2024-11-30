@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Jodie Foster leijuu avaruusaluksen sisällä päällään ohut valko-musta avaruusasu, kädessään taskulamppu ja päässään headset."
+      params:
+        caption: 'Jodie Fosterin esittämä Eleanor "Ellie" Arroway elokuvasta Contact, joka on edelleen yksi suosikkielokuviani.'
 ---
 Havahduin siihen, etten muista, milloin olisin viimeksi katsonut elokuvan. Katson elokuvia todella harvoin ja vielä harvemmin odotan niitä. Tämä on vähän erikoista kun ottaa huomioon, että olen ollut ison osan elämästäni elokuvaharrastaja. Mitä tapahtui?
 
@@ -20,7 +22,7 @@ Oma elokuvaharrastukseni taisi alkaa siitä, kun aloin nauhoittaa televisiossa p
 
 Teini-iässä aloin käydä elokuvateattereissa. Kävin lähes joka viikko katsomassa jonkun elokuvan - silloin se oli vielä kohtuullisen hintaista. Keräilin teatterin pääsylippuja oman koulupöytäni yläpuolelle ja niitä kertyikin melkoinen määrä. Noihin aikoihin tulin katsoneeksi myös ensimmäisen elokuvan, joka meinasi räjäyttää tajuntani. Elokuva oli Jodie Fosterin ja Matthew McConaugheyn tähdittämä [Contact](https://www.themoviedb.org/movie/686-contact).
 
-![Jodie Foster leijuu avaruusaluksen sisällä päällään ohut valko-musta avaruusasu, kädessään taskulamppu ja päässään headset.](cover.jpg 'Jodie Fosterin esittämä Eleanor "Ellie" Arroway elokuvasta Contact, joka on edelleen yksi suosikkielokuviani.')
+{{<cover>}}
 
 Elokuvaharrastukseni jatkui, mutta harmillisesti Suomessa esitettävä valikoima oli hyvin rajallinen. Onneksi 2000-luvulla Internet tuli avuksi ja yhtä äkkiä pääsin käsiksi myös aasialaisiin elokuviin. Silloin tuli tutuksi myös [Oldboy](https://www.themoviedb.org/movie/670) - se alkuperäinen.
 

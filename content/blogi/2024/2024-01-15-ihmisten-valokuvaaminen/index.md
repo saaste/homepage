@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Pieni indonesialainen tyttö hymyilee pinkki mekko päällään
+      params:
+        caption: "Tyttö tervehti minua iloisesti kättä heiluttaen. Pysähdyin hänen viereen, osoitin kameraa ja sanoin kysyvästi 'Foto?'. Tyttö vastasi isolla nyökkäyksellä ja pisti parhaimman poseerauksen käyttöön."
 ---
 
 Ihmisten valokuvaaminen on aina ollut minulle vaikeaa. En voi tunnustaa olevani erityinen ihmisten ihminen eikä introvertti persoonallisuuskaan auta asiassa. Silti pakotin itseni siihen usean vuoden ajan. Olen lisäksi aina tykännyt katuvalokuvista sekä dokumentaarisista valokuvista - olivat ne sitten sodan dokumentointia tai muistoja matkoilta.
@@ -18,7 +20,7 @@ Ihmisten valokuvaaminen on aina ollut minulle vaikeaa. En voi tunnustaa olevani 
 
 Lähtökohtaisesti ihmisten valokuvaaminen on lähes aina sallittu julkisissa tiloissa. En ole lakiasioiden asiantuntija, mutta käsitykseni mukaan julkiset tilat ovat lähes kaikkialla maailmassa rajattu yksityisyyden suojen ulkopuolelle. Tämä sääntö on yksi journalistisen valokuvauksen perusedellytyksiä. Sama oikeus on kuitenkin kaikilla ihmisillä. Ympäristöä ja muita ihmisiä saa valokuvata ilman kuvassa näkyvien ihmisten erillistä lupaa.
 
-![Pieni indonesialainen tyttö hymyilee pinkki mekko päällään](cover.jpg "Tyttö tervehti minua iloisesti kättä heiluttaen. Pysähdyin hänen viereen, osoitin kameraa ja sanoin kysyvästi 'Foto?'. Tyttö vastasi isolla nyökkäyksellä ja pisti parhaimman poseerauksen käyttöön.")
+{{<cover>}}
 
 Ihmisten valokuvaaminen aiheuttaa tästä yleisestä luvasta huolimatta ristiriitaisia tunteita. En itse tykkää olla kameran etupuolella. Tunnen oloni epämukavaksi jos tiedän, että joku ottaa minusta kuvan. Vaikka ihmiset ovatkin julkisessa tilassa, he voivat silti olla omissa oloissaan ja maailmoissaan. Tällaisten ihmisten valokuvaaminen tuntuu jollain tavalla henkilökohtaiseen tilaan tunkeutumiselta.
 

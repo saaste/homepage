@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Pöydällä oleva Fujifilm X-T4 -kamera. Kamerassa on kiinni 16-55 mm zoom-linssi. Kameran rungossa on perinteisten filmikameroiden tyyliin pyöritettävät säätörullat, joista voi säätää valotusaikaa, aukkoa sekä herkkyyttä. Kameran alaosa on tummaa nahkamaista materiaa ja yläosa harmaata mattapintaista metallia."
+      params:
+        caption: "Fujifilm X-T4 -kameran retrotyyli ja fyysiset säätörullat ovat kuin luotuja minulle."
 ---
 Adobe Lightroom on ainut syy, miksi tietokoneeltani löytyy Windows. Käytän kaikkeen muuhun Linuxia, mutta Lightroomin korvaajaa on ollut todella vaikea löytää. Olen koettanut metsästää sellaista useiden viikkojen ajan, mutta alan hiljalleen luovuttaa. En vaan oikein tiedä, että mitä tekisin. Seuraa siis pieni avautuminen.
 
@@ -55,7 +57,7 @@ Darktablessa on myös yksi iso puute ja tämä on hyvä kohta kirjoittaa Fujifil
 
 Siirryin Canon-maailmasta Fujin pariin kahdesta syystä: pidän mielettömästi Fujin värimaailmasta ja heidän tavasta suunnitella kameroita. Ostin oman X-T4:n juuri näistä syistä. Hieman retron näköinen kamera tarjoaa fyysiset säätörullat kaikelle oleelliselle, eikä minun tarvitse juuri koskaan leikkiä valikoiden tai kosketusnäytön kanssa. X-T4:llä kuvaaminen on hauskaa ja nautinnollista!
 
-![Pöydällä oleva Fujifilm X-T4 -kamera. Kamerassa on kiinni 16-55 mm zoom-linssi. Kameran rungossa on perinteisten filmikameroiden tyyliin pyöritettävät säätörullat, joista voi säätää valotusaikaa, aukkoa sekä herkkyyttä. Kameran alaosa on tummaa nahkamaista materiaa ja yläosa harmaata mattapintaista metallia.](cover.jpg "Fujifilm X-T4 -kameran retrotyyli ja fyysiset säätörullat ovat kuin luotuja minulle.")
+{{<cover>}}
 
 Fujin erikoisuus on heidän kameroiden kyky apinoida vanhojen Fujin filmien väritoistoa ja tyyliä. Olen heikkona tiettyjen vanhojen filmien värisävyihin ja erityisesti Fujin jälki miellyttää itseäni suuresti. Näiden simulaatioiden hienoinen heikkous on kuitenkin sinä, että niitä ei saa RAW-kuviin. Kamera pystyy kyllä simuloimaan vanhoja filmejä, mutta tuloksena on JPG-kuva.
 

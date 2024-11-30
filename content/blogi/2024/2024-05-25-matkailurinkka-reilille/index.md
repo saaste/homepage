@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Vasemmalla on Ospray Fairvail 55l -matkailurinkka pakattuna. Päiväreppu on kiinnitetty ison rinkan selkäpuolelle hihnoilla. Oikealla näkyy rinkka avattuna. Se muistuttaa matkalaukkua, jonka kansi on avattu ja sisällä on yksi suuri tila sekä kiristysremmit."
+      params:
+        caption: "Ospray Fairview 55L -matkailurinkka, jollainen tuli puolisoni käyttöön. Värikin on sama. Itselleni tuli saman kokoinen Farpoint-malli harmaana."
 ---
 Olemme kuluneiden viikkojen aikana metsästäneet tulevalle [interrail-matkalle]({{< ref "/matkat/interrail-2024" >}}) sopivia rinkkoja. Arpominen loppui tänään, sillä kävimme hakemassa uudet reput sekä minulle, että puolisolle.
 
@@ -23,7 +25,7 @@ Kun aloimme selvitellä parempien matkailurinkkojen tarjontaa, törmäsimme YouT
 
 Viikkojen aikana katselimme muitakin vaihtoehtoja ja kävimme myös kokeilemassa muutamia reppuja kivijalkaliikkeissä. Harmillisesti tämän kategorian ja kokoluokan reppuja on yllättävän vähän tarjolla ja vielä vähemmän testailtavana. Kaiken kokeilun jälkeen päädyimme kuitenkin hankkimaan Ospreyn [Fairview 55L](https://www.osprey.com/eu/osprey-fairview-55-f22) ja [Farpoint 55L ](https://www.osprey.com/eu/osprey-farpoint-55-f22) rinkat. Rinkat ovat käytännössä identtiset, mutta Farpoint on mitoitettu miehille.
 
-![Vasemmalla on Ospray Fairvail 55l -matkailurinkka pakattuna. Päiväreppu on kiinnitetty ison rinkan selkäpuolelle hihnoilla. Oikealla näkyy rinkka avattuna. Se muistuttaa matkalaukkua, jonka kansi on avattu ja sisällä on yksi suuri tila sekä kiristysremmit.](cover.jpg "Ospray Fairview 55L -matkailurinkka, jollainen tuli puolisoni käyttöön. Värikin on sama. Itselleni tuli saman kokoinen Farpoint-malli harmaana.")
+{{<cover>}}
 
 55 litran mallimerkintä on sekin hieman hämäävä, sillä todellisuudessa rinkat on 40-litraisia[^1]. Niiden mukana tulee erillinen 15 litran päiväreppu, jonka saa kätevästi kiinni rinkkaan. Vaihtoehtoisesti reppua voi kuljettaa myös kropan etupuolella.
 

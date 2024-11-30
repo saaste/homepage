@@ -12,6 +12,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Kasa eri värisiä nappuloita. Jokaisen nappulan päällä on kyseisen ryhmän logo. Kuvassa terävimpänä näkyy Zerg-rodun Queen of Blades -ryhmän nappula, jonka takana koreilee joukon johtajan, Sarah Kerriganin, mutatoituneet kasvot."
+      params:
+        caption: "Uusien nappuloiden taustat kestävät vähän lähempääkin tarkastelua."
 ---
 Sain vihdoinkin valmiiksi oman projektini: StarCraft-lautapelin uudet nappulat. Pitkään siinä meni, vaikka lopputulos ei ole järin suuri.
 
@@ -107,7 +109,7 @@ Sen jälkeen leikkelin kuvista nappulan yli tulevat osat pois. Lopuksi otin sive
 
 ![Sohvalle levitellyt nappulat, jossa rinnakkain on vanhat ja uudet nappulat. Osa nappuloista on komentopuoli ylöspäin, osa tausta ylöspäin.](kaikki.jpg "Vanhat ja uudet nappulat.")
 
-![Kasa eri värisiä nappuloita. Jokaisen nappulan päällä on kyseisen ryhmän logo. Kuvassa terävimpänä näkyy Zerg-rodun Queen of Blades -ryhmän nappula, jonka takana koreilee joukon johtajan, Sarah Kerriganin, mutatoituneet kasvot.](cover.jpg "Uusien nappuloiden taustat kestävät vähän lähempääkin tarkastelua.")
+{{<cover>}}
 
 Aika näyttää kuinka hyvin nappulat kestävät käyttöä, mutta olen itse varsin tyytyväinen lopputulokseen. Uusien nappuloiden taustat ovat paljon alkuperäisempiä yksityiskohtaisemmat ja niissä logo on paljon suuremmassa roolissa. Komentopuolen kaiverrettu symboli tekee nappulasta mukavan kolmiulotteisen ja lisää niiden pyörittelyyn taktiilin tuntemuksen. Puiset nappulat tuntuvat mukavan jämäkiltä ja niissä on tietenkin mukana myös se ujo puun tuoksu.
 

@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Valkoisiin kamppailuasuihin pukeutunut mies ja nainen. Mies on selällään tatamilla tuskainen ilme kasvoillaan. Nainen on vieressä seisaaltaan, painaa miestä jalalla maahan ja taittaa tämän rannetta."
+      params:
+        caption: "Olen lapsesta asti pitänyt kamppailulajeista ja tutustunut eri lajeihin. Kuva on vuosien takaa näytöksestä, jossa esiteltiin lajien eri piirteitä. Ketään ei satutettu, vaikka ilmeestä voisi muuta päätellä."
 ---
 Parin viime päivän aikana uutisissa ja sosiaalisessa mediassa on kohkattu väkivallasta. Erityisen näkyvästi otsikoitiin siitä, kuinka miehet tuntuvat "oikeuttavan" väkivallan. Tämä sai minut surulliseksi, mutta ehkä eri syistä kuin monet muut ihmiset.
 
@@ -28,7 +30,7 @@ Omista otteluista muistan kunnioituksen, joka ottelijoilla oli vastustajaa kohta
 
 Tästä syystä inhoan sitä, kuinka esimerkiksi jääkiekossa väkivallasta on tullut osa lajia. Sillä ei ole mitään tekemistä urheilun tai itse lajin kanssa. Siinä halutaan vahingoittaa vastustajaa. Se on väkivaltaa eikä mitään muuta.
 
-![Valkoisiin kamppailuasuihin pukeutunut mies ja nainen. Mies on selällään tatamilla tuskainen ilme kasvoillaan. Nainen on vieressä seisaaltaan, painaa miestä jalalla maahan ja taittaa tämän rannetta.](cover.jpg "Olen lapsesta asti pitänyt kamppailulajeista ja tutustunut eri lajeihin. Kuva on vuosien takaa näytöksestä, jossa esiteltiin lajien eri piirteitä. Ketään ei satutettu, vaikka ilmeestä voisi muuta päätellä.")
+{{<cover>}}
 
 ### Omat kokemukset
 

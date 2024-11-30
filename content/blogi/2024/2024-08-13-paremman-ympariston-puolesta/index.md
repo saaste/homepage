@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Autoruuhka Kuala Lumpurissa. Tiellä on 3-4 kaistaa molempiin suuntiin, mutta sekään ei ole riittävästi autoille.
+      params:
+        caption: "Autoruuhkat eivät johdu siitä, että kaistoja on liian vähän. Ne johtuvat siitä, että auto on tehoton ja tilaa vievä kulkuväline. Kuva: Michael Loke"
 ---
 
 Minulta kysyttiin, että miksi vihaan autoja niin paljon. Kun mietin vastausta, tajusin, ettei siihen voi vastata kovin lyhyesti. On muutenkin kyseenalaista, että onko viha edes oikea sana kuvaamaan suhtautumistani autoihin ja autoiluun.
@@ -20,8 +22,7 @@ Jos käytetään viha-sanaa, on hyvä ymmärtää, että vihaan niitä samalla t
 
 Moottorisahoissa ei ole sellaisenaan mitään vikaa ja tietyissä tehtävissä ne ovat hyödyllisiä, mutta jos naapurisi huudattaa sellaista ison osan hereilläoloajastasi, jokainen meistä alkaa vihata moottorisahoja. Autot laitteena eivät aiheuta minussa erityisiä tunteita. Ne ovat vain laitteita. Ongelma on siinä, kuinka käytämme niitä ja mitä siitä seuraa.
 
-![Autoruuhka Kuala Lumpurissa. Tiellä on 3-4 kaistaa molempiin suuntiin, mutta sekään ei ole riittävästi autoille.](cover.jpg "Autoruuhkat eivät johdu siitä, että kaistoja on liian vähän. Ne johtuvat siitä, että auto on tehoton ja tilaa vievä kulkuväline. Kuva: Michael Loke")
-
+{{<cover>}}
 
 ### Kaupunki- ja liikennesuunnittelu
 

@@ -18,7 +18,7 @@ Arvostelu paljastaa yksityiskohtia aikaisemmista osista, joten jos halua sääst
 
 <!--more-->
 
-![Uinuvan solun kansi, jossa suuri väkijoukko Helsingin rautatieaseman edustalla. Taivaalla leijuu palloilla, jotka muistuttavat soluja tai viruksia.](cover.jpg)
+{{<cover>}}
 
 ### Tarina
 **Eerika** viettää tavallista arkea tyttärensä **Tuulikin** kanssa. **Panu** asuu samassa asunnossa, mutta on usein viikkokausia poissa työkomennusten takia.

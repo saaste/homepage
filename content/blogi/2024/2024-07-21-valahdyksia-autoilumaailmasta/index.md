@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Aviapoliksen maanalainen rautatieasema. Radan puoleinen seinä on harmaata kalliota, jonka päällä on ylös päin kaartuva metallikehikko. Laituri on yksinkertainen ja koostuu harmaan eri sävyistä. Katto on vaalea, hieman kaareva rakenne, josta roikkuu suuria valoja."
+      params:
+        caption: "Aviapoliksen hiljainen rautatieasema, jossa odottelin junaa kirjaa lukien."
 ---
 Pääsin eroon viimeisestä käytössäni olleesta autosta opiskeluaikoina. En ole sen jälkeen ollut osa autoilumaailmaa kuin satunnaisesti vuokra- tai laina-autoja käyttäessä. Saan kuitenkin välähdyksiä tästä automaailmasta toisten kautta ja heidän kyydissään istuessa. Kuluneen kolmen viikon aikana näitä hetkiä on tullut normaalia enemmän.
 
@@ -78,7 +80,7 @@ Olin eilen tuttavieni kanssa Vantaalla ja suunnittelin lähtöä kotiin. Navigaa
 
 Kävelin reilun 100 metrin päässä olevalle bussipysäkille ja kyyti saapui melkein välittömästi. Minun tarvitsi olla linja-auton kyydissä vain kolmen pysäkin välin. Kuuntelin musiikkia kuulokkeilla ja nautin siitä, että sain vaan istua, eikä minun tarvinnut kuljettaa ajoneuvoa itse. Hyppäsin ulos Aviapoliksen rautatieaseman vieressä. Ylitin tien ja olin rautatieasemalla. Seuraavaan junaan oli aikaa 7 minuuttia, joten vaihdoin kuulokkeet Kindleen ja luin kirjaa hiljaisella asemalla. Junamatka kesti 20 minuuttia, joten jatkoin kirjan lukemista junassa.
 
-![Aviapoliksen maanalainen rautatieasema. Radan puoleinen seinä on harmaata kalliota, jonka päällä on ylös päin kaartuva metallikehikko. Laituri on yksinkertainen ja koostuu harmaan eri sävyistä. Katto on vaalea, hieman kaareva rakenne, josta roikkuu suuria valoja.](cover.jpg "Aviapoliksen hiljainen rautatieasema, jossa odottelin junaa kirjaa lukien.")
+{{<cover>}}
 
 Huopalahdessa laitoin Kindlen reppuun ja poistuin junasta. Kävelin asemalaiturilta rappuset alas ja olin ratikkapysäkillä. Seuraava pikaratikka tuli 3 minuutin päästä. Ratikassa keskityin katselemaan ohi vilisevää maisemaa ja nauttimaan siitä, kuinka tasaista kiskoilla liikkuminen on. Lopulta hyppäsin ulos ja olin parin minuutin kävelymatkan päästä kotiovelta.
 

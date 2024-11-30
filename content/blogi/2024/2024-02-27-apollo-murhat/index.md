@@ -16,7 +16,7 @@ Vuoden 2024 ensimmäiseksi suomenkieliseksi kirjaksi valikoitui puolisolta lahja
 
 <!--more-->
 
-![Apollo-murhat -kirjan kansi](cover.jpg)
+{{<cover>}}
 
 Apollo-murhat (*Apollo Murders*) on kirjoittanut kanadalainen astronautti [Chris Hadfield](https://en.wikipedia.org/wiki/Chris_Hadfield), joka toimi ISS-avaruusaseman komentajana vuosina 2012 ja 2013. Ammatillisten saavutusten lisäksi Hadfield on tunnettu myös YouTubesta, jossa hän julkaisi videoita esitellen [elämää avaruusasemalla](https://www.youtube.com/watch?v=UyFYgeE32f0) ja vastaillen koululaisten kysymyksiin. Tuolloin hän julkaisi myös coverin David Bowien Space Oddity -kappaleesta, johon hän teki ISS:n painottomassa tilassa [musiikkivideon](https://www.youtube.com/watch?v=KaOC9danxNo). Hadfield on tunnettu myös puhujana ja itse pidän erityisesti hänen [TED-esityksestään](https://www.youtube.com/watch?v=Zo62S0ulqhA).
 

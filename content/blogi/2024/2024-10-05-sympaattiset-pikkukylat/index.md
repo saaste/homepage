@@ -12,6 +12,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Perinteisiä saksalaisia rakennuksia ja niiden edustalla terasseja, jotka on koristeltu viherkasveilla ja istutuksilla. Rakennusten ikkunoilla on kirkkaan punaisia kukkia."
+      params:
+        caption: "Bacharach tarjoilee viehättävää arkkitehtuuria ja mukulakivikatuja terasseineen. Paikka on kuitenkin myös turistien suosiossa."
 ---
 Yksi interrail-matkan hauskimpia uusia löytöjä olivat pienet kylät ja kaupungit. Niiden hidas elämä, seisahtunut tunnelma sekä ihmisen kokoinen arkkitehtuuri puhuttelivat minua tavalla, jota en osannut odottaa.
 
@@ -25,7 +27,7 @@ Matkan varrelle sattui kolme sympaattista pikkupaikkaa. Näistä ensimmäinen ol
 
 Näiden lisäksi vietimme pari yötä myös Saksan viinialueilla sijaitsevissa [Rüdesheim am Rheinissä](https://fi.wikipedia.org/wiki/R%C3%BCdesheim_am_Rhein) ja [Bacharachissa](https://fi.wikipedia.org/wiki/Bacharach), sekä Itävallan [Zell am Seessä](https://fi.wikipedia.org/wiki/Zell_am_See). Kaikki ovat kyllä kokonsa puolesta pieniä, mutta ne ovat myös hyvin turistisia. Jätän ne tästä syystä tämän kirjoituksen ulkopuolelle, vaikka olivatkin omalla tavallaan hyvin sympaattisia paikkoja.
 
-![Perinteisiä saksalaisia rakennuksia ja niiden edustalla terasseja, jotka on koristeltu viherkasveilla ja istutuksilla. Rakennusten ikkunoilla on kirkkaan punaisia kukkia.](cover.jpg "Bacharach tarjoilee viehättävää arkkitehtuuria ja mukulakivikatuja terasseineen. Paikka on kuitenkin myös turistien suosiossa.")
+{{<cover>}}
 
 Siitä huolimatta, että kolme muuta paikkaa ovatkin asukasmäärältään erilaisia, niiden keskustoissa oli monella tapaa hyvin samankaltainen tunnelma. Niissä saattoi nähdä jonkun yksittäisen turistin, mutta kylien pöhinä tuntui muodostuvan lähes yksinomaan paikallisten ihmisten arjesta: ihmisiä vaihtamassa kuulumisia, istuskelemassa terasseilla, pikniköimässä nurmikolla ja niin edelleen.
 

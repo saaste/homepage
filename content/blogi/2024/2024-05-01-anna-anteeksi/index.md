@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Fred Luskin. Harmaahapsinen, lähes 70-vuotias mies sinertävässä flanellipaidassa. Hänen edessään on mikrofoni ja taustalla kirjoja täynnä oleva kirjahylly."
+      params:
+        caption: "Fred Luskin on opettanut Standordin yliopistossa yli 30 vuoden ajan. Hän on tutkinut erityisesti anteeksiantoa ja sen vaikutusta ihmisen hyvinvointiin. Kuva on Feel Better, Live More -jaksosta."
 ---
 
 Aurinkoisen päivän kunniaksi kävin juoksemassa [puolimaratonin]({{< ref "/juokseminen" >}}). Sen aikana kuuntelin [Feel Better, Live More -podcastin jakson](https://drchatterjee.com/a-proven-prescription-for-health-and-happiness-why-being-able-to-forgive-improves-your-physical-mental-wellbeing-with-dr-fred-luskin/), jossa käsiteltiin sitä, kuinka kyky antaa anteeksi parantaa henkistä ja fyysistä hyvinvointia.
@@ -23,7 +25,7 @@ Haastateltavana oleva tutkija [Fred Luskin](https://fredluskin.com/) kertoo jaks
 
 Kun sinua kohdellaan elämässä kaltoin, viha, kiukku, pettymys ja paha olo ovat kaikki luonnollisia tunnetiloja. Pahantekijän syyllistäminen ja asian puiminen sisäisesti ja ystävien kanssa ovat osa paranemisprosessia - ne kuuluvat asiaan ja ovat lähes aina hyvästä. Tämä on kuitenkin totta vain rajallisen ajan.
 
-![Fred Luskin. Harmaahapsinen, lähes 70-vuotias mies sinertävässä flanellipaidassa. Hänen edessään on mikrofoni ja taustalla kirjoja täynnä oleva kirjahylly.](cover.jpg "Fred Luskin on opettanut Standordin yliopistossa yli 30 vuoden ajan. Hän on tutkinut erityisesti anteeksiantoa ja sen vaikutusta ihmisen hyvinvointiin. Kuva on Feel Better, Live More -jaksosta.")
+{{<cover>}}
 
 Liian pitkään jatkunut märehtiminen ja vihanpito luo huonon tavan. Vaikka pahantekijä synnyttikin huonon olon, ihminen on itse vastuussa siitä, kuinka kauan kantaa tätä oloa mukanaan.
 

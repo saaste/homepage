@@ -14,6 +14,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Näkymä vuoristossa kulkevalta vaellusreitiltä. Edessä on terävä vuoren huippu, jota pitkin reitti kulkee. Alapuolella näkyy järvi, jota ympäröi vuoristo. Vuorilla kasvaa hieman puita, mutta muuten se on isolta osin vihreää nurmikkoa ja kalliota."
+      params:
+        caption: "Sitä voisi ajatella, että näissä maisemissa olisi hiljaista."
 ---
 Melusaaste on asia, johon kiinnitän nykyään paljon huomiota. Se on läsnä lähes kaikkialla. Matka tarjosi itselle tuttuun ongelmaan joitakin uusia näkökulmia.
 
@@ -46,7 +48,7 @@ Kiinnitin huipulla huomiota helikopteriin, joka pörräsi meidän yläpuolella. 
 
 Kun selvittelin asiaa, kävi ilmi, että kyseessä on laskuvarjohyppääjien helikopteri. Kyseessä oli siis hyvin pieni joukko ihmisiä, jotka myrkyttivät omalla toiminnallaan kaikki ympäröivät vuoristoalueet. Kopterin melu kantautui kilometrejä joka suuntaan. Kaipaamaani vuoristojen hiljaisuutta ja luonnon rauhaa ei ollut.
 
-![Näkymä vuoristossa kulkevalta vaellusreitiltä. Edessä on terävä vuoren huippu, jota pitkin reitti kulkee. Alapuolella näkyy järvi, jota ympäröi vuoristo. Vuorilla kasvaa hieman puita, mutta muuten se on isolta osin vihreää nurmikkoa ja kalliota.](cover.jpg "Sitä voisi ajatella, että näissä maisemissa olisi hiljaista.")
+{{<cover>}}
 
 Toinen mieleen painunut kohde oli myös Sveitsissä sijaitseva Disentis/Mustér. Se on pieni kylä, joka lienee talvella jonkinlainen laskettelukohde, mutta kesäisin hyvin kuolleen oloinen pieni kylä, jossa ei ole varsinaisesti mitään erityistä tekemistä. Sinne pääsee kuitenkin kätevästi junalla, joten ajattelimme, että se olisi hyvä ja rauhallinen kohde levätä ja olla tekemättä mitään erityistä.
 

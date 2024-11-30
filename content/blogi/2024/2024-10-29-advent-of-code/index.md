@@ -10,12 +10,14 @@ resources:
     - name: cover
       src: cover.png
       title: "Kuvaruutukaappaus 100 %:sti toteutetun joulukalenterin ASCII-grafiikasta"
+      params:
+        caption: "Vuosi 2021 oli edellinen kerta, kun ratkaisin jokaisen pulman molemmat osat - kaksi tähteä jokaisesta."
 ---
 Joulukuun alkuun on enää reilu kuukausi. Joulukuu tarkoittaa tietenkin joulukalenteria! Perinteisiin suklaakalentereihin kyllästyneille tarjolla on täysin ilmainen ja terveellinen, joskin haastava vaihtoehto: Advent of Code.
 
 <!--more-->
 
-![Kuvaruutukaappaus 100 %:sti toteutetun joulukalenterin ASCII-grafiikasta](cover.png "Vuosi 2021 oli edellinen kerta, kun ratkaisin jokaisen pulman molemmat osat - kaksi tähteä jokaisesta.")
+{{<cover>}}
 
 [Advent of Code](https://adventofcode.com/) on ohjelmoijille tarkoitettu joulukalenteri. Siitä on tullut itselleni jonkinlainen perinne, johon olen osallistunut useampana vuonna. Viime vuonna riemu meni harmillisesti ohi muuton takia, mutta tänä vuonna aion olla taas mukana.
 

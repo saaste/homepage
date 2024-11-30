@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Kuvaruutukaappaus Syncthinging web-käyttöliittymästä
+      params:
+        caption: "SyncThingin web-käyttöliittymä ei ole kaunein eikä helppokäyttöisin, mutta siitä löytyy kaikki oleellinen"
 ---
 
 Yksi viime vuosien parhaista päätöksistä on ollut irroittautuminen suurten toimijoiden pilvipalveluista. Hommasin itselleni [Synologyn](https://www.synology.com/) NASin ja siitä
@@ -25,7 +27,7 @@ SyncThingin ajatus on varsin yksinkertainen. Sovellus asennetaan laitteille, jot
 
 SyncThing sallii synkronoinnin säätämisen varsin monipuolisesti, mutta yksinkertaisimmillaan se tarkoittaa vain sitä, että jokaisella laitteella on hakemistosta identtinen kopio. Kun lisäät hakemistoon uuden tiedoston, se kopioituu lähes välittömästi kaikille laitteille. Kun poistat tiedoston, se poistuu kaikilta laitteilla. Jos muutat jotain tiedostoa, muutos näkyy kaikilla laitteilla. Yksinkertaista!
 
-![Kuvaruutukaappaus SyncThingin käyttöliittymästä](cover.jpg "SyncThingin web-käyttöliittymä ei ole kaunein eikä helppokäyttöisin, mutta siitä löytyy kaikki oleellinen")
+{{<cover>}}
 
 Tämä on ollut aivan uskomattoman kätevää nimenomaan valokuvien kanssa. Vaikka puhelin on näppärä kamera, en ikinä jaksa muokata tai jakaa kuvia sen kautta. Synkronointi mahdollistaa sen, että voin tehdä nämä asiat tietokoneella.
 

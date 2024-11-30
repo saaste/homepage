@@ -16,8 +16,7 @@ Vuoden kolmas lukemani suomalainen kirja on Tiina Raevaaran Polaaripyörre. Kirj
 
 <!--more-->
 
-![Polaaripyörteen graafinen kansi, jossa on vuoren silhuetti ja edessä jäälohkareita. Taivaalla näkyy kuvioita, jotka muistuttavat lumihiutaleita tai bakteereja.](cover.jpg)
-
+{{<cover>}}
 
 Polaaripyörteen tapahtumat alkavat reilun vuosi, [Kaksoiskierteen]({{< ref "/blogi/2024/2024-03-12-kaksoiskierre/index.md" >}}) tapahtumista. **Eerika** on muutanut tyttärensä **Tuulikin** kanssa Longyearbyeniin, Huippuvuorille. Hän haluaa aloittaa alusta, jättää aikaisemmat tapahtumat taakseen ja pitää huolen, että Tuulikki olisi turvassa.
  

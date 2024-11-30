@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Auringonlasku hiekkarannalta. Mereen on ankkuroitu muutamia veneitä
+      params:
+        caption: "Matkalla auringonlaskujen seuraamisesta tuli päivittäinen tapa. Rannalla näki, kuinka ihmiset ottivat kuvan auringonlaskusta ja istuivat sen jälkeen loppuajan luurejaan tuijottaen."
 ---
 
 Viimeaikoina on puhuttu paljon keskittymiskyvyn puutteesta sekä siitä, kuinka ihmiset eivät osaa olla läsnä hetkessä. Yksi isoista syistä tähän ovat mobiililaitteet.
@@ -23,7 +25,7 @@ Katsoin haastattelun ollessani Indonesiassa. Se tarjosi mielenkiintoisen tilaisu
 
 Oli mielenkiintoista ja surullista huomata, kuinka jokainen tyhjä hetki täytettiin kännykällä. Saatoimme istua ravintolassa ja kun ruoat oli tilattu ja jäimme odottelemaan niiden saapumista, porukka otti samoin tein kännykät käteen ja alkoi surffata loputonta lyhytvideoiden virtaa ja some-palveluiden algoritmien täyttämää sisältöseinää. Jos käyttö ei ollut pikasisällön kuluttamista, niin aika käytettiin johonkin muuhun, kuten matkakuvien organisointiin. Lopputulos oli kuitenkin se, että ihmiset eivät keskittyneet siihen hetkeen tai läsnäolevaan ympäristöön, vaan tuijottivat luurejaan ja niistä pursuavaa sisältöä.
 
-![Auringonlasku hiekkarannalta. Mereen on ankkuroitu muutamia veneitä.](cover.jpg "Matkalla auringonlaskujen seuraamisesta tuli päivittäinen tapa. Rannalla näki, kuinka ihmiset ottivat kuvan auringonlaskusta ja istuivat sen jälkeen loppuajan luurejaan tuijottaen.")
+{{<cover>}}
 
 Vuosia sitten keskityin matkoilla ahkerasti valokuvaamiseen. Valokuvaan edelleen, mutta erona on se, että nautin ympäristöstä muutenkin kuin etsimen läpi katsoen. Jossain kohtaa elämää tajusin, etten itse muista matkoista muuta kuin ottamani valokuvat. Nekin vain sen takia, että katselin niitä myöhemmin. Kaikki muut hetket olivat pyyhkiytyneet mielestäni. Tiedän sen, koska olen kirjoittanut päiväkirjaa kaikista matkoistani. Kirjoitukset paljastivat, kuinka ison osa matkoista olin unohtanut.
 

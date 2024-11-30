@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Näkymä Svetisissä kulkevan junan ravintolavaunun yläkerrasta"
+      params:
+        caption: "Itselleni junamatkailun houkuttelevuus tulee matkustusmukavuudesta. Tilavat penkit, mahdollisuus liikkua sekä ravintolavaunut tekevät matkustamisesta todella miellyttävää ja rentoa. Kuvassa on Sveitsissä operoivan junan ravintolavaunun yläkerta. Kuva: Kecko"
 ---
 
 Olimme puolison kanssa odottaneet, että SJ, eli Ruotsin VR, toisi junaliput myyntiin matkamme ajankohdalle. Eilen se sitten tapahtui, joten pääsimme vihdoin tekemään tulevan interrail-matkan ensimmäisiä varauksia.
@@ -18,7 +20,7 @@ Samalla törmäsimme myös ensimmäisiin ongelmiin ja saimme muistutuksen siitä
 
 <!--more-->
 
-![Näkymä Sveitsissä kulkevan junan ravintolavaunun yläkerrasta](cover.jpg "Itselleni junamatkailun houkuttelevuus tulee matkustusmukavuudesta. Tilavat penkit, mahdollisuus liikkua sekä ravintolavaunut tekevät matkustamisesta todella miellyttävää ja rentoa. Kuvassa on Sveitsissä operoivan junan ravintolavaunun yläkerta. Kuva: Kecko")
+{{<cover>}}
 
 ### Lautta Tukholmaan
 Suomesta ei ikävä kyllä pääse raiteita pitkin Keski-Eurooppaan. Kun matkaan lähtee Helsingistä, suositelluin vaihtoehto tuntui olevan lautamatka Tukholmaan. Sinne pääsee sekä Helsingistä että Turusta. Meidän matkaa ajatellen Turun yölautta vaikutti sujuvimmalta vaihtoehdolta.

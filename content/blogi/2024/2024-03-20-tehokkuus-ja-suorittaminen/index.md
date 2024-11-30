@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Kaksi iäkkäämpää kiinalaista miestä ja naista pelaamassa korttia
+      params:
+        caption: "Huomaan monesti ihailevani vanhempien ihmisten kykyä ottaa rennosti, etenkin Aasian maissa. Kuva: Gauthier Delecroix"
 ---
 
 Ole reipas. Ole ahkera. Ole tuottava. Käytä kalenteria ja suunnittele. Näillä ohjeilla koetin joskus epätoivoisesti elää. Näitähän yhteiskunta usein peräänkuuluttaa. Yhdessä kohtaa sain kuitenkin tarpeekseni ja päätin muuttaa tapaani elää. Se oli hyvä päätös, sillä voin nykyään paljon paremmin.
@@ -28,7 +30,7 @@ Olin itse osa tätä järjestelmää 90-luvulla ja 2000-luvun alkupuolella. Kaik
 
 Ahdistuin jos elämääni tuli jotain kalenterin ulkopuolelta. Yllätykset sotkivat tarkat suunnitelmat. Näin jälkeenpäin katsottuna tuntuu vitsikkäältä, että elämän optimointi ei tuottanut käytännössä mitään hyvää, mutta synnytti paljon tarpeetonta ahdistusta. Joskus 2000-luvun alkupuolella elämässäni tapahtui sarja vastoinkäymisiä, ja niiden seurauksena mietin arvojani uudelleen. Suorittaminen ja aikatauluttaminen sai jäädä.
 
-![Kaksi iäkkäämpää kiinalaista miestä ja naista pelaamassa korttia](cover.jpg "Huomaan monesti ihailevani vanhempien ihmisten kykyä ottaa rennosti, etenkin Aasian maissa. Kuva: Gauthier Delecroix")
+{{<cover>}}
 
 Nykyään en jaksa suorittaa. En edes halua suorittaa. Voin paljon paremmin, kun suurin osa päivistä on tyhjiä ja vapaana elämälle ja sen tarjoamille mahdollisuuksille. Jos elämä ei tuo mitään yllättävää, lähes jokainen päivä on tarkoitettu rentoiluun. Se ei tarkoita toimettomuutta vaan sitä, että voin tehdä mitä haluan.
 

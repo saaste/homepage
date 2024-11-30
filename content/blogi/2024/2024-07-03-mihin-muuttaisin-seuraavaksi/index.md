@@ -12,6 +12,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Joensuun kaupungintalo ja sen edessä sijaitseva puisto, jossa on vihreää nurmikkoa, puita sekä värikkäitä kukkia. Puiston edessä on keinutuoli, jossa vanhempi pariskunta on istumassa."
+      params:
+        caption: "Joensuun rauhallinen ja viihtyisä keskusta houkuttelee viettämään siellä aikaa."
 ---
 Sanotaan, että kaupungit eivät ole meluisia, autot ovat. Se on kuitenkin aika selvää, että kaupunkien välillä on suuria eroja. Sen jälkeen kun melusaaste turmeli terveyteni ja hyvinvointini, olen kiinnittänyt tähän asiaan entistä enemmän huomiota.
 
@@ -19,7 +21,7 @@ Sanotaan, että kaupungit eivät ole meluisia, autot ovat. Se on kuitenkin aika 
 
 Kirjoittelen tätä Joensuusta. Vietin eilen ja toissa päivänä aikaani keskustan terassilla ja huomasin nauttivani siitä, kuinka hiljaista kaupungissa oli. Äänimaisemasta puuttui kokonaan lentokoneiden ja helikoptereiden jatkuva meteli, eikä taustalla kuulunut ympärivuorokautinen moottoriteiden aiheuttama kohina.
 
-![Joensuun kaupungintalo ja sen edessä sijaitseva puisto, jossa on vihreää nurmikkoa, puita sekä värikkäitä kukkia. Puiston edessä on keinutuoli, jossa vanhempi pariskunta on istumassa.](cover.jpg "Joensuun rauhallinen ja viihtyisä keskusta houkuttelee viettämään siellä aikaa.")
+{{<cover>}}
 
 Joensuu ei ole autoista vapaa kaupunki. Päinvastoin, keskelle kaupunkia päätettiin vuosia sitten rakentaa toriparkki. Idioottimainen päätös, jonka haittavaikutuksista kaupunki saa kärsiä vielä vuosikymmenten ajan. Täällä automelu on kuitenkin paljon paikallisempaa, eikä se kantaudu kaikkialle tasaisena mattona. Se ei ole jatkuvasti läsnä.
 

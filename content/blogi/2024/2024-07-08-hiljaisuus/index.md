@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Panoraamakuva Rautavaaralta. Maisema on käytännössä pelkkää metsää niin pitkälle kun silmä kantaa. Jossain kaukaisuudessa näkyy jokunen yksittäinen järvi. Kuvan etualalla näkyy kallio, jonka päältä kuva on otettu. Vaaleiden kumpupilvien välistä kajastaa sininen taivas."
+      params:
+        caption: "Näissä maisemissa ympäristöä ei täyttänyt ihmisten synnyttämän äänet. Se oli varattu hiljaisuudelle, jonka ainoastaan luonto sai rikkoa."
 ---
 Vietin kuluneen viikonlopun [Rautavaaralla](https://www.openstreetmap.org/#map=13/63.4949/28.3020) ja sain samalla muistutuksen siitä, mitä todellinen hiljaisuus on.
 
@@ -30,4 +32,4 @@ On villiä ajatella, että tästä on vain yhden ihmiselämän verran aikaa, kun
 
 Täydellinen hiljaisuus tuntui todella rentouttavalta ja rauhoittavalta. Sääli, että se on nykyään niin harvinaista.
 
-![Panoraamakuva Rautavaaralta. Maisema on käytännössä pelkkää metsää niin pitkälle kun silmä kantaa. Jossain kaukaisuudessa näkyy jokunen yksittäinen järvi. Kuvan etualalla näkyy kallio, jonka päältä kuva on otettu. Vaaleiden kumpupilvien välistä kajastaa sininen taivas.](cover.jpg "Näissä maisemissa ympäristöä ei täyttänyt ihmisten synnyttämän äänet. Se oli varattu hiljaisuudelle, jonka ainoastaan luonto sai rikkoa.")
+{{<cover>}}

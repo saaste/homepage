@@ -29,8 +29,7 @@ Liikenteessä konsepti kääntyy usein päälaelleen. Ongelma alkaa siitä, ett�
 
 Liikenteessä suurimpia vaaran aiheuttajia ovat moottoriajoneuvot ja erityisesti autot. Vuonna 2023 liikenteessä kuoli 264 ihmistä. Ei ole sattumaa, että auto oli osallisena 231 tapauksessa - se on **87,5 %**. Vakavien loukkaantumisien tilasto on vuodelta 2022. Niitä tapahtui 474 kappaletta ja auto oli osallisena 351 tapauksessa.
 
-![Diagrammi, jossa on kaksi kärjellään seisovaa kolmiota, jotka on jaettu viiteen eri siivuun. Toinen kolmioista havainnollistaa kontrollihierarkian perinteiset osat ja toinen sen, kuinka periaatteita voi hyödyntää kaupunkipyöräilyn turvallisuuden parantamisessa. Kuvan keskeisin sisältö on avattu tässä blogikirjoituksessa.](cover.jpg)
-
+{{<cover>}}
 
 Hierarkiaa seuraten liikenteessä tehokkain tapa ehkäistä kuolemia ja loukkaantumisia olisi autojen poistaminen. Tämä voi tarkoittaa esimerkiksi kävelykatuja, jossa autojen pääsy on estetty fyysisillä esteillä. Kun autot eivät ole ympäristössä läsnä, niiden aiheuttama vaara poistuu kokonaan. Tätä pitäisi pyrkiä toteuttamaan paikoissa, jossa on paljon ihmisiä ja lapsia.
 

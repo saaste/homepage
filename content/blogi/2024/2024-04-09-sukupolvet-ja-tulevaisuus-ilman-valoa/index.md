@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Vuoren rinteillä roihuava metsäpalo
+      params:
+        caption: "Helteet, maastopalot, rankkasateet ja tulvat tuntuvat nykyään olevan arkipäivää. Maapallon lämpötiloissa jokainen kuukausi tuntuu rikkovan edellisen ennätyksen. Kuva: Curtis Gregory Perry"
 ---
 
 Olen löytänyt itseni viime viikkojen aikana miettimässä sitä, kuinka oma nuoruuteni erosi tämän päivän nuorten elämästä. Nuori minä pystyi haaveilemaan tulevaisuudesta tavalla, joka ei taida useimmille nykynuorille olla mahdollista.
@@ -29,7 +31,7 @@ Tuntuu hurjalta ajatella, millaisessa maailmassa nykyiset nuoret elävät. Koulu
 
 Toisin kuin minun nuoruudessa, nuorilla ei tunnu olevan mahdollisuutta oman asunnon hankintaan. Kuilu rikkaiden ja köyhien välillä on vaan jatkanut kasvamistaan. Eläkejärjestelmä on kantokykynsä rajoilla. Sodat ja pandemiat riepottelevat maailmaa. Koko nykyinen jatkuvaan kasvuun perustuva talousjärjestelmä alkaa natista liitoksistaan. Mikä pahinta, planeetta ympärillämme tuntuu palavan. Ilmastonmuutos ja kaikki sen lieveilmiöt ovat konkreettisena läsnä, eikä kukaan tunnu kykenevän tekemään sille mitään.
 
-![Vuoren rinteillä roihuava metsäpalo](cover.jpg "Helteet, maastopalot, rankkasateet ja tulvat tuntuvat nykyään olevan arkipäivää. Maapallon lämpötiloissa jokainen kuukausi tuntuu rikkovan edellisen ennätyksen. Kuva: Curtis Gregory Perry")
+{{<cover>}}
 
 Olen lukenut useita kirjoituksia siitä, kuinka nuorten mielenterveysongelmat ovat räjähtäneet käsiin. En ole yllättynyt. Myös minulla itselläni on vaikeuksia katsoa maailman menoa ja olla toiveikas - tämä kirjoitus on hyvä osoitus siitä.
 

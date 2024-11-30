@@ -15,7 +15,7 @@ Olen pelannut [Factoriota](https://factorio.com/) jo yli kahden vuoden ajan. Se 
 
 <!--more-->
 
-![Factorion logo, jonka ympärillä on suuri määrä liukuhihnoja, tehtaita, sähköpylväitä ja niiden välissä kulkevia johtoja.](cover.jpg)
+{{<cover>}}
 
 ### Tarina
 

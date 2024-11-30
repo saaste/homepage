@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Mustavalkoinen kuva rautatiekiskoista. Kuva on epätarkka, mutta pehmeässä taustassa näkyy kiskolla tasapainotteleva nuori poika."
+      params:
+        caption: "Liiallinen miellyttämisenhalu on uuvuttavaa tasapainoilua oman hyvinvoinnin ja muiden huomioimisen välillä. Kuva: Just Add Light"
 ---
 Eilen Mastodonissa käyty keskustelu sai ajattelemaan ongelmaa, joka tuntuu kulkeneen seuranani lähes koko elämäni: liiallinen halu miellyttää muita.
 
@@ -21,7 +23,7 @@ Liiallinen halu miellyttää muita on siitä ikävä, että se kutistaa sinut ol
 
 Teetpä miten päin tahansa, häviät aina.
 
-![Mustavalkoinen kuva rautatiekiskoista. Kuva on epätarkka, mutta pehmeässä taustassa näkyy kiskolla tasapainotteleva nuori poika.](cover.jpg "Liiallinen miellyttämisenhalu on uuvuttavaa tasapainoilua oman hyvinvoinnin ja muiden huomioimisen välillä. Kuva: Just Add Light")
+{{<cover>}}
 
 Omien kokemuksieni mukaan siihen liittyy myös toinen ongelma: se muuttaa toisia ihmisiä. Aina toista miellyttävä ihminen on kuin vanhempi, joka ei aseta lapselle minkäänlaisia rajoja. Kun ihminen saa aina haluamansa, hän tottuu siihen. Siitä tulee uusi normaali, jota hän alkaa odottaa ja vaatia. Kun vastaan tulee tilanteita, jossa hän ei saa haluamaansa, hän alkaa syyttää sinua itsekkääksi.
 

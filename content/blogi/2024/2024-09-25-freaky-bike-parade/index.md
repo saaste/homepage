@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Urban Arrow -tavarapyörä, jonka kori on koristeltu lämpimän sävyisillä ledivaloilla. Tangon ympärillä on värikäs ledinauha. Taustalla näkyy muitakin väreillä koristeltuja pyöriä."
+      params:
+        caption: "Oma Urban Arrow -tavarapyörä ledivaloilla koristeltuna."
 ---
 Lauantaina Helsingissä järjestettiin Freaky Bike Parade. Olin odottanut värikästä pyöräkulkuetta innolla, eikä se pettänyt tänäkään vuonna.
 
@@ -24,7 +26,7 @@ Tapahtuman keskiössä on värikäs polkupyörien letka, räyhäkkä konemusiikk
 
 Osallistuin paraatiin puolisoni kanssa, mutta mukana meillä oli vain yksi pyörä, sillä hän matkusti koko kulkueen ajan kuormapyörän boksissa makuupussiin kääriytyneenä. Hän oli myös käynyt ostamassa reilut kahdeksan metriä pitkän talvivalonauhan, jonka kieputimme etulaatikon ympärille. Minä puolestani etsin käsiini kännykällä ohjattavan, erilaisia efektejä välkyttelevän ledinauhan, jonka virittelimme ohjaustankoon.
 
-![Urban Arrow -tavarapyörä, jonka kori on koristeltu lämpimän sävyisillä ledivaloilla. Tangon ympärillä on värikäs ledinauha. Taustalla näkyy muitakin väreillä koristeltuja pyöriä.](cover.jpg "Oma Urban Arrow -tavarapyörä ledivaloilla koristeltuna.")
+{{<cover>}}
 
 Kulkueen kokoontuminen alkoi kello 18:00, mutta saavuin itse paikalle vasta seitsemän tienoilla. Paikalla oli jo silloin jonkin verran ihmisiä, mutta suurin osa saapui vasta hieman ennen kahdeksaa, jolloin kulkueen oli määrä lähteä liikkeelle. Poliisikin saapui alueelle hyvissä ajoin ja arvostan sitä, että he käyttivät liikenteen ohjaamiseen moottoripyöriä sekä mönkijöitä. Ja olihan siellä toki jokunen maijakin.
 

@@ -10,12 +10,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Kasvispohjaisia tuotteita pöydällä: Alpro Greek Style Mango -jugurtti, Oatlyn levite sekä Muu Roast Biif -leikkele"
+      params:
+        caption: "Liharuokien ja maitotuotteiden vähentäminen on vaatinut aikamoista testailua. Onneksi kaupat ovat nykyään täynnä hyviä vaihtoehtoja."
 ---
 Vuosien aikana eläinperäisten tuotteiden osuus ruokavaliossani on pienentynyt lähes itsestään omien vatsaongelmien takia. Vatsaongelmissa ei ollut ilmeisesi tarpeeksi riesaa, sillä viime vuonna labratulosten saavuttua sain lääkäriltä jämäkän käskyn lisätä kasvisruokaa ja vähentää maitopohjaisia tuotteita entisestään.
 
 <!--more-->
 
-![Kasvispohjaisia tuotteita pöydällä: Alpro Greek Style Mango -jugurtti, Oatlyn levite sekä Muu Roast Biif -leikkele](cover.jpg "Liharuokien ja maitotuotteiden vähentäminen on vaatinut aikamoista testailua. Onneksi kaupat ovat nykyään täynnä hyviä vaihtoehtoja.")
+{{<cover>}}
 
 ### Sairaudet ohjaavat syömistä
 

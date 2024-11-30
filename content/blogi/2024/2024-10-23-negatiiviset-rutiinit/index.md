@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Kanadalainen metsä liekkien ja savun ympäröimänä. Puut ovat lähinnä mustia silhuetteja punaisen, oranssin ja keltaisen välisen hehkun ja savun keskellä."
+      params:
+        caption: "Ainut asia, jonka uutiset saivat aikaiseksi, oli tunne siitä, että maailma palaa ympärillä. Ei se tunne ole edelleenkään täysin kadonnut, mutta ainakaan en pahenna sitä uutisilla. Kuva: Duncan Rawlinson"
 ---
 Olen suuri rutiinien puolesta puhuja. Niiden avulla olen parantanut monia asioita elämässäni. Rutiinit voivat olla myös pirullinen vihollinen.
 
@@ -23,7 +25,7 @@ Yksi pitkäaikaisista rutiineista, joista kärsin, oli tarve pysyä ajan hermoil
 
 Tietenkään mikään tästä ei pitänyt paikkaansa. Jatkuvalla uutisvirralla ei ollut vuosien aikana minkäänlaista todellista positiivista vaikutusta minuun tai elämääni. Päinvastoin, se sai minut voimaan huonommin ja näkemään maailman paljon synkempänä. Kun lopetin uutisten seuraamisen vuosia sitten, ainut menettämäni asia oli huono olo. Mikään muu ei muuttunut.
 
-![Kanadalainen metsä liekkien ja savun ympäröimänä. Puut ovat lähinnä mustia silhuetteja punaisen, oranssin ja keltaisen välisen hehkun ja savun keskellä.](cover.jpg "Ainut asia, jonka uutiset saivat aikaiseksi, oli tunne siitä, että maailma palaa ympärillä. Ei se tunne ole edelleenkään täysin kadonnut, mutta ainakaan en pahenna sitä uutisilla. Kuva: Duncan Rawlinson")
+{{<cover>}}
 
 On jotenkin surkuhupaisaa, etten oppinut tästä kokemuksesta. Toteutin tismalleen samaa ajatusmallia sosiaalisen median kanssa. Minua pelotti luopua Facebookista, Instagramista, Twitteristä ja muista vastaavista palveluista, koska kuvittelin, että menettäisin jotain suurta. Lopulta poistin ne kaikki, enkä menettänyt mitään. Oma elämäni parani kertaheitolla ja samalla tajusin, ketkä elämässäni olleista ihmisistä olivat oikeasti elämässäni - ketkä olivat merkityksellisiä.
 

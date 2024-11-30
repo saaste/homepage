@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Valkoinen Urban Arrow -tavarapyörä"
+      params:
+        caption: "Urban Arrow -tavarapyörä on ollut yksi parhaita hankintojani. Mittarissa on nyt jo yli 3000 km ja lisää tulee jatkuvasti."
 ---
 
 En ole koskaan omistanut autoa. En ole edes halunnut omistaa, vaikka minulla onkin ollut ajokortti 18-vuotiaasta lähtien. Pysyminen autottomassa elämässä on ollut yksi parhaita päätöksiäni.
@@ -82,7 +84,7 @@ Ostin muutama vuosi sitten talouteemme Urban Arrow -tavarapyörän. Se ei ole ha
 
 Tavarapyörän vertaaminen polkupyörään on kuin vertaisi kuorma-autoa henkilöautoon. Kuormapyörä on ensisijaisesti auton korvike, ei arki- tai liikuntapyörän korvike.
 
-![Valkoinen Urban Arrow -tavarapyörä](cover.jpg "Urban Arrow -tavarapyörä on ollut yksi parhaita hankintojani. Mittarissa on nyt jo yli 3000 km ja lisää tulee jatkuvasti.")
+{{<cover>}}
 
 Ennen Urban Arrowin hankintaa oli hetkiä, jolloin suurempien tavaroiden kuljettaminen pyörällä oli vaikeaa tai mahdotonta. Tavarapyörän myötä nämä hetket ovat historiaa. Arjessamme ei ole tullut yhtään sellaista tilannetta vastaan, jossa pyörä ei olisi ollut riittävä tavaroiden kuljettamiseen.
 

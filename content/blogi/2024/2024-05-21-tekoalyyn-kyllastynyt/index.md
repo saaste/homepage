@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Profiilikuva punahiuksisesta, hymyilevästä Hannah Frysta. Hänellä on päässään korvan taakse kiinnitetty mikrofoni."
+      params:
+        caption: 'Hannah Fry on matemaatikko, jonka kokemukset ja ajatukset tekoälystä ja algoritmeista loivat pohjan sille, kuinka itse suhtaudun nykyisin näihin asioihin. Kuva on hänen esityksestään "Should Computer Run the World?"'
 ---
 Minulle tarjoutui mahdollisuus osallistua tutkimukseen, joka käsittelee generatiivisen tekoälyn eettisiä kysymyksiä ja sitä, kuinka IT-alalla työskentelevät suhtautuvat niihin. Tutkija haastatteli minua ja juttelimme generatiivisesta tekoälystä lähes tunnin ajan.
 
@@ -25,7 +27,7 @@ Kun kirjoitin siitä, kuinka [olen oppinut inhoamaan teknologiaa]({{< ref "/blog
 
 Muutamia vuosia sitten, ennen nykyisen AI-sekoilun alkamista, luin [Hannah Fryn](https://hannahfry.co.uk/) kirjan [Hello World: Being Human in the Age of Algorithms](https://hannahfry.co.uk/book/hello-world/). Fryn ajatukset toimivat jonkinlaisena selkärankana tavalle, jolla suhtaudun nykyään tekoälyyn ja algoritmeihin. Kirjassa käsitellään esimerkkien kautta niitä lukuisia ongelmia, jotka ovat seurausta siitä, että AI on tuotu osaksi arkea ja todellisen maailman päätöksentekoa.[^1]
 
-![Profiilikuva punahiuksisesta, hymyilevästä Hannah Frysta. Hänellä on päässään korvan taakse kiinnitetty mikrofoni.](cover.jpg 'Hannah Fry on matemaatikko, jonka kokemukset ja ajatukset tekoälystä ja algoritmeista loivat pohjan sille, kuinka itse suhtaudun nykyisin näihin asioihin. Kuva on hänen esityksestään "Should Computer Run the World?"')
+{{<cover>}}
 
 Kirja kertoo tarinan japanilaisista turisteista, jotka vuokraavat Australiassa käydessään auton ja uskovat GPS-navigaattoria niin sokeasti, että päätyvät [ajamaan auton mereen](https://abcnews.go.com/blogs/headlines/2012/03/gps-tracking-disaster-japanese-tourists-drive-straight-into-the-pacific). Vaikka tapaukselle on helppo naureskella, tämä on tismalleen se toimintamalli, jolla AI-yritykset haluavat meidän toimivan - ja kuinka todella moni toimii jo nyt.
 

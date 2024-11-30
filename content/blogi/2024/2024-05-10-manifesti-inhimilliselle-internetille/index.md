@@ -15,7 +15,7 @@ Tämä on vapaa suomennos [Michelle Barkerin](https://michellebarker.co.uk/) kir
 
 <!--more-->
 
-![Alkuperäisen sivun logo, jossa lukee Manifesto for a Humane Web](cover.png)
+{{<cover>}}
 
 Internetistä on tulossa vihamielinen ihmisiä kohtaan. Käyttäjiä seurataan ja heidän yksityisyyttään loukataan järjestelmällisesti. Hakutulokset ovat täynnä mainoksia. Botit spämmäävät meitä jatkuvasti. Generatiivinen tekoäly uhkaa muuttaa aikaisemmin hyödylliset sisällöt sieluttomaksi markkinointisopaksi, ja uhraa samalla toimeentulon niiltä, jotka tahtomattaan mahdollistivat tekoälyn syntymisen[^1].
 

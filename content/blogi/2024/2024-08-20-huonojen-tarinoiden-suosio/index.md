@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Mustavalkoinen kuva elokuvateatterin katsomosta, joka on lähes täynnä ihmisiä."
+      params:
+        caption: "Olen tainnut käydä tänä vuonna elokuvateatterissa kerran tai kahdesti. Kuva: Aranami"
 ---
 Olen leikkinyt ajatuksella, että aloittaisin oman tarinan kirjoittamisen. Se sai miettimään omia tarinoitani, niiden huonoutta ja sitä, miksi jotkut ihmiset pitävät huonoja tarinoita hyvinä.
 
@@ -23,7 +25,7 @@ Opiskeluvuosina katselin paljon leffoja, usein myös huonoja. Ihmettelin jo sill
 
 Mutta voiko sitä edes määritellä, mikä on hyvää ja mikä huonoa?
 
-![Mustavalkoinen kuva elokuvateatterin katsomosta, joka on lähes täynnä ihmisiä.](cover.jpg "Olen tainnut käydä tänä vuonna elokuvateatterissa kerran tai kahdesti. Kuva: Aranami")
+{{<cover>}}
 
 ### Millainen on hyvä tarina?
 

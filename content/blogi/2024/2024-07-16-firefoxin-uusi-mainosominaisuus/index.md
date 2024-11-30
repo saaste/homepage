@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Kuvaruutukaappaus Firefoxin asetuksista. Kaikki muut asetukset on sumennettu, mutta Privacy & Security -kohdan alla oleva Website Advertising Preferences on selkeästi näkyvissä."
+      params:
+        caption: "Firefoxin uusi mainosseuranta on oletuksena päällä, eikä käyttäjiä informoitu asiasta mitenkään."
 ---
 Mozilla toi kaikessa hiljaisuudessa Firefox-selaimeensa uuden mainosseurantaominaisuuden. Hiljaisuus ei kestänyt pitkään, sillä oletuksena päällä oleva ominaisuus synnytti Mastodonin teknologia- ja yksityisyyspiireissä varsin kiivasta keskustelua puolesta ja vastaan.
 
@@ -21,7 +23,7 @@ Mozilla käyttää ominaisuudesta nimeä [Privacy-Preserving Attribution](https:
 
 Tämä on mahdollista vain, mikäli käyttäjää seurataan mainoksen näkemisestä tuotteen ostohetkeen. Seurannan tarve tekee mainoksiin pohjautuvasta bisneksestä uhkan yksityisyydelle, ja selittää osaltaan sen, miksi nykyinen web on sellainen kuin se on.
 
-![Kuvaruutukaappaus Firefoxin asetuksista. Kaikki muut asetukset on sumennettu, mutta Privacy & Security -kohdan alla oleva Website Advertising Preferences on selkeästi näkyvissä.](cover.jpg "Firefoxin uusi mainosseuranta on oletuksena päällä, eikä käyttäjiä informoitu asiasta mitenkään.")
+{{<cover>}}
 
 Mozillan uusi ominaisuus toimii heidän omien sanojensa mukaan seuraavasti:
 1. Sivusto pyytää Firefoxia tallentamaan esitetyn mainoksen tiedot sekä mainoksen kohdesivun.

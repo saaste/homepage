@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Harmaan parkkihallin kapeaan pysäköintiruutuun parkkeerattu tavarapyörä. Viereisessä tyhjässä ruudussa on jonkinlainen koiran häkki, joka on täynnä tavaraa."
+      params:
+        caption: "Tavarapyöräni uudessa, kapeammassa ruudussa. Huomaa viereissä ruudussa säilytettävät tavarat. Palaan näihin hieman myöhemmin."
 ---
 Tämä on tarina kuormapyörästä ja parkkipaikasta. Samalla se on tarina autolähtöisestä ajattelusta ja sen järjettömyydestä.
 
@@ -97,7 +99,7 @@ Sain vastauksen, että uusi sopimus on ihan oikea, vanha mitätöityy automaatti
 
 Kuun vaihtuessa vein pyörän uusille maalatuille paikoille. Ei niin yllättäen ne oli maalattu kaksikerroksisen hallin alimman kerroksen kauimmaiseen nurkkaan.
 
-![Harmaan parkkihallin kapeaan pysäköintiruutuun parkkeerattu tavarapyörä. Viereisessä tyhjässä ruudussa on jonkinlainen koiran häkki, joka on täynnä tavaraa.](cover.jpg "Tavarapyöräni uudessa, kapeammassa ruudussa. Huomaa viereissä ruudussa säilytettävät tavarat. Palaan näihin hieman myöhemmin.")
+{{<cover>}}
 
 Ajattelin, että säätäminen loppuisi tähän, mutta toisin kävi. Pysäköintiyhtiö ei nimittäin koskaan lähettänyt minulle maksutietoja. Maksamattomat laskut päätyisivät ennemmin tai myöhemmin minun riesaksi, joten minun piti itse huudella niiden perään. Olin asiasta yhteydessä 2.10.2024 ja sain maksutiedot eilen 11.11.2024. Reilu kuukausi meni siinäkin.
 

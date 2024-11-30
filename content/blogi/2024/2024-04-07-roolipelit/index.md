@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Baldur's Gate 3:n näkymä, jossa pelaaja yrittää tiirikoida lukkoa. Keskellä on suuri 20-sivuinen noppa, jonka alla ovat erilaset bonukset, joita pelaaja voi saada
+      params:
+        caption: "Baldur's Gate 3:ssa monet taitoa vaativat asiat ratkaistaan heittämällä noppaa pöytäroolipelin tapaan."
 ---
 Olen pelannut kohta 100 tuntia [Baldur's Gate 3](https://baldursgate3.game/):sta. En ole pelannut aikaisempia osia ja hankin pelin ensisijaisesti siksi, että kuulin siitä niin paljon hyvää.
 
@@ -24,8 +26,7 @@ Baldur's Gate 3 on videopeli, joka pohjautuu [Dungeons & Dragons](https://dnd.wi
 
 Hahmot rakentuvat samoista palasista, maailmassa toimitaan samoilla säännöillä ja erilaiset kykyjä vaativat toimet sekä taistelu hoidetaan heittämällä noppia. Aina ne eivät näy ruudulla, mutta pelimekaniikka pohjautuu silti nopan heittämiseen.
 
-![Baldur's Gate 3:n näkymä, jossa pelaaja yrittää tiirikoida lukkoa. Keskellä on suuri 20-sivuinen noppa, jonka alla ovat erilaset bonukset, joita pelaaja voi saada](cover.jpg "Baldur's Gate 3:ssa monet taitoa vaativat asiat ratkaistaan heittämällä noppaa pöytäroolipelin tapaan.")
-
+{{<cover>}}
 
 Olen pelannut vuosien saatossa erilaisia roolipelejä tietokoneella ja konsolilla. Baldur's Gate 3 painii silti aivan omassa sarjassa. Kun tutustuin peliin ennen ostamista, kiinnitin huomiota siihen, että ihmiset suosittelivat pelin **roolipelaamista**. Luulin tietäväni mitä se tarkoittaa pöytä- tai live-roolipeleissä, mutta en ymmärtänyt miten se toteutuu videopeleissä.
 

@@ -11,12 +11,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: Numerolaput rinnassa eteneviä juoksijoita kesäisessä Helsingissä. Katsojat kannustavat tien laidoilla.
+      params:
+        caption: "Monet kuvittelevat, etteivät ikinä pysty juoksemaan maratonia. Hyvillä kengillä, oikealla juoksutekniikalla ja sopivalla harjoittelulla iso osa pystyy siihen. Kuva: Simon Cozens (CC)"
 ---
 Aikaisemmassa [juoksukirjoituksessa]({{< ref "/blogi/2024/2024-03-14-juoksemisen-voima/index.md" >}}) kerroin, kuinka onnistuin muutamaan itseni polvikipuisesta juoksijasta ultrajuoksijaksi. En kuitenkaan kertonut, että kuinka se käytännössä tapahtui. Yritän korjata virheen.
 
 <!--more-->
 
-![Numerolaput rinnassa eteneviä juoksijoita kesäisessä Helsingissä. Katsojat kannustavat tien laidoilla.](cover.jpg "Monet kuvittelevat, etteivät ikinä pysty juoksemaan maratonia. Hyvillä kengillä, oikealla juoksutekniikalla ja sopivalla harjoittelulla iso osa pystyy siihen. Kuva: Simon Cozens (CC)")
+{{<cover>}}
 
 Heti alkuun on muistutettava, etten ole juoksuvalmentaja, fysioterapeutti tai muu juoksemisen, terveyden tai hyvinvoinnin ammattilainen. Minä olen vain juoksija, joka juoksee omaksi iloksi.
 

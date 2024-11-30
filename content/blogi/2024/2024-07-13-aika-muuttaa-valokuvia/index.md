@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Panoraamakuva soluhuoneesta. Huoneen ikkunasta paistaa lämmin valo. Huoneessa on sänky ja sängyn vieressä kaiutin, jonka päällä on pöytätuuletin. Lattialla on kaksi kuvaputkimonitoria. Toisella seinällä on tietokonepöytä, jonka päällä on kuvaputkimonitori. Pöydällä on laavalamppu sekä kaikenlaista irtosälää. Pöydän vieressä on CD-teline ja sen päällä pieni kuvaputkitelevisio. Telineen takana on korkea pöytätietokoneen kotelo. Toisella puolella pöytää on stereotaso, jossa on vahvistin, CD-levyjä sekä läjä kaikenlaista sälää."
+      params:
+        caption: "Opiskeluaikainen soluhuoneeni heti muuton jälkeen. Kuvaputkimonitoreja, CD-levyjä, laavalamppu sekä ruudulla näkyvä IRC ovat kaikki muistoja menneeltä ajalta. Kuva ei ole häävi, mutta se tuntuu nykyään tärkeältä ja säilyttämisen arvoiselta."
 ---
 Jatkoin ikuisuusprojektiani, valokuvien siivousta. Siinä vanhoja kuvia karsiessa tajusin, kuinka aika on muuttanut monien kuvien merkitystä ja antanut niille ihan uuden arvon.
 
@@ -24,7 +26,7 @@ Kuvia selatessa huomasin kuitenkin, että halusin säästää kuvia, jotka eivä
 
 Monet tällaisista kuvista olivat sellaisia, että jos olisin tehnyt siivouksen heti kuvien siirtämisen jälkeen, olisin saattanut poistaa ne liian arkisena ja tylsänä. Hyvä esimerkki on kotini vierestä kulkeva katu tai tietokoneella istuva kaveri, joka istuu selin kameraan päin. Tällaiset paikat ja hetket ovat niin arkisia, ettei niitä välttämättä näe säilyttämisen arvoisena. Niiden arvo on helpompi havaita vasta vuosien jälkeen.
 
-![Panoraamakuva soluhuoneesta. Huoneen ikkunasta paistaa lämmin valo. Huoneessa on sänky ja sängyn vieressä kaiutin, jonka päällä on pöytätuuletin. Lattialla on kaksi kuvaputkimonitoria. Toisella seinällä on tietokonepöytä, jonka päällä on kuvaputkimonitori. Pöydällä on laavalamppu sekä kaikenlaista irtosälää. Pöydän vieressä on CD-teline ja sen päällä pieni kuvaputkitelevisio. Telineen takana on korkea pöytätietokoneen kotelo. Toisella puolella pöytää on stereotaso, jossa on vahvistin, CD-levyjä sekä läjä kaikenlaista sälää.](cover.jpg "Opiskeluaikainen soluhuoneeni heti muuton jälkeen. Kuvaputkimonitoreja, CD-levyjä, laavalamppu sekä ruudulla näkyvä IRC ovat kaikki muistoja menneeltä ajalta. Kuva ei ole häävi, mutta se tuntuu nykyään tärkeältä ja säilyttämisen arvoiselta.")
+{{<cover>}}
 
 Minusta oli jännittävä nähdä katu, joka näyttää tänään aivan erilaiselta. Sen varrella näkyi rakennuksia, joita ei enää ole. Siellä oli rakennustyömaita, jotka ovat nykyään asuinrakennuksia. Puut olivat pienempiä eikä kaikkia pensaita ole enää olemassa. Kun katselin kuvaa tietokoneen ääressä istuvasta kaverista, huomioni ei kiinnittynyt kaveriin, vaan monitoriin. Se on kuvaputkimonitori, jonka vasemmassa yläkulmassa on liimattu pala [Assembly](https://assembly.org)-tapahtuman rannekkeesta. Ruudulla näkyy [Windows XP](https://en.wikipedia.org/wiki/Windows_XP) -käyttöjärjestelmä, jossa pyörii [Winamp](https://en.wikipedia.org/wiki/Winamp) alkuperäisessä loistossaan. Winamp soittaa [Apollo 440](https://en.wikipedia.org/wiki/Apollo_440):ia.
 

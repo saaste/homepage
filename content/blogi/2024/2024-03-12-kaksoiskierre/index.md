@@ -16,7 +16,7 @@ Lukemisen suomiteema jatkuu. Vuoden toinen suomalainen kirja on Tiina Raevaaran 
 
 <!--more-->
 
-![Kaksoiskierten kansi, jossa on silhuetti puiden edessä olevasta metalliaidasta. Niiden takana on abstrakti sinertävä kuvio, joka muistuttaa salamoita tai synapseja](cover.jpg)
+{{<cover>}}
 
 Tarina sijoittuu Helsinkiin ja Viikin kampukselle. Aikaisemmin geenitutkimuksen parissa työskennellyt **Eerika** asuu vanhassa puutalossa tyttärensä **Tuulikin** sekä taitelijan ja lapsuudenystävänsä **Kristiinan** kanssa. On joulukuu. Helsingin Sanomat uutisoi Kristiinan entisestä pomosta ja väitöskirjaohjaasta **Pajusuosta**. Hän on palannut Yhdysvalloista Suomeen ja ylistää, kuinka hänen alkava tutkimusprojektinsa tulisi pelastamaan elinsiirtojonoihin kuolevat lapset.
  

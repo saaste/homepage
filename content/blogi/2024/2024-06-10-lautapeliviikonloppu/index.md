@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "StarCraft-lautapeli leviteltynä pöydälle. Pelilauta koostuu planeetoista. Planeetat ovat täynnä muovisia figuureja. Laudan ympärillä näkyy jokaisen pelaajan hahmokortti sekä suuri määrä kortteja."
+      params:
+        captions: "StarCraft-rähinä käynnissä. Olin tässä kohtaa niin alakynnessä, ettei minun hahmoa juuri kentällä näy. Zergit ja protossit ottavat keskenään yhteen."
 ---
 Viikonloppuna sain unohtaa arkielämän ja siirtyä omaan kuplaani. Alun perin tarkoitus oli pelata pöytäroolipeliä, mutta koska meidän dungeon master ei päässytkään mukaan, järjestimme kolmen muun kaverin kanssa vuokramökillä lautapeliviikonlopun.
 
@@ -61,7 +63,7 @@ Yhteystyö ei tähän peliin kuulunut ja nyt pelasimme toisimme vastaan. Peli on
 
 Eroistaan huolimatta rodut ovat tasaväkisiä. Yksikään ei ole toista parempi, mutta rotujen ominaispiirteet ohjaavat hieman erilaiseen pelityyliin.
 
-![StarCraft-lautapeli leviteltynä pöydälle. Pelilauta koostuu planeetoista. Planeetat ovat täynnä muovisia figuureja. Laudan ympärillä näkyy jokaisen pelaajan hahmokortti sekä suuri määrä kortteja.](cover.jpg "StarCraft-rähinä käynnissä. Olin tässä kohtaa niin alakynnessä, ettei minun hahmoa juuri kentällä näy. Zergit ja protossit ottavat keskenään yhteen.")
+![StarCraft-lautapeli leviteltynä pöydälle. Pelilauta koostuu planeetoista. Planeetat ovat täynnä muovisia figuureja. Laudan ympärillä näkyy jokaisen pelaajan hahmokortti sekä suuri määrä kortteja.](cover.jpg )
 
 Pelaajien on pidettävä huolta resursseista, rakennettava yksiköitä, laajennettava tukikohtaa, päivitettävä teknologiaa, vallattava alueita ja tietenkin yritettävä tuhota vastustajat. Yhteen asiaan keskittyminen harvemmin tuottaa hyvää lopputulosta.
 
@@ -69,7 +71,7 @@ Peli on käytännössä täysin oman taktikoinnin varassa. Noppia siinä ei ole 
 
 Pelisessio jatkui kahteen asti yöllä. Oma pelini oli aivan surkeaa rääppimistä ja päädyinkin olemaan kaikista huonoin. Sen jälkeen oli taas aika viheltää päivä poikki ja painua riippumattoon köllöttelemään.
 
-![Järven edustalla oleva puinen laituri. Järven pinnassa on usvaa ja vastaranta heijastuu peilityynestä järvestä. Taivaalla näkyy auringon kajo, vaikka kuva on otettu yöllä.](jarvi.jpg "Tyynen järven pintaa koristanut usva loi mukavan tunnelman valoisaan kesäyöhön.")
+{{<cover>}}
 
 ### Sunnuntai
 

@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Kaavio, joka kertoo, että jos sinulla ei ole ongelmaa, älä murehdi. Jos sinulla on ongelma etkä voi sille mitään, älä murehdi. Jos voit ongelmalle jotain, silloin sinun ei tarvitse murehtia."
+      params:
+        caption: "Tämä kaavio tiivistää ajattelun, johon pyrin. En aina onnistu siinä, mutta ainakin se toimii hyvänä ohjenuorana."
 ---
 Luin eilen [Ylen artikkelin](https://yle.fi/a/74-20083890), jossa käytiin läpi itsekuria ja "ryhdistäytymistä". Aihe on itseäni lähellä, sillä tämä surullisenkuuluisa ryhdistäytyminen on ollut yksi niistä voimista, joilla olen kulkenut elämän vastoinkäymisiä läpi. Se ei ehkä kuitenkaan ole ihan sellaista ryhdistäytymistä, miten monet sen käsittävät.
 
@@ -95,7 +97,7 @@ Nämä ovat vain muutamia esimerkkejä siitä, kuinka oma aktiivinen toiminta on
 
 Tämä aktiivisen toimimisen malli on tuonut itselleni tietynlaista tyyneyttä. Minä en jaksa stressata asioista, koska tiedän, että vastoinkäymisissäkin minulla on usein suuri mahdollisuus vaikuttaa lopputulokseen. Se ei tietenkään tee immuuniksi vastoinkäymisille. Tarkoitus on ohjata, ei kontrolloida kaikkea.
 
-![Kaavio, joka kertoo, että jos sinulla ei ole ongelmaa, älä murehdi. Jos sinulla on ongelma etkä voi sille mitään, älä murehdi. Jos voit ongelmalle jotain, silloin sinun ei tarvitse murehtia.](cover.jpg "Tämä kaavio tiivistää ajattelun, johon pyrin. En aina onnistu siinä, mutta ainakin se toimii hyvänä ohjenuorana.")
+{{<cover>}}
 
 Välillä turhaudun siihen, kuinka modernin maailman hyväosaiset ihmiset, joilla on "kaikki kunnossa", tyytyvät leijailemaan oman elämänsä kyydissä. Kaikki on aina jonkun muun syytä. Jos ei kenenkään muun, niin yhteiskunnan. Hetkittäin se tuntuu lapselliselta. Etenkin Suomessa, johon syntyessään saa monella mittarilla hyväosaisen leiman otsaansa. Halutaan kivat asiat ilman henkilökohtaista vastuuta. On paljon helpompaa tyytyä syyttelemään muita, kuin tehdä asioille itse jotain.
 

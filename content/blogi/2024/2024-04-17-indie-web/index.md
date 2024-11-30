@@ -10,12 +10,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: Netscape Navigator -myyntipaketti. Paketissa lukee, että se on suunniteltu Windows 95 ja 3.1 käyttöjärjestelmille.
+      params:
+        caption: "Netscape Navigatorilla tuli surffailtua aikana, jolloin Internet oli hauska ja varsin harmiton. Kuva: Greg Dunlap"
 ---
 Tutustuin jokin aika sitten IndieWeb-termiin ja minulle tuli välittömästi siitä kotoisa oli. Se oli juuri sitä, mitä olin kaivannut modernin internetin rinnalle. Sen myötä päätin uusia myös kotisivut.
 
 <!--more-->
 
-![Netscape Navigator -myyntipaketti. Paketissa lukee, että se on suunniteltu Windows 95 ja 3.1 käyttöjärjestelmille.](cover.jpg "Netscape Navigatorilla tuli surffailtua aikana, jolloin Internet oli hauska ja varsin harmiton. Kuva: Greg Dunlap")
+{{<cover>}}
 
 ### IndieWeb
 IndieWeb on paluu 2000-luvun alkupuolelle aikaan ennen algoritmeja ja alustoja. Se on vastamyrkky yritysten kyllästämälle Internetille.

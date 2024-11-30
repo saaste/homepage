@@ -11,7 +11,9 @@ aiheet:
 resources:
     - name: cover
       src: cover.jpg
-      title: "Sohvalla oleva muistikirja, jonka kannessa on erillinen kynätasku. Taskussa on geeli kynä sekä käyttämätön varamustepatruuna. "
+      title: "Sohvalla oleva muistikirja, jonka kannessa on erillinen kynätasku. Taskussa on geeli kynä sekä käyttämätön varamustepatruuna."
+      params:
+        caption: "Leuchttrum1917:n muistikirja ja EnerGelin uudelleentäytettävä geelikynä ovat yhdistelmä, jonka miellyttävyys auttaa pitämään päiväkirjarutiinia yllä."
 ---
 Havahduin toissa iltana siihen, että päiväkirjassani on enää 41 tyhjää sivua. Mihin ihmeeseen aika oikein menee? Vastahan minä ostin uuden päiväkirjan!
 
@@ -27,7 +29,7 @@ Sen jälkeen olen yrittänyt huonolla menestyksellä ylläpitää erilaisia digi
 
 Lopulta päätin unohtaa digitaalisen kikkailun ja ostin perinteisen paperisen muistikirjan. Alku oli todella vaikeaa. Kirjoittaminen tuntui hitaalta ja kömpelöltä. Jostain syystä en tiennyt mitä minun kuuluisi[^1] kirjan sivuille kirjoittaa. Varsin nopeasti palaset alkoivat kuitenkin loksahdella paikoilleen.
 
-![Sohvalla oleva muistikirja, jonka kannessa on erillinen kynätasku. Taskussa on geeli kynä sekä käyttämätön varamustepatruuna.](cover.jpg "Leuchttrum1917:n muistikirja ja EnerGelin uudelleentäytettävä geelikynä ovat yhdistelmä, jonka miellyttävyys auttaa pitämään päiväkirjarutiinia yllä.")
+{{<cover>}}
 
 Tajusin, että kynän ja paperin käyttäminen tekee kirjoittamisesta paljon syvemmän kokemuksen. Koska kirjoittaminen on hitaampaa, mietin asioita paljon tarkemmin ja harkitummin. Käytän kirjoittamiseen aikaa, jolloin asiat jäävät paljon paremmin mieleeni. Toisaalta ajatukset, jotka haluan ennen nukahtamista päästäni pois, tarttuvat päiväkirjan sivuille paljon paremmin.
 

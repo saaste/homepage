@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Kahden koiran muotokuvat vierekkäin. Kumpikin katsoo kameran ohi oikealle korvat pystyssä."
+      params:
+        caption: "Koiraviikon tyypillinen näky, kun työpäivä vetelee viimeisiään. Vaativat katseet huutavat lenkille lähtemistä."
 ---
 Olen äärimmäisen eläinrakas ihminen. Erityisesti koirat ovat lähellä sydäntäni. Perheessäni on aina ollut koira, mutta minulla ei koskaan ole ollut omaa. Koiran kokoiseen aukkoon löytyi kuitenkin netistä ratkaisu.
 
@@ -46,7 +48,7 @@ Koirakummeilun alkupuolella saatoin käydä useita kertoja viikossa koirien kans
 
 Viime sunnuntaina meillä alkoi pitkästä aikaa kunnollinen koiraterapia, sillä koirat ovat meillä lähes viikon! Tällaiset pidemmät jaksot ovat mukavia, koska niissä koiratkin ehtivät rauhoittua ja rentoutua. Me olemme niille tietenkin vanhoja tuttuja, mutta aina se vähän jännittää kun omistajat ovat poissa.
 
-![Kaksi koiraa tuijottavat vaativasti työpöydän vieressä. Toinen istuu ja toinen makoilee lattialla takapuoli oman patjan päällä.](cover.jpg "Koiraviikon tyypillinen näky, kun työpäivä vetelee viimeisiään. Vaativat katseet huutavat lenkille lähtemistä.")
+{{<cover>}}
 
 Viikko onkin sujunut hyvin arkisissa merkeissä. Minun tyypilliset aamukahvit koneen ääressä on korvannut puolen tunnin aamulenkit. Sitten syödään porukalla aamupalaa ja hypätään töihin. Koirien tehtävänä on aiheuttaa kateutta nukkumalla samalla kun minä teen töitä.
 

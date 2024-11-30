@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Jaloissa olevat juoksukengät. Juoksija seisoo märässä kurassa.
+      params:
+        caption: "Keli ei tänään ollut paras mahdollinen. Siksi se oli täydellinen juoksemiseen."
 ---
 
 En ole viime päivinä ollut paras mahdollinen itseni. Ulkona satoi ja ulkoilureitit olivat kurassa. Kävin juoksemassa ja tulin takaisin ihan eri ihmisenä. Lenkki muistutti minua siitä, mikä voima juoksemisella voi olla.
@@ -38,7 +40,7 @@ Kun joka paikkaan koskee, kroppa ja aivot käskevät sinua lopettamaan. Ne halua
 
 Luonto ei kysele sinun juoksupäivää. Se voi tarjota sinulle aurinkoa, mutta yhtälailla voi sataa vaakatasossa. Oli hylättävä ajatus siitä, että juokseminen tapahtuu vain hyvällä säällä. Pieneksi yllätykseksi tämä oli oppitunneista helpoin. Opin, että surkealla säällä juoksemisessa on jotain todella energisoivaa. Kadut ovat tyhjät ja koko maailma on sinun. Tajuat, että vesi on vain vettä, etkä kuole siihen. Et palele, koska olet koko ajan liikkeessä. Kaikki on kurassa, mutta ne voi pestä pois. Näytät uitetulta koiralta, mutta kukaan ei ole katsomassa. Ja vaikka olisikin, mitä sitten? Usein juuri surkeat kelit houkuttelivat minut juoksemaan. Kun pääsin kotiin, kävin lämpimässä suihkussa ja hyppäsin sohvalle nauttimaan kahvista, olo oli aivan mahtava. Olin saavuttanut jotain. Tehnyt jotain, mitä moni muu ei tee.
 
-![Jaloissa olevat juoksukengät. Juoksija seisoo märässä kurassa.](cover.jpg "Keli ei tänään ollut paras mahdollinen. Siksi se oli täydellinen juoksemiseen.")
+{{<cover>}}
 
 ### Arjen haasteet
 Kun omaksuin juoksemisen opettamia taitoja, tajusin niiden kantavan juoksemisen ulkopuolelle. Huomasin, että niistä oli itse asiassa enemmän hyötyä juoksemisen ulkopuolella, arjessa.

@@ -9,7 +9,9 @@ aiheet:
 resources:
     - name: cover
       src: cover.jpg
-      title: ""
+      title: "Kuvaruutukaappaus oman pastebinin käyttöliittymästä."
+      params:
+        caption: "Oman pastebinin verrattain simppeli käyttöliittymä."
 ---
 Innostuin taas korvaamaan yhden käyttämistäni palveluista itse tehdyllä ja itse hostattavalla ratkaisulla. Tällä kertaa leikkuri kohdistui Pastebin.comiin.
 
@@ -19,7 +21,7 @@ Kaikessa yksinkertaisuudessaan [Pastebin.com](https://pastebin.com/) on palvelu,
 
 Olen kuitenkin suuresti pitänyt siitä, sillä se on aivan täydellinen satunnaisten muistiinpanojen kirjoittamiseen. Minullahan on myös Obsidian, josta olen [kirjoitellut]({{< ref "/blogi/2024/2024-01-14-obsidian-ja-ajatusten-dokumentointi" >}}) [aikaisemminkin]({{< ref "/blogi/2024/2024-05-29-paperinen-paivakirja-digitaaliseksi" >}}). Obsidianissa on kuitenkin se ongelma, että sen järkevä käyttäminen vaatii Obsidian-sovelluksen. Lisäksi en halua avata siellä olevia dokumentteja ulkomaailmaan, enkä missään tapauksessa halua edes vahingossa jakaa näitä muistiinpanoja muille. Pastebin on tähän pieneen tarpeeseen hyvä ratkaisu.
 
-![Alt text](pastebin.jpg "Pastebin.comin käyttöliittymä. Julkisten dokumenttien lista kertoo siitä, kuinka palvelu on täyttynyt roskaa suoltavista boteista.")
+![Kuvaruutukaappaus pastebin.comin käyttöliittymästä](pastebin.jpg "Pastebin.comin käyttöliittymä. Julkisten dokumenttien lista kertoo siitä, kuinka palvelu on täyttynyt roskaa suoltavista boteista.")
 
 Pastebinissa on kuitenkin tuttu ongelma: en omista siellä olevia tietoja. Palvelun käyttöehdot ovat kyllä asialliset, mutta niin pitkään kun kaikki sijaitsee ulkopuolisessa palvelussa, minulla ei ole tuottamaani sisältöön hirvittävästi kontrollia.
 
@@ -35,7 +37,7 @@ Sovellus ei vaadi erillisiä tietokantoja, siinä ei ole käyttäjähallintaa, s
 2) Yksittäisiä dokumentteja voi laittaa julkiseksi, jolloin niitä pääsee lukemaan ilman salasanaa
 3) Tekstieditori osaa värittää tiettyjen tiedostomuotojen sisällöt
 
-![Alt text](cover.jpg "Oman pastebinin verrattain simppeli käyttöliittymä.")
+{{<cover>}}
 
 Sovellus on toteutettu [Go-ohjelmointikielellä](https://go.dev/), joka on tämän hetken suosikkini. Kaikki dokumentit tallennetaan yhteen tiedostoon, joka on [YAML](https://fi.wikipedia.org/wiki/YAML)-muotoinen. Tämä mahdollistaa sen, että dokumentit on helppo varmuuskopioida. Lisäksi YAML-tiedostoja voi lukea millä tahansa tekstieditorilla ja voin helposti hyödyntää samaa YAML-tiedostoa jossain toisessa sovelluksessa.
 

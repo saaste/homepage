@@ -12,6 +12,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Puinen vene, jonka kyydissä on indonesialaisia ihmisiä. Veen maalipinta on kulahtanut ja sen lattialla on vesipulloja, leluja ja muita matkustajien tavaroita.
+      params:
+        caption: "Indonesiassa saarten välillä liikkuminen voi tapahtua puisella, elämää nähneellä veneellä. Veneillä liikutellaan paitsi ihmisiä niin myös heidän tavaroitaan. Matkalla aikaa tapetaan muun muassa korttia pelaamalla."
 ---
 
 Monille matkustaminen ja lomailu on sitä, että paetaan raskasta arkea tai ankeaa työtä johonkin helppoon ympäristöön. Lomalla öllötetään resortissa tai hiekkarannalla kaksi viikkoa ja palataan takaisin arkeen enemmän tai vähemmän levänneenä. Tässä ei ole tietenkään mitään vikaa, jos se palvelee tarkoitustaan. Tällainen matkailu ei kuitenkaan ole ihan sitä, jota itse kaipaan. Kaipaan seikkailua.
@@ -20,7 +22,7 @@ Monille matkustaminen ja lomailu on sitä, että paetaan raskasta arkea tai anke
 
 Tämä seikkailun tarve avautui minulle taannoin terapiassa. Juteltiin terapeutin kanssa huonoista hetkistä, jossa minulla on ollut hyvä olla. Juteltiin myös siitä, että mitä kaikkea kuuluu niihin perustarpeisiin, joiden päälle oma hyvinvointi rakentuu. Muistelin niitä hetkiä kun bussi on ollut myöhässä useita tuntia ja lopulta jättänyt minut 20 km päähän määränpäästä täysin minulle vieraaseen paikkaan keskellä yötä. Terapeutti kysyi, että mitä minä tuollaisissa tilanteissa yleensä teen. Vastasin, että pistän rinkan maahan ja istun perseelleni.
 
-![Puinen vene, jonka kyydissä on indonesialaisia ihmisiä. Veen maalipinta on kulahtanut ja sen lattialla on vesipulloja, leluja ja muita matkustajien tavaroita.](cover.jpg "Indonesiassa saarten välillä liikkuminen voi tapahtua puisella, elämää nähneellä veneellä. Veneillä liikutellaan paitsi ihmisiä niin myös heidän tavaroitaan. Matkalla aikaa tapetaan muun muassa korttia pelaamalla.")
+{{<cover>}}
 
 Mitä enemmän asiasta juteltiin, sitä selvemmäksi kävi, että pienet haasteet, riskit, yllätykset ja vastoinkäymiset ovat minulle voima, jolla on uskomattoman energisoiva ja eheyttävä vaikutus. Se on jotain sellaista, jota on hirvittävän vaikea kokea tutussa kotiympäristössä ja rutiinien täyttämässä arjessa.
 

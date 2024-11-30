@@ -15,7 +15,7 @@ Olin ajatellut, etten kiusaisi itseäni soulslike-peleillä enää tämän vuode
 
 <!--more-->
 
-![Pelin kansikuva, jossa on ihmismäisen apinan kasvot. Apina on sulkenut silmänsä. Apinan vieressä lukee pelin nimi englanniksi ja kiinaksi.](cover.jpg)
+{{<cover>}}
 
 ### Soulslike
 Black Myth: Wukon (BMW) on [soulslike](https://fi.wikipedia.org/wiki/Soulslike)-peli. Peligenren pelit vaativat aina omanlaisensa asennoitumisen.

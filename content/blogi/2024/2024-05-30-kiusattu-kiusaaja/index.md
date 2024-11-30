@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Piirros Bully-pelistä. Kalju päähenkilö Jimmy on vasemmalla. Hänen oikealla puolella kuiskailee pelin pahis Gary."
+      params:
+        caption: "Rockstar julkaisi vuonna 2006 Bully-pelin, jonka teemana on koulukiusaaminen."
 ---
 Luin eilen [Marianna Saartio-Itkosen](https://suomi.social/@collectiveevil) artikkelin [koulukiusaamisesta](https://teologia.fi/2024/05/onko-koulukiusaaminen-banaalia-valineellista-vai-sadistista-pahuutta/). Hienosti kirjoitettu teksti sai ajattelemaan omaa lapsuuttani ja kiusaamista yleisesti.
 
@@ -18,7 +20,7 @@ Luin eilen [Marianna Saartio-Itkosen](https://suomi.social/@collectiveevil) arti
 
 Olen ollut lapsena sekä kiusattu että kiusaaja. Kiusaamisen luokittelu on tietenkin hieman kyseenalaista, mutta ajattelen, olin kummassakin tapauksessa sieltä lievimmästä päästä. Mikä sitten teki ala-asteikäisestä minusta kiusaajan?
 
-![Piirros Bully-pelistä. Kalju päähenkilö Jimmy on vasemmalla. Hänen oikealla puolella kuiskailee pelin pahis Gary.](cover.jpg "Rockstar julkaisi vuonna 2006 Bully-pelin, jonka teemana on koulukiusaaminen.")
+{{<cover>}}
 
 ### Kiusaaja
 

@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Robin Sharma pastellin turkoosissa huoneessa. Hänen edessään on telineessä oleva mikrofoni. Yllään Robinilla on harmaa lippis, harmaat liivit sekä niiden alla musta t-paita. Hänen taustalla on kirjahylly ja edessä olevalla pöydällä mukeja sekä hänen kirjoittamansa kirja."
+      params:
+        caption: "Robin Sharma haastateltavana Feel Better, Live More -podcastissa."
 ---
 Tein tällä viikolla 43 kilometrin juoksuseikkailun ja kuuntelin matkalla podcast-jakson, jossa käsiteltiin kahdeksaa vaurautta, joita rahalla ei voi ostaa. Aloin miettiä, kuinka nämä rikkaudet toteutuvat omassa elämässäni.
 
@@ -17,7 +19,7 @@ Tein tällä viikolla 43 kilometrin juoksuseikkailun ja kuuntelin matkalla podca
 
 Kysymyksessä oli [Feel Better, Live More](https://drchatterjee.com/blog/category/podcast/) -podcastin jakso, jossa [haastateltiin Robin Sharmaa](https://drchatterjee.com/8-hidden-habits-to-live-your-healthiest-happiest-and-most-fulfilled-life-with-robin-sharma/). Hän on julkaissut kirjan [The Wealth Money Can't Buy: The Hidden 8 Habits to Live Your Richest Life](https://thewealthmoneycantbuy.net/). Jaksossa oli paljon ajatuksia herättävää sekä inspiroivaa keskustelua. Suosittelenkin lämpimästi sen kuuntelua.
 
-![Robin Sharma pastellin turkoosissa huoneessa. Hänen edessään on telineessä oleva mikrofoni. Yllään Robinilla on harmaa lippis, harmaat liivit sekä niiden alla musta t-paita. Hänen taustalla on kirjahylly ja edessä olevalla pöydällä mukeja sekä hänen kirjoittamansa kirja.](cover.jpg "Robin Sharma haastateltavana Feel Better, Live More -podcastissa.")
+{{<cover>}}
 
 ### 1. Kehittyminen (Growth)
 Uuden oppiminen on aina tuonut minulla suurta iloa elämään. Olipa kysymys tiedonmurusesta tai uudesta taidosta, oppinen on paitsi prosessina, niin myös lopputuloksena äärimmäisen rikastuttavaa. Jostain syystä en ole koskaan malttanut pysähtyä tiettyyn tasoon ja tyytyä tekemään sitä mitä osaan. Oppiminen on itselleni sisäinen tarve, joka ei tarvitse toimiakseen ulkoista polttoainetta. Siinä on lapsenomaista riemua, jota harvoin löytää muualta.

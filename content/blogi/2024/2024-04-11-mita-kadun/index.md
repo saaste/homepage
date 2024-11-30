@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Mustavalkoinen muotokuva vanhasta kodittomasta miehestä, joka tuijottaa suoraan kameraan. Miehellä on pitkä vaalea parta ja hiukset.
+      params:
+        caption: "Kuvittele, että saisit kuulla kuolevasi viikon sisällä? Tai kuvittele itsesi 90-vuotiaaksi. Mitä sinä katuisit? Kuva: Rodrigo Butta"
 ---
 
 Kuuntelin eilen juoksulenkillä [Feel Better Live More](https://www.youtube.com/watch?v=QMdkgpCvZws) -podcastin jakson, jossa keskusteltiin Bronnie Waren kirjoittamasta [The Five Regrets of the Dying](https://bronnieware.com/regrets-of-the-dying/) -kirjasta. Jakso herätti paljon ajatuksia ja aloin miettiä, että mitä itse kadun elämässäni.
@@ -20,7 +22,7 @@ Olen aina kokenut kuolevien ihmisten katumiset kiinnostavana aiheena. Niissä tu
 
 Aloin kuunnellessa miettiä, että jos saisin nyt kuulla kuolevani, mitä katuisin elämässäni? Minkälaisen elämänohjeen itse antaisin heille, jotka jatkavat elämäänsä?
 
-![Mustavalkoinen muotokuva vanhasta kodittomasta miehestä, joka tuijottaa suoraan kameraan. Miehellä on pitkä vaalea parta ja hiukset.](cover.jpg "Kuvittele, että saisit kuulla kuolevasi viikon sisällä? Tai kuvittele itsesi 90-vuotiaaksi. Mitä sinä katuisit? Kuva: Rodrigo Butta")
+{{<cover>}}
 
 ### Ajatuksia kuolemasta
 

@@ -12,12 +12,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Suuri tapahtumatila, jossa on satoja ihmisiä juhlimassa tiiviisti pöytien ääressä. Osa ihmisistä nostaa ilmaan suuria oluttuoppeja."
+      params:
+        caption: "Pfaffenhoffenin olutfestivaalit Saksassa, jonne päädyimme majapaikan työntekijän vinkistä."
 ---
 Käytin joskus [Lonely Planetin](https://www.lonelyplanet.com/) matkaoppaita seikkailujen suunnitteluun. Huomasin kuitenkin, että nojaamalla turhan paljon kirjoihin, seikkailu ei enää tuntunutkaan omalta. Tuore interrail-matka sai pohtimaan, että miksi annamme toisen mielipiteille ja suosituksille niin paljon painoarvoa?
 
 <!--more-->
 
-![Suuri tapahtumatila, jossa on satoja ihmisiä juhlimassa tiiviisti pöytien ääressä. Osa ihmisistä nostaa ilmaan suuria oluttuoppeja.](cover.jpg "Pfaffenhoffenin olutfestivaalit Saksassa, jonne päädyimme majapaikan työntekijän vinkistä.")
+{{<cover>}}
 
 ### Matkaoppaat ohjaavat turisteja ja palveluiden menestystä
 

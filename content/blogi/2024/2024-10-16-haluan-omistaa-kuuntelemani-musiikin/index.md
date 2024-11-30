@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Kuvaruutukaappaus Navidromen web-käyttöliittymästä. Iso osa tilasta on varattu albumilistalle. Vasemmalla on navigointipalkki, jossa musiikkia voi listata eri tavoin. Alalaidassa näkyy kontrollit juuri nyt soitossa olevan musiikin hallintaan."
+      params:
+        caption: "Navidromen web-käyttöliittymä"
 ---
 Olen käyttänyt Spotifyta vuosikaudet, mutta kasvava tyytymättömyys on ajanut minua takaisin vanhaan aikaan.
 
@@ -37,7 +39,7 @@ Halusin palata takaisin digitaalisten tiedostojen maailmaan. En kuitenkaan kaiva
 
 Navidrome on ilmainen, avoimen lähdekoodin sovellus musiikin striimaamiseen. Se tarjoaa kätevän web-käyttöliittymän, jolloin musiikin kuuntelemiseen riittää pelkkä selain. Tätä käytän kuunnellessani musiikkia tietokoneella.
 
-![Kuvaruutukaappaus Navidromen web-käyttöliittymästä. Iso osa tilasta on varattu albumilistalle. Vasemmalla on navigointipalkki, jossa musiikkia voi listata eri tavoin. Alalaidassa näkyy kontrollit juuri nyt soitossa olevan musiikin hallintaan.](cover.jpg "Navidromen web-käyttöliittymä")
+{{<cover>}}
 
 [Subsonic](https://www.subsonic.org) on vastaavanlainen sovellus, mutta suljettu ja lisäominaisuudet vaativat maksullisen tilauksen. Tästä huolimatta heidän kehittämästään Subsonic API:sta on muodostunut jonkinlainen standardirajapinta, joka lähti elämään omaa avoimempaa elämäänsä [OpenSubsonic API:n](https://opensubsonic.netlify.app/) muodossa. Kyseessä on siis ohjelmointirajapinta, joka mahdollistaa sen, että kuka tahansa voi tehdä sovelluksia, jotka osaavat striimata musiikkia rajapintaa tukevista palveluista. Myös Navidrome [tukee](https://www.navidrome.org/docs/developers/subsonic-api/) OpenSubsonic-rajapintaa.
 

@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Työpöytä, jossa on näyttö, hiiri, näppäimistö sekä kaiutin. Hiiri ja näppäimistö ovat langattomat. Vasemmalla pöydän takana kulkee yksi johto, joka on kytketty läppäriin."
+      params:
+        caption: "Nykyinen työpiste on johdoista lähes täysin vapaa. Aikaisemmin pöytätilaa vienyt pöytäkonekin on nyt poissa. Läppärit sijaitsevat vieressä olevassa hyllyssä, jonne menee vain yksi johto."
 ---
 Kirjoittelin kesäkuussa turhautumisestani liittyen valokuvien pyörittelyyn Linuxissa. Sain turhautumisen ratkaistua, mutta minkälaiseen ratkaisuun päädyin?
 
@@ -48,7 +50,7 @@ Lopputulos on se, että läppäristäni lähtee nyt tasan yksi USB-C -johto. Lä
 
 Hetken aikaa vanha työpöytäkoneeni lojui pöydällä läppärin rinnalla. Siihen minun oli kytkettävä erillinen HDMI- sekä USB-kaapeli, koska vanhassa romussa ei ole USB-C-liitäntöjä. Näytössä olevan USB-kytkimen ansiosta pystyin valitsemaan suoraan näytöstä, kumpaako konetta käytän, eikä minun tarvinnut vaihdella johtoja. Kätevää!
 
-![Työpöytä, jossa on näyttö, hiiri, näppäimistö sekä kaiutin. Hiiri ja näppäimistö ovat langattomat. Vasemmalla pöydän takana kulkee yksi johto, joka on kytketty läppäriin.](cover.jpg "Nykyinen työpiste on johdoista lähes täysin vapaa. Aikaisemmin pöytätilaa vienyt pöytäkonekin on nyt poissa. Läppärit sijaitsevat vieressä olevassa hyllyssä, jonne menee vain yksi johto.")
+{{<cover>}}
 
 Nyt pöytäkone on varastossa, mutta minulla on edelleen oman läppärin lisäksi työläppäri. Totesin kuitenkin, että pidän yhden kaapelin tuomasta siisteydestä, enkä viritellyt työläppärille omia kaapeleita pöytäkoneen tapaan. Varsinkin, kun työläppäristä löytyy USB-C-portti.
 

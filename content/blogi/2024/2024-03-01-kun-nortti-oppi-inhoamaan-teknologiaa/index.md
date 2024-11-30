@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: Vanha mies istumassa vanhojen tietokoneiden, näppäistöjen, tulostimien ja monitorien keskellä
+      params:
+        caption: "Tämä voisin olla minä nuorempana, keskellä teknologia raatoja, projekteja. Yhtälailla se voisin olla minä nyt, katselemassa teknologista sälää, jonka olen heittänyt elämästäni kadulle. Kuva: Kamyar Adl"
 ---
 
 Olen ammatiltani ohjelmoija ja silti olen alkanut inhota teknologiaa. Pysähdyin miettimään, että missä kohtaa nörtistä tuli tällainen ja mitkä tätä muutosta selittävät.
@@ -22,7 +24,7 @@ Teknologia ja erityisesti tietokoneet ovat kiinnostaneet minua pienestä pitäen
 
 Koodaamisen lisäksi olen nuorempana viettänyt paljon aikaa servereitä rakennellen. Vaikka olenkin rakentanut itse kaikki tietokoneeni, rautapuoli ei ole minua suuresti kiinnostanut. Tekemisen riemu on silti pitänyt minut kiinni erilaisissa härveleissä. Kotini on välillä muistuttanut kaatopaikkaa päällekkäin pinottujen tietokoneraatojen ja kuvaputkimonitorien valloittamana.
 
-![Vanha mies istumassa vanhojen tietokoneiden, näppäistöjen, tulostimien ja monitorien keskellä](cover.jpg "Tämä voisin olla minä nuorempana, keskellä teknologia raatoja, projekteja. Yhtälailla se voisin olla minä nyt, katselemassa teknologista sälää, jonka olen heittänyt elämästäni kadulle. Kuva: Kamyar Adl")
+{{<cover>}}
 
 ### Ratkaisuja olemattomiin ongelmiin
 

@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.png
       title: Kuvaruutukaappaus Obsidianin työpöytä- ja mobiilikäyttöliittymästä.
+      params:
+        caption: "Obsidian on suunniteltu ideoiden ja ajatusten dokumentointiin. Se on saatavilla kaikille yleisille käyttöjärjestelmille ja toimii sekä tietokoneella että puhelimessa."
 ---
 
 Pia [kirjoitti](https://mastodontti.fi/@PiaH/111731154747798879) Mastodonissa konseptista nimeltään [Digital Garden](https://maggieappleton.com/garden-history). Termi oli minulle uusi, joten selvitin mitä se tarkoittaa. Selvitellessä tajusin, että Digital Garden muistuttaa tapaa, jolla dokumentoin ajatuksiani. Se vaan tuo sen online-maailmaan.
@@ -25,7 +27,7 @@ Jos kerran aivot toimivat näin, miksi en dokumentoisi ajatuksiani samalla taval
 
 Mysteeri alkoi aueta, kun löysin [Obsidianin](https://obsidian.md/). Se on avoimen lähdekoodin sovellus muistiinpanojen tekemiseen. Obsidian on rakennettu tavalla, joka tukee ajatusten ja ideoiden dokumentointia. Sitä voi käyttää monella tavalla, ja mitä enemmän luin esimerkkejä muilta ihmisiltä, sitä selkeämmin oma tapani alkoi hahmottua.
 
-![Kuvaruutukaappaus Obsidianin työpöytä- ja mobiilikäyttöliittymästä.](cover.png "Obsidian on suunniteltu ideoiden ja ajatusten dokumentointiin. Se on saatavilla kaikille yleisille käyttöjärjestelmille ja toimii sekä tietokoneella että puhelimessa.")
+{{<cover>}}
 
 Isoin haaste oli kategorioista ja järjestelystä luopuminen. Kirjoitan ajatuksiani Obsidianiin käytännössä yhdessä tasossa. Minulla ei ole kansioita, tägejä tai kategorioita. Iso osa muistiinpanoista on hyvin pieniä. Ne keskittyvät yhtään asiaan tai ajatukseen, vaikka on joukossa jokunen vähän pidempikin kirjoitus. Esimerkiksi tarinoiden aihiot ovat tällaisia. Monet muistiinpanoista saattavat hautautua, mutta se ei haittaa. Jokaisen ajatuksen ja muistiinpanon ei tarvitse olla tärkeä tai hyödyllinen.
 

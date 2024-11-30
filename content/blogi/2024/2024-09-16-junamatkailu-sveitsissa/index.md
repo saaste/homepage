@@ -12,12 +12,14 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Vanhempi nainen ja nuorempi poika istuvat vastakkain Sveitsiläisessä junassa ja katselevat ikkunasta ulos. Vaunun ikkunat ovat suuret ja niiden takana kohoaa vuoristomaisema."
+      params:
+        caption: "Sveitsin junissa maisemat pitivät huolen siitä, ettei juuri muuta viihdettä kaivannut."
 ---
 Usein kuulee, että Alankomaat saa ihmiset näkemään pyöräilyn aivan uudessa valossa. Minusta tuntuu, että Sveitsi tekee saman junamatkailulle. Se teki sen ainakin minulle.
 
 <!--more-->
 
-![Vanhempi nainen ja nuorempi poika istuvat vastakkain Sveitsiläisessä junassa ja katselevat ikkunasta ulos. Vaunun ikkunat ovat suuret ja niiden takana kohoaa vuoristomaisema.](cover.jpg "Sveitsin junissa maisemat pitivät huolen siitä, ettei juuri muuta viihdettä kaivannut.")
+{{<cover>}}
 
 Sveitsissä junalla matkustaminen on mielen räjäyttävä kokemus, koska siellä junaliikenne on mietitty loppuun niin monella eri tasolla. Usein sanotaan, että liikenteessä iso osa ihmisistä haluaa vain päästä A:sta B:een ja he haluavat tehdä sen mahdollisimman helposti, mukavasti ja nopeasti. Sveitsi on pitänyt huolen siitä, että nämä kolme vaatimusta täyttyvät junalla liikkuessa.
 

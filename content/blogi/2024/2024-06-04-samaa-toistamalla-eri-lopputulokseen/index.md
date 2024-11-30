@@ -10,6 +10,8 @@ resources:
     - name: cover
       src: cover.jpg
       title: "Kadunvarsipysäköinti, jossa yhdessä ruudussa on auton muotoinen pyöräparkki. Parkki on vihreä muuten mustavalkoisessa kuvassa. Yhden auton ruutuun mahtuu helposti 10 polkupyörää."
+      params:
+        caption: "Pidän näistä pyörätelineistä, sillä ne alleviivaavat hienosti sitä, millaisia tilarohmuja autot ovat. Kuva: Janne Räkköläinen"
 ---
 Hulluutta on tehdä samaa asiaa uudelleen ja uudelleen, ja odottaa erilaista lopputulosta.
 
@@ -19,7 +21,7 @@ Olen seurannut useamman vuoden keskustelua kaupunkisuunnittelun ja erityisesti y
 
 Moneen kertaan vääräksi osoitetut ajatukset toistuvat ja jokainen todellisen maailman esimerkki, joka osoittaa vaihtoehtojen olevan parempia, kumotaan yksinkertaisesti toteamalla: "Ei toimisi täällä." Olen muutaman viime päivän aikana lukenut lehdistä tätä samaa horinaa ja tunnustan, että turhautumisen taso on melkoinen.
 
-![Kadunvarsipysäköinti, jossa yhdessä ruudussa on auton muotoinen pyöräparkki. Parkki on vihreä muuten mustavalkoisessa kuvassa. Yhden auton ruutuun mahtuu helposti 10 polkupyörää.](cover.jpg "Pidän näistä pyörätelineistä, sillä ne alleviivaavat hienosti sitä, millaisia tilarohmuja autot ovat. Kuva: Janne Räkköläinen")
+{{<cover>}}
 
 ### Suosio on optinen illuusio
 

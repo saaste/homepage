@@ -11,6 +11,8 @@ resources:
     - name: cover
       src: cover.png
       title: Merikilpikonna uiskentelemassa Indonesian koralliriutoilla
+      params:
+        caption: "Merikilpikonnat ovat yleinen näky Indonesian koralliriutoilla. Ne ovat hauskoja kuvauskohteita, koska konnien itseluottamus on sillä tasolla, ettei niitä voisi vähempää ihmisten väistely kiinnostaa."
 ---
 
 Suoritin ensimmäisen laitesukelluskurssin vuonna 2007. Sen jälkeen mielessä on pyörinyt toistuvasti ajatus Divemaster-kurssin suorittamisesta. Ongelmaksi on aina osoittautunut kurssin vaatima aika, mutta viime vuonna päätin selättää tämän haasteen.
@@ -21,7 +23,7 @@ Laitesukelluksesta tietämätön saattaa tässä kohtaa kysyä: *"Mikä ihmeen D
 
 Divemaster on laitesukelluksen ensimmäinen taso, joka mahdollistaa ammattimaisen sukeltamisen. Divemasterit toimivat sukelluskerhoilla sukellusoppaina sekä kurssien apukouluttajina. Käytännössä kaikki sukelluskerhot tarvitsevat henkilökuntaansa divemastereita juuri näistä syistä.
 
-![Merikilpikonna uiskentelemassa Indonesian koralliriutoilla](cover.png "Merikilpikonnat ovat yleinen näky Indonesian koralliriutoilla. Ne ovat hauskoja kuvauskohteita, koska konnien itseluottamus on sillä tasolla, ettei niitä voisi vähempää ihmisten väistely kiinnostaa.")
+{{<cover>}}
 
 Minulla on jo ammatti ja vakaa työ, joten teen Divemaster-kurssin lähinnä omaksi iloksi ja parantaakseni taitojani. Kurssi mahdollistaa kuitenkin sen, että jos joku päivä kyllästyn ohjelmointihommiin, niin voin vaihtaa maisemaa ja toimia sukellusoppaana jossain ihan toisessa maassa. B-suunnitelma on aina hyvä olla olemassa.
 

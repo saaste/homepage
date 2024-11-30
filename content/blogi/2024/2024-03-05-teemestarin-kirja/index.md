@@ -16,7 +16,7 @@ Tämän vuoden ensimmäiseksi oikeasti suomalaiseksi kirjaksi valikoitui Mastodo
 
 <!--more-->
 
-![Teemestarin kirjan kansi](cover.jpg)
+{{<cover>}}
 
 Kirjan tarina tapahtuu kaukana tulevaisuudessa. Meille tuttua maapalloa ei enää ole, sillä ilmastokatastrofin seurauksena merenpinta nousi ja piirsi mantereet uusiksi. Suomi on osa Uuden Qianin Skandinavian Unionia. Se on kuuma ja kuiva maa, jossa lumisateita ei ole saatu useaan sukupolveen ja vesisateetkin ovat harvinaisuutta. Tilalla ovat mustat hyönteisparvet sekä paarmat, joilta on suojauduttava aina ulkona.
 
