@@ -2,6 +2,10 @@
 title: "Muutosloki"
 ---
 
+### lauantai 30.11.2024
+- Kirjoitusten kansikuville generoidaan erilliset thumbnailit listanäkymää ja hakutuloksia varten
+- Hakunäkymä kirjoitettu kokonaan uusiksi
+
 ### perjantai 25.10.2024
 - Lisätty [periaatteet tekoälyn käyttöön]({{< ref "/ai/index.md" >}}) -sivu.
 
