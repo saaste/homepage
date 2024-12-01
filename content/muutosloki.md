@@ -3,6 +3,10 @@ title: "Muutosloki"
 lastmod: 2024-12-01T16:42:00+02:00
 ---
 
+### sunnuntai 1.12.2024
+- Alasivujen rakennetta muutettu
+- Lisätty leivänmurunavigointi
+
 ### lauantai 30.11.2024
 - Kirjoitusten kansikuville generoidaan erilliset thumbnailit listanäkymää ja hakutuloksia varten
 - Hakunäkymä kirjoitettu kokonaan uusiksi
