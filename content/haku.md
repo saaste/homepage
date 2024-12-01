@@ -1,4 +1,4 @@
 ---
 title: "Haku"
-layout: search
+type: haku
 ---

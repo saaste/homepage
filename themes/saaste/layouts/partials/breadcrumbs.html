@@ -1,0 +1,21 @@
+{{- $ancestors := after 0 .Ancestors.Reverse }}
+
+{{- with $ancestors -}}
+<nav class="breadcrumbs">
+    <ul>
+        {{- range . -}}
+            {{- $title := .Title -}}
+            {{- with .Params.breadcrumb_title -}}
+                {{- $title = . -}}
+            {{- end -}}
+            <li><a class="breadcrumb-item" href="{{ .RelPermalink }}">{{ $title }}</a></li>
+        {{- end -}}
+
+        {{- $title := $.Title -}}
+        {{- with $.Params.breadcrumb_title -}}
+            {{- $title = . -}}
+        {{- end -}}
+        <li><a class="breadcrumb-item" href="">{{ $title }}</a></li>
+    </ul>
+</nav>
+{{- end -}}

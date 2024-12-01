@@ -1,5 +1,6 @@
 ---
 title: "Kokoelmat"
+summary: "Lista erilaisista asioista, kuten lukemani kirjat, pelaamani pelit sekä omistamani lautapelit."
 ---
 
 ### Luetut kirjat

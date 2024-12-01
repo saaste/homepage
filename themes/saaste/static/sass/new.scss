@@ -628,6 +628,36 @@ table {
     }
 }
 
+.breadcrumbs {
+    margin-bottom: 1rem;
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        align-items: end;
+    }
+    li:not(:last-child)::after {
+        display: inline-block;
+        margin: 0 0.5rem;
+        content: "→";
+
+    }
+}
+
+.page-content {
+    padding-bottom: 2rem;
+}
+
+.subpage {
+    padding-bottom: 1rem;
+}
+
+.last-updated {
+    font-size: 0.8rem;
+}
+
 .hidden {
     display: none;
 }

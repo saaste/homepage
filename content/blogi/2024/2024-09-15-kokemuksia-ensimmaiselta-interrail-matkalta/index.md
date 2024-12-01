@@ -79,7 +79,7 @@ Itselleni junamatkojen parasta antia olivat mahdollisuus omaan puuhasteluun sek�
 
 Matkan ikävin kokemus oli odotetusti Tukholmaan menevä ja sieltä lähtevä lautta. Sen lisäksi, että se oli tylsä kokemus ja teki matkan tekemisestä ärsyttävän kömpelöä sekä hidasta, se [ei välttämättä ole erityisen ekologistakaan](https://yle.fi/a/3-11226019). Harmillisesti Suomi on täällä Pohjolan perukoilla, joten jos täältä haluaa Keski-Eurooppaan, vaihtoehtoja ei kauheasti ole. Meidän matkasta neljä päivää meni siihen, että pääsimme Helsingistä Hampuriin ja takaisin. Sen saman matkan pääsisi lentämällä neljässä tunnissa, joten en ihmettele, että monet reilaajat lentävät ensin Keski-Eurooppaan ja aloittavat junamatkansa sieltä.
 
-Matka nosti joitakin ajatuksia, joista yritän kirjoittaa ihan kokonaan erilliset jutut. Lisäsin kuitenkin blogiin jo nyt kirjoitussarjoille, jotta samaan kokonaisuuteen liittyvät jutut olisi helppo löytää. Muista kirjoituksia odotellessa voit käydä vilkaisemassa päivitetyn [Interrail 2024]({{< ref "/matkat/interrail-2024" >}}) -sivun, jonne olen koostanut tarkempia tietoja reitistä, majoituksista, budjetista ja matkatavaroista.
+Matka nosti joitakin ajatuksia, joista yritän kirjoittaa ihan kokonaan erilliset jutut. Lisäsin kuitenkin blogiin jo nyt kirjoitussarjoille, jotta samaan kokonaisuuteen liittyvät jutut olisi helppo löytää. Muista kirjoituksia odotellessa voit käydä vilkaisemassa päivitetyn [Interrail 2024]({{< ref "/muuta/matkat/interrail-2024" >}}) -sivun, jonne olen koostanut tarkempia tietoja reitistä, majoituksista, budjetista ja matkatavaroista.
 
 
 

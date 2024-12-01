@@ -14,7 +14,7 @@ resources:
         caption: "Fred Luskin on opettanut Standordin yliopistossa yli 30 vuoden ajan. Hän on tutkinut erityisesti anteeksiantoa ja sen vaikutusta ihmisen hyvinvointiin. Kuva on Feel Better, Live More -jaksosta."
 ---
 
-Aurinkoisen päivän kunniaksi kävin juoksemassa [puolimaratonin]({{< ref "/juokseminen" >}}). Sen aikana kuuntelin [Feel Better, Live More -podcastin jakson](https://drchatterjee.com/a-proven-prescription-for-health-and-happiness-why-being-able-to-forgive-improves-your-physical-mental-wellbeing-with-dr-fred-luskin/), jossa käsiteltiin sitä, kuinka kyky antaa anteeksi parantaa henkistä ja fyysistä hyvinvointia.
+Aurinkoisen päivän kunniaksi kävin juoksemassa [puolimaratonin]({{< ref "/muuta/juokseminen" >}}). Sen aikana kuuntelin [Feel Better, Live More -podcastin jakson](https://drchatterjee.com/a-proven-prescription-for-health-and-happiness-why-being-able-to-forgive-improves-your-physical-mental-wellbeing-with-dr-fred-luskin/), jossa käsiteltiin sitä, kuinka kyky antaa anteeksi parantaa henkistä ja fyysistä hyvinvointia.
 
 Huomasin jaksoa kuunnellessa, että olin samaa mieltä lähes kaikesta, mutta samalla monet ajatuksista törmäsivät yhden persoonallisuuteni piirteen kanssa: liialliseen haluun miellyttää muita.
 

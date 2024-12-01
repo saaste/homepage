@@ -1,5 +1,7 @@
 ---
 title: "Interrail 2024"
+summary: "Kolmen viikon Interrail-matka 22.8. - 14.9.2024, jonka aikana kuljimme junilla Ruotsin, Tanskan, Saksan, Sveitsin, Liechesteinin, Itävallan ja Tšekin läpi."
+lastmod: 2024-12-01T16:58:00+02:00
 ---
 
 Tein puolisoni kanssa Interrail-seikkailun **22.8. - 14.9.2024**. Matkan kesto oli **kolme viikkoa**. Sinä aikana matkustimme **4793 kilometriä**. Reitille mahtui **38 junaa** ja **7 maata**: Ruotsi, Tanska, Saksa, Sveitsi, Liechenstein, Itävalta sekä Tšekki. Junassa tuli vietettyä aikaa yhteensä **2 päivää, 12 tuntia ja 13 minuuttia**.

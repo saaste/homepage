@@ -1,5 +1,6 @@
 ---
 title: "Juokseminen"
+summary: "Olen harrastanut juoksemista vaihtelevasti useamman vuoden ajan ja pidän erityisesti pitkän matkan juoksuista."
 ---
 
 En ole koskaan kokenut olevani juoksija. Yritin tehdä itsestäni sellaista vuoden 2013-2014 tienoilla, mutta ei siitä oikein mitään tullut. Onnistuin taistelemaan tieni puolimaratonin läpi, mutta mukavaa se ei ollut. Noihin aikoihin minua riivasivat toistuvat polvikivut. Useimmat juoksut jäivät kolmeen kilometriin kovien polvikupujen myötä ja sen seurauksena into koko touhuun kuoli pois.

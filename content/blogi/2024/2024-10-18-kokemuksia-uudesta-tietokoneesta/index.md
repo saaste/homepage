@@ -62,7 +62,7 @@ Sielu lepää, kun oma työpiste on vapaa johdoista ja näyttää siistiltä.
 
 ### Matka yllätti
 
-Yksi MacBook Airin tuomista yllätyksistä syntyi sen keveydestä. Kun suunnittelin [interrail-matkaa]({{< ref "/matkat/interrail-2024/" >}}), harkitsin lähteväni sinne ilman läppäriä. Painavan ja tilaa vievän läppärin roudaaminen on aina tuntunut ärsyttävältä pakolliselta pahalta. MacBook Air muutti tilanteen täysin.
+Yksi MacBook Airin tuomista yllätyksistä syntyi sen keveydestä. Kun suunnittelin [interrail-matkaa]({{< ref "/muuta/matkat/interrail-2024/" >}}), harkitsin lähteväni sinne ilman läppäriä. Painavan ja tilaa vievän läppärin roudaaminen on aina tuntunut ärsyttävältä pakolliselta pahalta. MacBook Air muutti tilanteen täysin.
 
 Se on niin käsittämättömän pieni ja kevyt, ettei minulla ollut lopulta mitään syytä jättää sitä kotiin. Koska sitä voi ladata USB-C-portin kautta, minun ei tarvinnut kuljettaa erillisiä Apple-latureita mukana. Pystyin käyttämään samaa laturia, jolla latasin kännykkääni. Ajattelin ennen matkaa, että katuisin läppärin raahaamista, mutta kävi juuri päinvastoin. Uusi läppäri näyttäytyi entistä kirkkaammassa valossa.
 

@@ -13,7 +13,7 @@ resources:
       params:
         caption: "Ospray Fairview 55L -matkailurinkka, jollainen tuli puolisoni käyttöön. Värikin on sama. Itselleni tuli saman kokoinen Farpoint-malli harmaana."
 ---
-Olemme kuluneiden viikkojen aikana metsästäneet tulevalle [interrail-matkalle]({{< ref "/matkat/interrail-2024" >}}) sopivia rinkkoja. Arpominen loppui tänään, sillä kävimme hakemassa uudet reput sekä minulle, että puolisolle.
+Olemme kuluneiden viikkojen aikana metsästäneet tulevalle [interrail-matkalle]({{< ref "/muuta/matkat/interrail-2024" >}}) sopivia rinkkoja. Arpominen loppui tänään, sillä kävimme hakemassa uudet reput sekä minulle, että puolisolle.
 
 <!--more-->
 

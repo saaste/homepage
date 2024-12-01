@@ -8,7 +8,6 @@ title: "saaste.net"
 pluralizelisttitles: false
 titleCaseStyle: firstupper
 
-
 languages:
   fi:
     languageCode: fi
@@ -34,19 +33,21 @@ menus:
         url: "/haku/"
         weight: 5
 
-    top:
+    bottom:
       - name: "Mastodon"
         url: "https://mementomori.social/@saaste"
         weight: 1
-        pre: '<img src="/images/mastodon.svg" class="top-navigation-icon" alt="Mastodon icon">'
       - name: "Tilaa"
         url: "/tilaa"
         weight: 2
-        pre: '<img src="/images/feed.png" class="top-navigation-icon" alt="Feed icon">'
+      - name: "Muutosloki"
+        url: "/muutosloki"
+        weight: 3
 
 taxonomies:
-    aiheet: "aiheet"
-    sarjat: "sarjat"
+  aiheet: "aiheet"
+  sarjat: "sarjat"
 
 pagination:
   pageSize: 10
+

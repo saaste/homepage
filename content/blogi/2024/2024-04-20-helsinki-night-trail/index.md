@@ -49,4 +49,4 @@ Palautumisen kannalta tämä ei ole yleensä hyvä asia. Omalla kohdalla kierrok
 
 Vaikka en nilkkaani onnistunutkaan nyrjäyttämään, tasapainoilu kävi silti nilkan päälle sen verran, että taidan antaa sille lepoa ja pitää seuraavan viikon vapaana juoksemisesta. Voinpahan käydä vähän useammin vaikka kuntosalilla.
 
-ps. Lisäsin kotisivuille erillisen [juoksusivun]({{< ref "/juokseminen" >}}), jonne listasin kaikki juoksemani puolimaratonit ja sitä pidemmät matkat.
+ps. Lisäsin kotisivuille erillisen [juoksusivun]({{< ref "/muuta/juokseminen" >}}), jonne listasin kaikki juoksemani puolimaratonit ja sitä pidemmät matkat.

@@ -1,12 +1,13 @@
 ---
 title: "Muutosloki"
+lastmod: 2024-12-01T16:42:00+02:00
 ---
 
 ### lauantai 30.11.2024
 - Kirjoitusten kansikuville generoidaan erilliset thumbnailit listanäkymää ja hakutuloksia varten
 - Hakunäkymä kirjoitettu kokonaan uusiksi
-- Lisätty erillinen [ohjelmointisivu]({{< ref "/ohjelmointi" >}}) ja siirretty ohjelmointiprojektit sen alle
-- Lisätty [Advent of Code 2024]({{< ref "/ohjelmointi/advent-of-code-2024" >}}) -sivu.
+- Lisätty erillinen [ohjelmointisivu]({{< ref "/muuta/ohjelmointi" >}}) ja siirretty ohjelmointiprojektit sen alle
+- Lisätty [Advent of Code 2024]({{< ref "/muuta/ohjelmointi/advent-of-code-2024" >}}) -sivu.
 
 ### perjantai 25.10.2024
 - Lisätty [periaatteet tekoälyn käyttöön]({{< ref "/ai/index.md" >}}) -sivu.
@@ -15,7 +16,7 @@ title: "Muutosloki"
 - Lisätty [nyt]({{< ref "/nyt" >}})-sivulle kuunneltujen artistien määrä
 
 ### maanantai 5.8.2024
-- Lisätty [pelilista]({{< ref "/pelilista" >}})
+- Lisätty [pelilista]({{< ref "/muuta/toivelista" >}})
 
 ### torstai 27.6.2024
 - Lisätty blogiin vuosilukuarkisto. Näitä ei kylläkään ole linkitetty mihinkään.
@@ -54,7 +55,7 @@ title: "Muutosloki"
 - [Hakusivun]({{< ref "/haku" >}}) hakukenttään lisätty autofocus
 
 ### sunnuntai 28.4.2024
-- [Matkat]({{< ref "/matkat" >}})-sivu lisätty
+- [Matkat]({{< ref "/muuta/matkat" >}})-sivu lisätty
 
 ### perjantai 26.4.2024
 - [Nyt]({{< ref "/nyt" >}})-sivulle lisätty top-10 -artistit. Tiedot tulevat [ListenBrainzista](https://listenbrainz.org)
@@ -64,7 +65,7 @@ title: "Muutosloki"
 - Blogikirjoituksiin lisätty sopivan kokoiset kuvat [OpenGraph](https://ogp.me/)-esikatselua varten
 
 ### lauantai 20.4.2024
-- [Juoksusivu]({{< ref "/juokseminen" >}}) lisätty
+- [Juoksusivu]({{< ref "/muuta/juokseminen" >}}) lisätty
 
 ### maanantai 17.4.2024
 - Kotisivut julkaistu

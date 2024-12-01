@@ -1,6 +1,6 @@
 {{- define "main" -}}
-
 <section class="list-page-container">
+    {{- partial "breadcrumbs.html" . -}}
     <h2 class="page-title">{{ .Title }}</h2>
 
     {{- $paginator := .Paginate ( .RegularPagesRecursive.ByPublishDate.Reverse ) -}}

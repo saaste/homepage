@@ -62,7 +62,7 @@ Kokonaan avautuvasta etuläpästä huolimatta rinkkaa pystyi silti käyttämää
 ### Matkatavarat
 En ymmärrä ihmisiä, jotka pakkaavat kahden viikon matkalle viisi matkalaukullista tavaraa. Oma periaatteeni matkatavaroihin on se, että pakkaan mukaan vain välttämättömimmät ja muutan omaa toimintaani niin, että pärjään niillä. Välttämättömyys on tietenkin hyvin subjektiivista. Itselleni tämä on ollut vuosien prosessi, jonka aikana matkatavaroiden määrä on koko ajan vähentynyt.
 
-Mitä sitten pakkasin mukaan? Interrail 2024 -sivulta löytyy [tarkka matkatavaralista]({{< ref "/matkat/interrail-2024#matkatavarat" >}}), mutta avaan joitakin periaatteitani matkatavaroiden valintaan.
+Mitä sitten pakkasin mukaan? Interrail 2024 -sivulta löytyy [tarkka matkatavaralista]({{< ref "/muuta/matkat/interrail-2024#matkatavarat" >}}), mutta avaan joitakin periaatteitani matkatavaroiden valintaan.
 
 Mukanani kulkee yhdet vähän siistimmät vaatteet ja loput ovat tavallisia arkivaatteita. Siistit vaatteet tarkoittavat ihan tavallisia perussiistejä vaatteita, joilla kehtaa mennä esimerkiksi vähän siistimpään ravintolaan. Pukuja tai juhlavaatteita en kuljeta mukana.
 
@@ -80,7 +80,7 @@ Kuvauskalustoa on joskus ollut mukana niin paljon, että niille on ollut oma rep
 
 Mukana kulki myös irtokovalevy. Sen oli tarkoitus olla varmuuskopioita varten, mutta se pysyi koko matkan rinkassa. Kaikki reissun valokuvat mahtuivat muistikortille ja siirtelin ne iltaisin läppärin levylle. Minulla oli siis kahdet kopiot ja se riitti.
 
-Merkkasin [matkatavaralistaan]({{< ref "/matkat/interrail-2024#matkatavarat" >}}) tavarat, joita en käyttänyt matkan aikana. Niistä suurimmat olivat juoksutarvikkeet sekä mikrokuitupyyhe. Luonnollisesti juoksutarvikkeet eivät olleet mukana pakon takia vaan siksi, että halusin päästä juoksemaan Sveitsin upeissa vuoristomaisemissa. Ne kuitenkin jäivät käyttämättä sairastumisen takia. Olen kuljettanut omaa pyyhettä aikaisemmilla sukellusreissuilla, jotta en sotke majapaikan pyyhkeitä suolaveteen. Mukana kulkenut mikrokuitupyyhe oli kevyt ja vei vähän tilaa, mutta se oli silti täysin turha tälle reissulle.
+Merkkasin [matkatavaralistaan]({{< ref "/muuta/matkat/interrail-2024#matkatavarat" >}}) tavarat, joita en käyttänyt matkan aikana. Niistä suurimmat olivat juoksutarvikkeet sekä mikrokuitupyyhe. Luonnollisesti juoksutarvikkeet eivät olleet mukana pakon takia vaan siksi, että halusin päästä juoksemaan Sveitsin upeissa vuoristomaisemissa. Ne kuitenkin jäivät käyttämättä sairastumisen takia. Olen kuljettanut omaa pyyhettä aikaisemmilla sukellusreissuilla, jotta en sotke majapaikan pyyhkeitä suolaveteen. Mukana kulkenut mikrokuitupyyhe oli kevyt ja vei vähän tilaa, mutta se oli silti täysin turha tälle reissulle.
 
 
 ### Kevyt on vaivaton

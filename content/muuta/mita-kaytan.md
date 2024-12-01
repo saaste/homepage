@@ -1,5 +1,6 @@
 ---
 title: "Mitä käytän"
+summary: "Lista laitteista, sovelluksista ja härveleistä, joita käytän arjessa."
 ---
 
 ### Tietokoneet

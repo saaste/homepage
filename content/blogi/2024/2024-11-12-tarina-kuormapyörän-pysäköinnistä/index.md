@@ -84,7 +84,7 @@ Kevät ja kesä meni ongelmitta ja luulin, että taistelut olivat takana päin. 
 
 ### Toinen valitus
 
-Olimme puolisoni kanssa elo-syyskuussa [interrail-matkalla]({{< ref "/matkat/interrail-2024" >}}), kun sain yhteydenoton isännöitsijältä. Hän kertoi, että joku oli tehnyt uuden valituksen pyörästäni. En tiedä, oliko valittaja sama kuin aikaisemmin.
+Olimme puolisoni kanssa elo-syyskuussa [interrail-matkalla]({{< ref "/muuta/matkat/interrail-2024" >}}), kun sain yhteydenoton isännöitsijältä. Hän kertoi, että joku oli tehnyt uuden valituksen pyörästäni. En tiedä, oliko valittaja sama kuin aikaisemmin.
 
 Luulin, että yhtiöt olivat lyöneet asian lukkoon. En tiedä miten yksittäisillä valittajilla voi olla niin paljon valtaa, että he onnistuvat kääntämään kokonaisten yhtiöiden päätökset. Etenkin, kun huomioidaan, että kuormapyörästäni ei ole hallissa mitään haittaa. Muistutan myös siitä, että maksan pysäköintioikeudesta **samaa hintaa** kuin kaikki muutkin. Pysäköintiyhtiö ei siis edes menetä tuloja.
 
