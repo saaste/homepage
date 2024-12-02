@@ -1,6 +1,6 @@
 ---
 title: "Tietoa"
-lastmod: 2024-12-01T19:51:00+02:00
+lastmod: 2024-12-02T03:54:00+02:00
 ---
 
 ### Ylläpitäjä
@@ -8,6 +8,7 @@ lastmod: 2024-12-01T19:51:00+02:00
 * Harrastukset: video- ja lautapelit, juokseminen, kuntosali, lukeminen, matkailu, valokuvaus, laitesukellus
 * Kiinnostaa: ohjelmointi, [uusi urbanismi](https://fi.wikipedia.org/wiki/Uusi_urbanismi), yksityisyys, ympäristö
 * Persoonallisuus: [ISFJ-T](https://www.16personalities.com/isfj-personality)
+* Sosiaalinen media: [Fediverse/Mastodon](https://mementomori.social/@saaste)
 * Julkinen [PGP-avain](/files/pgp-public-key.txt)
 
 ### Sivut

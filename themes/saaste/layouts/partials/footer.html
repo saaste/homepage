@@ -1,18 +1,20 @@
 <a href="/ai">
-    <img src="{{ .Site.BaseURL }}images/badge-made-by-human.png" alt="Pieni Made by human -merkki, joka kertoo siitä, että sivujen sisältö on toteutettu ihmisen toimesta eikä tekoälyä ole käytetty." title="Periaatteet tekoälyn käyttöön" class="badge" width="88" height="31">
+    <img src="{{ .Site.BaseURL }}images/badge-made-by-human.png"
+         alt="Pieni Made by human -merkki, joka kertoo siitä, että sivujen sisältö on toteutettu ihmisen toimesta eikä tekoälyä ole käytetty."
+        title="Periaatteet tekoälyn käyttöön"
+        class="badge"
+        width="88"
+        height="31">
 </a>
-<p>
-    Copyright &#169; {{ now.Format "2006" }} saaste.net
-    
-    {{ range .Site.Menus.bottom }}
+<p class="copyright">Copyright &copy; {{ now.Format "2006" }} saaste.net</p>
+<nav>
+    <ul>
+        {{ range .Site.Menus.bottom }}
         {{ if strings.HasPrefix .URL "http" }}
-        ⋅ <a href="{{ .URL }}" target="_blank" rel="noopener">{{ .Name | safeHTML }}</a>
+        <li><a href="{{ .URL }}" target="_blank" rel="noopener">{{ .Name | safeHTML }}</a></li>
         {{ else }}
-        ⋅ <a href="{{ .URL }}">{{ .Name | safeHTML }}</a>
+        <li><a href="{{ .URL }}">{{ .Name | safeHTML }}</a></li>
         {{ end }}
-    {{ end }}
-
-    {{ if .Lastmod }}
-    <p class="last-updated">Tämän sivun sisältöä on päivitetty viimeksi <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05-0700" }}">{{ .Lastmod.Format "02.01.2006 kello 15:04" }}</time></p>
-    {{ end }}
-</p>
+    {{ end }}    
+    </ul>
+</nav>

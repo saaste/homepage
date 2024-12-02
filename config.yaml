@@ -34,9 +34,6 @@ menus:
         weight: 5
 
     bottom:
-      - name: "Mastodon"
-        url: "https://mementomori.social/@saaste"
-        weight: 1
       - name: "Tilaa"
         url: "/tilaa"
         weight: 2
