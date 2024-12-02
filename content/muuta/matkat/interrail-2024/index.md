@@ -18,6 +18,8 @@ Alla oleva reitti sisältää ainoastaan siirtymät paikasta toiseen. Teimme lis
 ### Majoitukset
 Majoitusten hinnat ovat koko yöpymisen ajalta per huone/hytti.
 
+{{<table>}}
+
 | Kaupunki                  | Majoitus                                                                                     | Öitä  |  Hinta     |
 | ------------------------- | -------------------------------------------------------------------------------------------- | ----- | ---------- |
 | Turku - Tukholma          | Yölautta, M/S Viking Grace                                                                   | 1     | 83,00 €    |
@@ -34,11 +36,13 @@ Majoitusten hinnat ovat koko yöpymisen ajalta per huone/hytti.
 | Kööpenhamina              | [Next House Copenhagen](https://www.booking.com/hotel/dk/next-house-copenhagen.html)         | 2     | 288,00 €   |
 | Tukholma - Helsinki       | Yölautta, M/S Viking Gabriella (sisältää premium-aamupalan)                                  | 1     | 113,50 €   |
 
+{{</table>}}
 
 
 ### Kustannukset
 Seurasimme matkan aikana kustannuksia [Splitwise](https://www.splitwise.com/) -sovelluksella. Alla listatut kustannukset ovat **kahdelta** henkilöltä yhteensä.
 
+{{<table>}}
 
 | Kategoria                         | Hinta         | Huomiot                                                                           |
 | --------------------------------- | ------------- | --------------------------------------------------------------------------------- |
@@ -50,6 +54,8 @@ Seurasimme matkan aikana kustannuksia [Splitwise](https://www.splitwise.com/) -s
 | Muut matkustuskulut               | 225,84 €      | Funikulaarit, risteilyt, erikoisjunat, lautat, tuolihissit                        |
 | Prepaid-liittymät                 | 43,00 €       | [Sunrisen](https://www.sunrise.ch/en/mobile/prepaid-visitors) liittymät Sveitsiin |
 | **YHTEENSÄ**                      | **7624,84 €** | **181,54 €/päivä/hlö**                                                            |
+
+{{</table>}}
 
 ### Matkatavarat
 Matkatavarat ovat isolta osin minun henkilökohtaisia tavaroita, mutta mukana on myös joitakin, jotka jaamme puolison kanssa. Kaikki listan tavarat kulkivat kuitenkin minun rinkkassa ja puolisolla oli omansa.

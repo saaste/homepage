@@ -1,7 +1,7 @@
 
 {{ $fileName := .Get "file" }}
 
-<div class="travel-schedule">
+<div class="travel-schedule table-wrapper">
 {{ with .Page.Resources.Get $fileName }}
     {{ with . | transform.Unmarshal }}
         {{ $data := . }}

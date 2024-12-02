@@ -7,7 +7,7 @@
         {{ $data := . }}
         {{ $categories := index $data "categories" }}
         {{ range $categories }}
-            <div class="packing-list-category">
+            <div class="packing-list-category table-wrapper">
                 {{ $category := index . "name" }}
                 {{ $items := index . "items" }}
                     <h4>{{ $category }}</h4>

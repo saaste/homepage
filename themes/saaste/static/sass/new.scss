@@ -200,7 +200,7 @@ table {
         border-left: var(--separator);
     }
 
-    td:last-of-type, tr:last-of-type {
+    td:last-of-type, th:last-of-type, tr:last-of-type {
         border-right: var(--separator);
     }
 
@@ -352,10 +352,12 @@ table {
     display: flex;
     flex-direction: column;
     padding: 1rem 0;
+    max-width: 100%;
 
     img {
         border-radius: 10px 10px 0 0;
         max-width: 100%;
+        height: auto;
     }
     figcaption {
         background: var(--color-post-meta-bg);
@@ -656,6 +658,11 @@ table {
 
 .last-updated {
     font-size: 0.8rem;
+}
+
+.table-wrapper {
+    max-width: calc(100vw - 2rem);
+    overflow-x: auto;
 }
 
 .hidden {
