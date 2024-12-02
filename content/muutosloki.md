@@ -1,7 +1,10 @@
 ---
 title: "Muutosloki"
-lastmod: 2024-12-01T20:07:00+02:00
+lastmod: 2024-12-02T20:36:00+02:00
 ---
+
+### maanantai 2.12.2024
+- Lisätty automaattinen Open Graph -kuvien generointi ([blogikirjoitus]({{< ref "/blogi/2024/2024-12-02-generoidut-open-graph-kuvat" >}})). 
 
 ### sunnuntai 1.12.2024
 - Alasivujen rakennetta muutettu
