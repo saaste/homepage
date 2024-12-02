@@ -1,17 +1,11 @@
 ---
 title: "Generoidut Open Graph -kuvat"
 description: "Jatkoin kotisivujen viilailua korjaamalla yhden toistuvista ärsytyksistä: Open Graph -kuvat."
-date: 2024-12-02T19:00:00+0200
+date: 2024-12-02T19:45:00+0200
 draft: false
 slug: generoidut-open-graph-kuvat
 aiheet:
     - tekniikka
-resources:
-    - name: cover
-      src: cover.jpg
-      title: ""
-      params:
-        caption: ""
 ---
 Jatkoin kotisivujen viilailua korjaamalla yhden toistuvista ärsytyksistä: Open Graph -kuvat.
 
