@@ -31,11 +31,18 @@
         <meta data-pagefind-meta="image_width[content]" content="{{ $thumbnail.Width }}" property="pagefind:width">
         <meta data-pagefind-meta="image_height[content]" content="{{ $thumbnail.Height }}" property="pagefind:height">
     {{ else }}
-        {{ $placeholder := resources.Get "thumbnail-placeholder.png" }}
-        <meta data-pagefind-meta="image[content]" content="{{ $placeholder.RelPermalink }}" property="pagefind:image">
-        <meta data-pagefind-meta="image_alt[content]" content="Sivuston teksti ja logo" property="pagefind:alt">
-        <meta data-pagefind-meta="image_width[content]" content="{{ $placeholder.Width }}" property="pagefind:width">
-        <meta data-pagefind-meta="image_height[content]" content="{{ $placeholder.Height }}" property="pagefind:height">
+        {{ $url := printf "https://opengraph.saaste.net/opengraph.png?title=%s" .Title }}
+        {{ with resources.GetRemote $url }}
+            {{ with .Err }}
+                {{ errorf "%s" . }}
+            {{ else }}
+                {{- $thumbnail := .Resize "250x jpg q50" -}}
+                <meta data-pagefind-meta="image[content]" content="{{ $thumbnail.RelPermalink }}" property="pagefind:image">
+                <meta data-pagefind-meta="image_alt[content]" content="Sivuston teksti ja logo" property="pagefind:alt">
+                <meta data-pagefind-meta="image_width[content]" content="{{ $thumbnail.Width }}" property="pagefind:width">
+                <meta data-pagefind-meta="image_height[content]" content="{{ $thumbnail.Height }}" property="pagefind:height">
+            {{ end }}
+        {{ end }}
     {{ end }}
 
     <meta data-pagefind-meta="page_type[content]" content="{{ .Type }}" property="pagefind:type">

@@ -48,3 +48,7 @@ taxonomies:
 pagination:
   pageSize: 10
 
+caches:
+  getresource:
+    dir: :resourceDir/_gen
+    maxAge: -1

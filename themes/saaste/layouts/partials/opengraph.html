@@ -33,11 +33,19 @@
   <meta property="og:type" content="website">
 {{- end }}
 
-{{- with partial "_funcs/get-page-images" . }}
-  {{- range . | first 6 }}
-    <meta property="og:image" content="{{ .Permalink }}">
-  {{- end }}
-{{- end }}
+{{ $cover := .Page.Resources.GetMatch "cover" }}
+{{ if $cover }}
+  <meta property="og:image" content="{{ $cover.RelPermalink }}">
+{{ else }}
+  {{ $url := printf "https://opengraph.saaste.net/opengraph.png?title=%s" .Page.Title }}
+  {{ with resources.GetRemote $url }}
+      {{ with .Err }}
+          {{ errorf "%s" . }}
+      {{ else }}
+        <meta property="og:image" content="{{ .RelPermalink }}">
+      {{ end }}
+  {{ end }}
+{{ end }}
 
 {{- with .Params.audio }}
   {{- range . | first 6  }}
