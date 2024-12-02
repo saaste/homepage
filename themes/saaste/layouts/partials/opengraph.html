@@ -35,14 +35,14 @@
 
 {{ $cover := .Page.Resources.GetMatch "cover" }}
 {{ if $cover }}
-  <meta property="og:image" content="{{ $cover.RelPermalink }}">
+  <meta property="og:image" content="{{ $cover.RelPermalink | absURL }}">
 {{ else }}
   {{ $url := printf "https://opengraph.saaste.net/opengraph.png?title=%s" .Page.Title }}
   {{ with resources.GetRemote $url }}
       {{ with .Err }}
           {{ errorf "%s" . }}
       {{ else }}
-        <meta property="og:image" content="{{ .RelPermalink }}">
+        <meta property="og:image" content="{{ .RelPermalink | absURL }}">
       {{ end }}
   {{ end }}
 {{ end }}
