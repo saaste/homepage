@@ -88,7 +88,6 @@ body {
     grid-area: content;
     display: grid;
     justify-items: center;
-    padding-top: 2rem;
 }
 
 .footer {
@@ -287,13 +286,16 @@ table {
 }
 
 @media only screen and (max-width: $screen-small) {
+    .header-title {
+        justify-self: center;
+    }
     .header-container {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr;
         grid-template-areas: "title" "navigation";
     }
     .main-navigation {
-        justify-self: start;
+        justify-self: center;
         flex-wrap: wrap;
     }
     .navi-link {
@@ -630,9 +632,10 @@ table {
     }
 }
 
-.breadcrumbs {
+.breadcrumb {
     margin-bottom: 1rem;
-    ul {
+    
+    ol {
         display: flex;
         flex-wrap: wrap;
         list-style: none;
@@ -640,11 +643,26 @@ table {
         padding: 0;
         align-items: end;
     }
+
     li:not(:last-child)::after {
         display: inline-block;
         margin: 0 0.5rem;
-        content: "→";
+        content: "➜";
 
+    }
+}
+
+@media only screen and (max-width: $screen-medium) {
+    .breadcrumb {
+        li:not(:last-child)::after {
+            content: none;
+        }
+        li:not(:nth-last-child(2)) {
+            display: none;
+        }
+        li:nth-last-child(2)::before {
+            content: "⏴ "
+        }
     }
 }
 
