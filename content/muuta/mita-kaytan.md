@@ -1,6 +1,7 @@
 ---
 title: "Mitä käytän"
 summary: "Lista laitteista, sovelluksista ja härveleistä, joita käytän arjessa."
+lastmod: 2024-12-02T04:28:00+02:00
 ---
 
 ### Tietokoneet
@@ -51,13 +52,17 @@ summary: "Lista laitteista, sovelluksista ja härveleistä, joita käytän arjes
 - Kuvankäsittely [Adobe Photoshop](https://www.adobe.com/fi/products/photoshop.html)
 - Muistiinpanot ja digitaalinen arkisto: [Obsidian](https://obsidian.md/)
 - Musiikkikokoelma: [Navidrome](https://www.navidrome.org/)
+- Musiikkisoitin: [Tempo](https://github.com/CappielloAntonio/tempo)
+- Pikaviestimet: [Signal](https://signal.org), [WhatsApp](https://whatsapp.com)
+- Podcastit: [AntennaPod](https://antennapod.org)
 - RSS-lukija: [FreshRSS](https://www.freshrss.org/)
 - Salasanamanageri: [Bitwarden](https://bitwarden.com/)
-- Selain: [Firefox](https://firefox.com/)
+- Selain: [Vivaldi](https://vivaldi.com), 
 - Tiedostojen synkronointi: [SyncThing](https://syncthing.net/)
 - Valokuva-arkisto: [Adobe Lightroom Classic](https://www.adobe.com/fi/products/photoshop-lightroom-classic.html)
 - Vektorigrafiikka: [Inkscape](https://inkscape.org/)
 - Videoeditointi: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- VPN: [WireGuard](https://www.wireguard.com)
 
 ### Palvelut
 - Varmuuskopiointi: [rsync.net](https://rsync.net/)
