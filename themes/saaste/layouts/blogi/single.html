@@ -92,24 +92,23 @@
             {{ end }}
             */}}
         </div>
-        
+    {{- end -}}
     
-        {{- if (or .NextInSection .PrevInSection) -}}
-        <div class="next-prev-nav" data-pagefind-ignore>
-            {{- with .PrevInSection -}}
-            <a href="{{ .RelPermalink }}" class="prev">
-                <span class="title">« Edellinen</span><br>
-                {{ .Title }}
-            </a>
-            {{- end -}}
-
-            {{- with .NextInSection -}}
-            <a href="{{ .RelPermalink }}" class="next">
-                <span class="title">Seuraava »</span><br>
-                {{ .Title }}</a>
-            {{- end -}}
-        </div>
+    {{- if (or .NextInSection .PrevInSection) -}}
+    <div class="next-prev-nav" data-pagefind-ignore>
+        {{- with .PrevInSection -}}
+        <a href="{{ .RelPermalink }}" class="prev">
+            <span class="title">« Edellinen</span><br>
+            {{ .Title }}
+        </a>
         {{- end -}}
+
+        {{- with .NextInSection -}}
+        <a href="{{ .RelPermalink }}" class="next">
+            <span class="title">Seuraava »</span><br>
+            {{ .Title }}</a>
+        {{- end -}}
+    </div>
     {{- end -}}
 
 </section>
