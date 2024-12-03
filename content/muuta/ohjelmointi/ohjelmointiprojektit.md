@@ -1,9 +1,13 @@
 ---
 title: "Ohjelmointiprojektit"
 summary: "Lista avoimen lähdekoodin projekteista, jotka olen toteuttanut."
+lastmod: 2024-12-03T19:55:00+02:00
 ---
 
 Alla olevat projektit ovat ensisijaisesti omaan käyttöön tehty. Haluan kuitenkin julkaista omat tekeleeni avoimena lähdekoodina siinä toivossa, että joku muukin voisi niistä hyötyä.
+
+### [Open Graph Image Creator](https://github.com/saaste/opengraph-image-creator)
+Työkalu, jolla generoin näiden sivujen Open Graph -kuvat. Työkalu tarjoilee web-sivun, jota voi käyttää kuvan suunnitteluun, ja sen lisäksi se osaa ottaa siitä kuvaruutukaappauksen ja tarjoilla sen PNG-kuvana.
 
 ### [Pastebin](https://github.com/saaste/pastebin)
 Kyllästyin pastebin.comin spämmiin ja siihen, kuinka tarpeettoman monimutkainen se on omiin tarpeisiini. Niinpä tein itselleni oman.
