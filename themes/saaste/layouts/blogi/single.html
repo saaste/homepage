@@ -13,9 +13,10 @@
         sitä on päivitetty viimeksi <strong><time datetime="{{ .Lastmod | time.Format "2006-01-02" }}">{{ .Lastmod | time.Format "Monday 02.01.2006" }}</time></strong>,
         {{- end -}}
 
-        sen lukemiseen menee noin <strong>{{ $readingTime }} minuuttia</strong>, ja 
+        sen lukemiseen menee noin <strong>{{ $readingTime }} minuuttia</strong>
+
         {{- with .Params.aiheet -}} 
-            se kuuluu seuraaviin aihealueisiin: 
+            , ja se kuuluu seuraaviin aihealueisiin: 
             {{ range . }}
             <a href="{{ "aiheet/" | absLangURL }}{{ . | urlize}}" class="e-category">{{ . }}</a>
             {{ end }}
