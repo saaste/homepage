@@ -1,6 +1,7 @@
 ---
 title: "Advent of Code 2024: 3. päivä"
 lastmod: 2024-12-03T13:09:00+02:00
+summary: "Leuka rintaan ja kohti uusia regex-pettymyksiä"
 ---
 ### Ensimmäinen osa
 Syötteenä on tällä kertaa melkoinen sekasotku, joka näyttää tältä: `xmul(2,4)%&mul[3,7]!@^do_not_mul(5,5)+mul(32,64]then(mul(11,8)mul(8,5))`. Data esittää tietokoneen muistin sisältöä, mutta muisti on pahemman kerran korruptoitunut.

@@ -1,5 +1,6 @@
 ---
 title: "Juuri nyt"
+summary: "Mitä puuhastelen juuri nyt"
 ---
 
 ### Ohjelmointi

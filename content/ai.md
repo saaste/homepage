@@ -1,5 +1,6 @@
 ---
 title: "Periaatteet tekoälyn käyttöön"
+summary: "Näitä sivuja ei ole toteutettu tekoälyllä"
 ---
 
 > "Miksi minun pitäisi lukea jotain, jota sinä et ole vaivautunut kirjoittamaan?"

@@ -1,6 +1,7 @@
 ---
 title: "Muutosloki"
 lastmod: 2024-12-02T20:36:00+02:00
+summary: "Tietoja viimeisistä näkyvistä muutoksista"
 ---
 
 ### maanantai 2.12.2024
