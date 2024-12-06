@@ -3,7 +3,7 @@ title: "Advent of Code 2024"
 type: page
 layout: single
 summary: "Advent of Code on joka vuosi järjestettävä hupsun tarinan muotoon rakennettu ohjelmointihaaste. Kirjoittelen tänne ajatuksiani ja havaintojani vuoden 2024 haasteesta."
-lastmod: 2024-12-05T10:24:00+02:00
+lastmod: 2024-12-06T20:07:00+02:00
 ---
 
 [Advent of Code](https://adventofcode.com/) on joka vuosi järjestettävä hupsun tarinan muotoon rakennettu ohjelmointihaaste. Samalla se toimii joulukalenterina.
@@ -20,3 +20,4 @@ Yksi Advent of Coden parhaista puolista on se, ettei minun tarvitse välittää 
 - [3. päivä]({{< relref "3" >}})
 - [4. päivä]({{< relref "4" >}})
 - [5. päivä]({{< relref "5" >}})
+- [6. päivä]({{< relref "6" >}})
