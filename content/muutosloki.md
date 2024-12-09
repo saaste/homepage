@@ -4,6 +4,10 @@ lastmod: 2024-12-02T20:36:00+02:00
 summary: "Tietoja viimeisistä näkyvistä muutoksista"
 ---
 
+### perjantai 9.12.2024
+- Fontti vaihdettu [Jetbrains Monoon](https://www.jetbrains.com/lp/mono/)
+- Pieniä ulkoasuviilauksia
+
 ### maanantai 2.12.2024
 - Lisätty automaattinen Open Graph -kuvien generointi ([blogikirjoitus]({{< ref "/blogi/2024/2024-12-02-generoidut-open-graph-kuvat" >}})). 
 

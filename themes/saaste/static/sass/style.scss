@@ -1,13 +1,5 @@
 @use "reset.scss";
 
-@font-face {
-    font-family: 'Roboto Mono';
-    src: url('../fonts/roboto-mono.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
 /*----------------------------------------------------------------------------
 *
 * Variables: Defaults
@@ -17,14 +9,14 @@ $screen-medium: 768px;
 $screen-small: 576px;
 
 :root {
-    --font-family: "Roboto Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     --font-size-main-navi: 1.5rem;
     --font-size-page-title: clamp(1.4rem, 1.4rem + 1.5vw, 2.5rem);
     --font-size-h3: clamp(1.2rem, 1.2rem + 1.5vw, 1.8rem);
     --font-size-h4: clamp(1.1rem, 1.1rem + 1.2vw, 1.6rem);
     --font-size-h5: 1.44rem;
     --font-size-h6: 1.25rem;
-    --font-size-normal: 1.1rem;
+    --font-size-normal: 1.2rem;
     --font-size-small: 0.833rem;
     --font-line-height: 2;
     --width-content-max: 1200px;
@@ -36,16 +28,16 @@ $screen-small: 576px;
 *
 ----------------------------------------------------------------------------*/
 :root {
-    --color-background: rgb(39, 41, 53);
+    --color-background: #272935;
     --color-block: hsl(231, 15%, 15%);
-    --color-text: rgb(248, 248, 242);
-    --color-navi: hsl(39, 60%, 74%);
+    --color-text: #f8f8f2;
+    --color-navi: #e4c995;
     --color-navi-bg: hsl(231, 5%, 12%);
     --color-navi-underline: hsl(231, 5%, 22%);
     --color-navi-underline-hover: hsl(231, 5%, 52%);
     --color-link: rgb(255, 184, 108);
-    --color-sub-title: rgb(243, 216, 60);
-    --color-strong: rgb(212, 253, 176);
+    --color-sub-title: rgb(211, 213, 222);
+    --color-strong: #d4fdb0;
     --color-emphasis: rgb(176, 253, 243);
     --color-darker-bg: rgba(0, 0, 0, 0.123);
     --color-code: hsl(231, 15%, 25%);
@@ -271,11 +263,12 @@ table {
     color: var(--color-navi);
     text-decoration: none;
     font-size: var(--font-size-main-navi);
-    border-bottom: 1px solid var(--color-navi-underline);
+    border-bottom: 3px solid transparent;
+    transition: all .15s ease-in;
 
     &:hover {
         color: var(--color-text);
-        border-bottom: 1px solid var(--color-navi-underline-hover);
+        border-bottom-color: var(--color-navi-underline-hover);
     }
 }
 
@@ -323,6 +316,8 @@ table {
 
     h3 {
         color: var(--color-sub-title);
+        border-bottom: 1px dashed var(--color-sub-title);
+        padding-bottom: 0.5rem;
 
         & + ul, & + ol {
             padding-top: 0;
@@ -455,6 +450,7 @@ table {
 
     .list-item-title {
         margin-bottom: 0.8rem;
+        border-bottom: none;
     }
 
     .date {
@@ -530,7 +526,7 @@ table {
 
 /*----------------------------------------------------------------------------
 *
-* Header
+* Footer
 *
 ----------------------------------------------------------------------------*/
 .footer {
@@ -551,7 +547,11 @@ table {
         li {
             padding: 0;
         }
-    } 
+    }
+
+    .badges {
+        padding-top: 1rem;
+    }
 }
 
 /*----------------------------------------------------------------------------

@@ -1,11 +1,3 @@
-<a href="/ai">
-    <img src="{{ .Site.BaseURL }}images/badge-made-by-human.png"
-         alt="Pieni Made by human -merkki, joka kertoo siitä, että sivujen sisältö on toteutettu ihmisen toimesta eikä tekoälyä ole käytetty."
-        title="Periaatteet tekoälyn käyttöön"
-        class="badge"
-        width="88"
-        height="31">
-</a>
 <p class="copyright">Copyright &copy; {{ now.Format "2006" }} saaste.net</p>
 <nav>
     <ul>
@@ -18,3 +10,13 @@
     {{ end }}    
     </ul>
 </nav>
+<div class="badges">
+    <a href="/ai">
+        <img src="{{ .Site.BaseURL }}images/badge-made-by-human.png"
+            alt="Pieni Made by human -merkki, joka kertoo siitä, että sivujen sisältö on toteutettu ihmisen toimesta eikä tekoälyä ole käytetty."
+            title="Periaatteet tekoälyn käyttöön"
+            class="badge"
+            width="88"
+            height="31">
+    </a>
+</div>
