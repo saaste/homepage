@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Polaaripyörre"
 description: "Vuoden kolmas lukemani suomalainen kirja on Tiina Raevaaran Polaaripyörre. Kirja on jatko-osa aikaisemmin lukemalleni Kaksoiskierteelle. Eikä mitenkään huono sellainen, sillä pidin siitä vieläkin enemmän kuin ykkösosasta."
 date: 2024-03-25T08:00:00+02:00
+lastmod: 2024-03-25T08:00:00+02:00
 draft: false
 slug: polaaripyorre
 aiheet:

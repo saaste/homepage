@@ -2,6 +2,7 @@
 title: Tekoälyyn kyllästynyt
 description: "Minulle tarjoutui mahdollisuus osallistua tutkimukseen, joka käsittelee generatiivisen tekoälyn eettisiä kysymyksiä ja sitä, kuinka IT-alalla työskentelevät suhtautuvat niihin. Tutkija haastatteli minua ja juttelimme generatiivisesta tekoälystä lähes tunnin ajan."
 date: 2024-05-21T07:45:00+0300
+lastmod: 2024-05-21T07:45:00+0300
 draft: false
 slug: tekoalyyn-kyllastynyt
 aiheet:

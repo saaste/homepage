@@ -2,6 +2,7 @@
 title: "Anna anteeksi ja voit paremmin"
 description: "Aurinkoisen päivän kunniaksi kävin juoksemassa puolimaratonin. Sen aikana kuuntelin Feel Better, Live More -podcastin jakson, jossa käsiteltiin sitä, kuinka kyky antaa anteeksi parantaa henkistä ja fyysistä hyvinvointia."
 date: 2024-05-01T20:10:00+03:00
+lastmod: 2024-05-01T20:10:00+03:00
 draft: false
 slug: anna-anteeksi-ja-voit-paremmin
 aiheet:

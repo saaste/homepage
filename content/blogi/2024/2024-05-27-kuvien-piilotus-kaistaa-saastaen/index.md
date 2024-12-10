@@ -2,6 +2,7 @@
 title: Kuvien piilotus kaistaa säästäen
 description: "Opin viikonlopun aikana tavan piilottaa kuvia HTML/CSS -yhdistelmällä niin, ettei piilotettuja kuvia turhaan ladata, jolloin sivu latautuu kokonaisuudessaan paljon nopeammin."
 date: 2024-05-27T08:00:00+0300
+lastmod: 2024-05-27T08:00:00+0300
 draft: false
 slug: kuvien-piilotus-kaistaa-saastaen
 aiheet:

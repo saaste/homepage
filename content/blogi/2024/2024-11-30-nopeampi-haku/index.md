@@ -2,6 +2,7 @@
 title: "Pieniä parannuksia sivuille"
 description: "Minua on alusta asti vaivannut se, ettei näiden kotisivujen pikkukuvat ole oikeasti pieniä. Päätin vihdoin tehdä asialle jotain."
 date: 2024-11-30T17:30:00+0200
+lastmod: 2024-11-30T17:30:00+0200
 draft: false
 slug: pienia-parannuksia-sivuille
 aiheet:

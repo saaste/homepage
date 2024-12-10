@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Teemestarin kirja"
 description: "Vuoden 2024 ensimmäiseksi suomenkieliseksi kirjaksi valikoitui puolisolta lahjaksi saatu Apollo-murhat."
 date: 2024-03-05T08:50:00+02:00
+lastmod: 2024-03-05T08:50:00+02:00
 draft: false
 slug: teemestarin-kirja
 aiheet:

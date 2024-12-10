@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Karsta"
 description: "Vaihdoin e-kirjat välillä fyysisiin kirjoihin ja hain kirjastosta J. Pekka Mäkelän Karstan. Hieman luotaantyöntävän nimen takaa paljastui oikein maistuva ja ihmisläheinen scifiteos!"
 date: 2024-10-10T09:45:00+0300
+lastmod: 2024-10-10T09:45:00+0300
 draft: false
 slug: karsta
 aiheet:

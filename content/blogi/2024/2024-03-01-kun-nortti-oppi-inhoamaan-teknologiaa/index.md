@@ -2,6 +2,7 @@
 title: "Kun nörtti oppi inhoamaan teknologiaa"
 description: "Olen ammatiltani ohjelmoija ja silti olen alkanut inhota teknologiaa. Pysähdyin miettimään, että missä kohtaa nörtistä tuli tällainen ja mitkä tätä muutosta selittävät."
 date: 2024-03-01T15:40:00+02:00
+lastmod: 2024-03-01T15:40:00+02:00
 draft: false
 slug: kun-nortti-oppi-inhoamaan-teknologiaa
 aiheet:

@@ -2,6 +2,7 @@
 title: "Tekoälybottien estäminen Nginx Proxy Managerissa"
 description: "Olen läpensä kyllästynyt tekoälysekoiluun ja halusin varmistaa, etteivät omat sisältöni eivät päädy tekoälybottien ja -crawlereiden materiaaliksi."
 date: 2024-04-13T00:45:00+03:00
+lastmod: 2024-04-13T00:45:00+03:00
 draft: false
 slug: tekoalybottien-estaminen
 aiheet:

@@ -2,6 +2,7 @@
 title: "Ääniherkkyys ja melusaaste"
 description: "Olen useaan otteeseen yrittänyt kirjoittaa kokemuksiani ääniherkkyyden pahenemisesta sekä melusaasteesta, mutta jostain syystä niiden muuttaminen sanoiksi on osoittautunut todella vaikeaksi. Tämä on jälleen yksi uusi yritys."
 date: 2024-05-06T09:15:00+03:00
+lastmod: 2024-05-06T09:15:00+03:00
 draft: false
 slug: aaniherkkyys-ja-melusaaste
 aiheet:

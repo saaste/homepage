@@ -2,6 +2,7 @@
 title: Kevyesti reissussa
 description: "Interrail-matka oli itselleni samalla pieni kokeilu. Halusin testata, miltä pienemmällä matkatavaramäärällä matkustaminen tuntuu. Kokeilu oli menestys!"
 date: 2024-09-19T16:15:00+0300
+lastmod: 2024-09-19T16:15:00+0300
 draft: false
 slug: kevyesti-reissussa
 aiheet:

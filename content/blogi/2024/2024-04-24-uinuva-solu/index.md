@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Uinuva solu"
 description: "Luin eilen loppuun Eerika Hämeranta -sarjan neljännen ja samalla viimeisen osan. Toivoin edellisen kirjan jälkeen, että Tiina Raevaara palaisi tiedelähtöiseen tarinankerrontaan, ja sen toiveen kirja täytti. Samalla siinä oli jotain muista osista poikkeavaa. Arvostelu paljastaa yksityiskohtia aikaisemmista osista, joten jos halua säästyä niiden juonipaljastuksilta, kannattaa lopettaa lukeminen tähän."
 date: 2024-04-24T09:17:00+03:00
+lastmod: 2024-04-24T09:17:00+03:00
 draft: false
 slug: uinuva-solu
 aiheet:

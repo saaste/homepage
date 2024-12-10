@@ -2,6 +2,7 @@
 title: "Pelielokuvien kirous"
 description: "Näin Borderlands-elokuvan trailerin ja mietin, ettei elokuvalla tunnu olevan juuri mitään tekemistä sen pelisarjan kanssa, joihin olen käyttänyt 15 vuotta elämästäni."
 date: 2024-02-22T12:50:00+02:00
+lastmod: 2024-02-22T12:50:00+02:00
 draft: false
 slug: pelielokuvien-kirous
 aiheet:

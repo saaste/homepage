@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Lakipiste"
 description: "Jatkoin kirjaseikkailuani lukemalla Piia Leinon kolmannen teoksen, Lakipisteen. Toisin kuin kaksi edellistä kirjaa, nyt tarjolla ei ollut synkkää dystopiaa, vaan tulevaisuuteen sijoittuva scifidekkari, jossa arvuutellaan, että oliko murhaaja hovimestari."
 date: 2024-06-27T08:00:00+0300
+lastmod: 2024-06-27T08:00:00+0300
 draft: false
 slug: lakipiste
 aiheet:

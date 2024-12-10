@@ -2,6 +2,7 @@
 title: "Oma Pastebin-sovellus"
 description: "Innostuin taas korvaamaan yhden käyttämistäni palveluista itse tehdyllä ja itse hostattavalla ratkaisulla. Tällä kertaa leikkuri kohdistui Pastebin.comiin."
 date: 2024-10-17T09:45:00+0300
+lastmod: 2024-10-17T09:45:00+0300
 draft: false
 slug: oma-pastebin-sovellus
 aiheet:

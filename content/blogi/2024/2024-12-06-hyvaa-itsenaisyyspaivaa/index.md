@@ -2,6 +2,7 @@
 title: "Hyvää itsenäisyyspäivää!"
 description: "Itsenäisyyspäivä on yksi niistä juhlapäivistä, joita tulee juhlittua tunnetasolla."
 date: 2024-12-06T21:45:00+0200
+lastmod: 2024-12-06T21:45:00+0200
 draft: false
 slug: hyvaa-itsenaisyyspaivaa
 aiheet:

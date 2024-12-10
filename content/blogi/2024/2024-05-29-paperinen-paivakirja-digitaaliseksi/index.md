@@ -2,6 +2,7 @@
 title: Paperinen päiväkirja digitaaliseksi
 description: "dellisessä kirjoituksessa mainitsin ohimennen, että digitaalinen päiväkirjani toimii lähinnä paperisen päiväkirjan varmuuskopiona. En kuitenkaan avannut sitä sen enempää, joten teen sen nyt."
 date: 2024-05-29T17:30:00+0300
+lastmod: 2024-05-29T17:30:00+0300
 draft: false
 slug: paperinen-paivakirja-digitaaliseksi
 aiheet:

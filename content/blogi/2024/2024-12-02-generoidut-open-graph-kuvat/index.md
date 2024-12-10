@@ -2,6 +2,7 @@
 title: "Generoidut Open Graph -kuvat"
 description: "Jatkoin kotisivujen viilailua korjaamalla yhden toistuvista ärsytyksistä: Open Graph -kuvat."
 date: 2024-12-02T19:45:00+0200
+lastmod: 2024-12-02T19:45:00+0200
 draft: false
 slug: generoidut-open-graph-kuvat
 aiheet:

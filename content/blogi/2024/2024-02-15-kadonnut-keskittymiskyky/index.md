@@ -2,6 +2,7 @@
 title: "Kadonnut keskittymiskyky"
 description: "Viimeaikoina on puhuttu paljon keskittymiskyvyn puutteesta sekä siitä, kuinka ihmiset eivät osaa olla läsnä hetkessä. Yksi isoista syistä tähän ovat mobiililaitteet."
 date: 2024-02-15T15:45:00+02:00
+lastmod: 2024-02-15T15:45:00+02:00
 draft: false
 slug: kadonnut-keskittymiskyky
 aiheet:

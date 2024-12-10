@@ -2,6 +2,7 @@
 title: "Sympaattiset pikkukylät"
 description: "Yksi interrail-matkan hauskimpia uusia löytöjä olivat pienet kylät ja kaupungit. Niiden hidas elämä, seisahtunut tunnelma sekä ihmisen kokoinen arkkitehtuuri puhuttelivat minua tavalla, jota en osannut odottaa."
 date: 2024-10-05T11:45:00+0300
+lastmod: 2024-10-05T11:45:00+0300
 draft: false
 slug: sympaattiset-pikkukylat
 aiheet:

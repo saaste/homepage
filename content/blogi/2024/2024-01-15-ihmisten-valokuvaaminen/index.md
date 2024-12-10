@@ -2,6 +2,7 @@
 title: "Ihmisten valokuvaaminen"
 description: "Ihmisten valokuvaaminen on aina ollut minulle vaikeaa. En voi tunnustaa olevani erityinen ihmisten ihminen eikä introvertti persoonallisuuskaan auta asiassa."
 date: 2024-01-15T22:25:00+08:00
+lastmod: 2024-01-15T22:25:00+08:00
 draft: false
 slug: ihmisten-valokuvaaminen
 aiheet:

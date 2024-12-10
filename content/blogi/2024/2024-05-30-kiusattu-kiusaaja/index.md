@@ -2,6 +2,7 @@
 title: Kiusattu kiusaaja
 description: "Luin eilen Marianna Saartio-Itkosen artikkelin koulukiusaamisesta. Hienosti kirjoitettu teksti sai ajattelemaan omaa lapsuuttani ja kiusaamista yleisesti."
 date: 2024-05-30T19:45:00+0300
+lastmod: 2024-05-30T19:45:00+0300
 draft: false
 slug: kiusattu-kiusaaja
 aiheet:

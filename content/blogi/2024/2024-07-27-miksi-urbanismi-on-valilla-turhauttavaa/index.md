@@ -2,6 +2,7 @@
 title: Miksi urbanismi on välillä turhauttavaa
 description: "Eilisellä juoksulenkillä kuuntelin kiinnostavan jakson Urbanist Agenda -podcastista. En mene jakson varsinaiseen aiheeseen, mutta siinä käsiteltiin niitä syitä, jotka tekevät urbanismista ja kaupunkisuunnittelusta välillä todella turhauttavaa."
 date: 2024-07-27T14:45:00+0300
+lastmod: 2024-07-27T14:45:00+0300
 draft: false
 slug: miksi-urbanismi-on-valilla-turhauttavaa
 aiheet:

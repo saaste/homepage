@@ -2,6 +2,7 @@
 title: "Talviagentti"
 description: "Sen sijaan, että tyytyisin vaan harmittelemaan huonoa talvikunnossapidon tasoa, päätin tehdä tänä talvena jotain toisin. Ilmoittauduin Hepon talviagentiksi."
 date: 2024-11-27T08:00:00+0200
+lastmod: 2024-11-27T08:00:00+0200
 draft: false
 slug: talviagentti
 aiheet:

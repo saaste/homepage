@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Apollo-murhat"
 description: "Vuoden 2024 ensimmäiseksi suomenkieliseksi kirjaksi valikoitui puolisolta lahjaksi saatu Apollo-murhat."
 date: 2024-02-27T05:54:00+02:00
+lastmod: 2024-02-27T05:54:00+02:00
 draft: false
 slug: apollo-murhat
 aiheet:

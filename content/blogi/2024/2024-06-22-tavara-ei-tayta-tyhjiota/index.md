@@ -2,6 +2,7 @@
 title: Tavara ei täytä tyhjiötä
 description: "Olimme eilen kavereiden luona viettämästä juhannusta. Siinä pihalla grillin lämpenemistä odotellessa kaverini kertoi ajatuksiaan siitä, kuinka hän menettää nopeasti kiinnostuksensa hankkimiinsa tavaroihin."
 date: 2024-06-22T15:00:00+0300
+lastmod: 2024-06-22T15:00:00+0300
 draft: false
 slug: tavara-ei-tayta-tyhjiota
 aiheet:

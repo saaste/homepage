@@ -2,6 +2,7 @@
 title: "Tehokkuusajattelu ja suorittaminen"
 description: "Ole reipas. Ole ahkera. Ole tuottava. Käytä kalenteria ja suunnittele. Näillä ohjeilla koetin joskus epätoivoisesti elää."
 date: 2024-03-20T20:30:00+02:00
+lastmod: 2024-03-20T20:30:00+02:00
 draft: false
 slug: tehokkuusajattelu-ja-suorittaminen
 aiheet:

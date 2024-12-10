@@ -2,6 +2,7 @@
 title: Lautapeliviikonloppu
 description: "Viikonloppuna sain unohtaa arkielämän ja siirtyä omaan kuplaani. Alun perin tarkoitus oli pelata pöytäroolipeliä, mutta koska meidän dungeon master ei päässytkään mukaan, järjestimme kolmen muun kaverin kanssa vuokramökillä lautapeliviikonlopun."
 date: 2024-06-10T08:30:00+0300
+lastmod: 2024-06-10T08:30:00+0300
 draft: false
 slug: lautapeliviikonloppu
 aiheet:

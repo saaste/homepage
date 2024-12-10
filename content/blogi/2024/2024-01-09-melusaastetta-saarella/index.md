@@ -2,6 +2,7 @@
 title: "Melusaastetta saarella"
 description: "Melusaaste on siitä erikoinen saasteen muoto, että se vaikuttaa isoon osaan ihmisiä, lähes kaikki haluaisivat elää ilman sitä, mutta harva asettuu sitä vastaan"
 date: 2024-01-09T05:00:00+08:00
+lastmod: 2024-01-09T05:00:00+08:00
 draft: false
 slug: melusaastetta-saarella
 aiheet:

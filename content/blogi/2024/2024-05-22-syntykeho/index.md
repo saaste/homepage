@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Syntykeho"
 description: "Luin eilen loppuun Reetta Vuokko-Syrjäsen esikoisromaanin Syntykeho. Takakansiteksti imaisi minut heti mukaansa ja sen perusteella kirja oli kuin luotu minulle. Käytännössä kokemus oli kuitenkin jotain ihan muuta."
 date: 2024-05-22T09:45:00+0300
+lastmod: 2024-05-22T09:45:00+0300
 draft: false
 slug: syntykeho
 aiheet:

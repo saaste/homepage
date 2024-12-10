@@ -2,6 +2,7 @@
 title: Kokemuksia ensimmäiseltä interrail-matkalta
 description: "Kotiuduin juuri elämäni ensimmäiseltä interrail-matkalta. Kuljin matkan aikana 4793 kilometriä 38:lla eri junalla. Matka opetti kaikenlaista ja samalla se muutti käsitystäni junamatkailusta."
 date: 2024-09-15T17:30:10+0300
+lastmod: 2024-09-15T17:30:10+0300
 draft: false
 slug: kokemuksia-ensimmaiselta-interrail-matkalta
 aiheet:

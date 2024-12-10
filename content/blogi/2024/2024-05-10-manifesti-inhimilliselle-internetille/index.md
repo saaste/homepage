@@ -2,6 +2,7 @@
 title: Manifesti inhimillisen Internetin puolesta
 description: ""
 date: 2024-05-10T16:30:00+0300
+lastmod: 2024-05-10T16:30:00+0300
 draft: false
 slug: manifesti-inhimillisen-internetin-puolesta
 aiheet:

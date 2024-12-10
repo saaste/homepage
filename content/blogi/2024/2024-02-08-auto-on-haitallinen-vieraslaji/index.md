@@ -2,6 +2,7 @@
 title: "Auto on haitallinen vieraslaji"
 description: "Vietin pari päivää autossa kierrellen pientä saarta, jonka infrastruktuuria ei ole rakennettu autoille. Kokemus sai miettimään, kuinka haitallinen vieraslaji autot ovat ja kuinka epäkäytännöllisiä ne loppujen lopuksi ovat"
 date: 2024-02-08T13:28:00+08:00
+lastmod: 2024-02-08T13:28:00+08:00
 draft: false
 slug: auto-on-haitallinen-vieraslaji
 aiheet:

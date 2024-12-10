@@ -2,6 +2,7 @@
 title: Matkailurinkka reilille
 description: "Olemme kuluneiden viikkojen aikana metsästäneet tulevalle interrail-matkalle sopivia rinkkoja. Arpominen loppui tänään, sillä kävimme hakemassa uudet reput sekä minulle, että puolisolle."
 date: 2024-05-25T16:30:00+0300
+lastmod: 2024-05-25T16:30:00+0300
 draft: false
 slug: matkailurinkka-reilille
 aiheet:

@@ -2,6 +2,7 @@
 title: Junamatkailu Sveitsissa
 description: "Usein kuulee, että Alankomaat saa ihmiset näkemään pyöräilyn aivan uudessa valossa. Minusta tuntuu, että Sveitsi tekee saman junamatkailulle. Se teki sen ainakin minulle."
 date: 2024-09-17T16:15:00+0300
+lastmod: 2024-09-17T16:15:00+0300
 draft: false
 slug: junamatkailu-sveitsissa
 aiheet:

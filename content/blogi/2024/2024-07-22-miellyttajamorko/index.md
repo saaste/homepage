@@ -2,6 +2,7 @@
 title: Miellyttäjämörkö
 description: "Eilen Mastodonissa käyty keskustelu sai ajattelemaan ongelmaa, joka tuntuu kulkeneen seuranani lähes koko elämäni: liiallinen halu miellyttää muita."
 date: 2024-07-22T05:30:00+0300
+lastmod: 2024-07-22T05:30:00+0300
 draft: false
 slug: miellyttajamorko
 aiheet:

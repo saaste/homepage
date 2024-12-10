@@ -2,6 +2,7 @@
 title: Kontrollihierarkia
 description: "Kontrollihierarkia on yksi suosikkikonsepteistani. Sen tarkoitus on ehkäistä ihmisiin kohdistuvaa vaaraa. Liikenteessä ja siihen liittyvässä keskustelussa se kuitenkin usein unohtuu tai kääntyy pahimmillaan päälaelleen."
 date: 2024-06-28T09:00:00+0300
+lastmod: 2024-06-28T09:00:00+0300
 draft: false
 slug: kontrollihierarkia
 aiheet:

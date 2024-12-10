@@ -2,6 +2,7 @@
 title: "Matkameteli"
 description: "Melusaaste on asia, johon kiinnitän nykyään paljon huomiota. Se on läsnä lähes kaikkialla. Matka tarjosi itselle tuttuun ongelmaan joitakin uusia näkökulmia."
 date: 2024-09-30T06:15:00+0300
+lastmod: 2024-09-30T06:15:00+0300
 draft: false
 slug: matkameteli
 aiheet:

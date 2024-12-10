@@ -2,6 +2,7 @@
 title: "Haluan omistaa kuuntelemani musiikin"
 description: "Olen käyttänyt Spotifyta vuosikaudet, mutta kasvava tyytymättömyys on ajanut minua takaisin vanhaan aikaan."
 date: 2024-10-16T09:02:58+0300
+lastmod: 2024-10-16T09:02:58+0300
 draft: false
 slug: haluan-omistaa-kuuntelemani-musiikin
 aiheet:

@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Yliaika"
 description: "Luin eilen loppuun vuoden kahdeksannen suomalaisen kirjan, Piia Leinon Yliajan. Tämä oli toinen lukemani Leinon kirja, joka pisti ajattelemaan elämää, tätä hetkeä ja tulevaisuutta."
 date: 2024-06-11T08:15:00+0300
+lastmod: 2024-06-11T08:15:00+0300
 draft: false
 slug: yliaika
 aiheet:

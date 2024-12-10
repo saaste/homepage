@@ -2,6 +2,7 @@
 title: Kahdeksan vaurautta
 description: "Tein tällä viikolla 43 kilometrin juoksuseikkailun ja kuuntelin matkalla podcast-jakson, jossa käsiteltiin kahdeksaa vaurautta, joita rahalla ei voi ostaa. Aloin miettiä, kuinka nämä rikkaudet toteutuvat omassa elämässäni."
 date: 2024-08-18T08:13:27+0300
+lastmod: 2024-08-18T08:13:27+0300
 draft: false
 slug: kahdeksan-vaurautta
 aiheet:

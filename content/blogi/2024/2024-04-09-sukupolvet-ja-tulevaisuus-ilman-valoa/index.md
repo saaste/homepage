@@ -2,6 +2,7 @@
 title: "Sukupolvet ja tulevaisuus ilman valoa"
 description: "Olen löytänyt itseni viime viikkojen aikana miettimässä sitä, kuinka oma nuoruuteni erosi tämän päivän nuorten elämästä. Nuori minä pystyi haaveilemaan tulevaisuudesta tavalla, joka ei taida useimmille nykynuorille olla mahdollista."
 date: 2024-04-09T20:15:00+03:00
+lastmod: 2024-04-09T20:15:00+03:00
 draft: false
 slug: sukupolvet-ja-tulevaisuus-ilman-valoa
 aiheet:

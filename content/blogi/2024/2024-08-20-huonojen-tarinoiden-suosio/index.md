@@ -2,6 +2,7 @@
 title: Huonojen tarinoiden suosio
 description: "Olen leikkinyt ajatuksella, että aloittaisin oman tarinan kirjoittamisen. Se sai miettimään omia tarinoitani, niiden huonoutta ja sitä, miksi jotkut ihmiset pitävät huonoja tarinoita hyvinä."
 date: 2024-08-20T19:00:00+0300
+lastmod: 2024-08-20T19:00:00+0300
 draft: false
 slug: huonojen-tarinoiden-suosio
 aiheet:

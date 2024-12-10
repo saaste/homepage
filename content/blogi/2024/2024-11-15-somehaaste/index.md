@@ -2,6 +2,7 @@
 title: "Somehaaste"
 description: "Otsikolla en tarkoita sosiaalisessa mediassa kiertävää turhaa haastetta, vaan sitä, että some itsessään on minulle haaste."
 date: 2024-11-15T12:30:00+0200
+lastmod: 2024-11-15T12:30:00+0200
 draft: false
 slug: somehaaste
 aiheet:

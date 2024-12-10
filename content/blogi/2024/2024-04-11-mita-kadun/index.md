@@ -2,6 +2,7 @@
 title: "Mitä kadun?"
 description: "Kuuntelin eilen juoksulenkillä Feel Better Live More -podcastin jakson, jossa keskusteltiin Bronnie Waren kirjoittamasta The Five Regrets of the Dying -kirjasta. Jakso herätti paljon ajatuksia ja aloin miettiä, että mitä itse kadun elämässäni."
 date: 2024-04-11T09:00:00+03:00
+lastmod: 2024-04-11T09:00:00+03:00
 draft: false
 slug: mita-kadun
 aiheet:

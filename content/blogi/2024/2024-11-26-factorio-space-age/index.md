@@ -2,6 +2,7 @@
 title: "Peliarvostelu: Factorio: Space Age"
 description: "Lokakuun loppupuolella Factorio sai Space Age -lisäosan ja samalla peruspeli päivitettiin versioon 2.0. Julkaisun myötä aloitin uuden pelin, jotta saisin kokea kaikki muutokset ja uudistukset puhtaalta pöydältä."
 date: 2024-11-26T16:00:00+0200
+lastmod: 2024-11-26T16:00:00+0200
 draft: false
 slug: factorio-space-age
 aiheet:

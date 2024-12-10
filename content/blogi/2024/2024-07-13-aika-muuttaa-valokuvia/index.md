@@ -2,6 +2,7 @@
 title: Aika muuttaa valokuvia
 description: "Jatkoin ikuisuusprojektiani, valokuvien siivousta. Siinä vanhoja kuvia karsiessa tajusin, kuinka aika on muuttanut monien kuvien merkitystä ja antanut niille ihan uuden arvon."
 date: 2024-07-13T18:00:00+0300
+lastmod: 2024-07-13T18:00:00+0300
 draft: false
 slug: aika-muuttaa-valokuvia
 aiheet:

@@ -2,6 +2,7 @@
 title: "Obsidian ja ajatusten dokumentointi"
 description: "Opin konseption nimeltään digital garden. Selvitellessä tajusin, että Digital Garden muistuttaa tapaa, jolla dokumentoin ajatuksiani. Se vaan tuo sen online-maailmaan."
 date: 2024-01-14T20:37:00+08:00
+lastmod: 2024-01-14T20:37:00+08:00
 draft: false
 slug: obsidian-ja-ajatusten-dokumentointi
 aiheet:

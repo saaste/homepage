@@ -2,6 +2,7 @@
 title: "Uusi asenne matkailuun"
 description: "Olen ehtinyt olla reilun viikon Suomessa, mutta mielessä pyörivät uudet seikkailut. Tällä kertaa tarkoitus olisi matkustaa aivan uudella tavalla, mutta muutos vaatii uuden opettelua."
 date: 2024-02-19T19:07:00+02:00
+lastmod: 2024-02-19T19:07:00+02:00
 draft: false
 slug: uusi-asenne-matkailuun
 aiheet:

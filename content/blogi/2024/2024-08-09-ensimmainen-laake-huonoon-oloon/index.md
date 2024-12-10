@@ -2,6 +2,7 @@
 title: Lääke huonoon oloon
 description: "Kulunut reilu viikko on mennyt henkisen hyvinvoinnin kanssa taistellessa. Tämä ei ole ensimmäinen kerta kun näin käy ja kokemus onkin opetanut, mitä näissä tilanteissa kannattaa tehdä."
 date: 2024-08-09T05:55:32+0300
+lastmod: 2024-08-09T05:55:32+0300
 draft: false
 slug: laake-huonoon-oloon
 aiheet:

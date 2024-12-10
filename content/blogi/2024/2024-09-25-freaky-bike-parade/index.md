@@ -2,6 +2,7 @@
 title: Freaky Bike Parade
 description: "Lauantaina Helsingissä järjestettiin Freaky Bike Parade. Olin odottanut värikästä pyöräkulkuetta innolla, eikä se pettänyt tänäkään vuonna."
 date: 2024-09-25T13:15:00+0300
+lastmod: 2024-09-25T13:15:00+0300
 draft: false
 slug: freaky-bike-parade
 aiheet:

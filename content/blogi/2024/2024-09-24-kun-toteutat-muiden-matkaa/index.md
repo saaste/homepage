@@ -2,6 +2,7 @@
 title: Kun toteutat muiden matkaa
 description: "Käytin joskus Lonely Planetin matkaoppaita seikkailujen suunnitteluun. Huomasin kuitenkin, että nojaamalla turhan paljon kirjoihin, seikkailu ei enää tuntunutkaan omalta."
 date: 2024-09-24T15:45:00+0300
+lastmod: 2024-09-24T15:45:00+0300
 draft: false
 slug: kun-toteutat-muiden-matkaa
 aiheet:

@@ -2,6 +2,7 @@
 title: Ryhdistäydy!
 description: "Luin eilen Ylen artikkelin, jossa käytiin läpi itsekuria ja ryhdistäytymistä. Aihe on itseäni lähellä, sillä tämä surullisenkuuluisa ryhdistäytyminen on ollut yksi niistä voimista, joilla olen kulkenut elämän vastoinkäymisiä läpi."
 date: 2024-05-23T18:00:00+0300
+lastmod: 2024-05-23T18:00:00+0300
 draft: false
 slug: ryhdistaydy
 aiheet:

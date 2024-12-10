@@ -2,6 +2,7 @@
 title: "Työkalu Open Graph -kuvien generointiin"
 description: "Kerroin edellisessä kirjoituksessa tekemästäni työkalusta, jonka avulla generoin kotisivujen ja erityisesti blogipostausten Open Graph -kuvat. Työkalu löytyy nyt GitHubista."
 date: 2024-12-03T19:30:00+0200
+lastmod: 2024-12-03T19:30:00+0200
 draft: false
 slug: tyokalu-open-graph-kuvien-generointiin
 aiheet:

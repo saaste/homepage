@@ -2,6 +2,7 @@
 title: Firefoxin uusi mainosominaisuus
 description: "Mozilla toi kaikessa hiljaisuudessa Firefox-selaimeensa uuden mainosseurantaominaisuuden. Hiljaisuus ei kestänyt pitkään, sillä oletuksena päällä oleva ominaisuus synnytti Mastodonin teknologia- ja yksityisyyspiireissä varsin kiivasta keskustelua puolesta ja vastaan."
 date: 2024-07-15T11:45:00+0300
+lastmod: 2024-07-15T11:45:00+0300
 draft: false
 slug: firefoxin-uusi-mainosominaisuus
 aiheet:

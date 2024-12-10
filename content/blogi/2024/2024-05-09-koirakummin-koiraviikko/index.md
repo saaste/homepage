@@ -2,6 +2,7 @@
 title: Koirakummin koiraviikko
 description: "Olen äärimmäisen eläinrakas ihminen. Erityisesti koirat ovat lähellä sydäntäni. Perheessäni on aina ollut koira, mutta minulla ei koskaan ole ollut omaa. Koiran kokoiseen aukkoon löytyi kuitenkin netistä ratkaisu."
 date: 2024-05-09T20:00:00+0300
+lastmod: 2024-05-09T20:00:00+0300
 draft: false
 slug: koirakummin-koiraviikko
 aiheet:

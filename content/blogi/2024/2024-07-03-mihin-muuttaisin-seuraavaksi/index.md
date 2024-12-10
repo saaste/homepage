@@ -2,6 +2,7 @@
 title: Mihin muuttaisin seuraavaksi?
 description: "Sanotaan, että kaupungit eivät ole meluisia, autot ovat. Se on kuitenkin aika selvää, että kaupunkien välillä on suuria eroja. Sen jälkeen kun melusaaste turmeli terveyteni ja hyvinvointini, olen kiinnittänyt tähän asiaan entistä enemmän huomiota."
 date: 2024-07-03T09:53:33+0300
+lastmod: 2024-07-03T09:53:33+0300
 draft: false
 slug: mihin-muuttaisin-seuraavaksi
 aiheet:

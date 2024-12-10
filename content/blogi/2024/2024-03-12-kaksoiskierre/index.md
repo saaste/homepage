@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Kaksoiskierre"
 description: "Lukemisen suomiteema jatkuu. Vuoden toinen suomalainen kirja on Tiina Raevaaran jännäri Kaksoiskierre. Tämäkin kirja päätyi luettavaksi Mastodon-suositusten kautta."
 date: 2024-03-12T07:23:00+02:00
+lastmod: 2024-03-12T07:23:00+02:00
 draft: false
 slug: kaksoiskierre
 aiheet:

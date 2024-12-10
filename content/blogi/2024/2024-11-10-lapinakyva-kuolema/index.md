@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Läpinäkyvä kuolema"
 description: "Kirjastosta sattumalta mukaan tarttuneen valvontayhteiskuntaan sijoittuvan Läpinäkyvän kuoleman takakansiteksti loi suuria odotuksia. Harmillisesti M. G. Soikkelin teos oli tylsä pettymys."
 date: 2024-11-10T12:45:00+0200
+lastmod: 2024-11-10T12:45:00+0200
 draft: false
 slug: lapinakyva-kuolema
 aiheet:

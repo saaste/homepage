@@ -2,6 +2,7 @@
 title: "Peliarvostelu: Factorio"
 description: "Olen pelannut Factoriota jo yli kahden vuoden ajan. Se on saamassa lokakuussa uuden DLC:n, joten sitä odotellessa päätin kirjoittaa pelistä arvostelun."
 date: 2024-08-02T09:00:00+0300
+lastmod: 2024-08-02T09:00:00+0300
 draft: false
 slug: factorio
 aiheet:

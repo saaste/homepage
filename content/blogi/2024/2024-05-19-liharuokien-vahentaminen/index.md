@@ -2,6 +2,7 @@
 title: Liharuokien vähentäminen
 description: "Vuosien aikana eläinperäisten tuotteiden osuus ruokavaliossani on pienentynyt lähes itsestään omien vatsaongelmien takia. Vatsaongelmissa ei ollut ilmeisesi tarpeeksi riesaa, sillä viime vuonna labratulosten saavuttua sain lääkäriltä jämäkän käskyn lisätä kasvisruokaa ja vähentää maitopohjaisia tuotteita entisestään."
 date: 2024-05-19T21:00:00+0300
+lastmod: 2024-05-19T21:00:00+0300
 draft: false
 slug: liharuokien-vahentaminen
 aiheet:

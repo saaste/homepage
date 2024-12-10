@@ -2,6 +2,7 @@
 title: "Mystinen aamu- ja iltavirkkuus"
 description: "Kävin aamulla mielenkiintoisen keskustelun puolison kanssa unirytmeistä ja aamuvirkkuudesta. Aamu- ja iltavirkku ovat itselleni olleet vähän hämmentäviä termejä. Sanojen merkitys tuntuu riippuvan henkilöstä, joka niitä käyttää."
 date: 2024-02-16T17:15:00+02:00
+lastmod: 2024-02-16T17:15:00+02:00
 draft: false
 slug: mystinen-aamu-ja-iltavirkkuus
 aiheet:

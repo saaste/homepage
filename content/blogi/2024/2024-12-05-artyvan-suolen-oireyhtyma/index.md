@@ -2,6 +2,7 @@
 title: "Ärtyvän suolen oireyhtymä (IBS)"
 description: "Erilaisten vatsa- ja ruoansuletusongelmien lisäksi minulla todettiin joitakin vuosia sitten ärtyvän suolen oireyhtymä eli IBS. Olen saanut olla varsin vapaa oireista hyvän aikaa, mutta nyt tämä kirous tuntuu tulleen takaisin."
 date: 2024-12-05T16:30:00+0200
+lastmod: 2024-12-05T16:30:00+0200
 draft: false
 slug: artyvan-suolen-oireyhtyma
 aiheet:

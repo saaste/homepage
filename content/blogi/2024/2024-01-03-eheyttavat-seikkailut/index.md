@@ -3,6 +3,7 @@ title: "Eheyttävät seikkailut"
 description: "Monille matkustaminen ja lomailu on sitä, että paetaan raskasta arkea tai ankeaa työtä johonkin helppoon ympäristöön. Tällainen matkailu ei kuitenkaan ole ihan sitä, jota itse kaipaan. Kaipaan seikkailua."
 date: 2024-01-03T05:34:00+02:00
 publishDate: 2024-01-03T05:34:00+02:00
+lastmod: 2024-01-03T05:34:00+02:00
 draft: false
 slug: eheyttavat-seikkailut
 aiheet:

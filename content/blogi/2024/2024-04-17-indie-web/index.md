@@ -2,6 +2,7 @@
 title: "IndieWeb ja uudet kotisivut"
 description: "Tutustuin jokin aika sitten IndieWeb-termiin ja minulle tuli välittömästi siitä kotoisa oli. Se oli juuri sitä, mitä olin kaivannut modernin internetin rinnalle."
 date: 2024-04-17T19:45:00+03:00
+lastmod: 2024-04-17T19:45:00+03:00
 draft: false
 slug: indie-web
 aiheet:

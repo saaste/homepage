@@ -2,6 +2,7 @@
 title: "Minimalismia kohtuudella"
 description: "Minimalismi synnyttää helposti negatiivisia mielikuvia. Eikä ihan turhaan. Internetistä löytää mitä kummallisimpia otteita asiaan, eivätkä kaikki niistä ole järkeviä tai kestäviä."
 date: 2024-03-28T19:30:00+02:00
+lastmod: 2024-03-28T19:30:00+02:00
 draft: false
 slug: minimalismia-kohtuudella
 aiheet:

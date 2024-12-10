@@ -2,6 +2,7 @@
 title: Hiljaisuus
 description: "Vietin kuluneen viikonlopun Rautavaaralla ja sain samalla muistutuksen siitä, mitä todellinen hiljaisuus on."
 date: 2024-07-08T06:45:00+0300
+lastmod: 2024-07-08T06:45:00+0300
 draft: false
 slug: hiljaisuus
 aiheet:

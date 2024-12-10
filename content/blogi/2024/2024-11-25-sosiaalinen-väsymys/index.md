@@ -2,6 +2,7 @@
 title: "Sosiaalinen väsymys"
 description: "Vietin viikonlopun Tampereella. Reissu oli hyvä muistutus siitä, kuinka pieni oma sosiaalisen energian tankkini on."
 date: 2024-11-25T07:45:00+0200
+lastmod: 2024-11-25T07:45:00+0200
 draft: false
 slug: sosiaalinen-vasymys
 aiheet:

@@ -2,6 +2,7 @@
 title: "Paremman ympäristön puolesta"
 description: "Minulta kysyttiin, että miksi vihaan autoja niin paljon. Kun mietin vastausta, tajusin, ettei siihen voi vastata kovin lyhyesti."
 date: 2024-08-13T10:00:00+03:00
+lastmod: 2024-08-13T10:00:00+03:00
 draft: false
 slug: paremman-ympariston-puolesta
 aiheet:

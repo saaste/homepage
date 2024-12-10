@@ -2,6 +2,7 @@
 title: "Juoksemisen voima"
 description: "En ole viime päivinä ollut paras mahdollinen itseni. Ulkona satoi ja ulkoilureitit olivat kurassa. Kävin juoksemassa ja tulin takaisin ihan eri ihmisenä. Lenkki muistutti minua siitä, mikä voima juoksemisella voi olla."
 date: 2024-03-14T16:50:00+02:00
+lastmod: 2024-03-14T16:50:00+02:00
 draft: false
 slug: juoksemisen-voima
 aiheet:

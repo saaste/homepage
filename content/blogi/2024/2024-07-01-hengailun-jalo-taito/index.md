@@ -2,6 +2,7 @@
 title: Hengailun jalo taito
 description: "Tapasin viikonloppuna Tuskassa vierailemassa olleen kaverini. Höpisimme niitä näitä yli kahden tunnin ajan. Oli mukava vaan istua ja hengailla. Hengailla ihan kunnolla ilman häiriötekijöitä."
 date: 2024-07-01T21:00:00+0300
+lastmod: 2024-07-01T21:00:00+0300
 draft: false
 slug: hengailun-jalo-taito
 aiheet:

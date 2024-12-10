@@ -2,6 +2,7 @@
 title: Julkinen on vapaata riistaa?
 description: "Millainen maailma olisi, jos kaikki julkinen ja julkisesti esiin laitettu, tai sellaiseksi päätynyt, olisi vapaata riistaa?"
 date: 2024-06-13T13:38:55+0300
+lastmod: 2024-06-13T13:38:55+0300
 draft: false
 slug: julkinen-on-vapaata-riistaa
 aiheet:

@@ -2,6 +2,7 @@
 title: "Väkivalta"
 description: "Parin viime päivän aikana uutisissa ja sosiaalisessa mediassa on kohkattu väkivallasta. Erityisen näkyvästi otsikoitiin siitä, kuinka miehet tuntuvat \"oikeuttavan\" väkivallan. Tämä sai minut surulliseksi, mutta ehkä eri syistä kuin monet muut ihmiset."
 date: 2024-11-14T14:45:00+0200
+lastmod: 2024-11-14T14:45:00+0200
 draft: false
 slug: vakivalta
 aiheet:

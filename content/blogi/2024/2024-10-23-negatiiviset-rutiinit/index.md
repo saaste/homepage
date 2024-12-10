@@ -2,6 +2,7 @@
 title: "Negatiiviset rutiinit"
 description: "Olen suuri rutiinien puolesta puhuja. Niiden avulla olen parantanut monia asioita elämässäni. Rutiinit voivat olla myös pirullinen vihollinen."
 date: 2024-10-23T13:30:00+0300
+lastmod: 2024-10-23T13:30:00+0300
 draft: false
 slug: negatiiviset-rutiinit
 aiheet:

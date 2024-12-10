@@ -2,6 +2,7 @@
 title: Fujifilm, Lightroom ja Linux
 description: "Adobe Lightroom on ainut syy, miksi tietokoneeltani löytyy Windows. Käytän kaikkeen muuhun Linuxia, mutta Lightroomin korvaajaa on ollut todella vaikea löytää."
 date: 2024-06-23T21:15:00+0300
+lastmod: 2024-06-23T21:15:00+0300
 draft: false
 slug: fujifilm-lightroom-ja-linux
 aiheet:

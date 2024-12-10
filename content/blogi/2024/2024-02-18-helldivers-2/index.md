@@ -2,6 +2,7 @@
 title: "Peliarvostelu: Helldivers 2"
 description: "Helldivers 2 on jatkoa vuonna 2015 julkaistulle, suositulle co-op -pelille. Top-down -näkymä on muuttunut 3rd person -näkymäksi, mutta muuten pelin suosion rakentaneet elementit ovat yhä paikoillaan. Ongelmiakin on."
 date: 2024-02-18T10:48:00+02:00
+lastmod: 2024-02-18T10:48:00+02:00
 draft: false
 slug: helldivers-2
 aiheet:

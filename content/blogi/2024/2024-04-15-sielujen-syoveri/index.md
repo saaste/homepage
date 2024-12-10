@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Sielujen syöveri"
 description: "Sielujen syöveri on kolmas osa Tiina Raevaaran Eerika-sarjaa. Pidin todella paljon kahdesta ensimmäisestä osasta, mutta tämän kohdalla askel ei osunut ihan lankulle."
 date: 2024-04-15T08:00:00+03:00
+lastmod: 2024-04-15T08:00:00+03:00
 draft: false
 slug: sielujen-syoveri
 aiheet:

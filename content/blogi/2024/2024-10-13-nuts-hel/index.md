@@ -2,6 +2,7 @@
 title: "NUTS HEL -polkujuoksutapahtuma"
 description: "Osallistuin eilen NUTS HEL -polkujuoksutapahtumaan, joka tunnettiin aikaisemmin nimellä Helsinki City Trail. 24 km polkujuoksu Helsingin keskuspuistossa sateisessa säässä tarjosi tuttuja elämyksiä, joskin päädyin itse juoksemaan yli 27 kilometriä."
 date: 2024-10-13T08:45:00+0300
+lastmod: 2024-10-13T08:45:00+0300
 draft: false
 slug: nuts-hel
 aiheet:

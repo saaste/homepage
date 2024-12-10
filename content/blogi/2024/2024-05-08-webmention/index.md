@@ -2,6 +2,7 @@
 title: "Webmention: keskustelevat sivustot"
 description: "Lisäsin blogiin tuen webmentioneille. Lisäys ei todennäköisesti näy blogissa juuri mitenkään, sillä webmentionit eivät ole saavuttaneet erityisen suurta suosiota."
 date: 2024-05-08T13:00:00+03:00
+lastmod: 2024-05-08T13:00:00+03:00
 draft: false
 slug: webmention
 aiheet:

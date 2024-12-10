@@ -2,6 +2,7 @@
 title: Tärkeimmät oppini työelämästä
 description: "Sami Määttä kirjoitti blogissaan työelämänsä tärkeimmistä opeista. Niitä lukiessa nyökyttelin toistuvasti, sillä allekirjoitan kaikki hänen oivalluksensa. Kirjoitus sai miettimään sitä, että mitä olen itse oppinut työvuosien aikana."
 date: 2024-06-30T18:15:00+0300
+lastmod: 2024-06-30T18:15:00+0300
 draft: false
 slug: tarkeimmat-oppini-tyoelamasta
 aiheet:

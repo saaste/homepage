@@ -2,6 +2,7 @@
 title: Välähdyksiä autoilumaailmasta
 description: "Pääsin eroon viimeisestä käytössäni olleesta autosta opiskeluaikoina. En ole sen jälkeen ollut osa autoilumaailmaa kuin satunnaisesti vuokra- tai laina-autoja käyttäessä. Saan kuitenkin välähdyksiä tästä automaailmasta toisten kautta ja heidän kyydissään istuessa. Kuluneen kolmen viikon aikana näitä hetkiä on tullut normaalia enemmän"
 date: 2024-07-21T12:30:00+0300
+lastmod: 2024-07-21T12:30:00+0300
 draft: false
 slug: valahdyksia-autoilumaailmasta
 aiheet:

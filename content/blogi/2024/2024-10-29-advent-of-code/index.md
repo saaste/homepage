@@ -2,6 +2,7 @@
 title: "Advent of Code"
 description: "Joulukuun alkuun on enää reilu kuukausi. Joulukuu tarkoittaa tietenkin joulukalenteria! Perinteisiin suklaakalentereihin kyllästyneille tarjolla on täysin ilmainen ja terveellinen, joskin haastava vaihtoehto: Advent of Code."
 date: 2024-10-29T13:30:00+0200
+lastmod: 2024-10-29T13:30:00+0200
 draft: false
 slug: advent-of-code
 aiheet:

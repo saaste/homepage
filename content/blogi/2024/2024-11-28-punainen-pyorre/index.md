@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Punainen pyörre"
 description: "Sami Parkkisen varovaisilla scifi-elementeillä varustettu jännäri oli viihdyttävää luettavaa, mutta ei osannut sulkea kaikkia avaamiaan ovia."
 date: 2024-11-28T08:15:00+0200
+lastmod: 2024-11-28T08:15:00+0200
 draft: false
 slug: punainen-pyorre
 aiheet:

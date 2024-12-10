@@ -2,6 +2,7 @@
 title: "Kaksi Internetiä"
 description: "Kuuntelin The OverAnalyzers -podcastin jakson, joka käsitteli sosiaalisen median jakautumista. Jakson aikana tajusin, että itselläni on kaksi hyvin erilaista kuvaa ja kokemusta ei pelkästään sosiaalisesta mediasta, vaan koko Internetistä."
 date: 2024-04-24T19:21:00+03:00
+lastmod: 2024-04-24T19:21:00+03:00
 draft: false
 slug: kaksi-internetia
 aiheet:

@@ -2,6 +2,7 @@
 title: "Kokemuksia uudesta tietokoneesta"
 description: "Kirjoittelin kesäkuussa turhautumisestani liittyen valokuvien pyörittelyyn Linuxissa. Sain turhautumisen ratkaistua, mutta minkälaiseen ratkaisuun päädyin?"
 date: 2024-10-18T11:30:00+0300
+lastmod: 2024-10-18T11:30:00+0300
 draft: false
 slug: kokemuksia-uudesta-tietokoneesta
 aiheet:

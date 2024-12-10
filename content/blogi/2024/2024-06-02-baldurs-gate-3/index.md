@@ -2,6 +2,7 @@
 title: "Peliarvostelu: Baldur's Gate 3"
 description: "Pääsin eilen 125 pelitunnin jälkeen läpi Baldur's Gate 3:n. Muistan, kuinka hypetetty peli oli sen julkaisun yhteydessä. Itse onnistuin ohittamaan julkaisukaaoksen täysin ja hyppäsin mukaan vasta kun pahin huuma oli laantunut."
 date: 2024-06-02T20:45:00+0300
+lastmod: 2024-06-02T20:45:00+0300
 draft: false
 slug: baldurs-gate-3
 aiheet:

@@ -2,6 +2,7 @@
 title: "Interrail-vastoinkäymiset"
 description: "Olimme puolison kanssa odottaneet, että SJ, eli Ruotsin VR, toisi junaliput myyntiin matkamme ajankohdalle. Eilen se sitten tapahtui, joten pääsimme vihdoin tekemään tulevan interrail-matkan ensimmäisiä varauksia."
 date: 2024-04-28T12:49:00+03:00
+lastmod: 2024-04-28T12:49:00+03:00
 draft: false
 slug: interrail-vastoinkaymiset
 aiheet:

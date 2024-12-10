@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Kuunpaivan kirjeet"
 description: "Keväällä lukemani Emmi Itärannan Teemestarin kirja on yksi suosikkikirjojani. Olin kovasti innoissani hakiessani kirjastosta saman kirjailijan Kuunpäivän kirjeet. Takakansiteksti vaikutti erittäin kiinnostavalta. Kirja päätyi kuitenkin olemaan yksi tämän vuoden suurimmista pettymyksistä."
 date: 2024-08-16T09:00:00+0300
+lastmod: 2024-08-16T09:00:00+0300
 draft: false
 slug: kuunpaivan-kirjeet
 aiheet:

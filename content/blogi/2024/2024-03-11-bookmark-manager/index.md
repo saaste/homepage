@@ -2,6 +2,7 @@
 title: "Tein itse: Bookmark Manager"
 description: "En pidä kauheasti siitä, että kirjanmerkit on sidottu yksittäiseen selaimeen tai selainvalmistajan tarjoamaan pilvipalveluun. Testasin joitakin itse hostattavia ratkaisuja, mutta kun mikään niistä ei puhutellut, päätin tehdä oman. Samalla tuli hyvä tilaisuus tutustua ruudunlukijoihin ja esteettömyyteen."
 date: 2024-03-11T08:30:00+02:00
+lastmod: 2024-03-11T08:30:00+02:00
 draft: false
 slug: bookmark-manager
 aiheet:

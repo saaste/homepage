@@ -2,6 +2,7 @@
 title: Samaa toistamalla eri lopputulokseen?
 description: "Hulluutta on tehdä samaa asiaa uudelleen ja uudelleen, ja odottaa erilaista lopputulosta. Olen seurannut useamman vuoden keskustelua kaupunkisuunnittelun ja erityisesti yksityisautoilun vähentämisen ympärillä ja usein tuntuu, tämä hulluus on monelle suorannainen elämäntapa."
 date: 2024-06-04T20:15:00+0300
+lastmod: 2024-06-04T20:15:00+0300
 draft: false
 slug: samaa-toistamalla-eri-lopputulokseen
 aiheet:

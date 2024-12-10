@@ -3,6 +3,7 @@ title: "Divemaster-kurssi"
 description: "Suoritin ensimmäisen laitesukelluskurssin vuonna 2007. Sen jälkeen mielessä on pyörinyt toistuvasti ajatus Divemaster-kurssin suorittamisesta."
 date: 2024-01-02T04:18:00+02:00
 publishDate: 2024-01-02T04:18:00+02:00
+lastmod: 2024-01-02T04:18:00+02:00
 draft: false
 slug: divemaster-kurssi
 aiheet:

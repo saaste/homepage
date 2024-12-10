@@ -2,6 +2,7 @@
 title: Kiinnostus elokuviin katosi
 description: "Havahduin siihen, etten muista, milloin olisin viimeksi katsonut elokuvan. Katson elokuvia todella harvoin ja vielä harvemmin odotan niitä."
 date: 2024-05-14T18:45:00+0300
+lastmod: 2024-05-14T18:45:00+0300
 draft: false
 slug: kiinnostus-elokuviin-katosi
 aiheet:

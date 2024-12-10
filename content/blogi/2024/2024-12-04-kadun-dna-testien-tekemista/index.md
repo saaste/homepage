@@ -2,6 +2,7 @@
 title: "Kadun DNA-testien tekemistä"
 description: "Muutaman viimeisen vuoden aikana olen pyrkinyt panostamaan online-yksityisyyteen. Olenkin saanut poistettua paljon yksityistä tietoa, mutta yksi virhe kalvaa minua edelleen muita enemmän: DNA-testin tekeminen."
 date: 2024-12-04T07:15:00+0200
+lastmod: 2024-12-04T07:15:00+0200
 draft: false
 slug: kadun-dna-testien-tekemista
 aiheet:

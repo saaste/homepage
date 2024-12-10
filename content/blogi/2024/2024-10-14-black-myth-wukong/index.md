@@ -2,6 +2,7 @@
 title: "Peliarvostelu: Black Myth: Wukong"
 description: "Olin ajatellut, etten kiusaisi itseäni soulslike-peleillä enää tämän vuoden puolella. Sitten tuli Black Myth: Wukong, joka rikkoi myyntiennätyksiä, joten pakkohan minun oli nähdä, että mistä oli kysymys."
 date: 2024-10-14T10:45:00+0300
+lastmod: 2024-10-14T10:45:00+0300
 draft: false
 slug: black-myth-wukong
 aiheet:

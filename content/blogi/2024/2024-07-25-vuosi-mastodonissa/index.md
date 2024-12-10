@@ -2,6 +2,7 @@
 title: Vuosi Mastodonissa
 description: "Perustin nykyisen Mastodon-tilini *25.7.2023*, eli olen ollut nyt vuoden ajan Mastodonissa. En ole erityisemmin sosiaalisen median ystävä. Ehkä juuri tästä syystä Mastodon ja laajemmin Fediverse on ollut itselleni ristiriitainen kokemus. Se tekee joitakin asioita oikein, mutta siinä on myös omat ongelmansa."
 date: 2024-07-25T05:45:00+0300
+lastmod: 2024-07-25T05:45:00+0300
 draft: false
 slug: vuosi-mastodonissa
 aiheet:

@@ -2,6 +2,7 @@
 title: "Tarina kuormapyörän pysäköinnistä"
 description: "Tämä on tarina kuormapyörästä ja parkkipaikasta. Samalla se on tarina autolähtöisestä ajattelusta ja sen järjettömyydestä."
 date: 2024-11-12T08:15:00+0200
+lastmod: 2024-11-12T08:15:00+0200
 draft: false
 slug: tarina-kuormapyoran-pysakoinnista
 aiheet:

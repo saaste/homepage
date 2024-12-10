@@ -2,6 +2,7 @@
 title: Hidasta vauhtia
 description: "Pohdintaa siitä, kuinka oma suhtautumiseni liikkumiseen ja liikenteeseen on muuttunut. Ja taidan tietää syyn: olen hidastanut vauhtia."
 date: 2024-05-26T13:45:00+0300
+lastmod: 2024-05-26T13:45:00+0300
 draft: false
 slug: hidasta-vauhtia
 aiheet:

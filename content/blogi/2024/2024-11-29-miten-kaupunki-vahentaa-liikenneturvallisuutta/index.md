@@ -2,6 +2,7 @@
 title: "Miten kaupunki vähentää liikenneturvallisuutta?"
 description: "Helsingin jalankulkijat ry julkaisi mainion blogikirjoituksen Mellunkylän liikenneturvallisuusselvityksestä ja siitä, kuinka kaupunki voisi lisätä liikenneturvallisuutta. Kirjoituksesta inspiroituneena päätin kääntää kysymyksen päälaelleen."
 date: 2024-11-29T08:45:00+0200
+lastmod: 2024-11-29T08:45:00+0200
 draft: false
 slug: miten-kaupunki-vahentaa-liikenneturvallisuutta
 aiheet:

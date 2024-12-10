@@ -2,6 +2,7 @@
 title: Somenälkä
 description: "Otto Ojala julkaisi eilen Mastodonissa lyhyen töötin, jossa hän pohti suomenkielisen Mastodonin soveltuvuutta omaan somenälkään. Napakka töötti sai minut miettimään tismalleen samaa kysymystä."
 date: 2024-06-27T13:45:00+0300
+lastmod: 2024-06-27T13:45:00+0300
 draft: false
 slug: somenalka
 aiheet:

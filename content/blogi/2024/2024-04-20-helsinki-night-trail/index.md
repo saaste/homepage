@@ -2,6 +2,7 @@
 title: "Helsinki Night Trail"
 description: "Aivan liian pitkän tauon jälkeen olen saanut mukavalla tavalla kiinni juoksemisesta. Eilen osallistuin vuoden ensimmäiseen juoksutapahtumaan, Helsinki Night Trailiin."
 date: 2024-04-20T09:00:00+03:00
+lastmod: 2024-04-20T09:00:00+03:00
 draft: false
 slug: helsinki-night-trail
 aiheet:

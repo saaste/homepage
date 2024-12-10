@@ -2,6 +2,7 @@
 title: "Juoksemalla juoksukuntoon"
 description: "Aikaisemmassa juoksukirjoituksessa kerroin, kuinka onnistuin muutamaan itseni polvikipuisesta juoksijasta ultrajuoksijaksi. En kuitenkaan kertonut, että kuinka se käytännössä tapahtui. Yritän korjata virheen."
 date: 2024-03-31T10:45:00+03:00
+lastmod: 2024-03-31T10:45:00+03:00
 draft: false
 slug: juoksemalla-juoksukuntoon
 aiheet:

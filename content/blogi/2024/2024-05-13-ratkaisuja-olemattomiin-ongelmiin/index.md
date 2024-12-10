@@ -2,6 +2,7 @@
 title: Ratkaisuja olemattomiin ongelmiin
 description: "Olen oppinut työelämässä kysymään, että mikä on se todellinen ongelma, jota yritämme ratkaista. Usein tuntuu, että etenkin teknologiapuolella tätä kysymystä ei osata tai haluta kysyä."
 date: 2024-05-13T09:00:00+0300
+lastmod: 2024-05-13T09:00:00+0300
 draft: false
 slug: ratkaisuja-olemattomiin-ongelmiin
 aiheet:

@@ -2,6 +2,7 @@
 title: "Kirja-arvostelu: Aarteidesi aikakirjat"
 description: "Sain luettua eilen loppuun neljännen Piia Leinon kirjan. Aarteidesi aikakirjat poikkesi kolmesta aikaisemmasta mielenkiintoisella tavalla."
 date: 2024-07-29T11:30:00+0300
+lastmod: 2024-07-29T11:30:00+0300
 draft: false
 slug: aarteidesi-aikakirjat
 aiheet:

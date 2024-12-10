@@ -1,6 +1,7 @@
 ---
 title: "Uusi vuosi"
 date: 2024-01-01T00:22:00+02:00
+lastmod: 2024-01-01T00:22:00+02:00
 draft: false
 slug: uusi-vuosi
 aiheet:

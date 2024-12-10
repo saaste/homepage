@@ -2,6 +2,7 @@
 title: "Lautapeli-ilta"
 description: "Kokoonnuimme taas kavereiden kanssa saman pöydän ääreen pelailemaan lautapelejä."
 date: 2024-12-08T20:00:00+0200
+lastmod: 2024-12-08T20:00:00+0200
 draft: false
 slug: lautapeli-ilta
 aiheet:
