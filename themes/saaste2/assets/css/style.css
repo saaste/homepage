@@ -229,7 +229,7 @@ body {
         color: var(--color-navi);
         text-decoration: none;
         font-size: var(--font-size-main-navi);
-        border-bottom: 2px solid transparent;
+        border-bottom: 3px solid transparent;
         padding-bottom: 0.2rem;
         transition:
             color .15s ease-in-out,
@@ -339,6 +339,9 @@ body {
         h3 {
             border-bottom: none;
             margin-bottom: 0;
+        }
+        & + .subpage {
+            margin-top: 2rem;
         }
     }
 
