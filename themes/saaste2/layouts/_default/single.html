@@ -1,0 +1,15 @@
+{{- define "main" -}}
+  <h2 class="page-title p-name" data-pagefind-meta="title">{{ .Title }}</h2>
+  
+  <div class="e-content">
+    {{ .Content }}
+  </div>
+
+  {{- with .Lastmod -}}
+    <div class="last-updated">
+      {{- $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" -}}
+      {{- $dateHuman := . | time.Format "02.01.2006 kello 15:04" -}}
+      <time datetime="{{ $dateMachine }}">Päivitetty viimeksi {{ $dateHuman }}</time>
+    </div>
+  {{- end -}}
+{{- end -}}

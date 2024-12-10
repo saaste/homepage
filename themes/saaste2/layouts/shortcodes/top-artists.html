@@ -1,0 +1,32 @@
+{{ $musicData := dict }}
+{{ $path := "listenbrainz.json" }}
+{{ with resources.Get $path }}
+    {{ with . | transform.Unmarshal }}        
+        {{ $musicData = . }}
+    {{ end }}
+{{ else }}
+    {{ errorf "Unable to get %q" $path }}
+{{ end }}
+
+{{ $top_artists := index $musicData "top_artists" }}
+{{ $total_artist_count := index $musicData "total_artist_count" }}
+{{ if gt (len $top_artists) 0 }}
+    <p>Viikon top-10 kuunnelluimmat artistit:</p>
+    <ol class="top-artists">
+    {{ range $top_artists }}
+        <li>
+            <a href="{{ index . "url" }}" target="_blank">{{ index . "title" }}</a>
+            {{ $allTags := first 2 (index . "tags") }}
+            {{ $tagString := delimit $allTags ", " }}
+            {{ with $tagString }}
+            ({{ . }})
+            {{ end }}
+        </li>
+    {{ end }}
+    </ol>
+    <p>Viikon aikana olen kuunnellut musiikkia <em>{{ $total_artist_count }}</em> eri artistilta.</p>
+{{ else }}
+    <ul>
+        <li><a href="https://listenbrainz.org">Listenbrainz</a> ei ole vielä luonut tilastoja. Toivottavasti tilanne muuttuu pian.</li>
+    </ul>
+{{ end }}

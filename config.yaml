@@ -2,7 +2,7 @@ baseURL: "https://saaste.net/"
 defaultContentLanguage: fi
 enableRobotsTXT: true
 languageCode: fi
-theme: "saaste"
+theme: "saaste2"
 timeZone: "Europe/Helsinki"
 title: "saaste.net"
 pluralizelisttitles: false
@@ -44,6 +44,10 @@ menus:
 taxonomies:
   aiheet: "aiheet"
   sarjat: "sarjat"
+
+services:
+  rss:
+    limit: 10
 
 pagination:
   pageSize: 10

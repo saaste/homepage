@@ -1,3 +1,4 @@
 ---
-title: "2024"
+title: "Kirjoitukset vuodelta 2024"
+linkTitle: "2024"
 ---

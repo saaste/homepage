@@ -1,0 +1,21 @@
+{
+    "lang": "fi",
+    "name": "saaste.net",
+    "short_name": "saaste.net",
+    "start_url": "https://saaste.net/",
+    "icons": [
+        {
+            "src": "../images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../images//android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#272935",
+    "background_color": "#272935",
+    "display": "browser"
+}

@@ -1,0 +1,68 @@
+{{- define "main" -}}
+    <h2 class="page-title p-name" data-pagefind-meta="title">{{ .Title }}</h2>
+    <h3 class="post-published">
+        <time datetime="{{ .PublishDate | time.Format "2006-01-02" }}">
+            {{ .PublishDate | time.Format "Monday 02.01.2006" }}
+        </time>
+    </h3>
+
+    <div class="post-meta">
+        {{- $readingTime := div (float .WordCount) .Site.Params.reading_speed -}}
+        {{- $readingTime = math.Ceil $readingTime -}}
+        
+        {{- if not (eq .Page.PublishDate .Page.Lastmod) -}}
+            <p>
+                Päivitetty:
+                <time datetime="{{ .Lastmod | time.Format "2006-01-02" }}">
+                    {{ .Lastmod | time.Format "Monday 02.01.2006" }}
+                </time>
+            </p>
+        {{- end -}}
+
+        <p>Lukuaika: {{ $readingTime }} minuuttia</p>
+
+        {{- if .Params.sarjat -}}
+        <div class="serie">
+            {{- with index (.GetTerms "sarjat") 0 -}}
+            <p>Kirjoitus on osa <strong>{{ .LinkTitle }}</strong> kirjoitussarjaa. Sarjaan kuuluu seuraavat kirjoitukset:</p>
+            {{- end -}}
+        
+            {{- $series := where .Site.RegularPages.ByDate ".Params.sarjat" "intersect" .Params.sarjat -}}
+            {{- with $series -}}
+            <ol>
+                {{- range . -}}
+                <li>
+                    {{- if eq .File.UniqueID $.File.UniqueID -}}
+                        <p>{{ .Title }}</p>
+                    {{- else -}}
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    {{- end -}}
+                </li>
+                {{- end -}}
+            </ol>
+            {{- end -}}
+        </div>
+    {{- end -}}
+    </div>
+
+    <div class="e-content">
+    {{ .Content }}
+    </div>
+
+    {{- if (or .NextInSection .PrevInSection) -}}
+    <div class="next-prev-nav" data-pagefind-ignore>
+        {{- with .PrevInSection -}}
+        <a href="{{ .RelPermalink }}" class="prev">
+            <span class="title">« Edellinen</span><br>
+            {{ .Title }}
+        </a>
+        {{- end -}}
+
+        {{- with .NextInSection -}}
+        <a href="{{ .RelPermalink }}" class="next">
+            <span class="title">Seuraava »</span><br>
+            {{ .Title }}</a>
+        {{- end -}}
+    </div>
+    {{- end -}}
+{{- end -}}

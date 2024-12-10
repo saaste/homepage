@@ -1,0 +1,24 @@
+<p>Copyright {{ now.Year }} saaste.net</p>
+<nav class="sub-menu">
+    <ul>
+        {{ range .Site.Menus.bottom }}
+        {{ if strings.HasPrefix .URL "http" }}
+        <li class="menu-item"><a href="{{ .URL }}" target="_blank" rel="noopener">{{ .Name | safeHTML }}</a></li>
+        {{ else }}
+        <li class="menu-item"><a href="{{ .URL }}">{{ .Name | safeHTML }}</a></li>
+        {{ end }}
+    {{ end }}    
+    </ul>
+</nav>
+{{- with resources.Get "images/badge-made-by-human.png" -}}
+    <div class="badges">
+        <a href="/ai">
+            <img src="{{ .RelPermalink }}"
+                alt="Pieni Made by human -merkki, joka kertoo siitä, että sivujen sisältö on toteutettu ihmisen toimesta eikä tekoälyä ole käytetty."
+                title="Periaatteet tekoälyn käyttöön"
+                class="badge"
+                width="88"
+                height="31">
+        </a>
+    </div>
+{{- end -}}

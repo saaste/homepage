@@ -1,0 +1,14 @@
+{{- define "main" -}}
+  <h2 class="page-title p-name" data-pagefind-meta="title">Tervetuloa!</h2>
+  
+  <div class="e-content">
+    {{ .Content }}
+  </div>
+
+  {{/* 
+  {{- range site.RegularPages -}}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
+  {{- end -}}
+  */}}
+{{- end -}}

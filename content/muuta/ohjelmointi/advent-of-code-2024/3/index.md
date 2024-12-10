@@ -1,5 +1,6 @@
 ---
 title: "Advent of Code 2024: 3. päivä"
+linkTitle: "3. päivä"
 lastmod: 2024-12-03T13:09:00+02:00
 summary: "Leuka rintaan ja kohti uusia regex-pettymyksiä"
 ---

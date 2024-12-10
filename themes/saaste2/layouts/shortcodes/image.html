@@ -1,0 +1,27 @@
+{{- $file := .Get "file" -}}
+{{- $alt := .Get "alt" -}}
+{{- $caption := .Get "caption" -}}
+{{- $float := .Get "float" -}}
+
+{{- if not $file -}}
+    {{- errorf "The %q shortcode requires a 'file' argument. See %s" .Name .Position -}}
+{{- end -}}
+
+{{- if not $alt -}}
+    {{- errorf "The %q shortcode requires an 'alt' argument. See %s" .Name .Position -}}
+{{- end -}}
+
+{{- if $caption -}}
+<figure class="post-article-image{{ if $float }} float-{{ $float }}{{ end }}">
+    <a href="{{ $file | safeURL }}">
+        <img src="{{ $file | safeURL }}" alt="{{ $alt }}">
+    </a>
+    <figcaption>{{ $caption }}</figcaption>
+</figure>
+{{- else -}}
+<div class="post-article-image{{ if $float }} float-{{ $float }}{{ end }}">
+    <a href="{{ $file | safeURL }}">
+        <img src="{{ $file | safeURL }}" alt="{{ $alt }}">
+    </a>
+</div>
+{{- end -}}

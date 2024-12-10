@@ -1,5 +1,6 @@
 ---
 title: "Advent of Code 2024: 6. päivä"
+linkTitle: "6. päivä"
 lastmod: 2024-12-06T20:07:00+02:00
 summary: "Vartijan väistelyä ja koodin debuggausta Photoshopilla"
 ---

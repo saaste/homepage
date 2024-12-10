@@ -1,0 +1,35 @@
+
+{{ $fileName := .Get "file" }}
+
+<div class="travel-schedule table-wrapper">
+{{ with .Page.Resources.Get $fileName }}
+    {{ with . | transform.Unmarshal }}
+        {{ $data := . }}
+        {{ $route := index $data "route" }}
+        <table>
+            <tr>
+                <th>Päivämäärä</th>
+                <th>Kellonaika</th>
+                <th>Reitti</th>
+                <th>Operaattori / tunnus</th>
+                <th>Muuta</th>
+            </tr>
+            {{ range $route }}
+                {{ $date := index . "date" }}
+                {{ $time := index . "time" }}
+                {{ $name := index . "name" }}
+                {{ $operator := index . "operator" }}
+                {{ $notes := index . "notes" }}
+                <tr>
+                    <td><em>{{ $date }}</em></td>
+                    <td>{{ $time }}</td>
+                    <td>{{ $name }}</td>
+                    <td>{{ $operator }}</td>
+                    <td>{{ $notes }}</td>
+                </tr>
+            {{ end }}
+        </table>
+
+    {{ end }}
+{{ end }}
+</div>

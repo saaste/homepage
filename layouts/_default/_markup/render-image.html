@@ -6,12 +6,16 @@
   {{- end -}}
 {{- end -}}
 {{ if .Title }}
-<figure class="post-image">
-    <img src="{{ $src | safeURL }}" alt="{{ .Text }}">
+<figure class="post-article-image">
+    <a href="{{ $src | safeURL }}">
+      <img src="{{ $src | safeURL }}" alt="{{ .Text }}">
+    </a>
     <figcaption>{{ .Title }}</figcaption>
 </figure>
 {{ else }}
-<div class="post-image">
-    <img src="{{ $src | safeURL }}" alt="{{ .Text }}">
+<div class="post-article-image">
+    <a href="{{ $src | safeURL }}">
+      <img src="{{ $src | safeURL }}" alt="{{ .Text }}">
+    </a>
 </div>
 {{ end }}

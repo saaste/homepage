@@ -1,0 +1,12 @@
+{{- $ancestors := after 0 .Ancestors.Reverse }}
+{{- with $ancestors -}}
+<nav class="breadcrumb" aria-label="breadcrumb">
+    <ol>
+        {{- range . -}}
+            <li><a class="breadcrumb-item" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{- end -}}
+
+        <li><a class="breadcrumb-item" href="{{ $.RelPermalink }}" aria-current="page">{{ $.LinkTitle }}</a></li>
+    </ol>
+</nav>
+{{- end -}}

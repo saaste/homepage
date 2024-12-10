@@ -1,0 +1,50 @@
+{{- define "main" -}}
+<h2 class="page-title">Blogi</h2>
+<h3 class="p-name" data-pagefind-meta="title">{{ .Title }}</h3>
+
+{{- with .Content -}}
+<div class="e-content">
+  {{ . }}
+</div>
+{{- end -}}
+
+{{- $paginator := .Paginate ( .RegularPagesRecursive.ByPublishDate.Reverse ) -}}
+<div class="post-list" data-pagefind-ignore>
+    {{- range $paginator.Pages -}}
+        {{- $page := . -}}
+        {{- $dateMachine := .PublishDate | time.Format "2006-01-02T15:04:05-07:00" -}}
+        {{- $dateHuman := .PublishDate | time.Format "02.01.2006 kello 15:04" -}}
+        <div class="post">
+            <div class="post-details">
+                <h4 class="post-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
+                <time class="post-time" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+                <div class="post-summary">{{ .Summary }}</div>
+            </div>
+
+            {{- with .Resources.GetMatch "cover" -}}
+                {{- $thumbnail := .Resize "400x jpg q50" -}}
+                <picture class="post-image">
+                    <source srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" media="(max-width: 700px)">
+                    <img src="{{ $thumbnail.Permalink }}" alt="{{ .Title }}" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" class="thumbnail">
+                </picture>
+            {{- else -}}
+                {{- $url := printf "https://opengraph.saaste.net/opengraph.png?title=%s" $page.Title -}}
+                {{- with resources.GetRemote $url -}}
+                    {{- with .Err -}}
+                        {{- errorf "%s" . -}}
+                    {{- else -}}
+                        {{- $thumbnail := .Resize "400x jpg q50" -}}
+                        <picture class="post-image">
+                            <source srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" media="(max-width: 700px)">
+                            <img src="{{ $thumbnail.Permalink }}" alt="Open Graph -kuva, jossa on kirjoituksen otsikko." width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" class="thumbnail">
+                        </picture>
+                    {{- end -}}
+                {{- end -}}
+            {{- end -}}
+        </div>
+    {{- end -}}
+</div>
+
+{{- template "_internal/pagination.html" . -}}
+
+{{- end -}}

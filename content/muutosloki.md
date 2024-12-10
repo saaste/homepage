@@ -4,6 +4,12 @@ lastmod: 2024-12-02T20:36:00+02:00
 summary: "Tietoja viimeisistä näkyvistä muutoksista"
 ---
 
+### tiistai 10.12.2024
+- Ulkoasua päivitetty
+- Tyylit ja templatet kirjoitettu kokonaan uusiksi
+- Mastodon-integraatio poistettu toistaiseksi (uusia ideoita mielessä)
+- Blogipostausten kategoriat poistettu ([Hugo](https://gohugo.io) toimii vähän hölmösti niiden kanssa)
+
 ### perjantai 9.12.2024
 - Fontti vaihdettu [Jetbrains Monoon](https://www.jetbrains.com/lp/mono/)
 - Pieniä ulkoasuviilauksia

@@ -1,0 +1,21 @@
+{{/* STATIC FILES */}}
+<script src="/js/search.js"></script>
+
+{{/* PROCESSED ASSETS */}}
+{{/* 
+  {{- $jsFiles := slice "js/search.js" -}}
+  {{- range $jsFiles -}}
+    {{- with resources.Get . -}}
+      {{- if eq hugo.Environment "development" -}}
+        {{- with . | js.Build -}}
+          <script src="{{ .RelPermalink }}"></script>
+        {{- end -}}
+      {{- else -}}
+        {{- $opts := dict "minify" true -}}
+        {{- with . | js.Build $opts | fingerprint -}}
+          <script src="{{ .RelPermalink }}" integrity="{{- .Data.Integrity }}" crossorigin="anonymous"></script>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+*/}}

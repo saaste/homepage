@@ -1,0 +1,17 @@
+{{- define "main" -}}
+<div data-pagefind-ignore>
+  <h2 class="page-title p-name" data-pagefind-meta="title">{{ .Title }}</h2>
+
+  {{- with .Content -}}
+  <div class="e-content">
+      {{ .Content }}
+    </div>
+  {{- end -}}
+
+  <div id="search">
+      <input type="text" name="query_input" id="query_input" />
+      <div id="search_results"></div>
+      <button type="button" id="more_results" class="hidden">Lataa lisää tuloksia</button>
+  </div>
+</div>
+{{- end -}}
