@@ -7,7 +7,6 @@ timeZone: "Europe/Helsinki"
 title: "saaste.net"
 pluralizelisttitles: false
 titleCaseStyle: firstupper
-enableGitInfo: true
 
 languages:
   fi:
@@ -66,7 +65,7 @@ markup:
 frontmatter:
   lastmod:
       - lastmod
-      - :git
+      - :fileModTime
       - modified
       - date
       - publishdate
