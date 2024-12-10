@@ -26,6 +26,7 @@ Luen sekä fyysisiä, että e-kirjoja. E-kirjat luen Kindlellä ja fyysiset kirj
 - [Wes Marshall - Killed by a Traffic Engineer](https://www.killedbyatrafficengineer.com/)
 - [J.G. Ballard - Super-Cannes](https://finna.fi/Record/helmet.1651504?sid=4761986339)
 - [Michael Mechanic - Jackpot](https://michaelmechanic.com/jackpot-about-book-author/)
+- [Emily M. Bender - The AI Con](https://thecon.ai)
 
 ### Pelit
 
