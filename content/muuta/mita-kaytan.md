@@ -1,7 +1,6 @@
 ---
 title: "Mitä käytän"
 summary: "Lista laitteista, sovelluksista ja härveleistä, joita käytän arjessa."
-lastmod: 2024-12-02T04:28:00+02:00
 ---
 
 ### Tietokoneet

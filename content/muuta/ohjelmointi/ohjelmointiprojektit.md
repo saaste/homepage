@@ -1,7 +1,6 @@
 ---
 title: "Ohjelmointiprojektit"
 summary: "Lista avoimen lähdekoodin projekteista, jotka olen toteuttanut."
-lastmod: 2024-12-03T19:55:00+02:00
 ---
 
 Alla olevat projektit ovat ensisijaisesti omaan käyttöön tehty. Haluan kuitenkin julkaista omat tekeleeni avoimena lähdekoodina siinä toivossa, että joku muukin voisi niistä hyötyä.

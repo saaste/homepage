@@ -1,6 +1,5 @@
 ---
 title: "Tietoa"
-lastmod: 2024-12-02T03:54:00+02:00
 summary: "Tietoa sivustosta ja sen ylläpitäjästä"
 ---
 
