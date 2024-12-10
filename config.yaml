@@ -56,3 +56,8 @@ caches:
   getresource:
     dir: :resourceDir/_gen
     maxAge: -1
+
+markup:
+  goldmark:
+    parser:
+      wrapStandAloneImageWithinParagraph: false

@@ -5,17 +5,17 @@
     {{- $src = .RelPermalink -}}
   {{- end -}}
 {{- end -}}
-{{ if .Title }}
+{{- if .Title -}}
 <figure class="post-article-image">
     <a href="{{ $src | safeURL }}">
       <img src="{{ $src | safeURL }}" alt="{{ .Text }}">
     </a>
     <figcaption>{{ .Title }}</figcaption>
 </figure>
-{{ else }}
+{{- else -}}
 <div class="post-article-image">
     <a href="{{ $src | safeURL }}">
       <img src="{{ $src | safeURL }}" alt="{{ .Text }}">
     </a>
 </div>
-{{ end }}
+{{- end -}}
