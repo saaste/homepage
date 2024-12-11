@@ -2,7 +2,7 @@
 title: "Advent of Code"
 description: "Joulukuun alkuun on enää reilu kuukausi. Joulukuu tarkoittaa tietenkin joulukalenteria! Perinteisiin suklaakalentereihin kyllästyneille tarjolla on täysin ilmainen ja terveellinen, joskin haastava vaihtoehto: Advent of Code."
 date: 2024-10-29T13:30:00+0200
-lastmod: 2024-10-29T13:30:00+0200
+lastmod: 2024-12-11T16:13:00+0200
 draft: false
 slug: advent-of-code
 aiheet:
@@ -49,3 +49,5 @@ Itse aion toteuttaa tämän vuoden ratkaisut [Go:lla](https://go.dev/). Käytin 
 Aion julkaista kaikki tekemäni ratkaisut [GitHubissa](https://github.com/saaste/advent-of-code-2024). Koodin laatu tulee tuttuun tapaan olemaan aivan järkyttävää roskaa, mutta se onkin yksi Advent of Coden hienouksista: voit keskittyä ongelmaan, eikä kukaan ole marmattamassa sinulle joutavista koodauskäytännöistä. Voit antaa luovuudelle ottaa vallan!
 
 Mikäli haluat virkistää matemaattisia ja algoritmisia taitojasi, opetella uuden ohjelmointikielen tai käyttää muuten vaan hoksottimiasi, nyt siihen on hyvä tilaisuus. Tässä on vielä reilu kuukausi aikaa ja voit valmistautua tulevaan jouluseikkailuun esimerkiksi [edellisten](https://adventofcode.com/2023) [vuosien](https://adventofcode.com/2022) [joulukalentereilla](https://adventofcode.com/2021). Jos osallistut joulukalenteriin, kannustan julkaisemaan omat räpellykset avoimena lähdekoodina!
+
+**Lisäys 11.12.2024**: tein tämän vuoden AoC-haasteille [oman sivun]({{< ref "/muuta/ohjelmointi/advent-of-code-2024" >}}), jonne olen koonnut ajatuksiani päivän haasteista.
