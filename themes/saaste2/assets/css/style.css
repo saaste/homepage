@@ -55,7 +55,7 @@ body {
         }
     }
     em {
-        color: var(--emphasis-strong);
+        color: var(--color-emphasis);
         text-shadow: var(--text-shadow-emphasis);
     }
     strong {
