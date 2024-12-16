@@ -22,6 +22,7 @@ summary: "Lista erilaisista asioista, kuten lukemani kirjat, pelaamani pelit sek
 - [J. Pekka Mäkelä, Karsta](https://finna.fi/Record/helmet.1920453?sid=4731210757) ([Arvostelu]({{< ref "/blogi/2024/2024-10-10-karsta" >}}))
 - [Markku Soikkeli, Läpinäkyvä kuolema](https://finna.fi/Record/helmet.2150897?sid=4838439496) ([Arvostelu]({{< ref "/blogi/2024/2024-11-10-lapinakyva-kuolema" >}}))
 - [Sami Parkkinen, Punainen pyörre](https://finna.fi/Record/helmet.1978283?sid=4866119961) ([Arvostelu]({{< ref "/blogi/2024/2024-11-28-punainen-pyorre" >}}))
+- [J. Pekka Mäkelä - Alas](https://finna.fi/Record/helmet.2110745?sid=4876802745) ([Arvostelu]({{< ref "/blogi/2024/2024-12-16-alas" >}}))
 
 ### Pelatut PC- ja konsolipelit
 

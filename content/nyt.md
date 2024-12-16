@@ -15,4 +15,4 @@ summary: "Mitä puuhastelen juuri nyt"
 - [Stellar Blade](https://stellar-blade.com/) ([Traileri](https://www.youtube.com/watch?v=DSznLWimMlU))
 
 ### Kirjat
-- [J. Pekka Mäkelä - Alas](https://finna.fi/Record/helmet.2110745?sid=4876802745)
+- Uusi kirja mietinnässä
