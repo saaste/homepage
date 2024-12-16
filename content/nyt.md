@@ -15,4 +15,4 @@ summary: "Mitä puuhastelen juuri nyt"
 - [Stellar Blade](https://stellar-blade.com/) ([Traileri](https://www.youtube.com/watch?v=DSznLWimMlU))
 
 ### Kirjat
-- Uusi kirja mietinnässä
+- [Andy Weir - Operaatio Ave Maria](https://finna.fi/Record/fikka.5569279?sid=4731211093)
