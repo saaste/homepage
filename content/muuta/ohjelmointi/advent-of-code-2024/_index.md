@@ -30,3 +30,4 @@ Yksi Advent of Coden parhaista puolista on se, ettei minun tarvitse välittää 
 - [14. päivä]({{< relref "14" >}})
 - [15. päivä]({{< relref "15" >}})
 - [16. päivä]({{< relref "16" >}})
+- [17. päivä]({{< relref "17" >}})
