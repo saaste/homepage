@@ -14,20 +14,21 @@ En usko pystyväni tänä vuonna ratkaisemaan kaikkia haasteita, koska elämä, 
 Yksi Advent of Coden parhaista puolista on se, ettei minun tarvitse välittää koodin laadusta. Otan siitä kaiken ilon irti! Jos satut katsomaan ratkaisujani GitHubista, ne eivät todennäköisesti ole hyviä esimerkkejä laadukkaasta koodista. Siistin, napakan ja helposti ylläpidettävän koodin kirjoittamisen jätän leipätöihin. Advent of Codessa koodi saa olla juuri niin räävitöntä kuin mitä sattuu tulemaan, kunhan ratkaisu on oikea!
 
 #### Haasteet
-- [1. päivä]({{< relref "1" >}})
-- [2. päivä]({{< relref "2" >}})
-- [3. päivä]({{< relref "3" >}})
-- [4. päivä]({{< relref "4" >}})
-- [5. päivä]({{< relref "5" >}})
-- [6. päivä]({{< relref "6" >}})
-- [7. päivä]({{< relref "7" >}})
-- [8. päivä]({{< relref "8" >}})
-- [9. päivä]({{< relref "9" >}})
-- [10. päivä]({{< relref "10" >}})
-- [11. päivä]({{< relref "11" >}})
-- [12. päivä]({{< relref "12" >}})
-- [13. päivä]({{< relref "13" >}})
-- [14. päivä]({{< relref "14" >}})
-- [15. päivä]({{< relref "15" >}})
-- [16. päivä]({{< relref "16" >}})
-- [17. päivä]({{< relref "17" >}})
+- [1. päivä]({{< relref "1" >}}) ⭐⭐
+- [2. päivä]({{< relref "2" >}}) ⭐⭐
+- [3. päivä]({{< relref "3" >}}) ⭐⭐
+- [4. päivä]({{< relref "4" >}}) ⭐⭐
+- [5. päivä]({{< relref "5" >}}) ⭐⭐
+- [6. päivä]({{< relref "6" >}}) ⭐⭐
+- [7. päivä]({{< relref "7" >}}) ⭐⭐
+- [8. päivä]({{< relref "8" >}}) ⭐⭐
+- [9. päivä]({{< relref "9" >}}) ⭐⭐
+- [10. päivä]({{< relref "10" >}}) ⭐⭐
+- [11. päivä]({{< relref "11" >}}) ⭐⭐
+- [12. päivä]({{< relref "12" >}}) ⭐⭐
+- [13. päivä]({{< relref "13" >}}) ⭐(⭐)
+- [14. päivä]({{< relref "14" >}}) ⭐⭐
+- [15. päivä]({{< relref "15" >}}) ⭐⭐
+- [16. päivä]({{< relref "16" >}}) ⭐
+- [17. päivä]({{< relref "17" >}}) ⭐(⭐)
+- [18. päivä]({{< relref "18" >}}) 
