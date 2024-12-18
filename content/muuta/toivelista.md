@@ -44,5 +44,7 @@ Pelaan lähes yksinomaan Playstation 5:llä, joten pelit keskittyvät sille alus
 - [The Outer Worlds 2](https://outerworlds2.obsidian.net) ([Traileri](https://www.youtube.com/watch?v=s7Xm7sy4tw4)) (Julkaisuaika: 2025)
 - [Borderlands 4](https://borderlands.2k.com) ([Traileri](https://www.youtube.com/watch?v=26vY2GMfYTw)) (Julkaisuaika: 2025)
 - Ghost of Yōtei ([Traileri](https://www.youtube.com/watch?v=7z7kqwuf0a8)) (Julkaisuaika: 2025)
+- Dispatch ([Traileri](https://www.youtube.com/watch?v=ZbERWU5bc50)) (Julkaisuaika: 2025)
+- [Exodus](https://www.exodusgame.com) ([Traileri](https://www.youtube.com/watch?v=DmJxSKn47EE)) (JUlkaisuaika: ????)
 - [The Witcher IV](https://www.thewitcher.com/fi/en/witcher4) ([Traileri](https://www.youtube.com/watch?v=54dabgZJ5YA)) (Julkaisuaika: ????)
 - [Light of Motiram](https://www.gematsu.com/games/light-of-motiram) ([Traileri](https://www.youtube.com/watch?v=5IPmpZFdNP4)) (Julkaisuaika: ????)
