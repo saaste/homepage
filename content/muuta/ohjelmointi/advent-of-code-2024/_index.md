@@ -31,4 +31,5 @@ Yksi Advent of Coden parhaista puolista on se, ettei minun tarvitse välittää 
 - [15. päivä]({{< relref "15" >}}) ⭐⭐
 - [16. päivä]({{< relref "16" >}}) ⭐
 - [17. päivä]({{< relref "17" >}}) ⭐(⭐)
-- [18. päivä]({{< relref "18" >}}) 
+- [18. päivä]({{< relref "18" >}})
+- [19. päivä]({{< relref "19" >}}) ⭐⭐
