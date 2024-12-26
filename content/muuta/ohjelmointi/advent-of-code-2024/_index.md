@@ -9,9 +9,9 @@ summary: "Advent of Code on joka vuosi järjestettävä hupsun tarinan muotoon r
 
 Kirjoittelen tänne ajatuksia, havaintoja ja ongelmia, joihin törmään haasteen aikana. Kaikkien ratkaisujen ja ratkaisuyritysten koodit löydät [GitHubista](https://github.com/saaste/advent-of-code-2024). Ohjelmointikielenä on [Go](https://go.dev). 
 
-En usko pystyväni tänä vuonna ratkaisemaan kaikkia haasteita, koska elämä, mutta katsotaan mihin yritys riittää.
-
 Yksi Advent of Coden parhaista puolista on se, ettei minun tarvitse välittää koodin laadusta. Otan siitä kaiken ilon irti! Jos satut katsomaan ratkaisujani GitHubista, ne eivät todennäköisesti ole hyviä esimerkkejä laadukkaasta koodista. Siistin, napakan ja helposti ylläpidettävän koodin kirjoittamisen jätän leipätöihin. Advent of Codessa koodi saa olla juuri niin räävitöntä kuin mitä sattuu tulemaan, kunhan ratkaisu on oikea!
+
+Joulun hässäkät aiheuttivat sen, ettei minulla ollut aikaa ratkaista viimeisten päivien haasteita. Päivitän sivua mikäli ratkaisen tehtävät myöhemmin.
 
 #### Haasteet
 - [1. päivä]({{< relref "1" >}}) ⭐⭐
@@ -34,3 +34,8 @@ Yksi Advent of Coden parhaista puolista on se, ettei minun tarvitse välittää 
 - [18. päivä]({{< relref "18" >}})
 - [19. päivä]({{< relref "19" >}}) ⭐⭐
 - [20. päivä]({{< relref "20" >}}) ⭐
+- 21. päivä
+- 22. päivä
+- 23. päivä
+- 24. päivä
+- 25. päivä
