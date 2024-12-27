@@ -5,7 +5,6 @@ summary: "Mitä puuhastelen juuri nyt"
 
 ### Ohjelmointi
 - Kotisivujen virittely
-- [Advent of Code 2024]({{< ref "/muuta/ohjelmointi/advent-of-code-2024" >}})
 - [Portfolion](https://github.com/saaste/portfolio) jatkokehitys
 
 ### Musiikki
