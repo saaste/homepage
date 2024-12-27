@@ -64,7 +64,15 @@ summary: "Lista erilaisista asioista, kuten lukemani kirjat, pelaamani pelit sek
 - [The Witcher 3: Wild Hunt](https://www.igdb.com/games/the-witcher-3-wild-hunt)
 - [V Rising](https://www.igdb.com/games/v-rising)
 
+### TV-sarjat
+
+#### 2024
+- [Arcane: Season 2](https://www.themoviedb.org/tv/94605-arcane) ([Arvostelu]({{< ref "/blogi/2024/2024-12-21-arcane-season-2/" >}}))
+- [Blue Eye Samurai](https://www.themoviedb.org/tv/225180-blue-eye-samurai) ([Arvostelu]({{< ref "/blogi/2024/2024-12-27-blue-eye-samurai/" >}}))
+
 ### Lauta- ja korttipelit
+Omasta kokoelmasta löytyvät lautapelit
+
 - [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror)
   - [Lurker at the Threshold Expansion](https://boardgamegeek.com/boardgame/67208/arkham-horror-the-lurker-at-the-threshold-expansio)
 - [Dead of Winter: A Crossroads Game](https://boardgamegeek.com/boardgame/150376/dead-of-winter-a-crossroads-game)

@@ -15,3 +15,6 @@ summary: "Mitä puuhastelen juuri nyt"
 
 ### Kirjat
 - [Andy Weir - Operaatio Ave Maria](https://finna.fi/Record/fikka.5569279?sid=4731211093)
+
+### TV-sarjat
+- [Terminator: Zero](https://www.themoviedb.org/tv/239287-terminator)
