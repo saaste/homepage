@@ -34,7 +34,7 @@
 {{ if $cover }}
   <meta property="og:image" content="{{ $cover.RelPermalink | absURL }}">
 {{ else }}
-  {{ $url := printf "https://opengraph.saaste.net/opengraph.png?title=%s" .Page.Title }}
+  {{ $url := printf "https://opengraph.saaste.net/opengraph.png?title=%s&date=%s" (urlquery .Page.Title) (time.Format "02.01.2006" .Page.Date) }}
   {{ with resources.GetRemote $url }}
       {{ with .Err }}
           {{ errorf "%s" . }}

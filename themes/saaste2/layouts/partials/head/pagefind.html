@@ -6,7 +6,7 @@
     <meta data-pagefind-meta="image_width[content]" content="{{ $thumbnail.Width }}" property="pagefind:width">
     <meta data-pagefind-meta="image_height[content]" content="{{ $thumbnail.Height }}" property="pagefind:height">
 {{- else -}}
-    {{- $url := printf "https://opengraph.saaste.net/opengraph.png?title=%s" .Title -}}
+    {{- $url := printf "https://opengraph.saaste.net/opengraph.png?title=%s&date=%s" (urlquery .Title) (time.Format "02.01.2006" .Date) -}}
     {{- with resources.GetRemote $url -}}
         {{- with .Err -}}
             {{- errorf "%s" . -}}
