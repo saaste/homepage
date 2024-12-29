@@ -1,8 +1,8 @@
 ---
 title: "Kotisivut Hugolla: Sivutus"
 description: "Tämä on oppaan viimeinen osa, jossa katsotaan, kuinka Hugossa toteutetaan sivutus."
-date: 2024-12-29T19:00:00+0200
-lastmod: 2024-12-29T19:00:00+0200
+date: 2024-12-29T18:59:00+0200
+lastmod: 2024-12-29T18:59:00+0200
 draft: false
 slug: hugo-osa-10
 aiheet:

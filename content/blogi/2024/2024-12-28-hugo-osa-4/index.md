@@ -1,8 +1,8 @@
 ---
 title: "Kotisivut Hugolla: Sivupohjat"
 description: "Oppaan neljännessä osassa pureudutaan sivupohjiin, jotka määrittelevät, miltä sivusto näyttää ja kuinka sisällöt esitetään."
-date: 2024-12-29T19:00:00+0200
-lastmod: 2024-12-29T19:00:00+0200
+date: 2024-12-29T18:53:00+0200
+lastmod: 2024-12-29T18:53:00+0200
 draft: false
 slug: hugo-osa-4
 aiheet:

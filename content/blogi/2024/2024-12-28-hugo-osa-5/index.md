@@ -1,8 +1,8 @@
 ---
 title: "Kotisivut Hugolla: Konteksti"
 description: "Tässä osassa käydään läpi konteksti, joka lienee Hugon vaikeimpia konsepteja ymmärtää."
-date: 2024-12-29T19:00:00+0200
-lastmod: 2024-12-29T19:00:00+0200
+date: 2024-12-29T18:54:00+0200
+lastmod: 2024-12-29T18:54:00+0200
 draft: false
 slug: hugo-osa-5
 aiheet:

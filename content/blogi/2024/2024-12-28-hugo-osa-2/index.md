@@ -1,8 +1,8 @@
 ---
 title: "Kotisivut Hugolla: Sisällön luonti"
 description: "Oppaan toisessa osassa keskitytään sisällön luontiin."
-date: 2024-12-29T19:00:00+0200
-lastmod: 2024-12-29T19:00:00+0200
+date: 2024-12-29T18:51:00+0200
+lastmod: 2024-12-29T18:51:00+0200
 draft: false
 slug: hugo-osa-2
 aiheet:

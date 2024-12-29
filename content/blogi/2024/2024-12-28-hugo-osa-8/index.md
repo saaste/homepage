@@ -1,8 +1,8 @@
 ---
 title: "Kotisivut Hugolla: Sisältöpohjat"
 description: "Tämä on oppaan kahdeksas osa, jossa alamme viritellä blogia ja samalla tutustumme sisältöpohjiin, eli archetypeihin."
-date: 2024-12-29T19:00:00+0200
-lastmod: 2024-12-29T19:00:00+0200
+date: 2024-12-29T18:57:00+0200
+lastmod: 2024-12-29T18:57:00+0200
 draft: false
 slug: hugo-osa-8
 aiheet:

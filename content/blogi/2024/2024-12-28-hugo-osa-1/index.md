@@ -1,8 +1,8 @@
 ---
 title: "Kotisivut Hugolla: Projektin aloitus"
 description: "Tämä on ensimmäinen osa pienestä oppaasta, jossa käydään läpi kotisivujen tekeminen Hugolla."
-date: 2024-12-29T19:00:00+0200
-lastmod: 2024-12-29T19:00:00+0200
+date: 2024-12-29T18:50:00+0200
+lastmod: 2024-12-29T18:50:00+0200
 draft: false
 slug: hugo-osa-1
 aiheet:

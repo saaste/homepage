@@ -1,8 +1,8 @@
 ---
 title: "Kotisivut Hugolla: Muuttujat ja funktiot"
 description: "Tässä osassa tutustutaan muuttujiin ja funktioihin."
-date: 2024-12-29T19:00:00+0200
-lastmod: 2024-12-29T19:00:00+0200
+date: 2024-12-29T18:55:00+0200
+lastmod: 2024-12-29T18:55:00+0200
 draft: false
 slug: hugo-osa-6
 aiheet:

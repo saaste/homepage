@@ -1,8 +1,8 @@
 ---
 title: "Kotisivut Hugolla: Ulkoiset resurssit"
 description: "Oppaan seitsemännessä osassa laitetaan aikaisemmin rikottu valikko kuntoon ja opitaan, kuinka CSS-tyylitiedostot toimivat Hugossa."
-date: 2024-12-29T19:00:00+0200
-lastmod: 2024-12-29T19:00:00+0200
+date: 2024-12-29T18:56:00+0200
+lastmod: 2024-12-29T18:56:00+0200
 draft: false
 slug: hugo-osa-7
 aiheet:
