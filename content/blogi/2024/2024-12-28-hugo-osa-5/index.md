@@ -22,7 +22,7 @@ Jotta sivupohjat voisivat esittää sivujen sisällön, niiden on päästävä s
 
 Sivupohjat eivät voi mielivaltaisesti pyydellä mitä sattuu tietoja. Niiden tarvitsema tieto on paketoitu yhteen paikkaan. Tämä paikka on nimeltään *konteksti*.
 
-Kontekstin sisältö vaihtuu sen mukaan, mitä millaista sivua tai sivun osaa Hugo on käsittelemässä. Esimerkiksi yksittäisen alasivun kohdalla kontekstissa voi olla kyseisen sivun otsikot, tiivistelmät ja tekstisisällöt, mutta ei minkäänlaista tietoa muista sivuista. Jos taas kyse on listasivusta, se voi sisältää kaikki aikaisemmat tiedot, mutta myös tietoa listaan kuuluvista alasivuista.
+Kontekstin sisältö vaihtuu sen mukaan, millaista sivua tai sivun osaa Hugo on käsittelemässä. Esimerkiksi yksittäisen alasivun kohdalla kontekstissa voi olla kyseisen sivun otsikot, tiivistelmät ja tekstisisällöt, mutta ei minkäänlaista tietoa muista sivuista. Jos taas kyse on listasivusta, se voi sisältää kaikki aikaisemmat tiedot, mutta myös tietoa listaan kuuluvista alasivuista.
 
 Kontekstista löytyy sellaisiakin tietoja, jotka eivät liity mihinkään yksittäiseen sivuun. Sieltä löytyy esimerkiksi asetustiedostossa asettamasi sivuston otsikko sekä kieli.
 
