@@ -120,6 +120,8 @@ Lohko alkaa *define* avainsanalla ja se jatkuu niin pitkään, kunnes vastaan tu
 
 Toisin sanoen, *single.html* ei tee muuta, kuin määrittelee yhden lohkon, jonka nimi on *main*. Palaan hieman myöhemmin siihen, kuinka lohkoja käytetään.
 
+Jos kurkkaat *list.html* sivupohjaan niin huomaat, että myös se määrittelee saman nimisen *main* lohkon.
+
 ### Sisällön esittäminen
 
 Jotta sivupohjista olisi mitään hyötyä, niiden on kyettävä esittämään *content* hakemistossa olevien sisältötiedostojen sisältöä.
@@ -165,11 +167,13 @@ Toinen tapa on käyttää *block* avainsanaa. Se toimii isolta osin samalla tava
 
 Block ei pyydä sisältöä määritellystä tiedostosta, vaan se pyytä tiettyä *lohkoa*. Jos muistat, lohko määriteltiin *single.html* tiedostossa. Hugo on sillä tavalla fiksu, että se tietää, mistä tiedostosta se lähtee lohkoa etsimään. Sinun tarvitsee vain kertoa, minkä nimistä lohkoa olet vailla.
 
-Molemmissa tapauksissa sisältö haetaan toisesta tiedostosta. Näiden kahden erona on se, että käytettäessä *partial* avainsanaa, sisältö näkyy aina samalla tavalla riippumatta siitä, minkälaista sivua ollaan tekemässä. Esimerkiksi *baseof.html* tiedosto käyttää *partial* avainsanaa sivun head-osiossa, koska se on aina samanlainen. Sen sijaan se käyttää *block* avainsanaa main-osiossa, koska tämä voi olla eri näköinen riippuen siitä, ollaanko etusivulla, yksittäisellä alasivulla vai listasivulla.
+Molemmissa tapauksissa sisältö haetaan toisesta tiedostosta. Näiden kahden erona on se, että käytettäessä *partial* avainsanaa, sisältö näkyy aina samalla tavalla riippumatta siitä, minkälaista sivua ollaan tekemässä. Esimerkiksi *baseof.html* tiedosto käyttää *partial* avainsanaa sivun head-osiossa, koska se on aina samanlainen.
+
+Sen sijaan se käyttää *block* avainsanaa main-osiossa, koska tämä voi olla eri näköinen riippuen siitä, ollaanko etusivulla, yksittäisellä alasivulla vai listasivulla. Kun ladataan yksittäinen alasivu, Hugo osaa hakea block-lohkon *single.html* tiedostosta. Kun kyseessä on listasivu, se hakee sen *list.html* tiedostosta.
 
 Huomio myös, että sivupohjat voivat muodostaa ketjuja. Yllä olevassa esimerkissä sisältö haetaan *header.html* tiedostosta, mutta jos avaat kyseisen tiedoston (*themes/minun-teema/layouts/partials/header.html*), huomaat, että myös sieltä löytyy *partial* avainsana. Tällä kertaa sisältö tuleekin *menu.html* tiedostosta. Tämän osan alussa oleva diagrammi voi auttaa hahmottamaan näitä ketjuja.
 
-Tämä voi aluksi tuntua tarpeettomalta monimutkaistamiselta. Tämä asioiden pilkkominen pieniin osiin helpottaa kuitenkin ylläpitoa tuntuvasti, kun sivujen rakenne monimutkaistuu.
+Tämä voi aluksi tuntua tarpeettomalta monimutkaistamiselta. Asioiden pilkkominen pieniin osiin helpottaa kuitenkin ylläpitoa tuntuvasti, kun sivujen rakenne monimutkaistuu.
 
 ### Harjoitus
 
