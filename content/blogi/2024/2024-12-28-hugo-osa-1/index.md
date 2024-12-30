@@ -2,7 +2,7 @@
 title: "Kotisivut Hugolla: Projektin aloitus"
 description: "Tämä on ensimmäinen osa pienestä oppaasta, jossa käydään läpi kotisivujen tekeminen Hugolla."
 date: 2024-12-29T18:50:00+0200
-lastmod: 2024-12-29T18:50:00+0200
+lastmod: 2024-12-30T05:07:00+0200
 draft: false
 slug: hugo-osa-1
 aiheet:
@@ -22,7 +22,11 @@ Mikäli kotisivusi koostuvat vain muutamasta alasivusta, Hugolle ei ole välttä
 
 Staattisten sivugeneraattorien lähtökohta on usein se, että kun sivun ulkoasu on rakennettu, ylläpitäjä voi keskittyä lähes täysin sisällön tuottamiseen.
 
-Tämä opas olettaa, että osaat käyttää terminaalia ja asentaa sen kautta käytettäviä sovelluksia. Toinen oletus on, että sinulla on perusymmärrys HTML-sivujen tekemisestä. Oppaassa ei käydä läpi HTML:n tai CSS:n perusteita, joten tämä ei sovi aivan aloittelijoille.
+Tämä opas olettaa, että osaat käyttää terminaalia ja asentaa sen kautta käytettäviä sovelluksia. Toinen oletus on, että sinulla on perusymmärrys HTML-sivujen tekemisestä. Oppaassa ei käydä läpi HTML:n tai CSS:n perusteita, joten tämä ei sovi aivan aloittelijoille. Hugoon liittyy asioita, jotka voivat olla haastavia ihmisille, joilla ei ole ohjelmointitaustaa. Olen yrittänyt parhaani mukaan avata näitä asioita mahdollisimman selkokielisesti.
+
+Taitojen lisäksi oppaassa oletetaan, että seuraat sitä järjestyksessä. Myöhemmät osat hyödyntävät asioita, joita teit edellisissä osassa.
+
+Suosittelen, että kun luet opasta, teet samalla kaiken myös itse. Pelkkä ohjeen lukeminen voi nopeasti pistää pään sekaisin, ellet kokeile asioita omin pikku kätösin.
 
 ### Hugon asentaminen
 
