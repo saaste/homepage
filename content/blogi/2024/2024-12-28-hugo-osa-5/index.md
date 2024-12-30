@@ -58,7 +58,7 @@ Kun komento alkaa pisteellä, se tarkoittaa, että tietoa haetaan *aktiivisesta 
 
 Oletetaan, että Hugo on käsittelemässä tietoa minusta -sivua. Kyseessä on yksittäinen sivu, jolloin aktiivisen kontekstin tyyppi on [Page](https://gohugo.io/methods/page/). Tiedän tämän, koska olen ehtinyt käyttää Hugoa ja tutustunut sen ohjeisiin.
 
-Jos avaat edellisen linkin, näet kaikki tiedot, mitä Page-objektilla on tarjolla. Löydät sieltä myös aikaisemmin käytetyt *Title* ja *Summary* kentät. Tehdään pieni testi, ja lisätään sivupohjaan kohta, joka kertoo, kuinka monta sanaa sivulla on. Hyödynnämme siinä *WordCount* kenttää, jonka löydät samalta sivulta.
+Jos avaat edellisen linkin, näet kaikki tiedot, mitä Page-objektilla on tarjolla. Löydät sieltä myös aikaisemmin käytetyt *Title* ja *Summary* kentät. Tehdään pieni testi, ja lisätään sivupohjaan kohta, joka kertoo, kuinka monta sanaa sivulla on. Hyödynnämme siinä *WordCount* kenttää, jonka löydät aikaisemman linkin takaa löytävältä ohjesivulta.
 
 Avaa ensiksi *content/tietoa-minusta.md* ja lisää sinne jotakin sisältöä. Esimerkiksi:
 
