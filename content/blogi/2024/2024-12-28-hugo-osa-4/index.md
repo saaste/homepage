@@ -2,7 +2,7 @@
 title: "Kotisivut Hugolla: Sivupohjat"
 description: "Oppaan neljännessä osassa pureudutaan sivupohjiin, jotka määrittelevät, miltä sivusto näyttää ja kuinka sisällöt esitetään."
 date: 2024-12-29T18:53:00+0200
-lastmod: 2024-12-29T18:53:00+0200
+lastmod: 2024-12-30T04:58:00+0200
 draft: false
 slug: hugo-osa-4
 aiheet:
@@ -24,12 +24,24 @@ Teemat määritellään teeman alla *themes/minun-teema/layouts* hakemistossa. S
 
 Haluan pitää edelleen kiinni siitä, että sivun ulkoasu on erotettu sisällöstä, joten oppaassa määrittelemme ne teeman alle.
 
-Teeman alla olevassa *layouts* hakemistossa on kaksi alihakemistoa: *_default* sekä *partials*. Keskitymme ensiksi *_default* hakemistoon.
+Teeman alla olevassa *layouts* hakemistossa on kaksi alihakemistoa: *_default* sekä *partials*.
+
+*_default* hakemistosta löytyy sivupohjat kolmelle eri tyyppiselle sivulle - niistä kohta lisää. Lisäksi siellä on neljäntenä eräänlainen peruspohja, joka toimii kaikkien muiden pohjien äitinä.
+
+*partials* hakemisto on tarkoitettu pienemmille pohjille, jotka toimivat sivujen osana. Näitä voi ajatella pienempinä komponentteja, joita voidaan käyttää muiden pohjien sisällä.
+
+Sivupohjat voi nähdä puurakenteena. Hugo aloittaa yhdestä pohjasta, joka kutsuu muita pohjia, jotka kutsuvan edelleen pienempiä partials-pohjia. Alla oleva kuva ei välttämättä vielä tässä kohtaa aukea kokonaan, mutta toivottavasti se selkiyttää kokonaiskuvaa viimeistään sitten, kun olet päässyt tämän osan loppuun.
+
+![UML-kaavio, joka näyttää sivupohjien periytymisen](diagram.jpg)
 
 ### Sivupohjien tyypit
-Jos katsot *themes/minun-teema/layouts/_default* hakemistoa, näet siellä neljä *html*-tiedostoa. Pohjista kolme määrittelee kolmen eri tyyppisen sivun ulkoasua, joihin palaamme myöhemmin. Neljäs pohja toimii eräänlaisena kaikkien pohjien äitinä. Aloitetaan siitä.
+Jos katsot *themes/minun-teema/layouts/_default* hakemistoa, näet siellä neljä *html*-tiedostoa:
+- *baseof.html*, joka on kaikkien sivupohjien äiti
+- *home.html*, joka toimii etusivun sivupohjana
+- *single.html*, joka toimii yksittäisten sivujen sivupohjana
+- *list.html*, joka toimii listasivujen sivupohjana
 
-*baseof.html* on sivupohja, josta Hugo alkaa rakentaa sivun ulkoasua. Se on tiedosto, jonka se lukee aivan ensimmäisenä. Jos avaat tiedoston, se näyttää tältä:
+*baseof.html* on sivupohja, josta Hugo alkaa rakentaa sivun ulkoasua. Se lukee sen ensimmäisenä. Jos avaat tiedoston, se näyttää tältä:
 
 {{< highlight go-html-template >}}
 <!DOCTYPE html>
@@ -65,17 +77,19 @@ Avaa seuraavaksi *home.html* tiedosto:
 {{ end }}
 {{< /highlight >}}
 
-Täällä ei juurikaan HTML:ää näy, mutta se toimii aivan samalla tavalla kuin *baseof.html*. Hugo lukee tämän tiedoston ja rakentaa sen ohjeiden mukaan lopullisen HTML-dokumentin. Oleellista on ymmärtää, että *home.html*  määrittelee kotisivujesi *etusivun* ulkonäön.
+Täällä ei juurikaan HTML:ää näy, mutta se toimii aivan samalla tavalla kuin *baseof.html*. Hugo lukee tämän tiedoston ja rakentaa sen ohjeiden mukaan lopullisen HTML-dokumentin. Oleellista on ymmärtää, että *home.html* määrittelee kotisivujen **etusivun** ulkonäön.
 
-Hakemistossa on vielä kaksi muuta tiedostoa: *single.html* sekä *list.html*. Näistä ensimmäinen määrittää *yksittäisen* sivun ulkonäön. Esimerkiksi aikaisemmin tehty tietoa minusta -sivu oli tällainen.
+Hakemistossa on vielä kaksi muuta tiedostoa: *single.html* sekä *list.html*. Näistä ensimmäinen määrittää **yksittäisen** sivun ulkonäön. Esimerkiksi aikaisemmin tehty tietoa minusta -sivu oli tällainen.
 
-Vastaavasti *list.html* määrittelee *listasivujen* ulkonäön. Käytännössä etusivukin on sellainen, mutta se on pieni poikkeus, koska sillä on oma sivupohja.
+Vastaavasti *list.html* määrittelee **listasivujen** ulkonäön. Käytännössä etusivukin on sellainen, mutta se on pieni poikkeus, koska sillä on oma sivupohja.
 
 Kuvittele esimerkiksi tilanne, jossa sinulla on blogi. Blogin pääsivulla haluat listata viisi viimeisintä blogikirjoitusta. Blogisivu olisi listasivu ja käyttäisi *list.html*-sivupohjaa.
 
+Näiden lisäksi Hugo mahdollistaa myös sen, että pystyt luomaan itse uusia sivutyyppejä. Emme kuitenkaan mene siihen tässä oppaassa.
+
 Käydään seuraavaksi läpi joitakin kryptisiä kohtia, joita sivupohjissa vilahteli.
 
-### Lohkot ja sisällön esittäminen
+### Lohkot
 Hugo on toteutettu [Go-ohjelmointikielellä](https://go.dev) ja se käyttää myös Go:n syntaksia sivupohjissa. Käytännössä ne ovat normaalia HTML:ää, mutta HTML:n joukkoon on mahdollista laittaa myös hieman koodia. Koodin tunnistaa siitä, että se alkaa ja päättyy kaarisulkeisiin.
 
 Otetaan esimerkiksi *single.html* tiedosto:
@@ -100,9 +114,17 @@ Ensimmäisenä on sivupohjan ensimmäinen ja viimeinen rivi:
 {{ end }}
 {{< /highlight >}}
 
-Sivupohjat voivat määritellä useita eri lohkoja. Se tapahtuu *define* avainsanalla, jonka perässä on lohkon nimi. Tässä tapauksessa lohkoja on vain yksi ja sen nimi on *main*. Lohko alkaa *define* avainsanalla ja se jatkuu niin pitkään, kunnes vastaan tulee *end* avainsana. Tässä tapauksessa se on tiedoston lopussa. Toisin sanoen, *single.html* ei tee muuta, kuin määrittelee yhden lohkon, jonka nimi on *main*. Palaan lohkojen käyttötarkoitukseen hieman myöhemmin.
+Sivupohjat voivat määritellä useita eri **lohkoja** (block). Se tapahtuu *define* avainsanalla, jonka perässä on lohkon nimi. Tässä tapauksessa lohkoja on vain yksi ja sen nimi on *main*. Nimellä ei ole mitään erityistä merkitystä, sen voi valita itse. Main on vain nimi, joka on valittu Hugon oletuspohjaan.
 
-Sivupohjat voivat myös esittää sisältöä, joka tulee *content* hakemistossa olevista sisältötiedostoista. Nämä tunnistaa usein siitä, että hakasulkujen jälkeen on piste ja jokin sana. *single.html* sivupohjassa niitä on kaksi:
+Lohko alkaa *define* avainsanalla ja se jatkuu niin pitkään, kunnes vastaan tulee *end* avainsana. Tässä tapauksessa se on tiedoston lopussa.
+
+Toisin sanoen, *single.html* ei tee muuta, kuin määrittelee yhden lohkon, jonka nimi on *main*. Palaan hieman myöhemmin siihen, kuinka lohkoja käytetään.
+
+### Sisällön esittäminen
+
+Jotta sivupohjista olisi mitään hyötyä, niiden on kyettävä esittämään *content* hakemistossa olevien sisältötiedostojen sisältöä.
+
+Go:n syntaksissa tämä tapahtuu kahdella **aaltosulkeella** ({}). *single.html* sivupohjasta löydät kaksi esimerkkiä:
 
 {{< highlight go-html-template >}}
 {{ .Title }}
@@ -110,9 +132,9 @@ Sivupohjat voivat myös esittää sisältöä, joka tulee *content* hakemistossa
 {{ .Content }}
 {{< /highlight >}}
 
-Jos sinulle on sivu, jonka otsikkona on "Kikkeliskokkelis", yllä olevassa esimerkissä *{{ .Title }}* tullaan korvaamaan sanalla *Kikkeliskokkelis*. Jos saman sivun sisältö muodostaa 300 sivuisen romaanin, *{{ .Content }}* tullaan korvaamaan kyseisellä romaanilla. Sisällöt tulevat *content* hakemistossa olevista md-päätteisistä tiedostoista, joita muokkasit aikaisemmassa osassa.
+Jos sinulla on sisältö, jonka otsikkona on "Kikkeliskokkelis", yllä olevassa esimerkissä *{{ .Title }}* tullaan korvaamaan sanalla *"Kikkeliskokkelis"*. Jos saman sivun sisältö muodostaa 300 sivuisen romaanin, *{{ .Content }}* tullaan korvaamaan kyseisellä romaanilla. Nämä sisällöt tulevat *content* hakemistossa olevista md-päätteisistä tiedostoista, joita muokkasit aikaisemmassa osassa.
 
-Muut rivit voit tässä kohtaa unohtaa.
+Muut sivupohjan rivit voit tässä kohtaa unohtaa.
 
 ### Toisiaan kutsuvat sivupohjat
 
@@ -143,9 +165,9 @@ Toinen tapa on käyttää *block* avainsanaa. Se toimii isolta osin samalla tava
 
 Block ei pyydä sisältöä määritellystä tiedostosta, vaan se pyytä tiettyä *lohkoa*. Jos muistat, lohko määriteltiin *single.html* tiedostossa. Hugo on sillä tavalla fiksu, että se tietää, mistä tiedostosta se lähtee lohkoa etsimään. Sinun tarvitsee vain kertoa, minkä nimistä lohkoa olet vailla.
 
-Molemmissa tapauksissa sisältö haetaan toisesta tiedostosta.
+Molemmissa tapauksissa sisältö haetaan toisesta tiedostosta. Näiden kahden erona on se, että käytettäessä *partial* avainsanaa, sisältö näkyy aina samalla tavalla riippumatta siitä, minkälaista sivua ollaan tekemässä. Esimerkiksi *baseof.html* tiedosto käyttää *partial* avainsanaa sivun head-osiossa, koska se on aina samanlainen. Sen sijaan se käyttää *block* avainsanaa main-osiossa, koska tämä voi olla eri näköinen riippuen siitä, ollaanko etusivulla, yksittäisellä alasivulla vai listasivulla.
 
-Muista, että sivupohjat voivat muodostaa ketjun. Yllä olevassa esimerkissä sisältö haetaan *header.html* tiedostosta, mutta jos avaat kyseisen tiedoston (*themes/minun-teema/layouts/partials/header.html*), huomaat, että myös sieltä löytyy *partial* avainsana. Tällä kertaa sisältö tuleekin *menu.html* tiedostosta.
+Huomio myös, että sivupohjat voivat muodostaa ketjuja. Yllä olevassa esimerkissä sisältö haetaan *header.html* tiedostosta, mutta jos avaat kyseisen tiedoston (*themes/minun-teema/layouts/partials/header.html*), huomaat, että myös sieltä löytyy *partial* avainsana. Tällä kertaa sisältö tuleekin *menu.html* tiedostosta. Tämän osan alussa oleva diagrammi voi auttaa hahmottamaan näitä ketjuja.
 
 Tämä voi aluksi tuntua tarpeettomalta monimutkaistamiselta. Tämä asioiden pilkkominen pieniin osiin helpottaa kuitenkin ylläpitoa tuntuvasti, kun sivujen rakenne monimutkaistuu.
 
@@ -230,3 +252,5 @@ Nyt tietoa minusta -sivu näyttää tältä:
 Tämä toimii esimerkkinä siitä, kuinka sivupohjat pyytävät sisältöä varsinaisilta sisältötiedostoilta. Samalla opit, kuinka sivulla voidaan määritellä erillinen tiivistelmä.
 
 Seuraavassa osassa selvitetään, mikä sivupohjissa toistuva mystinen piste on.
+
+**Päivitys 30.12.2024**: Lisäsin diagrammin selventämään sivupohjien hierarkiaa ja lisäsin myös tekstiin joitakin tarkennuksia
