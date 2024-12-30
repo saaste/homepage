@@ -31,11 +31,15 @@
             {{- with $series -}}
             <ol>
                 {{- range . -}}
+                {{- $title := .Title }}
+                {{- with .Param "serie_toc_title" -}}
+                    {{- $title = . }}
+                {{- end -}}
                 <li>
                     {{- if eq .File.UniqueID $.File.UniqueID -}}
-                        <p>{{ .Title }}</p>
+                        <p>{{ $title }}</p>
                     {{- else -}}
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        <a href="{{ .Permalink }}">{{ $title }}</a>
                     {{- end -}}
                 </li>
                 {{- end -}}
