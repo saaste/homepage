@@ -90,7 +90,7 @@ Näiden lisäksi Hugo mahdollistaa myös sen, että pystyt luomaan itse uusia si
 Käydään seuraavaksi läpi joitakin kryptisiä kohtia, joita sivupohjissa vilahteli.
 
 ### Lohkot
-Hugo on toteutettu [Go-ohjelmointikielellä](https://go.dev) ja se käyttää myös Go:n syntaksia sivupohjissa. Käytännössä ne ovat normaalia HTML:ää, mutta HTML:n joukkoon on mahdollista laittaa myös hieman koodia. Koodin tunnistaa siitä, että se alkaa ja päättyy kaarisulkeisiin.
+Hugo on toteutettu [Go-ohjelmointikielellä](https://go.dev) ja se käyttää myös Go:n syntaksia sivupohjissa. Käytännössä ne ovat normaalia HTML:ää, mutta HTML:n joukkoon on mahdollista laittaa myös hieman koodia. Koodiosan tunnistaa siitä, että **aaltosulkeiden** ({}) välissä.
 
 Otetaan esimerkiksi *single.html* tiedosto:
 
