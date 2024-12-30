@@ -49,7 +49,7 @@
 
 <h3 id="kirjoitukset-vuosittain">Kirjoitukset vuosittain</h3>
 <div class="posts-by-year">
-    {{- range .Pages.Reverse -}}
+    {{- range .Pages -}}
     <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
     {{- end -}}
 </div>
