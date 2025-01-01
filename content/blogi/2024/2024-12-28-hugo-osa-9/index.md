@@ -96,4 +96,4 @@ Platea viverra metus; est conubia dis montes...
 
 Kaikki *more* kohdan yläpuolella oleva luokitellaan sivun tiivistelmäksi. Tämän vaihtoehdon hyvä puoli on siinä, että saat täyden vapauden siihen mitä ja kuinka paljon tiivistelmässä näkyy. Tämä ei kuitenkaan toimi silloin, kun haluat tiivistelmään jotain sellaista, jota ei lue leipätekstissä. Siinä tapauksessa front matterin käyttäminen on parempi vaihtoehto.
 
-Oppaan viimeisessä osassa toteutetaan blogin etusivulle sivutus.
+Oppaan seuraavassa osassa toteutetaan blogin etusivulle sivutus.

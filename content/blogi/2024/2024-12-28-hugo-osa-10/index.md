@@ -12,7 +12,7 @@ sarjat:
 params:
     serie_toc_title: "Sivutus"
 ---
-Tämä on oppaan viimeinen osa, jossa katsotaan, kuinka Hugossa toteutetaan sivutus.
+Oppaan 10. osassa katsotaan, kuinka Hugossa toteutetaan sivutus.
 
 <!--more-->
 
@@ -122,16 +122,4 @@ Nyt blogin etusivu näyttää tältä:
 
 Paljon parempi!
 
-### Mitä seuraavaksi?
-
-Tämä opas on vain pintaraapaisu Hugon maailmaan. Toivottavasti sait kuitenkin perusymmärryksen siitä, kuinka se toimii. Kävimme läpi perusteet, kuten sisällön sekä oman teeman luonti, sekä sivupohjien muokkaamisen. Lopputulos oli ruma, mutta niin oli tarkoituskin. Tämä ei yrittänyt olla opas web-suunnitteluun.
-
-Suosittelen tutustumaan lähemmin [Markdown](https://www.markdownguide.org/cheat-sheet/)-formaattiin, jolla sisältöjä tuotetaan. Kannattaa myös penkoa Hugon dokumentaatiota, josta löytyy muuassa [kaikki front matter -kentät](https://gohugo.io/content-management/front-matter/#fields).
-
-Oppassa neuvotaan myös monia muita Hugon konsepteja, joita en käynyt tässä läpi. Tällaisia ovat esimerkiksi [shortcodet](https://gohugo.io/content-management/shortcodes/), joiden avulla voit hyödyntää pieniä sivupohjia suoraan sisältötiedostoissa. Mikäli haluat kategorisoida tai tägäillä sisältöjä, kannattaa tutustua [taksonomioihin](https://gohugo.io/content-management/taxonomies/). En käynyt myöskään läpi sitä, kuinka sivut voivat [linkittää toisiinsa](https://gohugo.io/content-management/cross-references/). Enkä [monikielisyyden tukea](https://gohugo.io/content-management/multilingual/).
-
-Itselleni yksi vaikeimpia asioita oli sivupohjien toiminnan ymmärtäminen. Tässä auttoi, että tutkin [muiden tekemiä teemoja](https://themes.gohugo.io). Mikäli haluat kokeelliset nettisivusi julkisesti näkyviin, mutta et halua maksaa palvelintilasta eikä sinulla ole omaa domainia, suosittelen [Neocities](https://neocities.org) palvelua, joka tarjoaa ilmaista kotisivutilaa muinaisen [GeoCitiesin](https://fi.wikipedia.org/wiki/GeoCities) hengessä. En käynyt tässä oppaassa läpi sitä, kuinka Hugolla generoidut sivut voi julkaista, mutta tästäkin löytyy [englanninkielistä ohjeistusta](https://gohugo.io/hosting-and-deployment/) Hugon dokumentaatiosta.
-
-Kaikista eniten suosittelen kuitenkin sitä, että alat vaan tehdä ja kokeilla kaikkea. Hugon käyttäminen ei maksa mitään ja voit pyörittää sitä omalla koneellasi. Voit koska tahansa luoda uuden harjoitusprojektin ja testata uusia asioita, eikä sinun tarvitse pelätä, että rikot jotain. Tekeminen on paras tapa oppia!
-
-Mikäli bongaat tästä oppaasta selkeitä virheitä tai koet, että jokin asia on epäselvästi selitetty, voit olla minuun yhteydessä [Fediversen kautta](https://mementomori.social/@saaste). Koetan päivittää opasta parhaani mukaan ja lisätä sinne myös uusia osia. Olen käyttänyt Hugoa itse vasta noin vuoden, joten en ole sen asiantuntija, mutta pyrin parhaani mukaan vastailemaan kysymyksiin ja auttamaan ongelmissa.
+Seuraavassa osassa käydään läpi se, kuinka Hugo generoi HTML-tiedostot ja mitä sivuston julkaiseminen vaatii yleisellä tasolla.
