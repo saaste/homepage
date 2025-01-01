@@ -53,20 +53,35 @@
     {{ .Content }}
     </div>
 
-    {{- if (or .NextInSection .PrevInSection) -}}
+    {{/* Hack to make next/prev work over the years */}}
+    {{- $pages := (where .Site.RegularPages "Section" "blogi").Reverse -}}
+    {{- .Store.Set "curPosition" 0 -}}
+    {{- .Store.Set "index" 0 -}}
+
+    {{- range $pages -}}
+        {{- if eq $ . }}
+            {{- $.Store.Set "curPosition" ($.Store.Get "index") -}}
+        {{- end -}}
+        {{- $.Store.Add "index" 1 -}}
+    {{- end -}}
+    {{- $next := (index $pages (add (.Store.Get "curPosition") 1)) }}
+    {{- $prev := (index $pages (sub (.Store.Get "curPosition") 1)) }}
+
+    {{- if (or $next $prev) -}}
     <div class="next-prev-nav" data-pagefind-ignore>
-        {{- with .PrevInSection -}}
+        {{- with $prev -}}
         <a href="{{ .RelPermalink }}" class="prev">
             <span class="title">« Edellinen</span><br>
             {{ .Title }}
         </a>
         {{- end -}}
 
-        {{- with .NextInSection -}}
+        {{- with $next -}}
         <a href="{{ .RelPermalink }}" class="next">
             <span class="title">Seuraava »</span><br>
             {{ .Title }}</a>
         {{- end -}}
     </div>
     {{- end -}}
+
 {{- end -}}

@@ -43,8 +43,8 @@ menus:
         weight: 3
 
 taxonomies:
-  aiheet: "aiheet"
-  sarjat: "sarjat"
+  # aiheet: "aiheet"
+  # sarjat: "sarjat"
 
 services:
   rss:
