@@ -18,3 +18,6 @@ summary: "Mitä puuhastelen juuri nyt"
 
 ### TV-sarjat
 - [Terminator: Zero](https://www.themoviedb.org/tv/239287-terminator)
+
+### Opiskelu
+- [Blender](https://www.blender.org)
