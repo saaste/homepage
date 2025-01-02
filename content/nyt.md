@@ -21,3 +21,6 @@ summary: "Mitä puuhastelen juuri nyt"
 
 ### Opiskelu
 - [Blender](https://www.blender.org)
+
+### Projektit
+- [Kaiuttimet tietokonepöydälle]({{< ref "/muuta/projektit/2025-kaiuttimet-tietokonepoydalle/" >}})
