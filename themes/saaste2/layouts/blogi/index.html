@@ -31,7 +31,7 @@
                 </picture>
             {{- else -}}
                 {{- $url := printf "https://opengraph.saaste.net/opengraph.png?title=%s&date=%s" (urlquery $page.Title) (time.Format "02.01.2006" $page.Date) -}}
-                {{- with resources.GetRemote $url -}}
+                {{- with resources.GetRemote $url (dict "key" $url) -}}
                     {{- with .Err -}}
                         {{- errorf "%s" . -}}
                     {{- else -}}
