@@ -1,7 +1,8 @@
 ---
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
-lastmod: 2025-01-02T19:12:00+0200
+date: 2025-01-02T19:12:00+0200
+lastmod: 2025-01-08T17:24:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -9,18 +10,36 @@ Päätin vuoden 2024 lopussa opetella käsityötaitoja. Tätä varten tarvitsin 
 
 Olen jo pidemmän aikaa halunnut korvata työpöydällä lojuvan Harman/Kardon -bluetooth-kaiuttimen kunnollisilla stereokaiuttimilla, joten se tuntui hyvältä projektilta. Siinä pääsisin puutöiden pariin, mutta saisin kosketusta myös elektroniikkapuoleen.
 
-Kyselin projektiin vinkkejä [Helsingin Hacklabin](https://helsinki.hacklab.fi) väeltä. Minulle suositeltiin [Uraltonen](https://uraltone.com) rakennussarjoja, joten päätin lähteä niillä liikenteeseen.
+### 2.1.2025 - Rakennussarja
 
-### Rakennussarja
+Kyselin projektiin vinkkejä [Helsingin Hacklabin](https://helsinki.hacklab.fi) väeltä. Minulle suositeltiin [Uraltonen](https://uraltone.com) rakennussarjoja, joten päätin lähteä niillä liikenteeseen.
 
 Mittasin, että näytön molemmilla puolilla on noin 19 cm tilaa kaiuttimille. Kaiuttimien olisi siis oltava verrattain pienet.
 
-Päädyin tilaamaan [UT HLS-10 -rakennussarjan](https://uraltone.com/ut-hls-10-2-tie-hifi-kaiutinrakennussarja-samu-saurama-design.html). Paketissa on neljän tuuman bassoelementti, tuuman diskanttielementti, terminaali sekä komponentit jakosuotimen rakentamista varten. Sarjalla oli hintaa 99 euroa. Koska tarvitse kaksi kaiutinta, minun oli tilattava kaksi sarjaa.
+Päädyin tilaamaan [UT HLS-10 -rakennussarjan](https://uraltone.com/ut-hls-10-2-tie-hifi-kaiutinrakennussarja-samu-saurama-design.html). Paketissa on neljän tuuman bassoelementti, tuuman diskanttielementti, terminaali sekä komponentit jakosuotimen rakentamista varten. Sarjalla oli hintaa 99 euroa. Koska tarvitse kaksi kaiutinta, minun oli tilattava kaksi sarjaa, eli yhteensä **198 €**.
 
 Kotelot on rakennettava itse, mutta mukana toimitetaan rakennusohjeet. Ohjeet olivat hienoinen pettymys, sillä ne ovat ruutupaperille kynällä piirretty töherrys. Kyllä siinä varmasti kaikki oleellinen on mukana, mutta antaa rakennussarjasta hieman epäammattimaisen kuvan.
 
 Ensimmäisenä avasin paketin ja varmistin, että siellä on kaikki tarpeellinen mukana. Näytti olevan. Seuraavaksi täytyy päättää, että noudatanko mukana tulevaa rakennusohjetta orjallisesti, vai muokkaanko sitä itseäni miellyttävään suuntaan.
 
 ![Pöydälle levitetyt osat](komponentit.jpg "Rakennussarjassa mukana tulleet osat.")
+
+### 8.1.2025 - Materiaalit koteloon
+
+Suunnittelin aluksi tekeväni kotelon MDF:stä. Kun kuulin, että se tuottaa hirveän määrän hienoa pölyä työstötavasta riippumatta, päädyin lopulta vaneriin. Vaihtoehtona olisi ollut myös massiivipuu, mutta se on turhan arvokasta tavaraa minun harjoitteluihin.
+
+Askartelin mukana tulleiden ohjeiden ja mittojen pohjalta itselleni 3D-mallin Blenderillä. Enhän minä sitä mallia sinänsä mihinkään tarvitse, mutta se auttaa minua hahmottamaan, mitä olen tekemässä. Siitä tuli hieman myöhemmin myös yllättävää hyötyä.
+
+![Blenderillä tehty 3D-malli.](3d-malli.jpg "Blenderillä tehty 3D-malli. Testasin samalla, että miltä kotelo näyttäisi pyöristetyillä reunoilla.")
+
+Seuraava haaste oli materiaalin hankinta. Vaneria saa kyllä lähes joka rautakaupasta, mutta suurin osa myy vain kokonaisia levyjä, jotka ovat aivan liian suuria pieneen kaiutinprojektiin. Esimerkiksi [STARKin myymät levyt](https://www.stark-suomi.fi/tuote/koivuvaneri-bb-wg-15x1220x2440-mm-2-98-m2-hs72) ovat kooltaan 1220 x 2440 mm.
+
+Tässä kohtaa 3D-malli oli hyödyksi, sillä sen avulla minun oli helppo asetella palaset levylle ja näin suoraan, kuinka paljon materiaalia tarvitsisin. Minulle riittäisi 1/4 levy.
+
+Sain selville, että [Petikon STARK](https://www.stark-suomi.fi/myymalat/vantaa-petikko) myy puolikkaita levyjä. Ystävällinen varastojamppa suostui pistämään puolikkaan palasenkin puoliksi. Tämä tulikin tarpeeseen, sillä minun piti saada kuljetettua materiaalit kotiin kuormapyörällä. Puolikkaassa levyssä on tuplasti enemmän materiaalia tarpeeseen nähden, mutta onpahan vara tehdä virheitä, eikä tarvitse pelätä heti vanerin loppumista.
+
+Hintaa 15 mm paksulla 1220 x 1220 mm kokoisella levyllä oli **54,83 €**.
+
+![Starkin pihaan pysäköity kuormapyörä, jonka etulaatikossa on kaksi vanerilevyä.](kuormapyora-vaneri.jpg "Vanerit kulkivat kotiin vaivattomasti kuormapyörällä.")
 
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
