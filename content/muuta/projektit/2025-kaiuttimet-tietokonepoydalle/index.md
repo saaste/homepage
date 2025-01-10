@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-08T17:24:00+0200
+lastmod: 2025-01-10T17:55:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -42,4 +42,21 @@ Hintaa 15 mm paksulla 1220 x 1220 mm kokoisella levyllä oli **54,83 €**.
 
 ![Starkin pihaan pysäköity kuormapyörä, jonka etulaatikossa on kaksi vanerilevyä.](kuormapyora-vaneri.jpg "Vanerit kulkivat kotiin vaivattomasti kuormapyörällä.")
 
+### 10.1.2025 - Kotelon osien leikkaus
+
+Kiikutin eilen vanerilevyn puutyötilaan. Siellä mittailin ja piirtelin levyyn jokaisen palasin, mutta en alkanut vielä leikkaamaan palasia. Syitä oli tasan yksi: pöytäsaha kuumottaa minua hiivatisti.
+
+Ukkini oli puuseppä ja hän menetti siinä touhussa myös pari sormeaan. Vaikka tämä tapahtuikin höylässä, minulle on jäänyt tapahtuneesta hienoinen pelko ja jättimäinen kunnioitus puutyökoneita kohtaan. Joku mainitsi joskus, että puuverstaan laitteet on suunniteltu rikkomaan ihmiskeho mitä moninaisimmilla tavoilla, mutta välillä niillä voi tehdä myös puutöitä. Olen samaa mieltä.
+
+Kävin kyllä muutama kuukausi sitten pöytäsahan perehdytyksen, mutta nyt en ole päässyt laitetta koskaan käyttämään. Virkistin tänä aamuna muistiani katsomalla YouTubessa parit laitteen käyttöön liittyvää videota ja niillä eväillä lähdin kokeilemaan onneani. Onneksi verstaalla oli muitakin, niin sain heiltä hieman lisätukea.
+
+Loppujen lopuksi leikkaus sujui ilman ongelmia. Isossa pöytäsahassa oli hyvät mittaustyökalut, joiden avulla sain leikattua palat juuri oikean kokoiseksi.
+
+Kotona aloin selvittää kotelon sisään tulevan vaimennusmateriaalin hankintaa. Ongelma ratkesi itsestään, sillä toisella Hacklabin jäsenellä sattui olevaan omasta kaiutinprojektista yli jäänyttä vaimennusmateriaalia.
+
+Huomisen ohjelmassa olisi kotelon liimaaminen. Saan myös vaimennusmateriaalit huomenna, joten herättelen toiveita siitä, että saisin kiinnitettyä ne samalla käynnillä.
+
+![Kaksi kuvaa. Vasemmalla on pöytäsahan päällä oleva vanerilevy, johon on piirretty kotelon osat. Oikealla palaset on aseteltu pöydälle kotelon muotoon](leikkaus-ja-osat.jpg "Leikkelin koteloiden osat pöytäsahalla. Ehkä sahausjälki ei ole timanttista, mutta olen itse ihan tyytyväinen lopputulokseen.")
+
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
+
