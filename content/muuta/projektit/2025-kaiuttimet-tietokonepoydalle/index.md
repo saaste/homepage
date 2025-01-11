@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-10T17:55:00+0200
+lastmod: 2025-01-11T20:33:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -57,6 +57,24 @@ Kotona aloin selvittää kotelon sisään tulevan vaimennusmateriaalin hankintaa
 Huomisen ohjelmassa olisi kotelon liimaaminen. Saan myös vaimennusmateriaalit huomenna, joten herättelen toiveita siitä, että saisin kiinnitettyä ne samalla käynnillä.
 
 ![Kaksi kuvaa. Vasemmalla on pöytäsahan päällä oleva vanerilevy, johon on piirretty kotelon osat. Oikealla palaset on aseteltu pöydälle kotelon muotoon](leikkaus-ja-osat.jpg "Leikkelin koteloiden osat pöytäsahalla. Ehkä sahausjälki ei ole timanttista, mutta olen itse ihan tyytyväinen lopputulokseen.")
+
+### 11.1.2024 - Jakosuodin ja kotelon liimaus
+
+Sain päivällä hyvän määrän vaimennusmateriaalia. Materiaalia oli yli neliömetri, eli reilusti yli omien tarpeiden. Vaan onpahan nyt silläkin puolella vara epäonnistua ja yrittää uudelleen. Hintaa tuolla neliöllä oli **20 €**.
+
+Tavoitteena oli saada liimattua molempien koteloiden sisäosat kasaan. Sivuseinät jätin toistaiseksi tarkoituksella auki, jotta voisin valmistella kaikki sisälle tulevat asiat. Käytännössä se tarkoittaa jakosuodinta, johtoja ja vaimennusmateriaalia.
+
+![Kotelon osat puristettu yhteen puristimien avulla liimauksen ajaksi](liimaus.jpg)
+
+Harkitsin aluksi, että olisin paukauttanut liimattavat palaset kiinni toisiinsa viimeistelynaulaimella, jotta saisin palat varmasti 90 asteen kulmaan. Pieni testi osoitti kuitenkin, ettei sille ollut tarvetta. Pöytäsahalla tehdyt leikkaukset olivat niin suoria, että liimaaminen onnistui helposti pelkkien puristimien avulla.
+
+Kotelo ei ole suljettu, vaan sen etuseinässä on refleksiaukko. Tästä syystä en pystynyt liimaamaan kaikkia neljää seinää yhtä aikaa, vaan liimasin ne kulma kerrallaan. Vei vähän enemmän aikaa, mutta eipä minulla ollut mihinkään kiire. Ihan hyvä siitä tuli!
+
+![Liimatut sisäosat, jotka muodostavat eräänlaisen spiraalin. Kotelon etuosassa on refleksiaukko.](liimatut-sisaosat.jpg)
+
+Liiman kuivumista odotellessa pistin jakosuotimet kasaan. En juurikaan ymmärrä elektroniikasta, mutta osaan seurata ohjeita. Komponenttien paikat oli helppo löytää selkeän ohjeen avulla. Vähän kolvin sekä tinan heiluttelua, ja homma oli paketissa. Piuhoja en kuitenkaan vielä kiinnittänyt.
+
+![Valmiiksi kolvattu jakosuodin, jossa komponenttien johtimet on vielä lyhentämättä.](jakosuodin.jpg)
 
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
 
