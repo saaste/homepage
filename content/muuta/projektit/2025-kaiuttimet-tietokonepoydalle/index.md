@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-11T20:33:00+0200
+lastmod: 2025-01-12T19:11:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -75,6 +75,18 @@ Kotelo ei ole suljettu, vaan sen etuseinässä on refleksiaukko. Tästä syystä
 Liiman kuivumista odotellessa pistin jakosuotimet kasaan. En juurikaan ymmärrä elektroniikasta, mutta osaan seurata ohjeita. Komponenttien paikat oli helppo löytää selkeän ohjeen avulla. Vähän kolvin sekä tinan heiluttelua, ja homma oli paketissa. Piuhoja en kuitenkaan vielä kiinnittänyt.
 
 ![Valmiiksi kolvattu jakosuodin, jossa komponenttien johtimet on vielä lyhentämättä.](jakosuodin.jpg)
+
+### 12.1.2024 - Yläjyrsimen harjoittelua
+
+Projekti ei juurikaan tämän päivän aikana edennyt - mutta minä etenin! Kokeneempi Hacklabin jäsen nimittäin lupasi tulla opastamaan minulle ylä- ja käsijyrsimen käytön. Laite on ratkaisevassa roolissa kaiutinelementtien reikien sekä asennusurien tekemisessä.
+
+Iltapäivä hurahtikin sitten erilaisia tekniikoita, työkaluja ja teriä ihmetellessä. Tehtiin myös parit harjoitusreiät jämälautoihin, niin ei tarvinnut pelkän teorian varassa olla.
+
+![Käsissä oleva laudan pala, johon on tehty kaksi eri kokoista reikää, joiden reunat on viistetty](harjoitusreiat.jpg "Yläjyrsimestä tehtiin alajyrsin erillisen pöytälevyn avulla. Sopivan muotin avulla reiät oli helppo tehdä. Purua ja pölyä syntyi ihan hirveät määrät.")
+
+Uskoisin, että minulla on nyt riittävä tietotaito tehdä sopivat reiät varsinaiseen koteloon. Täytyy vaan olla tarkkana, etten mitätöi kaikkea tähän asti tehtyä tekemällä väärän kokoiset reiät.
+
+Ennen kuin hypättiin jyrsimien kimppuun, minulla oli sen verran aikaa, että päätin kolvata jakosuotimiin kaapeloinnit paikoilleen. Siinä kolvaillessa toinen jäsen tuli juttelemaan. Tällä jäsenellä sattui olemaan myynnissä pienikokoinen vahvistin, joka sopisi hyvin tulevien kaiuttimien kaveriksi. Olinkin miettinyt sellaisen hankintaa, mutta nyt sekin ongelma taitaa ratketa kuin itsestään.
 
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
 
