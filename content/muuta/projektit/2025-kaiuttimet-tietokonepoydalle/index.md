@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-12T19:11:00+0200
+lastmod: 2025-01-13T19:10:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -88,5 +88,20 @@ Uskoisin, että minulla on nyt riittävä tietotaito tehdä sopivat reiät varsi
 
 Ennen kuin hypättiin jyrsimien kimppuun, minulla oli sen verran aikaa, että päätin kolvata jakosuotimiin kaapeloinnit paikoilleen. Siinä kolvaillessa toinen jäsen tuli juttelemaan. Tällä jäsenellä sattui olemaan myynnissä pienikokoinen vahvistin, joka sopisi hyvin tulevien kaiuttimien kaveriksi. Olinkin miettinyt sellaisen hankintaa, mutta nyt sekin ongelma taitaa ratketa kuin itsestään.
 
-Päivitän tätä sivua sitä mukaa kun projekti etenee.
+### 13.1.2024 - Epäonnistumisia
 
+Tämä päivä ei ollut erityisen suuri menestys.
+
+Ensimmäisenä halusin kiinnittää jakosuotimen kotelon takaseinään. Voidaan yhdessä miettiä, että olisiko se ollut helpompaa, jos olisin kiinnittänyt sen ennen liimaamista. Nyt piirilevyn ruuvaaminen oli ihan hirveää ähräämistä, jossa meni tarpeettoman paljon aikaa. Valitsemani työjärjestys ei ollut erityisen fiksu, mutta osasin varautua tähän. Sain kuitenkin jakosuotimet kiinni, joten niiltä osin ongelma on hoidossa. Lisäsin pariin komponenttiin myös pari tippaa kuumaaliimaa, jotta ne eivät heiluisi.
+
+Siinä jakosuotimen kanssa ährätessä onnistuin moukaroimaan toista koteloa niin, että yksi sen liimauksista petti. Tiesin, etteivät liimaukset kestä hirveitä ilman sivuseiniä ja koetin olla varovainen. En ollut tarpeeksi varovainen. Koetin korjata sitä lisäämällä uutta liimaa. Loppujen lopuksi sivuseinät pitävät kotelon isolta osin kasassa, joten ehkä tuo on ihan kelvollinen pikakorjaus.
+
+Seuraavaksi aloin leikata reikiä elementeille. Tässä vastaan tuli sama ongelma: se olisi ollut paljon helpompi tehdä ennen liimaamista. Nyt jouduin tukemaan koteloa, että pystyisi kasassa ilman sivuseiniä. Onnistuin kuitenkin tekemään alustavat reiät, jotka voin viimeistellä jyrsimellä.
+
+![Sivuilta auki olevat kotelo, joiden sisään on ruuvattu jakosuotimet. Kaiutinelementeille on tehty alustavat reiät, jotka vaativat edelleen jyrsimistä](reiat-ja-jakosuotimet.jpg)
+
+En kuitenkaan muistanut sitä, että eiliset testipalikat olivat juuri niitä: testipalikoita. Koska niitä ei oltu liimattu mihinkään, pystyin ongelmitta käyttämään alajyrsintä. Varsinaisten kaiuttimien kanssa se ei onnistukaan, koska en pääse etulevyyn käsiksi sen alapuolelta.
+
+Viime yön huonot yöunet pitivät huolen, että aivot olivat pelkkää mössöä. Päätin viheltää pelin poikki ja tuumailla asiaa huomenna hieman virkeämmillä aivoilla.
+
+Päivitän tätä sivua sitä mukaa kun projekti etenee.
