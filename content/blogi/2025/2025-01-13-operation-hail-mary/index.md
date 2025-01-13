@@ -1,10 +1,10 @@
 ---
-title: "Kirja-arvostelu: Operation Hail Mary"
-description: "Suomalaisen kirjallisuuden teemavuosi päättyi, joten otin työn alle pitkään lukulistalla olleen, Andy Weirin kirjoittaman Operation Hail Maryn - suomeksi Operaatio Ave Maria."
+title: "Kirja-arvostelu: Project Hail Mary"
+description: "Suomalaisen kirjallisuuden teemavuosi päättyi, joten otin työn alle pitkään lukulistalla olleen, Andy Weirin kirjoittaman Project Hail Maryn - suomeksi Operaatio Ave Maria."
 date: 2025-01-13T05:45:00+0200
 lastmod: 2025-01-13T05:45:00+0200
 draft: false
-slug: operation-hail-mary
+slug: project-hail-mary
 aiheet:
     - kirjat
 resources:
@@ -12,7 +12,7 @@ resources:
       src: cover.jpg
       title: "Kirjan kansikuva, jossa pitkään köyteen kytketty astronautti leijailee avaruudessa"
 ---
-Suomalaisen kirjallisuuden teemavuosi päättyi, joten otin työn alle pitkään lukulistalla olleen Andy Weirin kirjoittaman Operation Hail Maryn - suomeksi Operaatio Ave Maria. Voi pojat mikä elämys!
+Suomalaisen kirjallisuuden teemavuosi päättyi, joten otin työn alle pitkään lukulistalla olleen Andy Weirin kirjoittaman Project Hail Maryn - suomeksi Operaatio Ave Maria. Voi pojat mikä elämys!
 
 <!--more-->
 
@@ -44,9 +44,9 @@ Weir on tunnettu [hard science fiction](https://en.wikipedia.org/wiki/Hard_scien
 
 Luin seuraavaksi Weirin hieman kömpelön [Artemis](https://finna.fi/Record/helmet.2390705?sid=4901603550)-kirjan ja tajusin, että hänellä tuntuu olevan vain yhdenlainen tapa kirjoittaa tarinoita. Artemis oli kuin huonompi versio Yksin marssista -kirjasta, mutta siinä oli samanlainen päähenkilö, samanlainen huumori ja samanalainen kovaan tieteeseen nojaava ja insinöörimäisiä nippelitietoja viljelevä tyyli.
 
-Niinpä oletin, että Weir jatkaa samalla linjalla myös Operation Hail Maryn kohdalla. Koska osa Weirin huumorista pohjautuu tapaan, jolla hän käyttää englanninkieltä, päätin lukea kirjan englanniksi.
+Niinpä oletin, että Weir jatkaa samalla linjalla myös Project Hail Maryn kohdalla. Koska osa Weirin huumorista pohjautuu tapaan, jolla hän käyttää englanninkieltä, päätin lukea kirjan englanniksi.
 
-Operation Hail Mary olikin jotain muuta. Siinä on monia tuttuja elementtejä ja päähenkilökin omaa samoja piirteitä, kuin aikaisempien tarinoiden päähenkilöt, mutta siinä oli kokonaan uudenlainen tunnelma. Vaikka tämäkin kirja nojaa tieteeseen, se tuntui selkeältä fiktiolta, joka uskaltaa ottaa askeleita myös tieteen ulkopuolella.
+Project Hail Mary olikin jotain muuta. Siinä on monia tuttuja elementtejä ja päähenkilökin omaa samoja piirteitä, kuin aikaisempien tarinoiden päähenkilöt, mutta siinä oli kokonaan uudenlainen tunnelma. Vaikka tämäkin kirja nojaa tieteeseen, se tuntui selkeältä fiktiolta, joka uskaltaa ottaa askeleita myös tieteen ulkopuolella.
 
 Kirja ei ole samalla tavalla hauska kuin Weirin aikaisemmat teokset. Siinä on samankaltainen huumori, mutta Weir käyttää sitä paljon säästeliäämmin. Tästä huolimatta teos ei ole hirvittävän vakava, vaikka se käsitteleekin vakavia ja ajatuksia herättäviä teemoja.
 
