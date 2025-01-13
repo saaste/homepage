@@ -13,9 +13,6 @@ summary: "Mitä puuhastelen juuri nyt"
 ### Pelit
 - [Stellar Blade](https://stellar-blade.com/) ([Traileri](https://www.youtube.com/watch?v=DSznLWimMlU))
 
-### Kirjat
-- [Andy Weir - Operaatio Ave Maria](https://finna.fi/Record/fikka.5569279?sid=4731211093)
-
 ### Opiskelu
 - [Blender](https://www.blender.org)
 - Pianon soitto

@@ -5,6 +5,9 @@ summary: "Lista erilaisista asioista, kuten lukemani kirjat, pelaamani pelit sek
 
 ### Luetut kirjat
 
+#### 2025
+- [Andy Weir - Project Hail Mary](https://finna.fi/Record/fikka.5569279?sid=4731211093) ([Arvostelu]({{< ref "/blogi/2025/2025-01-13-project-hail-mary" >}}))
+
 #### 2024
 - [Chris Hadfield, Apollo-murhat](https://finna.fi/Record/anders.1920337?sid=4731209620) ([Arvostelu]({{< ref "/blogi/2024/2024-02-27-apollo-murhat" >}}))
 - [Emmi Itäranta, Teemestarin kirja](https://finna.fi/Record/3amk.290511?sid=4731209704) ([Arvostelu]({{< ref "/blogi/2024/2024-03-05-teemestarin-kirja" >}}))
