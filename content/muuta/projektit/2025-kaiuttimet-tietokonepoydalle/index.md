@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-13T19:10:00+0200
+lastmod: 2025-01-15T20:42:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -105,3 +105,33 @@ En kuitenkaan muistanut sitä, että eiliset testipalikat olivat juuri niitä: t
 Viime yön huonot yöunet pitivät huolen, että aivot olivat pelkkää mössöä. Päätin viheltää pelin poikki ja tuumailla asiaa huomenna hieman virkeämmillä aivoilla.
 
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
+
+### 15.1.2024 - Reiät elementeille ja moka
+
+Tarkoitus oli jo eilen aloittaa reikien teko kaiutinelementtejä varten, mutta en päässyt tekemään tarvittavia sapluunoita, koska laserleikkuri oli varattuna. Edistin projektia kuitenkin sen verran, että liimasin toisen sivuseinistä paikoilleen ja leikkelin vaimennusmateriaaleista sopivia palasia.
+
+Tänään pääsinkin sitten kunnolla vauhtiin. Olin laskenut ja piirtänyt valmiiksi oikeassa mittasuhteessa olevan vektorikuvan, jonka pystyin syöttämään laserleikkurille. Sen avulla leikkasin vanerista sapluunat, joilla tulisin ohjaamaan yläjyrsimen kulkua. Tarvitsin yhteensä neljä sapluunaa: kaksi elementtien rei'ille ja kaksi niiden syvennyksille. Päätin tehdä aluksi sapluunat pelkästään rei'ille.
+
+![Laserleikkurissa oleva vaneri. Laser on leikannut vaneriin ympyrän ja leikkaa nyt neliötä ympyrän ympärille. Vanerin alla näkyy liekki kohdassa, jossa laser on menossa](laserleikkuri.jpg)
+
+Laitoin kotelon kiinni ruuvipenkkiin ja asemoin sapluunan oikeaan kohtaan sen päälle. Sapluuna pysyi paikoillaan kaksipuoleisella teipillä. Mallailin vielä sapluunan paikkaa jyrsimellä, ja kun kaikki näytti olevan kunnossa, laitoin jyrsimen laulamaan.
+
+![Työpöydän puristimessa kiinni oleva kotelo. Kotelon päällä on teipattu sapluuna. Kotelo on täynnä sahanpurua.](kotelo-puristimessa.jpg)
+
+Kuljin rauhalliseen tahtiin sapluunan reunoja pitkin ja lopputuloksena syntyi varsin siisti reikä! Sen jälkeen kotelo irti ja toinen tilalle. Sekin onnistui hienosti. Sama homma piti tehdä myös molempien kaiuttimien pienemmille reille. Olin positiivisesti yllättynyt, kuinka hyvin kaikki sujui.
+
+![Molemmat kotelot ja niiden valmiiksi jyrsityt reiät](jyrsityt-reiat.jpg)
+
+Sitten palasin takaisin laserleikkurille ja tein sapluunat syvennyksiä varten. Tässä kohtaa puutyötilaan oli ehtinyt tulla toinen kaveri, joka oli ottanut käyttöön saman työpöydän, jota itse käytin aikaisemmin. Siirryin sitten toisen pöydän ääreen duunailemaan.
+
+Tässä kohtaa minun piti liimata myös kotelon toinen seinä umpeen. Jos tämän jälkeen kotelon sisällä pitää jotain tehdä, se on tehtävä reikien kautta. Odottelin liiman kuivumista reilut 30 minuuttia ja sen jälkeen runttasin toisen koteloista pöydän puristimeen kiinni. Harmillisesti uuden pöydän puristin ei ollut yhtä hyvä kuin aikaisempi, ja jouduin harrastamaan virittelyä, että sain kotelon pysymään siinä tukevasti. Koska syvennysten sapluunat olivat aikaisempia suurempia, niidenkin asemointi otti oman aikansa. Lopulta kaikki näytti kuitenkin hyvältä.
+
+Upotusten pitäisi olla noin viisi millimetriä syviä. Liiman kuivumista odotellessa olin asettanut jyrsimen terän valmiiksi oikeaan kohtaan ja testannut sitä roskapuuhun. Aikaisempien onnistumisen piristämänä aloin jyrsiä syvennystä ja jälki näytti upealta. Ja sitten sapluuna irtosi teipeistä! Tuloksena jyrsin raapaisi syvennyksen kohtaan, jossa ei todellakaan pitäisi olla syvennystä.
+
+![Lähikuva kohdasta, jossa jyrsin lipsahti](jyrsinmoka.jpg)
+
+Näin jälkeen päin voi kysyä, että miksi sapluuna oli kiinni pelkästään teipeillä eikä omilla puristimilla? Vastaus on yksinkertainen: koska olen kokematon idiootti 🤪
+
+Vahinko ei ole onneksi suuren suuri, sillä minun on joka tapauksessa ajatuksena viiluttaa kotelot. Vaneriin tulleet pienet mokat jäävät viilujen alle. Tehdyn mokan voi lisäksi aika hyvin paikata.
+
+Tässä kohtaa olin ährännyt projektin parissa kuusi tuntia. Kello alkoi olla sen verran paljon, että päätin lopettaa tältä päivältä ja jatkaa huomenna.
