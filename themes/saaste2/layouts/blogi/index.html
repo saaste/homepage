@@ -31,15 +31,17 @@
                 </picture>
             {{- else -}}
                 {{- $url := printf "https://opengraph.saaste.net/opengraph.png?title=%s&date=%s" (urlquery $page.Title) (time.Format "02.01.2006" $page.Date) -}}
-                {{- with resources.GetRemote $url (dict "key" $url) -}}
+                {{- with try (resources.GetRemote $url (dict "key" $url)) -}}
                     {{- with .Err -}}
                         {{- errorf "%s" . -}}
-                    {{- else -}}
+                    {{- else with .Value -}}
                         {{- $thumbnail := .Resize "400x jpg q50" -}}
                         <picture class="post-image">
                             <source srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" media="(max-width: 700px)">
                             <img src="{{ $thumbnail.Permalink }}" alt="Open Graph -kuva, jossa on kirjoituksen otsikko." width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" class="thumbnail">
                         </picture>
+                    {{- else -}}
+                        {{- errorf "Unable to get remote resource %q" $url -}}
                     {{- end -}}
                 {{- end -}}
             {{- end -}}
