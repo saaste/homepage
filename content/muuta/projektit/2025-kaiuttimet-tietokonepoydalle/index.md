@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-15T20:42:00+0200
+lastmod: 2025-01-16T17:41:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -135,3 +135,17 @@ Näin jälkeen päin voi kysyä, että miksi sapluuna oli kiinni pelkästään t
 Vahinko ei ole onneksi suuren suuri, sillä minun on joka tapauksessa ajatuksena viiluttaa kotelot. Vaneriin tulleet pienet mokat jäävät viilujen alle. Tehdyn mokan voi lisäksi aika hyvin paikata.
 
 Tässä kohtaa olin ährännyt projektin parissa kuusi tuntia. Kello alkoi olla sen verran paljon, että päätin lopettaa tältä päivältä ja jatkaa huomenna.
+
+### 16.1.2024 - Syvennykset ja hionta
+
+Päivä alkoi sillä, että hain rautakaupasta sopivan terän jyrsimeen. Verstaalla jatkoinkin sitten siitä, mihin jäin eilen. Mallailin taas sapluunat paikoilleen ja sen jälkeen jyrsin upotukset kaikkiin neljään reikään.
+
+Se sujuikin ihan hyvin, mutta paremminkin olisi voinut mennä. Tajusin, että työjärjestykseni oli taas väärä. Aloin jyrsiä upotuksia ennen kuin olin tasoittanut pinnat, joten eihän niistä tasaisia tullut. Tein ne nyt niin hyvin kun pystyin.
+
+Ehkä niillä ei ole niin väliä, kun sinnehän ne jää kaiuttimien alle. Tajusin myös sellaisen yksityiskohdan, että vanerin päälle tulevat viilut tekevät upotuksista vieläkin syvempiä riippuen viilun paksuudesta. Tästä johtuen jätin niihin tässä kohtaa hieman pelivaraa.
+
+![Työpöydällä oleva hiomakone. Toinen kotelo on jo hiottu, toinen on edelleen puristimessa kiinni.](hiomakone-ja-kotelo.jpg "Kun olin saanut reiät hoidettua, sen jälkeen aloin tasoitella epätasaisuuksia. Hoidin homman hiomakoneella, mutta osa epätasaisuuksista oli kyllä sen verran syviä, että jokin toinen menetelmä olisi ollut varmasti nopeampi ja muutenkin fiksumpi.")
+
+Kotelot alkavat kuitenkin näyttää hiljalleen ihan kaiuttimilta. Pitää alkaa selvittää, että mistä saan tilattua viilut.
+
+![Molemmat kotelot pöydällä hiottuna](hiotut-kotelot.jpg)
