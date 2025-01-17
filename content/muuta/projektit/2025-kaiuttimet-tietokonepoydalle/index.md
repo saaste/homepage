@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-16T17:41:00+0200
+lastmod: 2025-01-17T22:09:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -104,8 +104,6 @@ En kuitenkaan muistanut sitä, että eiliset testipalikat olivat juuri niitä: t
 
 Viime yön huonot yöunet pitivät huolen, että aivot olivat pelkkää mössöä. Päätin viheltää pelin poikki ja tuumailla asiaa huomenna hieman virkeämmillä aivoilla.
 
-Päivitän tätä sivua sitä mukaa kun projekti etenee.
-
 ### 15.1.2024 - Reiät elementeille ja moka
 
 Tarkoitus oli jo eilen aloittaa reikien teko kaiutinelementtejä varten, mutta en päässyt tekemään tarvittavia sapluunoita, koska laserleikkuri oli varattuna. Edistin projektia kuitenkin sen verran, että liimasin toisen sivuseinistä paikoilleen ja leikkelin vaimennusmateriaaleista sopivia palasia.
@@ -149,3 +147,29 @@ Ehkä niillä ei ole niin väliä, kun sinnehän ne jää kaiuttimien alle. Taju
 Kotelot alkavat kuitenkin näyttää hiljalleen ihan kaiuttimilta. Pitää alkaa selvittää, että mistä saan tilattua viilut.
 
 ![Molemmat kotelot pöydällä hiottuna](hiotut-kotelot.jpg)
+
+### 17.1.2024 - Virheiden korjausta ja viiluttamista
+
+Päivä alkoi sillä, että kävin hakemassa [Plektra Tradingista](https://www.plektratrading.fi) valkotammiviilua. Voin suositella yritystä lämpimästi. Erittäin ystävällinen ja asiantunteva palvelu, johon tällainen aloittelijakin astuu mielellään tuntematta itseään idiootiksi. Heillä sattui olevaan minulla sopiva määrä jämiä, joten ei tarvinnut ostaa yli kahden metrin rullaa. Hintaa viiluille tuli **25 euroa**.
+
+![Viilut rullattuna ja kelmuun käärittynä](viilut.jpg)
+
+Uusille viiluille ei kuitenkaan vielä tänään tullut käyttöä. Pyhitin päivän sille, että harjoittelin viilutusta verstaalla olevilla ylijäämäpaloilla. Liimasin jämäpuista 90 asteen kulman, johon yritin viiluja kiinnittää.
+
+Viilun käsittely itsessään oli varsin helppoa. Levitin liiman pienellä telalla ja sen jälkeen asettelin viilut niin, että ne menivät joka reunalta varsinaisen puukappaleen ulkopuolelle. Sen jälkeen kaulitsin viilun paikoilleen pyöreällä puupalikalla ja jätin sen kuivumaan puristimella kiinnitetyn puupalikan alle.
+
+Liiman kuivumista odotellessa piirsin paperin läpi aikaisempien jyrsinvahinkojen synnyttämät ylimääräiset urat ja leikkasin sopivan paksuisesta vanerista niihin paikat. Vähän viilaa, hiomapaperia, sahanpurua sekä liimaa, ja virheet oli korjattu riittävän hyvin.
+
+Sillä välin viilun liima oli kuivunut ja koetin leikata ylimääräistä viilua terävällä veitsellä. Kuvion suuntaan siinä ei ollut mitään ongelmaa, mutta sivuttain viilu hajoili tosi herkästi ja jälki oli rumaa. Varsinkin kulmat olivat ihan mahdottomia saada siistiksi. Reunoja lukuun ottamatta viilu näytti kyllä asettuneen hyvin.
+
+Sen jälkeen oli toisen seinän vuoro. Tein siinä samat temput, mutta reunojen siistimiseen päätin testata jyrsintä. Se osoittautuikin tosi hyväksi vaihtoehdoksi ja teki tosi siistit reunat. Tiedänpähän nyt, miten siistin kaiuttimien reunat.
+
+![Kaksi puuta liimattu 90 asteen kulmaan. Niiden päälle on liimattu viilut.](koeviilutus.jpg)
+
+Toisen viilutestin kuivumista odotellessa siistin molempien kaiuttimien kaikki reiät ja upotukset. Testasin ne myös kaiutinelementeillä ja oikein nätisti asettuivat. Nyt kotelo on valmis varsinaiseen viilutukseen!
+
+![Kaiutinelementti aseteltuna kotelon reikään](elementtitesti.jpg)
+
+![Molemmat kotelot korjattuna ja valmiina viilutukseen](kotelot-valmiina-viiluun.jpg)
+
+Päivitän tätä sivua sitä mukaa kun projekti etenee.
