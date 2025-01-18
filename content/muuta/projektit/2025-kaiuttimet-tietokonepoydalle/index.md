@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-17T22:09:00+0200
+lastmod: 2025-01-18T19:10:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -171,5 +171,43 @@ Toisen viilutestin kuivumista odotellessa siistin molempien kaiuttimien kaikki r
 ![Kaiutinelementti aseteltuna kotelon reikään](elementtitesti.jpg)
 
 ![Molemmat kotelot korjattuna ja valmiina viilutukseen](kotelot-valmiina-viiluun.jpg)
+
+### 18.1.2024 - Viilutuspäivä
+
+Aloitin puuhastelun heti kahdeksan jälkeen. Ensimmäisenä halusin varmistaa, että saan tehtyä viilun reiät oikealle kohdalle rikkomatta sitä. Valitsemani työkalu oli laserleikkuri.
+
+Mittasin työntömitalla molempien kaiuttimien etuseinät, reikien paikat, halkaisijat, etäisyydet joka seinästä ja samat asiat refleksiaukosta. Täydellisessä maailmassa olisin tietenkin voinut katsoa kaiken piirustuksista, mutta minä en elä täydellisessä maailmassa. Piirtelin leikkuria varten vektorikuvan, jossa kaikki oli millilleen oikealla paikalla.
+
+Leikkasin koekappaleet pahville, jotta en tuhlaisi viilua. Onneksi tein niin, sillä mittailusta huolimatta asiat eivät olleet ihan oikeilla paikoilla. Parin hienosäädön jälkeen kaikki näytti hyvältä. Tein vielä yhden testin hyllystä löytyneellä viilun palalla ja se näytti istuvan koteloon täydellisesti. Varmistin asian istuttamalla kaiutinelementit reikiin. Pelkkä koeviilu sai kaiutinkotelon näyttämään paljon arvokkaammalta!
+
+![Kotelot pöydällä. Vasemman etupaneelissa on pahvinen harjoituskappale ja oikean päällä jämäviilusta tehty kokeilu](etupanelin-mallit.jpg)
+
+Kun etulevyn valmistelut oli tehty, siirryin varsinaiseen viilutuksen pariin. Ensiksi leikkasin joka sivulle sopivat palat. Pidin huolen, että sivuseinät sekä koostuivat vierekkäisistä paloista, jotta puun syyt kulkisivat nätisti läpi kotelon. Tässä kohtaa tajusin virheen, jonka tein eilen.
+
+Kun ostin viilun, katsoin piirustuksista kotelon mitat, jotta viilua olisi varmasti tarpeeksi. Ostin lisäksi vähän ylimääräistä, jotta minulla olisi pelivaraa virheille. Kaikki tämä oli hyvin ajateltu, mutta ajattelu olisi ollut vieläkin parempaa, jos olisin muistanut, että kaiuttimia on kaksi. Olin niin homepää, että olin ottanut materiaalit vain yhteen kaiuttimeen. Huoh!
+
+Halusin varmistaa, että viilujen synnyttävät saumat jäisivät mahdollisimman hyvin piiloon, joten päätin liimata seinät tietyssä järjestyksessä: pohja, takaseinä, sivuseinät, etuseinä ja viimeisenä katto. Tässä oli myös se hyvä puoli, että ensimmäisten yritysten epäonnistumiset tulisivat pohjaan ja takaseinään, eivätkä näkyisi niin selvästi.
+
+Ja epäonnistumisiahan riitti. Kun liimasin pohjan, käytin aivan liian paljon liimaa. Tuloksena oli aivan mutkalle käpristynyt viilu. Sen lisäksi asensin sen ihan vinoon ja kaiken kaikkiaan koko touhu meni ihan päin helvettiä. Liima ehti tietenkin jysähtää kiinni ennen kuin huomasin virheeni, joten viilua ei saanut enää liikuteltua ehjänä. Sain sen kuitenkin irti kappaleina ja leikkasin ylimääräisestä viilusta uuden palan.
+
+Tällä kertaa viilu meni suoraan. Pistin viilun päälle laudan ja siihen kiinni kuusi puristinta. 30 minuutin odottelun jälkeen otin puristimet irti ja toivoin näkeväni sileän pinnan. Ei ollut sileä. Oli hyvin kuhmurainen.
+
+![Kotelo viiluineen kahden laudan välissä. Koko paketti on puristettu yhteen kuudella puristimella](viilut-puristuksissa.jpg)
+
+Olin nähtävästi käyttänyt edelleen aivan liian paljon liimaa. Ei se nyt hirvittävän rumakaan ollut, mutta ei tasainenkaan. En jäänyt murehtimaan asiaa vaan otin jyrsimen käteen ja ajelin sillä kotelon yli menneet viilut pois.
+
+Takaseinän kohdalla vähensin liimaa entisestään. Sen lisäksi vatvoin sitä telalla niin pitkään, että liima alkoi muodostaa hämähäkin seittiä muistuttavia säikeitä. Viilun sijoittelu oli edelleen vaikeaa, koska se luisti joka suuntaan liimapinnan päällä. Kaikki näytti olevan kuitenkin suorassa, joten pistin laudan päälle ja puristimet kiinni. Kun tein viimeisen tarkastuksen, huomasin viilun olevan ihan vinossa. Eih!
+
+Otin puristimet äkkiä irti ja onnistuin jollain ihmeen konstilla irrottamaan viilun rikkomatta sitä. Tarkastin viilun sijainnin jokaisen puristimen jälkeen ja vihdoinkin kaikki näytti menevän oikein. Kun liima oli kuivunut, minua odotti varsin siisti ja viilupinta!
+
+Sitten oli aika siirtyä sivuseinän kimppuun. Koska liimaa tuntui edelleen olevan liikaa, päätin valella sitä pelkästään vaneriin. Tämä osoittautui hyväksi ratkaisuksi, sillä nyt viilu ei luistellut liimapinnan päällä. Kaikki loput seinät menivät tällä tekniikalla ja jälki oli omaan silmään ihan hyvää.
+
+Lopulta oli etuseinän vuoro. Leikkasin laserleikkurilla viilusta sopivan kokoisen palan aamulla tehdyllä pohjalla. Se istui edelleen täydellisesti. Nyt se piti myös saada liimattua täydellisesti. Liimat pintaan, asettelu, puristus ja lopputulos lähenteli omaan silmään täydellistä! Harjoittelu tekee mestarin. Testasin etupaneelia elementeillä ja no solahtivat reikiin helposti. Sain huokaista helpotuksesta.
+
+Lopuksi asensin kattoviilun. Kaikkeen tähän säätämiseen, mittailuun, suunnitteluun, testailuun, leikkaamiseen, liimaamiseen ja liiman kuivumisen odotteluun vierähti yhdeksän tuntia. Lopputuloksena syntyi kuitenkin ihan kivan näköinen kotelo. Pieniä vikoja siellä tietenkin näkyy. Jyrsin repi pariin kohtaan ikävät nirhaumat, mutta katson myöhemmin, saisiko niitä jotenkin siistittyä.
+
+![Viilutettu kotelo](viilutettu-kotelo.jpg)
+
+Toisen kaiuttimen viilutus jää ensi viikkoon, sillä [Plektra Trading](https://www.plektratrading.fi) ei ole viikonloppuisin auki. Maanantaina sitten!
 
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
