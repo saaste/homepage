@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-18T19:10:00+0200
+lastmod: 2025-01-19T18:10:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -209,5 +209,23 @@ Lopuksi asensin kattoviilun. Kaikkeen tähän säätämiseen, mittailuun, suunni
 ![Viilutettu kotelo](viilutettu-kotelo.jpg)
 
 Toisen kaiuttimen viilutus jää ensi viikkoon, sillä [Plektra Trading](https://www.plektratrading.fi) ei ole viikonloppuisin auki. Maanantaina sitten!
+
+### 19.1.2024 - Hiontahommia
+
+Olin ajatellut, että pidän tänään välipäivän askartelusta, mutta en sitten kuitenkaan malttanut.
+
+Kävin ostamassa rautakaupasta hiomapaperia hiomakoneeseen ja kaveriksi muutaman liuskan käsihiontaa varten.
+
+Verstaalla paikkasin pari viiluun tullutta rokamaa. Kahdesta kohdasta viilun liimaus oli pettänyt, joten laitoin myös ne kuntoon.
+
+Sen jälkeen keskityin hiomaan kotelon seinät. Aloitin tuttuun tapaan pohjasta, jotta omat mokat eivät näkyisi. Tälläkään kertaa en selvinnyt ilman mokia.
+
+Olin vähän turhan innokas hiomakoneen kanssa ja sen seurauksena vaneri alkoi paistaa viilun alta. Tämä oli tietysti seurausta siitä, että yritin tasoittaa pohjan ruttuun mennyttä viilua. Aika tasainen siitä tulikin. Totesin, että tasainen pohja on minulle tärkeämpi, joten pieni vanerin läpikuultavuus ei haittaa, etenkään pohjassa.
+
+Virheestä oppineena olin muiden sivujen kanssa varovaisempi. Sivujen kulmat kävin läpi käsin. Nyt on tasainen kotelo! Pieniä aloittelijan mokia näkyy siellä täällä, mutta sovitaan, että ne antavat kaiuttimelle luonnetta 😇
+
+Lopuksi porasin reiät taakse tulevaa terminaalia ja sen johtoja varten. Huomenna olisi tarkoitus hakea viilut toista kaiutinta varten.
+
+![Koneella hiottu kotelo työpöydällä](koneella-hiottu-kotelo.jpg)
 
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
