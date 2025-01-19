@@ -6,14 +6,14 @@
     {{- if .Params.Caption -}}
     <figure class="post-article-image">
         <a href="{{ .RelPermalink | safeURL }}">
-            <img src="{{ .RelPermalink | safeURL }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+            <img src="{{ .RelPermalink | safeURL }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}" class="with-caption">
         </a>
         <figcaption>{{ .Params.Caption }}</figcaption>
     </figure>
     {{- else -}}
     <div class="post-article-image">
         <a href="{{ .RelPermalink | safeURL }}">
-            <img src="{{ .RelPermalink | safeURL }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+            <img src="{{ .RelPermalink | safeURL }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}" class="without-caption">
         </a>
     </div>
     {{- end -}}

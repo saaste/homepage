@@ -497,6 +497,11 @@ body {
         vertical-align: middle;
     }
 
+    img.without-caption {
+        border-radius: 10px;
+        border-bottom: var(--border-post-meta);
+    }
+
     figcaption {
         background: var(--color-background-block);
         padding: 1rem;
@@ -512,6 +517,7 @@ body {
         padding: 1rem 1.5rem 1rem 0;
     }
 }
+
 
 
 
