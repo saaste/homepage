@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-19T18:10:00+0200
+lastmod: 2025-01-21T05:58:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -227,5 +227,19 @@ Virheestä oppineena olin muiden sivujen kanssa varovaisempi. Sivujen kulmat kä
 Lopuksi porasin reiät taakse tulevaa terminaalia ja sen johtoja varten. Huomenna olisi tarkoitus hakea viilut toista kaiutinta varten.
 
 ![Koneella hiottu kotelo työpöydällä](koneella-hiottu-kotelo.jpg)
+
+### 20.1.2024 - Toisen kotelon vuoro
+
+Kävin hakemassa töiden jälkeen [Plektra Tradingilta](https://www.plektratrading.fi) toisen satsin viilua. Tällä kertaa viiluille tuli hintaa **18 €**.
+
+![Kotelon ensimmäinen viilu aseteltuna ruuvipenkkiin kiinnitetyn kotelon päälle](viilupohja.jpg)
+
+Olin tehnyt ensimmäisen kaiuttimen kohdalla kaikki valmistelut. Sen myötä tiesin myös suunnilleen, mitä pitäisi tehdä, joten pääsin töihin huomattavasti suoraviivaisemmin. Sain viilutettua illan aikana kaikki sivut. Laserleikattu etulevykin istui täydellisesti.
+
+![Laserleikattu etulevyn viilu leikkurin sisällä](leikattu-etulevy.jpg)
+
+Reunat siistin aikaisempaan tapaan jyrsimellä, mutta jostain syystä jyrsin repi viilua paljon enemmän, kuin ensimmäisen kaiuttimen kanssa. Yritin paikkailla syntyneitä rokamia irtopaloilla ja liimalla. Saa nähdä millainen on työn jälki hionnan jälkeen.
+
+Molemmat kaiuttimet on nyt viilutettu. Ilta venähti sen verran pitkäksi, etten alkanut hioa toista kaiutinta, vaan jätin sen suosiolla huomiseen.
 
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
