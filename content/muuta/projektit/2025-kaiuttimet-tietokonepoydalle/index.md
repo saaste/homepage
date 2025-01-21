@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-21T05:58:00+0200
+lastmod: 2025-01-21T18:51:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -241,5 +241,23 @@ Olin tehnyt ensimmäisen kaiuttimen kohdalla kaikki valmistelut. Sen myötä tie
 Reunat siistin aikaisempaan tapaan jyrsimellä, mutta jostain syystä jyrsin repi viilua paljon enemmän, kuin ensimmäisen kaiuttimen kanssa. Yritin paikkailla syntyneitä rokamia irtopaloilla ja liimalla. Saa nähdä millainen on työn jälki hionnan jälkeen.
 
 Molemmat kaiuttimet on nyt viilutettu. Ilta venähti sen verran pitkäksi, etten alkanut hioa toista kaiutinta, vaan jätin sen suosiolla huomiseen.
+
+### 21.1.2024 - Koteloiden öljyäminen
+
+Aloitin päivän eilen viilutetun kaiuttimen hiomisella. Yritin piilottaa myös parit viiluun tulleet rokamat. Eihän siitä täydellistä saa millään, mutta kyllä se saa näyttää siltä, että se on itse tehty.
+
+Hionnan jälkeen porasin reiät kaiutinelementtien ruuveille ja taakse tulevalle terminaalille. Johtojen reiäthän minä porasin jo aikaisemmin. Sitten kiinnitin kaiuttimien johtoihin abiko-liittimet, jotta niitä ei tarvitse kiinnittää kaiuttimiin kolvaamalla.
+
+Kun sisuskalut olivat kunnossa, aloin selvitellä kotelon öljyämistä. Verstaalla oli jämäpurkki Osmon väritöntä öljyvahaa. Kokeneemmat olivat kyllä sanoneet, että viilun voi viimeistellä ihan samoilla aineilla kuin minkä tahansa puun. Halusin kuitenkin varmistaa asian katsomalla netistä pari videota aiheesta. Samalla sain hyviä vinkejä siihen, kuinka paljon öljyä pitäisi läträtä.
+
+![Ruttuun mennyt purkki öljyvahaa](oljyvaha.jpg)
+
+Öljy vaikutti sopivalta, mutta epäonnistumisten välttämiseksi päätin testata ja harjoitella ylimääräiseen viilun palaan. Kun kaikki näytti hyvältä, sivelin pohjaa lukuun ottamatta kaikki seinät öljyllä.
+
+Jos olisin ollut fiksu, olisin ottanut kotoa mukaan rätin. Nyt levitin öljyn talouspaperilla, mikä ei ollut paras mahdollinen ratkaisu. Yhtä paperia ei voinut käyttää kovin pitkään tai siitä alkoi irrota nukkaa öljypintaan.
+
+Sen enempää en kajareille voinut tänään tehdä. Jätin pöntöt kuivumaan ja huomenna on tarkoitus käydä levittämässä toinen kerros öljyä.
+
+![Hyllyllä kuivumista odottavat kotelot](oljytyt-kotelot.jpg)
 
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
