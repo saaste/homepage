@@ -2,7 +2,7 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-21T18:51:00+0200
+lastmod: 2025-01-22T22:39:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
 ---
 
@@ -259,5 +259,13 @@ Jos olisin ollut fiksu, olisin ottanut kotoa mukaan rätin. Nyt levitin öljyn t
 Sen enempää en kajareille voinut tänään tehdä. Jätin pöntöt kuivumaan ja huomenna on tarkoitus käydä levittämässä toinen kerros öljyä.
 
 ![Hyllyllä kuivumista odottavat kotelot](oljytyt-kotelot.jpg)
+
+### 22.1.2024 - Toinen kerros öljyvahaa
+
+Tänään en sitten voinutkaan tehdä muuta, kuin sipaista toisen kerroksen öljyvahaa. Nyt muistin ottaa kotoa mokaan kangasrievun, jolla sain öljyn leviteltyä.
+
+Eilen laitettu öljykerros näytti istuneen ihan hyvin. Luulen, että kaksi kerrosta riittää, joten ehkä huomenna pääsee kiinnittelemään kaiutinelementtejä ja asettelemaan vaimennusmateriaalia kotelon sisään.
+
+![Kertaalleen öljytyt kotelon työpöydällä odottamassa toista kerrosta. Öljypurkki on koteloiden vieressä.](toinen-kerros-oljya.jpg)
 
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
