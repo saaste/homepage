@@ -19,6 +19,3 @@ summary: "Mitä puuhastelen juuri nyt"
 
 ### Lukeminen
 - [Jussi Katajala - Romuluksen pojat](https://finna.fi/Record/helmet.2270817)
-
-### Projektit
-- [Kaiuttimet tietokonepöydälle]({{< ref "/muuta/projektit/2025-kaiuttimet-tietokonepoydalle/" >}})
