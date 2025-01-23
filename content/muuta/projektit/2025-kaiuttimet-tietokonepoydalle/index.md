@@ -2,13 +2,19 @@
 title: "Kaiuttimet tietokonepöydälle"
 slug: "kaiuttimet-tietokonepoydalle"
 date: 2025-01-02T19:12:00+0200
-lastmod: 2025-01-22T22:39:00+0200
+lastmod: 2025-01-23T16:13:00+0200
 summary: "Valmiista rakennussarjasta rakennetut kaiuttimet tietokonepöydälle."
+resources:
+    - name: cover
+      src: cover.jpg
+      title: "Valmiit kaiuttimet tietokonepöydällä näytön molemmilla puolilla."
 ---
 
 Päätin vuoden 2024 lopussa opetella käsityötaitoja. Tätä varten tarvitsin opetteluprojektin, joka tarjoaisi mukavaa haastetta, mutta olisi myös oikeasti hyödyllinen.
 
 Olen jo pidemmän aikaa halunnut korvata työpöydällä lojuvan Harman/Kardon -bluetooth-kaiuttimen kunnollisilla stereokaiuttimilla, joten se tuntui hyvältä projektilta. Siinä pääsisin puutöiden pariin, mutta saisin kosketusta myös elektroniikkapuoleen.
+
+{{<cover>}}
 
 ### 2.1.2025 - Rakennussarja
 
@@ -269,3 +275,21 @@ Eilen laitettu öljykerros näytti istuneen ihan hyvin. Luulen, että kaksi kerr
 ![Kertaalleen öljytyt kotelon työpöydällä odottamassa toista kerrosta. Öljypurkki on koteloiden vieressä.](toinen-kerros-oljya.jpg)
 
 Päivitän tätä sivua sitä mukaa kun projekti etenee.
+
+### 23.1.2024 - Sisuskalut paikoilleen
+
+Kävin aamulla tarkastamassa eilisen öljyämisen lopputuloksen. Pinta näytti siistiltä, mutta tuntui aavistuksen karhealta. Opin, että näillä öljyvahoilla on taipumus nostaa puun syyt pystyyn. Tästä syystä hioin pintaa kevyesti hienolla hiomapaperilla, pyyhin pölyt pois ja sen jälkeen sipaisin vielä kolmannen öljykerroksen.
+
+Iltapäivällä menin tarkastamaan tilanteen ja kaiuttimet olivat kuivuneet hyvin. Nyt ne myös tuntuivat sileältä.
+
+Sen jälkeen jäljellä ei ollut muuta kuin sisukalujen kiinnittäminen. Kolvasin ensiksi piuhat kiinni taakse tuleviin terminaaleihin ja ruuvasin ne paikoilleen.
+
+Sen jälkeen survoin koteloon vaimennusmateriaalit. Voi olla, että sitä on koteloiden sisällä nyt vähän liikaakin, mutta se on onneksi helppo ongelma korjata. Lopuksi kytkin elementteihin piuhat ja kiinnitin ne koteloon mukana tulleilla ruuveilla. Pieni pölyjen pyyhintä ja kaiuttimet ovat likipitäen valmiit.
+
+Viimeisenä jännitin sitä, toimivatko kaiuttimet ja osasinko koota jakosuotimen oikein. Kotona kytkin pöntöt vahvistimeen ja ilokseni molemmista lähti ääntä!
+
+Viikonloppuna minun on vielä öljyttävä koteloiden pohjat, mutta se on niin pieni homma, että julistan projektin päättyneeksi!
+
+![Valmis kaiutin tietokonepöydällä](valmis-kaiutin.jpg)
+
+{{<cover>}}
