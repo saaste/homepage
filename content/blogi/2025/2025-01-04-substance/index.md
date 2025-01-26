@@ -62,7 +62,7 @@ The Substance on elokuva, joka ei olisi oma valintani romanttisille ensitreffeil
 
 Se edustaa body horror genreä ja tekee sen yllättävän roisilla tavalla. Elokuvan ohjaaja ja käsikirjoittaja **Coralie Fargeat** osaa repiä oikeista naruista. Puolisoni, jolle TV:n paisetohtorit ovat suurta viihdettä, joutui välillä sulkemaan silmänsä. Itse taas en voi lainkaan sietää paisetohtoreita, mutta pystyin katsomaan tämän elokuvan ongelmitta.
 
-Se oli juuri tämä roisiksi menevä kerrontatyyli, joka minut välillä kyseenalaistamaan sitä, onko elokuva oikeasti nerokas, vai hierooko se yksinkertaista sanomaansa katsojan naamaan hirveällä raivolla. Hetkittäin yritys maksimoida ällötys tuntui lähes epätoivoiselta. The Substance pysyi minusta rajan paremmalle puolella, mutta rimaa hipoen.
+Se oli juuri tämä roisiksi menevä kerrontatyyli, joka sai minut kyseenalaistamaan sitä, onko elokuva oikeasti nerokas, vai hierooko se yksinkertaista sanomaansa katsojan naamaan hirveällä raivolla. Hetkittäin yritys maksimoida ällötys tuntui lähes epätoivoiselta. The Substance pysyi minusta rajan paremmalle puolella, mutta rimaa hipoen.
 
 Elokuva on teemoiltaan melko raskasta katsottavaa. Se maksimoi painolastin visuaalisella tyylillä, musiikilla ja äänimaisemalla. The Substance ei ole hyvän mielen elokuva.
 
