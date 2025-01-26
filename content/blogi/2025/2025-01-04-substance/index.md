@@ -2,7 +2,7 @@
 title: "Elokuva-arvostelu: The Substance"
 description: "Sain joululahjaksi elokuvaliput, joten kävin katsomassa Cannesin elokuvafestivaalien parhaan käsikirjoituksen voittaneen The Substancen."
 date: 2025-01-05T10:15:00+0200
-lastmod: 2025-01-05T10:15:00+0200
+lastmod: 2025-01-26T12:08:00+0200
 draft: false
 slug: the-substance
 aiheet:
@@ -44,7 +44,7 @@ Elokuvasta tulee mieleen [Black Mirror](https://www.imdb.com/title/tt2085059/) -
 
 ### Näyttelijät
 
-**Demi Moore** on loistava valinta elokuvan päähenkilöksi. Siinä on jotain nerokasta itseironiaa ja -kritiikkiä, kun yli 60-vuotias plastiikkakirurgilla naamansa veistellyt Moore näyttelee ikäkriisin parissa kamppailevaa 50-vuotiasta fitness-tähteä. Hän istuu rooliin täydellisesti ja vetää sen upeasti. Moore on upeassa kunnossa ja sopii juuri siksi rooliin täydellisesti. Ilman Mooren vahvaa suoritusta ja ulkonäköä elokuva ei vaan toimisi. En olisi yllättynyt, jos hän voittaisi suorituksestaan palkintoja.
+**Demi Moore** on loistava valinta elokuvan päähenkilöksi. Siinä on jotain nerokasta itseironiaa ja -kritiikkiä, kun yli 60-vuotias plastiikkakirurgilla naamansa veistellyt Moore näyttelee ikäkriisin parissa kamppailevaa 50-vuotiasta fitness-tähteä. Hän istuu rooliin täydellisesti ja vetää sen upeasti. Moore on upeassa kunnossa ja sopii juuri siksi rooliin täydellisesti. Ilman Mooren vahvaa suoritusta ja ulkonäköä elokuva ei vaan toimisi. En olisi yllättynyt, jos hän voittaisi suorituksestaan palkintoja[^1].
 
 ![Demi Moore tuijottelee surullisena ulos. Hänen takanaan on suuri taulu, jossa hän on nuorempana.](demi-moore.jpg)
 
@@ -73,3 +73,5 @@ Treenatuista kehoista ja 80-luvun fitness-estetiikasta pitävän heteromiehen si
 Tähän tunteeseen ei kuitenkaan kannata jättäytyä liian pitkäksi aikaa, sillä The Substance palauttaa maan pinnalle. Se tekee sen iskemällä isolla lapiolla naamaan. Tämä lienee ollut Fargeatin tarkoituskin ja hän onnistuu siinä täydellisesti!
 
 The Substance sai ajattelemaan ja kokemaan tunteita, joten eihän tätä voi kuin suositella. Mutta ole varovainen. Elokuva ei sovi kaikille!
+
+[^1]: Lisäys 26.1.2025: Demo Moore voitti [Golden Globen parhaan naispääosan palkinnon](https://yle.fi/a/74-20135175).
