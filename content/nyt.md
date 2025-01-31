@@ -18,4 +18,4 @@ summary: "Mitä puuhastelen juuri nyt"
 - Pianon soitto
 
 ### Lukeminen
-- [Jussi Katajala - Romuluksen pojat](https://finna.fi/Record/helmet.2270817)
+- Uusi kirja etsinnässä
