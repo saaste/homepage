@@ -39,7 +39,7 @@ summary: "Lista laitteista, sovelluksista ja härveleistä, joita käytän arjes
 - [Helkama Jopo](https://www.helkamavelox.fi/tuoteosastot/jopo-tuoteosastot/), vaihteeton
 
 ### Urheilu
-- [Garmin Forerunner 935](https://www.garmin.com/en-US/p/564291)
+- [Garmin Forerunner 965](https://www.garmin.com/fi-FI/p/886725/pn/010-02809-10)
 
 ### Puhelin
 - Google Pixel 6 Pro
