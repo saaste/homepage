@@ -20,7 +20,6 @@ Luen sekä fyysisiä, että e-kirjoja. E-kirjat luen Kindlellä ja fyysiset kirj
 
 #### Ulkomaiset
 - [Maja Lunde - Mehiläisten historia ](https://finna.fi/Record/anders.1536207?sid=4731210985)
-- [Martha Wells - Murhabotin päiväkirjat](https://finna.fi/Record/anders.1926905?sid=4731211195)
 - [George Orwell - 1984](https://finna.fi/Record/anders.1859482?sid=4740060559)
 - [Wes Marshall - Killed by a Traffic Engineer](https://www.killedbyatrafficengineer.com/)
 - [J.G. Ballard - Super-Cannes](https://finna.fi/Record/helmet.1651504?sid=4761986339)
