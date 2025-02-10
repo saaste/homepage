@@ -25,7 +25,7 @@ Heti alkuun on muistutettava, etten ole juoksuvalmentaja, fysioterapeutti tai mu
 
 Olen kerännyt omat tietoni kirjoista ja muilta juoksijoilta. Osan asioista olen oppinut itse yrityksen ja erehdyksen kautta. Vaikka vinkit istuvat monelle, ne eivät välttämättä sovi kaikille.
 
-**Kuuntele aina omaa kehoasi ja sen ehdoilla!**
+**Kuuntele aina omaa kehoasi ja liiku sen ehdoilla!**
 
 ### Juoksukengät vaihtoon
 Emme ole eläinmaailman nopeimpia, mutta mitä tulee pitkien matkojen juoksemiseen kuumassa ilmastossa, meitä parempia ei ole[^1]. Olemme eläinkunnan parhaita hikoilijoita, mutta sen lisäksi ihmisen jaloista on ajan saatossa kehittynyt uskomaton iskunvaimennin.
