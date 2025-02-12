@@ -17,6 +17,9 @@ Luen sekä fyysisiä, että e-kirjoja. E-kirjat luen Kindlellä ja fyysiset kirj
 - [Jaana Kivi - Pimeä kaiku](https://finna.fi/Record/helmet.2546075)
 - [Juhani Karila - Pienen hauen pyydystys](https://finna.fi/Record/3amk.289958?sid=4731210460)
 - [Tero Niemi ja Anne Salminen - Nimbus ja tähdet](https://finna.fi/Record/anders.434340?sid=4731210901)
+- [Harri V. Hietikko - Pandemian jälkeen](https://finna.fi/Record/helmet.2322422)
+- [Harri V. Hietikko - Eversti Zetan jälkeenjääneet paperit](https://finna.fi/Record/helmet.2387733)
+- [Harri V. Hietikko - Plutoniumin puolitusina](https://finna.fi/Record/helmet.2605434)
 
 #### Ulkomaiset
 - [Maja Lunde - Mehiläisten historia ](https://finna.fi/Record/anders.1536207?sid=4731210985)
