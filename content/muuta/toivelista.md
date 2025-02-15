@@ -47,6 +47,7 @@ Pelaan lähes yksinomaan Playstation 5:llä, joten pelit keskittyvät sille alus
 - Ghost of Yōtei ([Traileri](https://www.youtube.com/watch?v=7z7kqwuf0a8)) (Julkaisuaika: 2025)
 - Dispatch ([Traileri](https://www.youtube.com/watch?v=ZbERWU5bc50)) (Julkaisuaika: 2025)
 - [Phantom Blade](https://pbz.s-game.com) ([Traileri](https://www.youtube.com/watch?v=byaeiTQ804E)) (Julkaisuaika: 2025) 
-- [Exodus](https://www.exodusgame.com) ([Traileri](https://www.youtube.com/watch?v=DmJxSKn47EE)) (JUlkaisuaika: ????)
+- [Tides of Annihilation](https://global.playtoa.com) ([Traileri](https://www.youtube.com/watch?v=bIS17vWhFnU)) (Julkaisuaika: 2025)
+- [Exodus](https://www.exodusgame.com) ([Traileri](https://www.youtube.com/watch?v=DmJxSKn47EE)) (Julkaisuaika: ????)
 - [The Witcher IV](https://www.thewitcher.com/fi/en/witcher4) ([Traileri](https://www.youtube.com/watch?v=54dabgZJ5YA)) (Julkaisuaika: ????)
 - [Light of Motiram](https://www.gematsu.com/games/light-of-motiram) ([Traileri](https://www.youtube.com/watch?v=5IPmpZFdNP4)) (Julkaisuaika: ????)
