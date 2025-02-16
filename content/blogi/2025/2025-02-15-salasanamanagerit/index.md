@@ -28,6 +28,8 @@ Kun murtautujat saavat selville sähköpostiosoitteesi ja salasanasi, he voivat 
 
 Murtautujat tietävät tämän kaiken. Heidän ei kannata murtautua Amazonin verkkokauppaan, koska se on vaikeaa. On paljon helpompaa murtautua paikallisen urheiluseuran sivuille, napata sieltä käyttäjien salasanat ja kokeilla samoja salasanoja Amazonin verkkokauppaan.
 
+Salasanamanageri poistaa ensimmäisen ongelman ja auttaa jälkimmäisessä.
+
 ### Kuinka salasanamanageri toimii?
 
 Manageri on tietokoneelle ja kännykkään asennettava sovellus, joka tunnistaa nettisivujen ja muiden sovellusten kirjautumis- ja rekisteröitymislomakkeet. Kun luot johonkin palveluun uuden tunnuksen, manageri kysyy, haluatko tallentaa sen. Kun seuraavan kerran kirjaudut palveluun, manageri osaa täyttää kirjautumislomakkeen puolestasi. Sinun ei tarvitse muistaa itse salasanojasi.
@@ -36,7 +38,7 @@ Tästä syystä salasanojen ei tarvitse olla helposti muistettavia. Kaikki salas
 
 Useimmat salasanamanagerit mahdollistavat turvallisten muistiinpanojen tallentamisen, joten ne soveltuvat salasanojen lisäksi myös muiden arkaluontoisten tietojen tallentamiseen. Tällaisia voivat olla esimerkiksi ovikoodit, luottokorttitiedot sekä kassakaappien koodit.
 
-Managereista on lisäksi se hyöty, niiden avulla saat hyvän yleiskuvan siitä, missä kaikkialla sinulla on tunnuksia. Tämä helpottaa vanhojen ja turhien tunnusten poistamista. Ne voivat myös auttaa huijaussivujen tunnistamisessa, sillä ne eivät täytä salasanoja, mikäli osoite ei ole oikea.
+Managereista on lisäksi se hyöty, että niiden avulla saat hyvän yleiskuvan siitä, missä kaikkialla sinulla on tunnuksia. Tämä helpottaa vanhojen ja turhien tunnusten poistamista. Ne voivat myös auttaa huijaussivujen tunnistamisessa, sillä ne eivät täytä salasanoja, mikäli osoite ei ole oikea.
 
 ### Millainen on hyvä salasana?
 
@@ -70,7 +72,7 @@ Ensimmäinen selkeä ongelma on se, että tulet täysin riippuvaiseksi käyttäm
 
 Manageria voi käyttää sekä tietokoneella, että kännykällä. Entä jos hukkaat tietokoneesi ja kännykkäsi, tai ne varastetaan sinulta? Omaan salasanaholviin pääse millä tahansa nettiselaimella, joten voit käyttää siihen vaikkapa kaverisi tai kirjaston tietokonetta. Tämä ei ole tietenkään yhtä kätevää, kuin varsinaisten sovellusten ja lisäosien käyttäminen, mutta ainakaan sinun ei tarvitse murehtia siitä, ettet pääsisi omiin salasanoihin käsiksi.
 
-Entä jos unohdat salasanasi? Kun luot tunnuksen, sinulle tarjotaan erilaisia vaihtoehtoja palauttaa salasanasi. Perehdy niihin huolella kun luot tunnuksen. Mikäli unohdat salasanasi ja sivuutat kaikki palautusvaihtoehdot, et pääse salasanoihin enää käsiksi, eikä kukaan muukaan.
+Entä jos unohdat salasanasi? Kun luot tunnuksen, sinulle tarjotaan erilaisia vaihtoehtoja palauttaa salasanasi. Perehdy niihin huolella kun luot tunnuksen. Mikäli unohdat salasanasi ja sivuutat kaikki palautusvaihtoehdot, et pääse salasanoihin enää käsiksi, eikä kukaan voi sinua siinä auttaa.
 
 Normaalikäytössä managerit tekevät kirjautumisesta helppoa, sillä ne täyttävät kirjautumislomakkeet automaattisesti. Aina tämä ei ole kuitenkaan mahdollista. Kun kirjaudut älytelevision sovellukseen, voi olla, että joudut kirjoittamaan salasanan käsin. Tällöin 25 merkkiä pitkä sekasotku voi olla ärsyttävä naputella, mutta nämä tilanteet ovat varsin harvinaisia.
 
