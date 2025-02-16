@@ -38,7 +38,7 @@ Pelaan lähes yksinomaan Playstation 5:llä, joten pelit keskittyvät sille alus
 - [Hellblade: Senua's Sacrifice](https://www.hellblade.com/) ([Traileri](https://www.youtube.com/watch?v=fBJ0ifVtK5c))
 - [Senua's Saga: Hellblade II](https://senuassaga.com/) ([Traileri](https://www.youtube.com/watch?v=3VYGOkMnGCE))
 - [Monster Hunter Wilds](https://www.monsterhunter.com/wilds/) ([Traileri](https://www.youtube.com/watch?v=Q9p4uj0mHBQ)) (Julkaisuaika: 28.2.2025)
-- [Clair Obscur: Expedition 33](https://www.expedition33.com/) ([Traileri](https://www.youtube.com/watch?v=-qgOZDRDynw)) (Julkaisuaika: 24.4.2025)
+- [Clair Obscur: Expedition 33](https://www.expedition33.com/) ([Traileri](https://www.youtube.com/watch?v=EsElVZ0sLtU)) (Julkaisuaika: 24.4.2025)
 - [Elden Ring Nightreight](https://www.nightreign.com) ([Traileri](https://www.youtube.com/watch?v=Djtsw5k_DNc)) (Julkaisuaika: 30.5.2025)
 - [Borderlands 4](https://borderlands.2k.com) ([Traileri](https://www.youtube.com/watch?v=26vY2GMfYTw)) (Julkaisuaika: 23.9.2025)
 - [Lies of P: Overture](https://www.liesofp.com/en-us) ([Traileri](https://www.youtube.com/watch?v=b-pBtuYX6zc)) (Julkaisuaika: kesä 2025)
