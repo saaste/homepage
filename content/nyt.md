@@ -19,4 +19,4 @@ summary: "Mitä puuhastelen juuri nyt"
 - Pianon soitto
 
 ### Lukeminen
-- [Martha Wells - All Systems Red](https://finna.fi/Record/helmet.2538739?sid=4731211195)
+- [Yoko Ogawa - Muistipoliisi](https://finna.fi/Record/helmet.2497675)

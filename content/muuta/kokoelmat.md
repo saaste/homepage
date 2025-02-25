@@ -8,6 +8,7 @@ summary: "Lista erilaisista asioista, kuten lukemani kirjat, pelaamani pelit sek
 #### 2025
 - [Andy Weir - Project Hail Mary](https://finna.fi/Record/fikka.5569279?sid=4731211093) ([Arvostelu]({{< ref "/blogi/2025/2025-01-13-project-hail-mary" >}}))
 - [Jussi Katajala - Romuluksen pojat](https://finna.fi/Record/helmet.2270817) ([Arvostelu]({{< ref "/blogi/2025/2025-01-31-romuluksen-pojat" >}}))
+- [Martha Wells - All Systems Red](https://finna.fi/Record/helmet.2538739?sid=4731211195) ([Arvostelu]({{< ref "/blogi/2025/2025-02-24-all-systems-red" >}}))
 
 #### 2024
 - [Chris Hadfield, Apollo-murhat](https://finna.fi/Record/anders.1920337?sid=4731209620) ([Arvostelu]({{< ref "/blogi/2024/2024-02-27-apollo-murhat" >}}))
