@@ -20,7 +20,7 @@ Erilaisten vatsa- ja ruoansulatusongelmien lisäksi minulla todettiin joitakin v
 
 {{<cover>}}
 
-IBS ei ole varsinainen sairaus, vaan toiminnallinen vaiva hieman samaan tapaan, kuin laktoosi-intoleranssi - joka minulla on myös. Sitä ymmärretävään vielä verrattain vähän, eikä sen syytä ei tunneta, vaikka tiedämmekin asioita, jotka ovat kytköksissä oireisiin. Kysymys voi olla suoliston yleisestä häiriötilasta, muuttuneesta bakteerikannasta ja myös stressi sekä mielialan muutokset voivat laukaista oireet. Ylipäätään huonot elämäntavat, huono ruokailu ja liikunnan puute voivat altistaa IBS:lle.
+IBS ei ole varsinainen sairaus, vaan toiminnallinen vaiva hieman samaan tapaan, kuin laktoosi-intoleranssi - joka minulla on myös. Sitä ymmärretään vielä verrattain vähän, eikä sen syytä tunneta, vaikka tiedämmekin asioita, jotka ovat kytköksissä oireisiin. Kysymys voi olla suoliston yleisestä häiriötilasta, muuttuneesta bakteerikannasta ja myös stressi sekä mielialan muutokset voivat laukaista oireet. Ylipäätään huonot elämäntavat, huono ruokailu ja liikunnan puute voivat altistaa IBS:lle.
 
 Ärtyvän suolen oireyhtymä ei ole vaarallinen. Siihen ei kuole. Miedoimmillaan se on lähinnä kiusallinen, jolloin oireet ovat turvotusta ja ilmavaivoja. Usein siihen liittyy kuitenkin vatsakipu, joka voi olla kokemuksieni mukaan todella kova.
 
