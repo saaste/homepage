@@ -31,6 +31,9 @@ summary: "Lista erilaisista asioista, kuten lukemani kirjat, pelaamani pelit sek
 
 ### Pelatut PC- ja konsolipelit
 
+#### 2025
+- [Civilization VII](https://civilization.2k.com/seven/) ([Arvostelu]({{< ref "/blogi/2025/2025-02-27-civilization-7" >}}))
+
 #### 2024
 - [Factorio: Space Age](https://www.factorio.com/space-age/content) ([Arvostelu]({{< ref "/blogi/2024/2024-11-26-factorio-space-age" >}}))
 - [Black Myth: Wukong](https://www.heishenhua.com/) ([Arvostelu]({{< ref "/blogi/2024/2024-10-14-black-myth-wukong" >}}))

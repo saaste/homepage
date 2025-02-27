@@ -11,7 +11,7 @@ summary: "Mitä puuhastelen juuri nyt"
 {{< top-artists >}}
 
 ### Pelit
-- [Civilization VII](https://civilization.2k.com/seven/) ([Traileri](https://www.youtube.com/watch?v=kK_JrrP9m2U))
+- [Monster Hunter Wilds](https://www.monsterhunter.com/wilds/) ([Traileri](https://www.youtube.com/watch?v=Q9p4uj0mHBQ))
 - [Stellar Blade](https://stellar-blade.com/) ([Traileri](https://www.youtube.com/watch?v=DSznLWimMlU))
 
 ### Opiskelu
