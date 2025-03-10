@@ -56,7 +56,7 @@ summary: "Lista laitteista, sovelluksista ja härveleistä, joita käytän arjes
 - Podcastit: [AntennaPod](https://antennapod.org)
 - RSS-lukija: [FreshRSS](https://www.freshrss.org/)
 - Salasanamanageri: [Bitwarden](https://bitwarden.com/)
-- Selain: [Vivaldi](https://vivaldi.com), 
+- Selain: [Zen Browser](https://zen-browser.app/) 
 - Tiedostojen synkronointi: [SyncThing](https://syncthing.net/)
 - Valokuva-arkisto: [Adobe Lightroom Classic](https://www.adobe.com/fi/products/photoshop-lightroom-classic.html)
 - Vektorigrafiikka: [Inkscape](https://inkscape.org/)
