@@ -28,6 +28,7 @@ Luen sekä fyysisiä, että e-kirjoja. E-kirjat luen Kindlellä ja fyysiset kirj
 - [J.G. Ballard - Super-Cannes](https://finna.fi/Record/helmet.1651504?sid=4761986339)
 - [Michael Mechanic - Jackpot](https://michaelmechanic.com/jackpot-about-book-author/)
 - [Emily M. Bender - The AI Con](https://thecon.ai)
+- [Sarah Wynn-Williams - Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism](https://openlibrary.org/works/OL42735465W/Careless_People)
 
 ### Pelit
 
