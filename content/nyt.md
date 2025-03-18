@@ -19,4 +19,4 @@ summary: "Mitä puuhastelen juuri nyt"
 - Pianon soitto
 
 ### Lukeminen
-- [Yoko Ogawa - Muistipoliisi](https://finna.fi/Record/helmet.2497675)
+- Uusi kirja etsinnässä
