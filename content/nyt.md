@@ -19,4 +19,4 @@ summary: "Mitä puuhastelen juuri nyt"
 - Pianon soitto
 
 ### Lukeminen
-- Uusi kirja etsinnässä
+- [Philip K. Dick - Uneksivatko androidit sähkölampaista?](https://finna.fi/Record/helmet.2520466?sid=4968011878)
