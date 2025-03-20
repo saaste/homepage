@@ -29,6 +29,7 @@ Luen sekä fyysisiä, että e-kirjoja. E-kirjat luen Kindlellä ja fyysiset kirj
 - [Michael Mechanic - Jackpot](https://michaelmechanic.com/jackpot-about-book-author/)
 - [Emily M. Bender - The AI Con](https://thecon.ai)
 - [Sarah Wynn-Williams - Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism](https://openlibrary.org/works/OL42735465W/Careless_People)
+- [Edith Eger - The Choice: Embrace the Possible](https://finna.fi/Record/helmet.2443515)
 
 ### Pelit
 
