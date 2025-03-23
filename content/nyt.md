@@ -6,6 +6,7 @@ summary: "Mitä puuhastelen juuri nyt"
 ### Ohjelmointi
 - Kotisivujen virittely
 - [Portfolion](https://github.com/saaste/portfolio) jatkokehitys
+- Webmention-työkalun kehittely
 
 ### Musiikki
 {{< top-artists >}}
@@ -16,7 +17,6 @@ summary: "Mitä puuhastelen juuri nyt"
 
 ### Opiskelu
 - [Blender](https://www.blender.org)
-- Pianon soitto
 
 ### Lukeminen
 - [Philip K. Dick - Uneksivatko androidit sähkölampaista?](https://finna.fi/Record/helmet.2520466?sid=4968011878)
