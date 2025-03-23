@@ -11,6 +11,13 @@ Vuoden 2021 aikana melusaaste tuhosi henkisen ja lopulta myös fyysisen hyvinvoi
 
 Alla on lista juoksemistani matkoista, jotka ovat puolimaratonin tai sitä pidempiä. Teen ison osan juoksuista yksin, mutta mahtuu joukkoon jokunen tapahtumakin.
 
+### 2025
+
+#### 23.03.2025: Puolimaraton
+- Matka: 22,23 km
+- Aika: 2:29:13
+- Tahti: 6:43/km
+
 ### 2024
 
 #### 12.10.2024: NUTS HEL
