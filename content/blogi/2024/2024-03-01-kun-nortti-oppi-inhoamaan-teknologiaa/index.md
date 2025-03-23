@@ -92,7 +92,7 @@ Nykyään on vaikea löytää mobiili- tai web-sovellusta, joka ei keräisi sinu
 
 ### Todellisen maailman ongelmat
 
-Vaikka kaikki edellä kertomani asiat ovat nakertaneet suhtautumistani teknologiaan, mikään ei ole tehnyt sitä vauhdikkaammin kuin teknologia, joka on tulee ja konkreettisesti pilaa ympäröivää maailmaa. 
+Vaikka kaikki edellä kertomani asiat ovat nakertaneet suhtautumistani teknologiaan, mikään ei ole tehnyt sitä vauhdikkaammin kuin teknologia, joka konkreettisesti pilaa ympäröivää maailmaa. 
 
 Amazonin ja AliExpressin kaltaiset globaalit verkkokaupat ovat räjäyttäneet kulutushysterian ihan uudelle tasolle. Taivaat ovat täynnä ilmansaasteita tuottavia lentokoneita, jotka toimittavat ihmisille roinaa, josta iso osa päätyy jätteeksi.
 
