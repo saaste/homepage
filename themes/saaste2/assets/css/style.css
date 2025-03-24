@@ -525,6 +525,8 @@ body {
     padding-bottom: 2rem;
 
     video {
+        width: 100%;
+        max-width: 100%;
         border-radius: 10px 10px 10px 10px;
         border-top: var(--border-post-meta);
         border-right: var(--border-post-meta);
