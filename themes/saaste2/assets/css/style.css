@@ -518,6 +518,20 @@ body {
     }
 }
 
+.post-article-video {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    padding-bottom: 2rem;
+
+    video {
+        border-radius: 10px 10px 10px 10px;
+        border-top: var(--border-post-meta);
+        border-right: var(--border-post-meta);
+        border-left: var(--border-post-meta);
+        border-bottom: var(--border-post-meta);
+    }
+}
 
 
 

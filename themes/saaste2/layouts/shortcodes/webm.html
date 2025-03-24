@@ -1,0 +1,19 @@
+{{- $file := .Get "file" -}}
+{{- $autoplay := .Get "autoplay" -}}
+{{- $caption := .Get "caption" -}}
+
+{{- if not $file -}}
+    {{- errorf "The %q shortcode requires a 'file' argument. See %s" .Name .Position -}}
+{{- end -}}
+
+{{- if not $autoplay -}}
+    {{- errorf "The %q shortcode requires an 'autoplay' argument. See %s" .Name .Position -}}
+{{- end -}}
+
+<div class="post-article-video">
+    <video {{ if eq $autoplay "true" }}autoplay{{ else }} onclick="this.paused ? this.play() : this.pause();"{{ end }} loop muted playsinline >
+        <source src="{{ $file }}" type="video/webm">
+    </video>
+</div>
+
+
