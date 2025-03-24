@@ -26,15 +26,15 @@ Ensimmäinen näistä on työtilat. Työtila on kokonaan eriytetty ympäristö, 
 
 Työtilojen sivupalkkiin voi kiinnittää tietyt sivustot, jotka ovat aina listassa ylimmäisenä. Näin itselle tärkeät ja usein käytetyt sivustot löytyvät tutulta paikalta. Nämä välilehdet ovat myös oletuksena auki, kun selaimen käynnistää.
 
-{{<webm file="workspaces.webm" autoplay="true">}}
+{{<video file="workspaces.webm" autoplay="false" alt="Esimerkkivideo työtiloista. Työtilojavaihdellaan pikanäppäimillä. Selaimen sivupalkissa vaihtuu välilehdet työtilojen mukaan." caption="Työtilojen avulla henkilökohtaiset asiat voi erotella työjutuista.">}}
 
 Toinen on jaetun ruudun näkymä. Sen ansiosta voin pitää yhdessä selainikkunassa useampaa nettisivua auki. Käytän tätä usein kirjoittaessa. Selaimen toinen puoli on varattu kirjoittamiselle ja toinen puoli lähteiden penkomista varten. Zen ei kuitenkaan rajoita auki olevia sivuja kahteen. Voit itse valita, ovatko sivut aseteltu pystyyn, vaakaan vai ruudukkoon.
 
-{{<webm file="split-screen.webm" autoplay="true">}}
+{{<video file="split-screen.webm" autoplay="false" alt="Esimerkkivideo jaetun ruudun näkymästä. Kaksi eri välilehteä raahataan näkymään rinnakkain." caption="Useampi sivu on mahdollista avata yhtä aikaa näkyviin yhteen selainikkunaan.">}}
 
 Nämä kaksi ominaisuutta olivat vaatimuksia, jotka asetin selaimelle. Niiden lisäksi Zen sai minut tajuamaan, että pidän myös kolmannesta ominaisuudesta: ponnahdusikkunana aukeavista sivuista. Sen sijaan, että linkkiä klikkaamalla aukeaisi uusi välilehti, Zen aukaiseekin sivun vanhan sivun päälle kelluvana ikkunana.
 
-{{<webm file="glance.webm" autoplay="true">}}
+{{<video file="glance.webm" autoplay="false" alt="Esimerkkivideo kelluvasta ikkunasta. Hakukoneen tulos aukeaa kelluvaan ikkunaan, mutta sivu ei ilmesty sivupalkkiin, vaan aukeaa alkuperäisen sivun päälle. Käyttäjä klikkaa kelluvan ikkunan vieressä olevaa nappia, jolloin ikkuna muuttuu erilliseksi välilehdeksi." caption="Kelluvaan ikkunaan aukeava linkki sopii hyvin nopeaan esikatseluun.">}}
 
 Omassa käytössä tämä toimii hienosti, sillä yllättävän usein klikkaan linkkiä, luen sisällön ja sen jälkeen suljen välilehden ja palaan alkuperäiselle sivulle. Näiden ponnahdusikkunoiden avulla välilehtipalkki ei täyty kertakäyttöisistä sivuista. Ero on pieni, mutta tuntuva. Mikäli ponnahdusikkunan haluaa omaksi välilehdeksi, se onnistuu yhdellä klikkauksella.
 

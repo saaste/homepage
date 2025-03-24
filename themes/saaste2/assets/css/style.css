@@ -527,11 +527,21 @@ body {
     video {
         width: 100%;
         max-width: 100%;
-        border-radius: 10px 10px 10px 10px;
+        border-radius: 10px 10px 0 0;
         border-top: var(--border-post-meta);
         border-right: var(--border-post-meta);
         border-left: var(--border-post-meta);
+    }
+    .caption {
+        background: var(--color-background-block);
+        padding: 1rem;
+        border-radius: 0 0 10px 10px;
         border-bottom: var(--border-post-meta);
+        border-right: var(--border-post-meta);
+        border-left: var(--border-post-meta);
+    }
+    .alt {
+        display: none;
     }
 }
 

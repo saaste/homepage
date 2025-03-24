@@ -1,0 +1,37 @@
+{{- $file := .Get "file" -}}
+{{- $autoplay := .Get "autoplay" -}}
+{{- $alt := .Get "alt" -}}
+{{- $caption := .Get "caption" -}}
+{{- $fileExt := path.Ext $file -}}
+{{- $supportedExt := slice ".webm" ".mp4" -}}
+
+{{- if not $file -}}
+    {{- errorf "The %q shortcode requires a 'file' argument. See %s" .Name .Position -}}
+{{- end -}}
+
+{{- if not $autoplay -}}
+    {{- errorf "The %q shortcode requires an 'autoplay' argument. See %s" .Name .Position -}}
+{{- end -}}
+
+{{- if not $alt -}}
+    {{- errorf "The %q shortcode requires an 'alt' argument. See %s" .Name .Position -}}
+{{- end -}}
+
+{{- if (not (in $supportedExt $fileExt)) -}}
+    {{- errorf "Unsupported file type '%s'. See %s" $file .Position -}}
+{{- end -}}
+
+<div class="post-article-video">
+    <video {{ if eq $autoplay "true" }}autoplay{{ else }} onclick="this.paused ? this.play() : this.pause();"{{ end }} loop muted playsinline aria-describedby="description-{{ $file }}">
+        <source src="{{ $file }}" type="{{ if eq $fileExt ".webm" }}video/webm{{ else }}video/mp4{{ end }}">
+    </video>
+    <p class="caption">
+        {{ $caption }} 
+        {{- if eq $autoplay "false" }}
+        Voit toistaa videon klikkaamalla sitä.
+        {{- end -}}
+    </p>
+    <p class="alt" id="description-{{ $file }}" >{{ $alt }}</p>
+</div>
+
+
